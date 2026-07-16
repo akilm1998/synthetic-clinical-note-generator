@@ -1,5 +1,7 @@
-name:
+diagnosis_name:
 icd10_code:
+
+approximate_synonyms: []
 
 common_symptoms: []
 
