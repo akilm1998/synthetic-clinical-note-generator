@@ -9,8 +9,9 @@ Build a reproducible pipeline that generates realistic synthetic clinical notes 
 ## Current Status
 
 - [x] Repository initialized
-- [x] Initial schema (`schema/v0.yaml`) created
-- [ ] Design diagnosis profile schema
+- [x] Initial architecture drafted
+- [x] Design diagnosis profile schema
+- [ ] Create first diagnosis profile
 - [ ] Generate first synthetic clinical note
 - [ ] Build note generation pipeline
 - [ ] Generate initial synthetic dataset
