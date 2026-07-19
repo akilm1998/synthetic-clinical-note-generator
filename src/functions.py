@@ -45,7 +45,7 @@ def generate_patient_data(profile_data):
         "name": get_random_name(sex=patient_sex),
         "smoking_status": get_random_smoking_status(),
         "comorbidities": random.sample(
-            profile_data["common_comorbidities"], k=random.randint(0, 2)
+            profile_data["common_comorbidities"], k=random.randint(1, 3)
         ),
     }
     return patient
