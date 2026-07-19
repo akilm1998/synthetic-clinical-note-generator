@@ -9,9 +9,12 @@ Build a reproducible pipeline that generates realistic synthetic clinical notes 
 ## Current Status
 
 - [x] Repository initialized
-- [x] Initial architecture drafted
-- [x] Design diagnosis profile schema
-- [x] Create first diagnosis profile
-- [x] Generate first synthetic clinical note
-- [ ] Build note generation pipeline
-- [ ] Generate initial synthetic dataset
+- [x] Initial architecture designed
+- [x] Diagnosis profile schema implemented
+- [x] First diagnosis profile created
+- [x] Synthetic patient generation implemented
+- [x] Prompt-based clinical note generation implemented
+- [x] Initial prompt refinement completed
+- [ ] Support additional diagnoses
+- [ ] Generate larger synthetic dataset
+- [ ] Add automated dataset export
