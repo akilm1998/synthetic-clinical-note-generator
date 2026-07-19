@@ -1,4 +1,7 @@
 import random
+from pathlib import Path
+
+import yaml
 
 NAMES = [
     "John Jacob",
@@ -26,4 +29,24 @@ def get_random_smoking_status():
     return random.choice(["Yes", "No"])
 
 
-print(__name__)
+def generate_patient_data(profile_data):
+    patient = {
+        "name": get_random_name(),
+        "age": get_random_age(),
+        "sex": get_random_sex(),
+        "smoking_status": get_random_smoking_status(),
+        "comorbidities": random.sample(
+            profile_data["common_comorbidities"], k=random.randint(0, 2)
+        ),
+    }
+    return patient
+
+
+def get_profile_data(a: str):
+    BASE_DIR = Path(__file__).resolve().parent.parent
+    profile_path = BASE_DIR / "diagnosis_profiles" / "profiles" / f"{a}.yaml"
+    profile_data = yaml.safe_load(profile_path.read_text())
+    return profile_data
+
+
+# print(__name__)

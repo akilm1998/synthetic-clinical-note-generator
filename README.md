@@ -12,6 +12,6 @@ Build a reproducible pipeline that generates realistic synthetic clinical notes 
 - [x] Initial architecture drafted
 - [x] Design diagnosis profile schema
 - [x] Create first diagnosis profile
-- [ ] Generate first synthetic clinical note
+- [x] Generate first synthetic clinical note
 - [ ] Build note generation pipeline
 - [ ] Generate initial synthetic dataset
