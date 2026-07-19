@@ -3,18 +3,26 @@ from pathlib import Path
 
 import yaml
 
-NAMES = [
-    "John Jacob",
+FEMALE_NAMES = [
     "Jane Watson",
     "Alice Mathew",
-    "Bob Hill",
-    "Charlie Brown",
     "Diana Prince",
 ]
 
+MALE_NAMES = [
+    "John Jacob",
+    "Bob Hill",
+    "Charlie Brown",
+]
 
-def get_random_name():
-    return random.choice(NAMES)
+
+def get_random_name(sex=None):
+    if sex == "Male":
+        return random.choice(MALE_NAMES)
+    elif sex == "Female":
+        return random.choice(FEMALE_NAMES)
+    else:
+        return random.choice(MALE_NAMES + FEMALE_NAMES)
 
 
 def get_random_age(min_age=30, max_age=70):
@@ -22,7 +30,7 @@ def get_random_age(min_age=30, max_age=70):
 
 
 def get_random_sex():
-    return random.choice([" Male", "Female"])
+    return random.choice(["Male", "Female"])
 
 
 def get_random_smoking_status():
@@ -30,10 +38,11 @@ def get_random_smoking_status():
 
 
 def generate_patient_data(profile_data):
+    patient_sex = get_random_sex()
     patient = {
-        "name": get_random_name(),
         "age": get_random_age(),
-        "sex": get_random_sex(),
+        "sex": patient_sex,
+        "name": get_random_name(sex=patient_sex),
         "smoking_status": get_random_smoking_status(),
         "comorbidities": random.sample(
             profile_data["common_comorbidities"], k=random.randint(0, 2)
