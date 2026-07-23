@@ -1,14 +1,18 @@
-def generate_clinical_note(profile_data, patient, client):
+def generate_clinical_note(profile_data, patient, client, documentation_style):
     prompt = f"""
     You are an experienced physician.
 
-    Generate a realistic outpatient clinical note written in the style of an experienced physician.
+    Generate a realistic outpatient clinical note written in a style of an experienced physician.
 
     Diagnosis profile:
     {profile_data}
 
     Patient:
     {patient}
+
+    Documentation style: {documentation_style["instructions"]}
+
+    Adapt the amount of detail, sentence length, and documentation depth to match the requested style while preserving all clinically important information.
 
     Rules:
     - Use the diagnosis profile as the medical reference.
