@@ -9,12 +9,211 @@ FEMALE_NAMES = [
     "Jane Watson",
     "Alice Mathew",
     "Diana Prince",
+    "Emma Carter",
+    "Olivia Brooks",
+    "Sophia Turner",
+    "Isabella Parker",
+    "Ava Mitchell",
+    "Mia Collins",
+    "Charlotte Bailey",
+    "Amelia Foster",
+    "Harper Bennett",
+    "Evelyn Hayes",
+    "Abigail Reed",
+    "Emily Cooper",
+    "Elizabeth Perry",
+    "Ella Morris",
+    "Avery Ward",
+    "Scarlett Hughes",
+    "Grace Powell",
+    "Chloe Cox",
+    "Victoria Richardson",
+    "Lily Peterson",
+    "Hannah Simmons",
+    "Zoe Butler",
+    "Natalie Ross",
+    "Leah Coleman",
+    "Audrey Jenkins",
+    "Claire PriceLucy Sanders",
+    "Nora Kelly",
+    "Stella Gray",
+    "Brooklyn Barnes",
+    "Ellie Wood",
+    "Violet Murphy",
+    "Savannah Bell",
+    "Anna Cook",
+    "Caroline Rivera",
+    "Sarah Griffin",
+    "Allison Hamilton",
+    "Madelyn Stewart",
+    "Maya Russell",
+    "Aria Patterson",
+    "Penelope Long",
+    "Hazel Fisher",
+    "Ruby Marshall",
+    "Alice Freeman",
+    "Ivy Henderson",
+    "Naomi Myers",
+    "Julia Stone",
+    "Eliana Matthews",
+    "Faith Hawkins",
+    "Lydia Ford",
+    "Autumn West",
+    "Sophie Bryant",
+    "Kennedy Walters",
+    "Bella Dean",
+    "Sadie Hunter",
+    "Jasmine Spencer",
+    "Madeline Warren",
+    "Paige Palmer",
+    "Ariana Lawson",
+    "Gabriella Holland",
+    "Brianna Gibson",
+    "Valeria Ellis",
+    "Maria Armstrong",
+    "Adriana Wells",
+    "Rachel Graham",
+    "Rebecca Burke",
+    "Melanie Knight",
+    "Lauren Lawson",
+    "Nicole Harper",
+    "Kayla Pierce",
+    "Diana Black",
+    "Vanessa Warren",
+    "Erica Chapman",
+    "Michelle Cross",
+    "Christina Pierce",
+    "Veronica Davidson",
+    "Julia Holland",
+    "Alexandra Boyd",
+    "Simone Bishop",
+    "Eliza Chandler",
+    "Brooke Snyder",
+    "Kelsey Porter",
+    "Ashley Murray",
+    "Hailey Johnston",
+    "Sydney Fuller",
+    "Morgan Oliver",
+    "Kimberly Franklin",
+    "Chelsea Benson",
+    "Shannon Douglas",
+    "Monica Shaw",
+    "Patricia Greene",
+    "Margaret Walsh",
+    "Catherine Nichols",
+    "Teresa Cunningham",
+    "Angela Holland",
+    "Deborah Lawson",
+    "Cynthia Montgomery",
+    "Denise Wheeler",
+    "Janet McKenzie",
+    "Pamela Donovan",
 ]
 
 MALE_NAMES = [
     "John Jacob",
     "Bob Hill",
     "Charlie Brown",
+    "James Carter",
+    "Michael Brooks",
+    "William Turner",
+    "David Parker",
+    "John Mitchell",
+    "Robert Collins",
+    "Joseph Bailey",
+    "Thomas Foster",
+    "Charles Bennett",
+    "Daniel Hayes",
+    "Matthew Reed",
+    "Anthony Cooper",
+    "Christopher Perry",
+    "Andrew Morris",
+    "Joshua Ward",
+    "Ryan Hughes",
+    "Nicholas Powell",
+    "Brandon Cox",
+    "Justin Richardson",
+    "Kevin Peterson",
+    "Brian Simmons",
+    "Eric Butler",
+    "Adam Ross",
+    "Jason Coleman",
+    "Nathan Jenkins",
+    "Aaron Price",
+    "Kyle Sanders",
+    "Tyler Kelly",
+    "Jonathan Gray",
+    "Zachary Barnes",
+    "Samuel Wood",
+    "Benjamin Murphy",
+    "Patrick Bell",
+    "Christian Cook",
+    "Dylan Rivera",
+    "Ethan Griffin",
+    "Noah Hamilton",
+    "Logan Stewart",
+    "Mason Russell",
+    "Lucas Patterson",
+    "Jacob Long",
+    "Alexander Fisher",
+    "Gabriel Marshall",
+    "Caleb Freeman",
+    "Isaac Henderson",
+    "Owen Myers",
+    "Elijah Stone",
+    "Liam Matthews",
+    "Aiden Hawkins",
+    "Hunter Ford",
+    "Cameron West",
+    "Evan Bryant",
+    "Connor Walters",
+    "Austin Dean",
+    "Blake Hunter",
+    "Jordan Spencer",
+    "Trevor Warren",
+    "Sean Palmer",
+    "Ian Lawson",
+    "Gavin Holland",
+    "Nathaniel Gibson",
+    "Dominic Ellis",
+    "Vincent Armstrong",
+    "Adrian Wells",
+    "Colin Graham",
+    "Tristan Burke",
+    "Maxwell Knight",
+    "Spencer Lawson",
+    "Patrick Harper",
+    "Joel Pierce",
+    "Derek Black",
+    "Cody Warren",
+    "Jesse Chapman",
+    "Marcus Cross",
+    "Victor Pierce",
+    "Leo Davidson",
+    "Julian Holland",
+    "Damian Boyd",
+    "Simon Bishop",
+    "Elliot Chandler",
+    "Wesley Snyder",
+    "Grant Porter",
+    "Ashton Murray",
+    "Hayden Johnston",
+    "Chase Fuller",
+    "Preston Oliver",
+    "Gavin Franklin",
+    "Riley Benson",
+    "Scott Douglas",
+    "Martin Shaw",
+    "Peter Greene",
+    "Henry Walsh",
+    "Arthur Nichols",
+    "George Cunningham",
+    "Edward Holland",
+    "Richard Lawson",
+    "Frank Montgomery",
+    "Alan Wheeler",
+    "Bruce McKenzie",
+    "Philip Donovan",
 ]
 
 
@@ -27,7 +226,7 @@ def get_random_name(sex=None):
         return random.choice(MALE_NAMES + FEMALE_NAMES)
 
 
-def get_random_age(min_age=30, max_age=90):
+def get_random_age(min_age=30, max_age=96):
     return random.randint(min_age, max_age)
 
 
@@ -40,9 +239,27 @@ def get_random_smoking_status():
 
 
 def generate_condition_status():
-    return random.choice(
-        ["good", "moderate", "poor", "not managed", "first identification"]
-    )
+    condition_management = [
+        "good",
+        "moderate",
+        "poor",
+        "not managed",
+        "first identification",
+    ]
+
+    condition_management_weights = [
+        35,
+        30,
+        20,
+        10,
+        5,
+    ]
+
+    return random.choices(
+        condition_management,
+        weights=condition_management_weights,
+        k=1,
+    )[0]
 
 
 def generate_clinical_note_documentaion_style():
@@ -86,13 +303,24 @@ def generate_comorbidities_details(comorbidities, age):
     Additional metadata (e.g., stage, severity, management)
     can be added later.
     """
+    ONSET_AGE = {
+        "Hypertension": 35,
+        "Dyslipidemia": 35,
+        "Obesity": 20,
+        "Chronic kidney disease": 40,
+        "Anxiety": 18,
+        "Depression": 20,
+        "Obstructive sleep apnea": 35,
+        "Non-alcoholic fatty liver disease": 30,
+    }
     comorbidity_details = {}
 
-    max_duration = age - 30
-    if max_duration <= 14:
-        max_duration = 15
-
     for comorbidity in comorbidities:
+        onset = ONSET_AGE[comorbidity]
+
+        max_duration = max(1, age - onset)
+
+        duration = random.randint(1, max_duration)
         duration = random.randint(1, max_duration)
 
         comorbidity_details[comorbidity] = {"duration": duration}
@@ -129,7 +357,8 @@ def get_profile_data(a: str):
 
 def generate_condition_data(patient):
     if patient["condition_management"] == "first identification":
-        return {}
+        condition_data = {"primary_diagnosis_duration": 0}
+        return condition_data
     else:
         condition_data = condition_extractor(patient)
         return condition_data

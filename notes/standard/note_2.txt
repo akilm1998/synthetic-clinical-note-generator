@@ -1,0 +1,44 @@
+Chief Complaint
+Follow-up for type 2 diabetes mellitus.
+
+Subjective
+Derek Black is a 73-year-old man with a 29-year history of type 2 diabetes mellitus presenting for routine follow-up. Diabetes control has been poor. Recent laboratory testing showed hemoglobin A1c 8.2% and fasting glucose 180 mg/dL. He reports taking his diabetes medications inconsistently and acknowledges limited dietary adherence and minimal regular exercise. He denies symptomatic hypoglycemia, increased thirst, polyuria, recent weight loss, blurred vision, chest pain, dyspnea, or foot ulcers. He reports occasional fatigue.
+
+He has obstructive sleep apnea diagnosed approximately 5 years ago and reports inconsistent use of CPAP. He currently smokes cigarettes; quantity was not specified. No recent hospitalizations reported.
+
+Objective
+Vital Signs: Blood pressure 146/82 mmHg, pulse 74 bpm, respiratory rate 16/min, temperature 97.8°F, oxygen saturation 96% on room air. Weight 218 lb, BMI 31.3 kg/m².
+
+General: Well-appearing older man, overweight, in no acute distress.
+HEENT: Oral mucous membranes mildly dry. No acute visual complaints.
+Neck: Supple. No thyromegaly.
+Cardiovascular: Regular rate and rhythm. No murmurs. Peripheral pulses palpable bilaterally.
+Respiratory: Lungs clear to auscultation bilaterally. No respiratory distress.
+Abdomen: Soft and nontender.
+Extremities: No edema. Skin intact without ulcers or lesions.
+Diabetic foot examination: Skin warm and intact, no calluses or wounds. Sensation preserved to monofilament testing bilaterally. Pulses 2+ bilaterally.
+Neurologic: Alert and oriented. Grossly nonfocal.
+
+Laboratory Results: Hemoglobin A1c 8.2%. Fasting glucose 180 mg/dL. Creatinine 1.0 mg/dL, estimated GFR 76 mL/min/1.73 m². Urine albumin-to-creatinine ratio 18 mg/g. LDL cholesterol 92 mg/dL, triglycerides 168 mg/dL. Liver enzymes within normal limits.
+
+Assessment
+Type 2 diabetes mellitus without complications, currently above individualized glycemic goal with inconsistent medication and lifestyle adherence. No evidence of active neuropathy, nephropathy, foot ulceration, or other documented diabetic complication today.
+
+Obesity with limited physical activity.
+
+Obstructive sleep apnea with inconsistent CPAP use.
+
+Current tobacco use.
+
+Plan
+Review diabetes medication regimen and adherence in detail. Continue or resume metformin if tolerated and renal function remains stable; verify current dose and medication list before making adjustments. Discuss addition of a second glucose-lowering agent if glycemic control does not improve with adherence and lifestyle measures.
+
+Counseled regarding reduced intake of refined carbohydrates and sugary beverages, portion control, increased vegetables and lean protein, and gradual aerobic activity as tolerated. Encourage home glucose monitoring, particularly fasting readings and any readings associated with symptoms. Reviewed signs and management of hypoglycemia.
+
+Repeat hemoglobin A1c, fasting metabolic panel, fasting lipid profile, and urine albumin-to-creatinine ratio in approximately 3 months. Recommend annual dilated retinal examination; referral provided if not completed within the past year. Continue routine foot care and daily foot inspection.
+
+Encouraged consistent nightly CPAP use and follow-up with sleep medicine if mask fit or tolerance remains problematic.
+
+Strongly advised smoking cessation. Discussed nicotine replacement and pharmacologic options; patient will consider cessation support.
+
+Return in 3 months for diabetes follow-up, or sooner for persistent glucose elevation, hypoglycemia, new visual symptoms, or foot problems.

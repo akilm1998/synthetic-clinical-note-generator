@@ -32,9 +32,11 @@ typical_physical_findings:
   - Slow-healing ulcers
   - Dry mucous membranes
 
-typical_investigations:
+generated_lab_reports:
   - Hemoglobin A1c (HbA1c)
   - Fasting plasma glucose (FPG)
+
+typical_investigations:
   - Oral glucose tolerance test (OGTT)
   - Random plasma glucose
   - Urine albumin-to-creatinine ratio (UACR)
@@ -61,3 +63,10 @@ common_comorbidities:
   - Obstructive sleep apnea
   - Depression
   - Anxiety
+
+common_medications:
+  - Metformin
+  - Empagliflozin
+  - Sitagliptin
+  - Glipizide
+  - Insulin glargine
