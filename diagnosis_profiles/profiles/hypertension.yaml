@@ -1,0 +1,81 @@
+condition_name: hypertension
+diagnosis_name: Essential (primary) hypertension
+icd10_code: I10
+
+approximate_synonyms:
+  - Hypertension
+  - High blood pressure
+  - Essential hypertension
+  - Primary hypertension
+  - Systemic arterial hypertension
+
+symptoms:
+  common:
+    - Headache
+    - Dizziness
+    - Blurred vision
+    - Chest pain
+    - Shortness of breath
+    - Palpitations
+    - Fatigue
+    - Epistaxis (nosebleeds)
+
+  groups:
+    hypertensive_crisis:
+      symptoms:
+        - Severe headache
+        - Chest pain
+        - Shortness of breath
+        - Epistaxis (nosebleeds)
+
+      management_probability:
+        good: 0.10
+        moderate: 0.35
+        poor: 0.70
+        not_managed: 0.85
+        first_identification: 0.60
+
+    mild_exertional:
+      symptoms:
+        - Dizziness
+        - Palpitations
+        - Fatigue
+
+      duration_probability:
+        - max_years: 5
+          probability: 0.20
+        - max_years: null
+          probability: 0.50
+
+typical_physical_findings:
+  - Elevated blood pressure reading
+  - S4 gallop on cardiac auscultation
+  - Retinal arteriolar narrowing
+  - Diminished peripheral pulses
+
+generated_lab_reports:
+  - Serum Electrolytes
+
+typical_investigations:
+  - Electrocardiogram (ECG)
+  - Lipid profile
+  - Urinalysis
+
+common_risk_factors:
+  - Obesity
+  - High sodium diet
+  - Physical inactivity
+  - Alcohol consumption
+  - Family history of hypertension
+
+common_comorbidities:
+  - Type 2 diabetes mellitus
+  - Hyperlipidemia
+  - Chronic kidney disease
+  - Coronary artery disease
+
+common_medications:
+  - Lisinopril
+  - Amlodipine
+  - Losartan
+  - Hydrochlorothiazide

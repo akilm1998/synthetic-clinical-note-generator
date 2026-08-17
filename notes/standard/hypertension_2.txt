@@ -1,0 +1,9 @@
+Chief Complaint: Urgent follow-up for hypertension with dizziness, palpitations, and fatigue.
+
+Subjective: Lucas Patterson is a 97-year-old man with a 6-year history of essential hypertension, coronary artery disease for 13 years, and chronic kidney disease for 15 years. He reports dizziness, palpitations, and fatigue. He denies headache, blurred vision, chest pain, shortness of breath, or epistaxis. He continues to smoke. Hypertension has been managed consistently.
+
+Objective: Blood pressure 137/89 mmHg, pulse 79 bpm, respiratory rate 17/min, temperature 36.6°C, oxygen saturation 98%. Height 185 cm, weight 73.6 kg, BMI 21.5 kg/m². Serum sodium 144 mmol/L and potassium 4.9 mmol/L.
+
+Assessment: Essential hypertension, currently reasonably controlled on today’s reading without symptoms suggestive of hypertensive crisis. Dizziness, palpitations, and fatigue require evaluation given advanced age and underlying coronary artery disease and chronic kidney disease. Electrolytes are within the provided reference context, with potassium at the upper end of normal. Active tobacco use increases cardiovascular risk.
+
+Plan: Continue current hypertension management and reinforce adherence; medication reconciliation is recommended before any adjustment. Encourage home blood pressure monitoring with a record of readings and symptoms, avoiding excessive dietary sodium and maintaining appropriate hydration. Recommend an ECG to evaluate palpitations and review of a lipid profile and urinalysis as part of cardiovascular and renal risk assessment. Continue monitoring renal function and electrolytes in the context of chronic kidney disease and antihypertensive therapy. Counsel regarding smoking cessation. Seek urgent emergency evaluation for chest pain, shortness of breath, syncope, new neurologic symptoms, severe headache, or markedly elevated blood pressure. Close outpatient follow-up after ECG and symptom review.

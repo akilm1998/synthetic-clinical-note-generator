@@ -226,7 +226,7 @@ def get_random_name(sex=None):
         return random.choice(MALE_NAMES + FEMALE_NAMES)
 
 
-def get_random_age(min_age=30, max_age=96):
+def get_random_age(min_age=31, max_age=98):
     return random.randint(min_age, max_age)
 
 
@@ -292,19 +292,6 @@ DOCUMENTATION_DEPTHS = {
 }
 
 
-# def generate_documentation_depth():
-#     choice = random.choices(
-#         population=list(DOCUMENTATION_DEPTHS.keys()),
-#         weights=[v["weight"] for v in DOCUMENTATION_DEPTHS.values()],
-#         k=1,
-#     )[0]
-
-#     return {
-#         "name": choice,
-#         "instructions": DOCUMENTATION_DEPTHS[choice]["instructions"],
-#     }
-
-
 ENCOUNTER_TYPES = {
     "routine_follow_up": {
         "weight": 55,
@@ -350,19 +337,6 @@ ENCOUNTER_TYPES = {
 }
 
 
-# def generate_encounter_type():
-#     choice = random.choices(
-#         population=list(ENCOUNTER_TYPES.keys()),
-#         weights=[v["weight"] for v in ENCOUNTER_TYPES.values()],
-#         k=1,
-#     )[0]
-
-#     return {
-#         "name": choice,
-#         "instructions": ENCOUNTER_TYPES[choice]["instructions"],
-#     }
-
-
 NARRATIVE_STYLES = {
     "soap": {
         "weight": 60,
@@ -395,19 +369,6 @@ NARRATIVE_STYLES = {
 }
 
 
-# def generate_narrative_style():
-#     choice = random.choices(
-#         population=list(NARRATIVE_STYLES.keys()),
-#         weights=[v["weight"] for v in NARRATIVE_STYLES.values()],
-#         k=1,
-#     )[0]
-
-#     return {
-#         "name": choice,
-#         "instructions": NARRATIVE_STYLES[choice]["instructions"],
-#     }
-
-
 PHYSICIAN_STYLES = {
     "family_medicine": {
         "weight": 45,
@@ -421,40 +382,27 @@ PHYSICIAN_STYLES = {
         "weight": 30,
         "instructions": [
             "Write in the style of an experienced internal medicine physician",
-            "Provide slightly more clinical reasoning",
-            "Maintain a systematic approach",
+            "Provide systematic clinical reasoning",
+            "Integrate comorbidities into the assessment and plan",
         ],
     },
-    "endocrinologist": {
+    "specialist": {
         "weight": 15,
         "instructions": [
-            "Write in the style of an endocrinologist",
-            "Place greater emphasis on diabetes management",
-            "Reference metabolic control when appropriate",
+            "Write in the style of an experienced specialist physician",
+            "Emphasize disease-specific assessment and management",
+            "Use precise specialty terminology where appropriate",
         ],
     },
     "academic": {
         "weight": 10,
         "instructions": [
-            "Write in the style of an academic physician",
+            "Write in the style of an experienced academic physician",
             "Include concise clinical reasoning",
             "Use precise medical terminology",
         ],
     },
 }
-
-
-# def generate_physician_style():
-#     choice = random.choices(
-#         population=list(PHYSICIAN_STYLES.keys()),
-#         weights=[v["weight"] for v in PHYSICIAN_STYLES.values()],
-#         k=1,
-#     )[0]
-
-#     return {
-#         "name": choice,
-#         "instructions": PHYSICIAN_STYLES[choice]["instructions"],
-#     }
 
 
 def weighted_choice(config: dict):
@@ -486,39 +434,6 @@ def generate_documentation_depth():
     return weighted_choice(DOCUMENTATION_DEPTHS)
 
 
-# def generate_clinical_note_documentaion_style():
-#     choice = random.choice(["comprehensive", "standard", "concise"])
-#     if choice == "standard":
-#         return {
-#             "name": choice,
-#             "instructions": [
-#                 "Routine outpatient documentation",
-#                 "Focus on clinically relevant findings",
-#                 "Moderate detail",
-#             ],
-#         }
-#     elif choice == "comprehensive":
-#         return {
-#             "name": choice,
-#             "instructions": [
-#                 "Comprehensive history",
-#                 "Full ROS",
-#                 "Complete physical exam",
-#                 "Expanded reasoning",
-#             ],
-#         }
-#     else:
-#         return {
-#             "name": choice,
-#             "instructions": [
-#                 "Brief clinic documentation",
-#                 "Essential positives and negatives only",
-#                 "Short assessment and plan",
-#                 "Avoid lengthy explanations",
-#             ],
-#         }
-
-
 def generate_comorbidities_details(comorbidities, age):
     """
     Generate structured details for each comorbidity.
@@ -536,6 +451,9 @@ def generate_comorbidities_details(comorbidities, age):
         "Depression": 20,
         "Obstructive sleep apnea": 35,
         "Non-alcoholic fatty liver disease": 30,
+        "Type 2 diabetes mellitus": 30,
+        "Hyperlipidemia": 35,
+        "Coronary artery disease": 45,
     }
     comorbidity_details = {}
 
@@ -544,7 +462,6 @@ def generate_comorbidities_details(comorbidities, age):
 
         max_duration = max(1, age - onset)
 
-        duration = random.randint(1, max_duration)
         duration = random.randint(1, max_duration)
 
         comorbidity_details[comorbidity] = {"duration": duration}
@@ -613,6 +530,7 @@ def generate_documentation_config():
 
 
 def generate_patient_data(profile_data):
+    condition = profile_data["condition_name"]
     patient_sex = get_random_sex()
     patient_age = get_random_age()
     condition_management_status = generate_condition_status()
@@ -631,6 +549,7 @@ def generate_patient_data(profile_data):
         "bmi": f"{bmi} kg/m²",
         "name": get_random_name(sex=patient_sex),
         "smoking_status": get_random_smoking_status(),
+        "condition_name": condition,
         "comorbidities_details": generate_comorbidities_details(
             comorbidities_present, patient_age
         ),
@@ -655,13 +574,343 @@ def generate_condition_data(patient):
         return condition_data
 
 
-def save_clinical_note(clinical_note: str, documentation_style: str):
+VITAL_BASELINES = {
+    "blood_pressure": {
+        "systolic": (115, 125),
+        "diastolic": (75, 82),
+    },
+    "pulse": (68, 76),
+    "respiratory_rate": (14, 18),
+    "temperature": (36.6, 37.0),
+    "oxygen_saturation": (97, 99),
+}
 
+AGE_MODIFIERS = [
+    {
+        "min": 18,
+        "max": 29,
+        "blood_pressure": {
+            "systolic": (-5, -2),
+        },
+    },
+    {
+        "min": 30,
+        "max": 44,
+        "blood_pressure": {
+            "systolic": (0, 0),
+        },
+    },
+    {
+        "min": 45,
+        "max": 59,
+        "blood_pressure": {
+            "systolic": (2, 5),
+        },
+    },
+    {
+        "min": 60,
+        "max": 74,
+        "blood_pressure": {
+            "systolic": (5, 10),
+        },
+        "oxygen_saturation": (-1, 0),
+    },
+    {
+        "min": 75,
+        "max": 120,
+        "blood_pressure": {
+            "systolic": (8, 15),
+        },
+        "respiratory_rate": (0, 2),
+        "oxygen_saturation": (-2, -1),
+    },
+]
+
+
+def generate_vitals(patient):
+    vitals = {
+        "blood_pressure": {
+            "systolic": random.randint(*VITAL_BASELINES["blood_pressure"]["systolic"]),
+            "diastolic": random.randint(
+                *VITAL_BASELINES["blood_pressure"]["diastolic"]
+            ),
+        },
+        "pulse": random.randint(*VITAL_BASELINES["pulse"]),
+        "respiratory_rate": random.randint(*VITAL_BASELINES["respiratory_rate"]),
+        "temperature": round(random.uniform(*VITAL_BASELINES["temperature"]), 1),
+        "oxygen_saturation": random.randint(*VITAL_BASELINES["oxygen_saturation"]),
+    }
+
+    vitals = apply_age_modifiers(vitals, patient)
+    vitals = apply_bmi_modifiers(vitals, patient)
+    vitals = apply_smoking_modifiers(vitals, patient)
+    vitals = apply_comorbidity_modifiers(vitals, patient)
+    vitals = apply_condition_modifiers(vitals, patient)
+    # vitals = apply_medication_modifiers(vitals, patient)
+
+    return {
+        "vital_signs": {
+            "blood_pressure": (
+                f"{vitals['blood_pressure']['systolic']}/"
+                f"{vitals['blood_pressure']['diastolic']} mmHg"
+            ),
+            "pulse": f"{vitals['pulse']} bpm",
+            "respiratory_rate": f"{vitals['respiratory_rate']}/min",
+            "temperature": f"{vitals['temperature']:.1f}°C",
+            "oxygen_saturation": f"{vitals['oxygen_saturation']}%",
+        }
+    }
+
+
+def apply_age_modifiers(vitals, patient):
+    age = patient["age"]
+
+    modifier = next(
+        (band for band in AGE_MODIFIERS if band["min"] <= age <= band["max"]),
+        None,
+    )
+
+    if modifier is None:
+        return vitals
+
+    if "blood_pressure" in modifier:
+        bp = modifier["blood_pressure"]
+
+        if "systolic" in bp:
+            low, high = bp["systolic"]
+            vitals["blood_pressure"]["systolic"] += random.randint(low, high)
+
+        if "diastolic" in bp:
+            low, high = bp["diastolic"]
+            vitals["blood_pressure"]["diastolic"] += random.randint(low, high)
+
+    if "pulse" in modifier:
+        low, high = modifier["pulse"]
+        vitals["pulse"] += random.randint(low, high)
+
+    if "respiratory_rate" in modifier:
+        low, high = modifier["respiratory_rate"]
+        vitals["respiratory_rate"] += random.randint(low, high)
+
+    if "temperature" in modifier:
+        low, high = modifier["temperature"]
+        vitals["temperature"] += round(random.uniform(low, high), 1)
+
+    if "oxygen_saturation" in modifier:
+        low, high = modifier["oxygen_saturation"]
+        vitals["oxygen_saturation"] += random.randint(low, high)
+
+    return vitals
+
+
+def apply_bmi_modifiers(vitals, patient):
+    bmi = float(patient["bmi"].split()[0])
+
+    if bmi >= 30:
+        vitals["pulse"] += random.randint(2, 5)
+
+        vitals["respiratory_rate"] += random.randint(0, 2)
+
+        vitals["oxygen_saturation"] -= random.randint(0, 1)
+
+    elif bmi < 18.5:
+        vitals["pulse"] += random.randint(0, 2)
+
+    return vitals
+
+
+def apply_smoking_modifiers(vitals, patient):
+    if patient["smoking_status"] == "Yes":
+        vitals["pulse"] += random.randint(2, 5)
+
+        vitals["oxygen_saturation"] -= random.randint(0, 1)
+
+    return vitals
+
+
+def apply_comorbidity_modifiers(vitals, patient):
+    comorbidities = patient["comorbidities_details"]
+
+    if "Hypertension" in comorbidities:
+        vitals["blood_pressure"]["systolic"] += random.randint(10, 20)
+        vitals["blood_pressure"]["diastolic"] += random.randint(5, 10)
+
+    if "Type 2 diabetes mellitus" in comorbidities:
+        vitals["pulse"] += random.randint(0, 2)
+
+    if "Hyperlipidemia" in comorbidities:
+        # No major direct vital-sign effect
+        pass
+
+    if "Chronic kidney disease" in comorbidities:
+        vitals["blood_pressure"]["systolic"] += random.randint(5, 15)
+        vitals["blood_pressure"]["diastolic"] += random.randint(2, 8)
+
+    if "Coronary artery disease" in comorbidities:
+        vitals["pulse"] += random.randint(2, 5)
+
+    if "Heart failure" in comorbidities:
+        vitals["pulse"] += random.randint(3, 8)
+        vitals["respiratory_rate"] += random.randint(2, 4)
+
+    if "COPD" in comorbidities:
+        vitals["respiratory_rate"] += random.randint(2, 5)
+        vitals["oxygen_saturation"] -= random.randint(2, 5)
+
+    if "Asthma" in comorbidities:
+        vitals["respiratory_rate"] += random.randint(1, 3)
+
+    if "Hyperthyroidism" in comorbidities:
+        vitals["pulse"] += random.randint(8, 15)
+
+    if "Hypothyroidism" in comorbidities:
+        vitals["pulse"] -= random.randint(4, 8)
+
+    return vitals
+
+
+def apply_condition_modifiers(vitals, patient):
+    condition = patient["condition_name"]
+    management = patient["condition_management"]
+
+    if condition == "hypertension":
+        if management == "good":
+            systolic = random.randint(0, 5)
+            diastolic = random.randint(0, 3)
+
+        elif management == "moderate":
+            systolic = random.randint(5, 15)
+            diastolic = random.randint(3, 8)
+
+        elif management == "poor":
+            systolic = random.randint(15, 25)
+            diastolic = random.randint(8, 12)
+
+        elif management == "not managed":
+            systolic = random.randint(20, 35)
+            diastolic = random.randint(10, 18)
+
+        else:  # first identification
+            systolic = random.randint(10, 25)
+            diastolic = random.randint(5, 12)
+
+        vitals["blood_pressure"]["systolic"] += systolic
+        vitals["blood_pressure"]["diastolic"] += diastolic
+
+    elif condition == "diabetes":
+        pass
+
+    return vitals
+
+
+def generate_symptoms(profile_data, patient):
+    """
+    Generate symptoms using disease-specific rules defined in the
+    condition YAML profile.
+
+    Management and duration probabilities are treated as independent
+    modifiers. When both are present, they are multiplied together.
+    """
+
+    symptoms_config = profile_data.get("symptoms", {})
+    common_symptoms = symptoms_config.get("common", [])
+    symptom_groups = symptoms_config.get("groups", {})
+
+    condition_management = patient.get(
+        "condition_management",
+        "moderate",
+    )
+
+    disease_duration = patient.get(
+        "primary_diagnosis_duration",
+        0,
+    )
+
+    symptoms = {symptom: False for symptom in common_symptoms}
+
+    for group_data in symptom_groups.values():
+        group_symptoms = group_data.get("symptoms", [])
+
+        if not group_symptoms:
+            continue
+
+        probability_factors = []
+
+        # Management-based probability
+        management_probability = group_data.get("management_probability")
+
+        if management_probability:
+            probability = management_probability.get(condition_management)
+
+            if probability is not None:
+                probability_factors.append(probability)
+
+        # Duration-based probability
+        duration_probability = group_data.get("duration_probability")
+
+        if duration_probability:
+            for duration_rule in duration_probability:
+                max_years = duration_rule.get("max_years")
+
+                if max_years is None or disease_duration <= max_years:
+                    probability_factors.append(duration_rule.get("probability", 0.0))
+                    break
+
+        # No generation rules configured for this group
+        if not probability_factors:
+            continue
+
+        # Combine independent probability factors
+        group_probability = 1.0
+
+        for probability in probability_factors:
+            group_probability *= probability
+
+        # Activate group
+        if random.random() >= group_probability:
+            continue
+
+        # Select symptoms within the activated group
+        selected_symptoms = [
+            symptom for symptom in group_symptoms if random.random() < 0.65
+        ]
+
+        # Ensure an activated group produces at least one symptom
+        if not selected_symptoms:
+            selected_symptoms = [random.choice(group_symptoms)]
+
+        for symptom in selected_symptoms:
+            if symptom in symptoms:
+                symptoms[symptom] = True
+
+    return {"symptoms": symptoms}
+
+
+# def save_clinical_note(clinical_note: str, documentation_style: str):
+
+#     base_dir = Path(__file__).resolve().parent.parent
+#     notes_dir = base_dir / "notes" / documentation_style
+#     notes_dir.mkdir(parents=True, exist_ok=True)
+#     existing_notes = list(notes_dir.glob("note_*.txt"))
+#     next_number = len(existing_notes) + 1
+#     file_path = notes_dir / f"note_{next_number}.txt"
+#     file_path.write_text(clinical_note, encoding="utf-8")
+#     return file_path
+
+
+def save_clinical_note(
+    clinical_note: str,
+    documentation_style: str,
+    condition_name: str,
+):
     base_dir = Path(__file__).resolve().parent.parent
     notes_dir = base_dir / "notes" / documentation_style
     notes_dir.mkdir(parents=True, exist_ok=True)
-    existing_notes = list(notes_dir.glob("note_*.txt"))
+
+    existing_notes = list(notes_dir.glob(f"{condition_name}_*.txt"))
     next_number = len(existing_notes) + 1
-    file_path = notes_dir / f"note_{next_number}.txt"
+
+    file_path = notes_dir / f"{condition_name}_{next_number}.txt"
     file_path.write_text(clinical_note, encoding="utf-8")
+
     return file_path

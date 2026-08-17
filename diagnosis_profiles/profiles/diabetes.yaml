@@ -1,3 +1,4 @@
+condition_name: diabetes
 diagnosis_name: Type 2 diabetes mellitus without complications
 icd10_code: E11.9
 
@@ -10,17 +11,74 @@ approximate_synonyms:
   - Type 2 diabetes mellitus controlled by diet
   - Type 2 diabetes mellitus on insulin
 
-common_symptoms:
-  - Increased thirst
-  - Frequent urination
-  - Increased hunger
-  - Unintentional weight loss
-  - Fatigue
-  - Blurred vision
-  - Slow-healing sores
-  - Frequent infections
-  - Numbness or tingling in the hands or feet
-  - Acanthosis nigricans
+symptoms:
+  common:
+    - Increased thirst
+    - Frequent urination
+    - Increased hunger
+    - Unintentional weight loss
+    - Fatigue
+    - Blurred vision
+    - Slow-healing wounds
+    - Frequent infections
+    - Numbness in the hands or feet
+    - Tingling in the hands or feet
+
+  groups:
+    hyperglycemia:
+      symptoms:
+        - Increased thirst
+        - Frequent urination
+        - Increased hunger
+        - Blurred vision
+
+      management_probability:
+        good: 0.10
+        moderate: 0.35
+        poor: 0.70
+        not_managed: 0.85
+        first_identification: 0.60
+
+    neuropathy:
+      symptoms:
+        - Numbness in the hands or feet
+        - Tingling in the hands or feet
+
+      duration_probability:
+        - max_years: 4
+          probability: 0.02
+        - max_years: 9
+          probability: 0.08
+        - max_years: 14
+          probability: 0.18
+        - max_years: 19
+          probability: 0.30
+        - max_years: null
+          probability: 0.40
+
+    infection:
+      symptoms:
+        - Slow-healing wounds
+        - Frequent infections
+
+      management_probability:
+        good: 0.03
+        moderate: 0.10
+        poor: 0.25
+        not_managed: 0.40
+        first_identification: 0.15
+
+    constitutional:
+      symptoms:
+        - Fatigue
+        - Unintentional weight loss
+
+      management_probability:
+        good: 0.05
+        moderate: 0.15
+        poor: 0.35
+        not_managed: 0.50
+        first_identification: 0.30
 
 typical_physical_findings:
   - Overweight or obesity
@@ -29,7 +87,6 @@ typical_physical_findings:
   - Diminished peripheral pulses
   - Diabetic dermopathy
   - Retinal changes
-  - Slow-healing ulcers
   - Dry mucous membranes
 
 generated_lab_reports:

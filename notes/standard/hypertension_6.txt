@@ -1,0 +1,33 @@
+Chief Complaint
+
+Medication review for longstanding hypertension.
+
+Subjective
+
+Sophia Turner is a 79-year-old woman with a 29-year history of essential hypertension presenting for outpatient medication-effectiveness, adherence, and tolerance review. She reports dizziness, palpitations, and fatigue. She denies headache, blurred vision, chest pain, shortness of breath, or epistaxis. She continues to smoke.
+
+Her relevant comorbidities include coronary artery disease for 9 years, chronic kidney disease for 3 years, and hyperlipidemia for 1 year. Current antihypertensive regimen and adherence pattern require medication reconciliation today. No medication intolerance is specifically reported; dizziness and fatigue should be assessed for possible relationship to blood-pressure treatment, while palpitations warrant clinical correlation.
+
+Objective
+
+Blood pressure is 148/90 mmHg. Pulse 83 bpm. Respiratory rate 18/min. Temperature 36.9°C. Oxygen saturation 97% on room air.
+
+Height 152 cm, weight 49.4 kg, BMI 21.4 kg/m².
+
+Serum sodium 141 mmol/L. Serum potassium 4.1 mmol/L.
+
+Assessment
+
+Essential hypertension of 29 years’ duration with blood pressure above goal at today’s visit, suggesting suboptimal control or the need to confirm adherence and regimen effectiveness. Dizziness, palpitations, and fatigue are present without reported chest pain, dyspnea, visual change, severe headache, or epistaxis. Electrolytes are currently within the provided reference context, with sodium 141 mmol/L and potassium 4.1 mmol/L.
+
+Chronic kidney disease, present for 3 years, and coronary artery disease, present for 9 years, increase the importance of careful blood-pressure management and avoidance of excessive blood-pressure reduction. Hyperlipidemia has been present for 1 year. Active smoking is an additional cardiovascular risk factor.
+
+Plan
+
+Complete medication reconciliation, including all antihypertensive and cardiovascular medications, dosing schedule, missed doses, access barriers, and use of over-the-counter agents. Assess adherence directly and review home blood-pressure readings if available. Reinforce consistent daily administration and avoidance of abrupt discontinuation.
+
+Because the office blood pressure remains elevated, review treatment effectiveness after adherence and dosing are confirmed. Consider adjustment of the existing antihypertensive regimen with attention to age, chronic kidney disease, coronary artery disease, orthostatic symptoms, renal function, and electrolyte status. Monitor for medication-related dizziness, fatigue, palpitations, or symptomatic hypotension.
+
+Recommend continued blood-pressure monitoring and reassessment after medication review. Recommend periodic serum electrolytes and renal-function monitoring in the setting of chronic kidney disease and antihypertensive therapy. An ECG is recommended for evaluation of palpitations and cardiovascular risk. Lipid profile and urinalysis may also be considered as part of ongoing hypertension and comorbidity assessment.
+
+Counseled regarding sodium reduction, regular physical activity as tolerated, and smoking cessation. Seek urgent evaluation for new chest pain, shortness of breath, severe headache, acute neurologic symptoms, or markedly worsening palpitations.
