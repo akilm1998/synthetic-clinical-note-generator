@@ -1004,15 +1004,15 @@ def save_clinical_note(
     clinical_note: str,
     documentation_style: str,
     condition_name: str,
+    patient_id: str,
 ):
     base_dir = Path(__file__).resolve().parent.parent
+
     notes_dir = base_dir / "notes" / documentation_style
     notes_dir.mkdir(parents=True, exist_ok=True)
 
-    existing_notes = list(notes_dir.glob(f"{condition_name}_*.txt"))
-    next_number = len(existing_notes) + 1
+    file_path = notes_dir / f"{condition_name}_{patient_id}.txt"
 
-    file_path = notes_dir / f"{condition_name}_{next_number}.txt"
     file_path.write_text(clinical_note, encoding="utf-8")
 
     return file_path
