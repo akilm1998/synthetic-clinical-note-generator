@@ -1,14 +1,12 @@
 condition_name: ckd
-diagnosis_name: Chronic kidney disease, stage 3 (moderate)
-icd10_code: N18.30
+diagnosis_name: Chronic kidney disease
+icd10_code: N18.9
 
 approximate_synonyms:
   - Chronic kidney disease
   - CKD
-  - Stage 3 chronic kidney disease
-  - Moderate chronic kidney disease
   - Chronic renal insufficiency
-  - Chronic kidney disease stage 3
+
 
 symptoms:
   common:

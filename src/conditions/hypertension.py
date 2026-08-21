@@ -1,12 +1,15 @@
 import random
 
 
-def lab_test(condition_management: str):
+def lab_test(patient: dict):
     """
     Generate laboratory results relevant to hypertension.
     """
 
     # Generate serum electrolytes
+
+    condition_management = patient["condition_management"]
+
     if condition_management == "first identification":
         sodium = random.randint(137, 145)
         potassium = round(random.uniform(3.7, 5.0), 1)

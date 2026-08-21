@@ -1,8 +1,10 @@
 import random
 
 
-def lab_test(condition_management: str):
+def lab_test(patient: dict):
     """Generate diabetes laboratory results."""
+
+    condition_management = patient["condition_management"]
 
     if condition_management == "first identification":
         hba1c = round(random.uniform(6.5, 8.0), 1)

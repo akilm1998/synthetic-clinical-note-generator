@@ -1,0 +1,87 @@
+condition_name: hyperlipidemia
+diagnosis_name: Hyperlipidemia, unspecified
+icd10_code: E78.5
+
+approximate_synonyms:
+  - Hyperlipidemia
+  - Mixed hyperlipidemia
+  - Dyslipidemia
+  - Elevated lipids
+  - High cholesterol and triglycerides
+
+symptoms:
+  common:
+    - Chest discomfort
+    - Intermittent claudication (leg pain while walking)
+    - Dizziness
+    - Xanthomas (fatty skin deposits)
+    - Xanthelasma (fatty eyelid deposits)
+
+  groups:
+    cardiovascular_prodrome:
+      symptoms:
+        - Chest discomfort
+        - Intermittent claudication (leg pain while walking)
+        - Dizziness
+
+      management_probability:
+        good: 0.10
+        moderate: 0.35
+        poor: 0.70
+        not_managed: 0.85
+        first_identification: 0.60
+
+    cutaneous_deposits:
+      symptoms:
+        - Xanthomas (fatty skin deposits)
+        - Xanthelasma (fatty eyelid deposits)
+
+      duration_probability:
+        - max_years: 2
+          probability: 0.15
+        - max_years: 5
+          probability: 0.35
+        - max_years: null
+          probability: 0.50
+
+typical_physical_findings:
+  - Corneal arcus (white/gray ring in the eye)
+  - Tendon xanthomas (achilles or hand extensor tendons)
+  - Xanthelasma palpebrarum
+  - Carotid bruits
+
+generated_lab_reports:
+  - Total Cholesterol
+  - Low-Density Lipoprotein Cholesterol (LDL-C)
+  - High-Density Lipoprotein Cholesterol (HDL-C)
+  - Triglycerides
+
+typical_investigations:
+  - Fasting lipid panel
+  - Apolipoprotein B (ApoB)
+  - High-sensitivity C-reactive protein (hs-CRP)
+  - Coronary artery calcium (CAC) scan
+  - Lipoprotein(a) [Lp(a)] measurement
+
+common_risk_factors:
+  - Diet high in saturated and trans fats
+  - Physical inactivity
+  - Tobacco smoking
+  - Family history of early cardiovascular disease
+  - Obesity
+  - Advanced age
+
+common_comorbidities:
+  - Hypertension
+  - Type 2 diabetes mellitus
+  - Obesity
+  - Non-alcoholic fatty liver disease
+  - Chronic kidney disease
+  - Coronary artery disease
+
+common_medications:
+  - Atorvastatin
+  - Rosuvastatin
+  - Ezetimibe
+  - Fenofibrate
+  - PCSK9 inhibitors (Evolocumab)

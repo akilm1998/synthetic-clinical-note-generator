@@ -240,11 +240,31 @@ def get_random_smoking_status():
 
 def generate_condition_status():
     condition_management = [
-        "good",
-        "moderate",
-        "poor",
+        # "good",
+        # "good",
+        # "good",
+        # "good",
+        # "good",
+        # "moderate",
+        # "moderate",
+        # "moderate",
+        # "moderate",
+        # "moderate",
+        # "poor",
+        # "poor",
+        # "poor",
+        # "poor",
+        # "poor",
         "not managed",
-        "first identification",
+        "not managed",
+        "not managed",
+        "not managed",
+        "not managed",
+        # "first identification",
+        # "first identification",
+        # "first identification",
+        # "first identification",
+        # "first identification",
     ]
 
     condition_management_weights = [
@@ -443,17 +463,29 @@ def generate_comorbidities_details(comorbidities, age):
     can be added later.
     """
     ONSET_AGE = {
-        "Hypertension": 35,
-        "Dyslipidemia": 35,
-        "Obesity": 20,
+        "Hypertension": 30,
+        "Dyslipidemia": 30,
+        "Hyperlipidemia": 30,
+        "Obesity": 18,
         "Chronic kidney disease": 40,
         "Anxiety": 18,
-        "Depression": 20,
-        "Obstructive sleep apnea": 35,
-        "Non-alcoholic fatty liver disease": 30,
+        "Depression": 18,
+        "Obstructive sleep apnea": 30,
+        "Non-alcoholic fatty liver disease": 25,
         "Type 2 diabetes mellitus": 30,
-        "Hyperlipidemia": 35,
         "Coronary artery disease": 45,
+        "Anemia of chronic disease": 40,
+        "Secondary hyperparathyroidism": 45,
+        "Gout": 40,
+        "Heart failure": 45,
+        "COPD": 40,
+        "Asthma": 18,
+        "Hyperthyroidism": 18,
+        "Hypothyroidism": 18,
+        "Rheumatoid arthritis": 30,
+        "Inflammatory bowel disease": 20,
+        "Chronic infection": 30,
+        "Malignancy": 40,
     }
     comorbidity_details = {}
 
@@ -739,7 +771,7 @@ def apply_comorbidity_modifiers(vitals, patient):
         vitals["pulse"] += random.randint(0, 2)
 
     if "Hyperlipidemia" in comorbidities:
-        # No major direct vital-sign effect
+        # No major direct effect on routine vital signs.
         pass
 
     if "Chronic kidney disease" in comorbidities:
@@ -749,22 +781,48 @@ def apply_comorbidity_modifiers(vitals, patient):
     if "Coronary artery disease" in comorbidities:
         vitals["pulse"] += random.randint(2, 5)
 
+    if "Obesity" in comorbidities:
+        vitals["pulse"] += random.randint(1, 4)
+        vitals["respiratory_rate"] += random.randint(0, 2)
+
+    if "Non-alcoholic fatty liver disease (NAFLD)" in comorbidities:
+        # No major direct effect on routine vital signs.
+        pass
+
+    if "Anemia of chronic disease" in comorbidities:
+        vitals["pulse"] += random.randint(3, 8)
+        vitals["respiratory_rate"] += random.randint(0, 2)
+
+    if "Secondary hyperparathyroidism" in comorbidities:
+        # No consistent direct effect on routine vital signs.
+        pass
+
+    if "Gout" in comorbidities:
+        # Chronic gout without an acute flare has no major direct effect
+        # on routine vital signs.
+        pass
+
+    if "Rheumatoid arthritis" in comorbidities:
+        # Chronic rheumatoid arthritis without an acute flare has no
+        # consistent direct effect on routine vital signs.
+        pass
+
+    if "Inflammatory bowel disease" in comorbidities:
+        # No consistent direct effect on routine vital signs in stable disease.
+        pass
+
+    if "Chronic infection" in comorbidities:
+        # Chronic infection may affect vitals during active illness,
+        # but should not systematically alter routine vitals.
+        pass
+
+    if "Malignancy" in comorbidities:
+        # No consistent direct effect on routine vital signs.
+        pass
+
     if "Heart failure" in comorbidities:
         vitals["pulse"] += random.randint(3, 8)
         vitals["respiratory_rate"] += random.randint(2, 4)
-
-    if "COPD" in comorbidities:
-        vitals["respiratory_rate"] += random.randint(2, 5)
-        vitals["oxygen_saturation"] -= random.randint(2, 5)
-
-    if "Asthma" in comorbidities:
-        vitals["respiratory_rate"] += random.randint(1, 3)
-
-    if "Hyperthyroidism" in comorbidities:
-        vitals["pulse"] += random.randint(8, 15)
-
-    if "Hypothyroidism" in comorbidities:
-        vitals["pulse"] -= random.randint(4, 8)
 
     return vitals
 
@@ -798,7 +856,63 @@ def apply_condition_modifiers(vitals, patient):
         vitals["blood_pressure"]["diastolic"] += diastolic
 
     elif condition == "diabetes":
+        # No major direct effect on routine vital signs.
         pass
+
+    elif condition == "ckd":
+        # CKD can contribute to elevated blood pressure.
+        if management == "good":
+            systolic = random.randint(0, 3)
+            diastolic = random.randint(0, 2)
+
+        elif management == "moderate":
+            systolic = random.randint(3, 8)
+            diastolic = random.randint(2, 5)
+
+        elif management == "poor":
+            systolic = random.randint(8, 15)
+            diastolic = random.randint(4, 8)
+
+        elif management == "not managed":
+            systolic = random.randint(12, 20)
+            diastolic = random.randint(6, 10)
+
+        else:  # first identification
+            systolic = random.randint(5, 12)
+            diastolic = random.randint(3, 7)
+
+        vitals["blood_pressure"]["systolic"] += systolic
+        vitals["blood_pressure"]["diastolic"] += diastolic
+
+    elif condition == "hyperlipidemia":
+        # Hyperlipidemia has no major direct effect on routine vital signs.
+        pass
+
+    elif condition == "anemia":
+        # Anemia can increase cardiovascular demand, particularly when
+        # poorly controlled or untreated.
+        if management == "good":
+            pulse = random.randint(0, 2)
+            respiratory_rate = random.randint(0, 1)
+
+        elif management == "moderate":
+            pulse = random.randint(2, 5)
+            respiratory_rate = random.randint(0, 2)
+
+        elif management == "poor":
+            pulse = random.randint(4, 8)
+            respiratory_rate = random.randint(1, 3)
+
+        elif management == "not managed":
+            pulse = random.randint(6, 12)
+            respiratory_rate = random.randint(2, 4)
+
+        else:  # first identification
+            pulse = random.randint(2, 6)
+            respiratory_rate = random.randint(0, 2)
+
+        vitals["pulse"] += pulse
+        vitals["respiratory_rate"] += respiratory_rate
 
     return vitals
 
@@ -884,18 +998,6 @@ def generate_symptoms(profile_data, patient):
                 symptoms[symptom] = True
 
     return {"symptoms": symptoms}
-
-
-# def save_clinical_note(clinical_note: str, documentation_style: str):
-
-#     base_dir = Path(__file__).resolve().parent.parent
-#     notes_dir = base_dir / "notes" / documentation_style
-#     notes_dir.mkdir(parents=True, exist_ok=True)
-#     existing_notes = list(notes_dir.glob("note_*.txt"))
-#     next_number = len(existing_notes) + 1
-#     file_path = notes_dir / f"note_{next_number}.txt"
-#     file_path.write_text(clinical_note, encoding="utf-8")
-#     return file_path
 
 
 def save_clinical_note(

@@ -30,6 +30,7 @@ def generate_clinical_note(profile_data, patient, client, note_generation_config
 
     Rules:
     - Use the supplied diagnosis profile and patient information as the source of truth.
+    - Do not assign a formal disease stage or grade unless it is provided.
     - Do not invent another primary diagnosis.
     - Incorporate every relevant patient attribute naturally into the note whenever clinically appropriate (age, sex, smoking status, BMI, duration of disease, comorbidities, laboratory values, etc.).
     - Do not contradict any supplied patient information.
@@ -56,4 +57,5 @@ def generate_clinical_note(profile_data, patient, client, note_generation_config
         model="gpt-5.6-luna",
         input=prompt,
     )
+
     return response.output_text
