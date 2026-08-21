@@ -15,6 +15,6 @@ Build a reproducible pipeline that generates realistic synthetic clinical notes 
 - [x] Synthetic patient generation implemented
 - [x] Prompt-based clinical note generation implemented
 - [x] Initial prompt refinement completed
-- [ ] Support additional diagnoses
-- [ ] Generate larger synthetic dataset
+- [X] Support additional diagnoses
+- [X] Generate larger synthetic dataset
 - [ ] Add automated dataset export

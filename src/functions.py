@@ -1016,3 +1016,22 @@ def save_clinical_note(
     file_path.write_text(clinical_note, encoding="utf-8")
 
     return file_path
+
+
+# def generate_single_record(
+#     patient_id: str,
+#     profile_data: dict,
+#     condition_name: str,
+#     diagnosis_name: str,
+#     icd_code: str,
+#     client,
+# ):
+#     pass
+
+
+# def generate_patient_ids(number_of_patients: int, counter: int):
+#     patient_ids = []
+#     for i in range(1, number_of_patients + 1):
+#         patient_id = f"PAT{counter + i:06d}"
+#         patient_ids.append(patient_id)
+#     return patient_ids
