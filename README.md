@@ -17,4 +17,14 @@ Build a reproducible pipeline that generates realistic synthetic clinical notes 
 - [x] Initial prompt refinement completed
 - [X] Support additional diagnoses
 - [X] Generate larger synthetic dataset
-- [ ] Add automated dataset export
+- [x] Implement automated dataset export
+- [x] Export synthetic clinical notes to Apache Parquet format
+
+## Next Steps
+
+- [ ] Complete dataset generation for all supported conditions
+- [ ] Validate dataset structure and data quality
+- [ ] Perform exploratory data analysis
+- [ ] Prepare clinical notes and ICD-10 codes for machine learning
+- [ ] Train an initial baseline model
+- [ ] Evaluate model performance
