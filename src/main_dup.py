@@ -17,6 +17,7 @@ from functions import (
     save_clinical_note,
 )
 from prompt import generate_clinical_note
+from verify import verify_dataset
 
 # -----------------------------------
 # Generate one complete patient record
@@ -82,113 +83,123 @@ def generate_single_record(
 
 
 if __name__ == "__main__":
-    # -----------------------------------
-    # Configuration
-    # -----------------------------------
+    generate = False
+    verify = True
 
-    start_time = time.time()
+    if generate:
+        # -----------------------------------
+        # Configuration
+        # -----------------------------------
 
-    condition_name = "hyperlipidemia"
+        start_time = time.time()
 
-    number_of_notes = 250
+        condition_name = "hyperlipidemia"
 
-    dataset_file = "clinical_notes.parquet"
+        number_of_notes = 250
 
-    max_workers = 5
+        dataset_file = "clinical_notes.parquet"
 
-    # -----------------------------------
-    # Load environment variables
-    # -----------------------------------
+        max_workers = 5
 
-    load_dotenv()
+        # -----------------------------------
+        # Load environment variables
+        # -----------------------------------
 
-    api_key = os.getenv("OPENAI_API_KEY")
+        load_dotenv()
 
-    client = OpenAI(api_key=api_key)
+        api_key = os.getenv("OPENAI_API_KEY")
 
-    # -----------------------------------
-    # Load condition profile
-    # -----------------------------------
+        client = OpenAI(api_key=api_key)
 
-    profile_data = get_profile_data(condition_name)
+        # -----------------------------------
+        # Load condition profile
+        # -----------------------------------
 
-    icd_code = profile_data["icd10_code"]
+        profile_data = get_profile_data(condition_name)
 
-    diagnosis_name = profile_data["diagnosis_name"]
+        icd_code = profile_data["icd10_code"]
 
-    # -----------------------------------
-    # Determine starting patient number
-    # -----------------------------------
+        diagnosis_name = profile_data["diagnosis_name"]
 
-    if os.path.exists(dataset_file):
-        existing_df = pd.read_parquet(dataset_file)
+        # -----------------------------------
+        # Determine starting patient number
+        # -----------------------------------
 
-        patient_counter = len(existing_df) + 1
+        if os.path.exists(dataset_file):
+            existing_df = pd.read_parquet(dataset_file)
 
-    else:
-        existing_df = pd.DataFrame()
+            patient_counter = len(existing_df) + 1
 
-        patient_counter = 1
+        else:
+            existing_df = pd.DataFrame()
 
-    # -----------------------------------
-    # Create all patient IDs beforehand
-    # -----------------------------------
+            patient_counter = 1
 
-    patient_ids = []
+        # -----------------------------------
+        # Create all patient IDs beforehand
+        # -----------------------------------
 
-    for _ in range(number_of_notes):
-        patient_id = f"PAT{patient_counter:06d}"
+        patient_ids = []
 
-        patient_ids.append(patient_id)
+        for _ in range(number_of_notes):
+            patient_id = f"PAT{patient_counter:06d}"
 
-        patient_counter += 1
+            patient_ids.append(patient_id)
 
-    # -----------------------------------
-    # Generate notes concurrently
-    # -----------------------------------
+            patient_counter += 1
 
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        records = list(
-            executor.map(
-                lambda patient_id: generate_single_record(
-                    patient_id=patient_id,
-                    profile_data=profile_data,
-                    condition_name=condition_name,
-                    diagnosis_name=diagnosis_name,
-                    icd_code=icd_code,
-                    client=client,
-                ),
-                patient_ids,
+        # -----------------------------------
+        # Generate notes concurrently
+        # -----------------------------------
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            records = list(
+                executor.map(
+                    lambda patient_id: generate_single_record(
+                        patient_id=patient_id,
+                        profile_data=profile_data,
+                        condition_name=condition_name,
+                        diagnosis_name=diagnosis_name,
+                        icd_code=icd_code,
+                        client=client,
+                    ),
+                    patient_ids,
+                )
             )
+
+        new_df = pd.DataFrame(records)
+
+        if not existing_df.empty:
+            final_df = pd.concat(
+                [existing_df, new_df],
+                ignore_index=True,
+            )
+
+        else:
+            final_df = new_df
+
+        final_df.to_parquet(
+            dataset_file,
+            engine="pyarrow",
+            index=False,
         )
 
-    new_df = pd.DataFrame(records)
+        print("\nGeneration completed successfully.")
 
-    if not existing_df.empty:
-        final_df = pd.concat(
-            [existing_df, new_df],
-            ignore_index=True,
-        )
+        print(f"New records generated: {len(new_df)}")
 
-    else:
-        final_df = new_df
+        print(f"Total records in dataset: {len(final_df)}")
 
-    final_df.to_parquet(
-        dataset_file,
-        engine="pyarrow",
-        index=False,
-    )
+        print("\nLast 5 records:")
 
-    print("\nGeneration completed successfully.")
+        print(final_df.tail())
 
-    print(f"New records generated: {len(new_df)}")
+        end_time = time.time()
+        time_taken = end_time - start_time
+        print(f"Time taken for generation: {time_taken:.2f} seconds")
 
-    print(f"Total records in dataset: {len(final_df)}")
-
-    print("\nLast 5 records:")
-
-    print(final_df.tail())
-
-    end_time = time.time()
-    time_taken = end_time - start_time
-    print(f"Time taken for generation: {time_taken:.2f} seconds")
+    if verify:
+        status = verify_dataset("clinical_notes.parquet")
+        if status != 0:
+            print("Error")
+            exit(1)
