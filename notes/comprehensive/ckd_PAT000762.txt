@@ -1,0 +1,67 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Peter Greene is a 31-year-old man, height 169 cm, weight 69.1 kg, BMI 24.2 kg/m², presenting for review of treatment effectiveness, adherence, and tolerance in the setting of chronic kidney disease present for approximately 7 years. His renal disease is currently not under active management. No active medication regimen is documented for review today.
+
+He reports fatigue. He denies pruritus, muscle cramps, nausea, peripheral edema, change in urinary frequency, sleep disturbance, or shortness of breath. There is no reported smoking history. Comorbid conditions include hyperlipidemia for approximately 1 year and gout for approximately 1 year.
+
+Medication effectiveness, adherence, and adverse effects cannot be assessed until the complete active medication list, including prescription, over-the-counter, and supplement use, is reconciled. Particular attention is needed to renal dosing and avoidance of nephrotoxic or over-the-counter anti-inflammatory medications.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms reported.
+
+Cardiovascular: No peripheral edema reported.
+
+Respiratory: Denies shortness of breath.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urinary frequency.
+
+Neurologic/musculoskeletal: Denies muscle cramps.
+
+Skin: Denies pruritus.
+
+Sleep: Denies sleep disturbance.
+
+Psychiatric: No concerns reported.
+
+Objective
+
+Vital signs: Blood pressure 132/88 mmHg, pulse 70 beats/min, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 99% on room air.
+
+Anthropometrics: Height 169 cm, weight 69.1 kg, BMI 24.2 kg/m².
+
+Laboratory data: Serum creatinine 6.0 mg/dL. Estimated glomerular filtration rate 6 mL/min/1.73 m². Blood urea nitrogen 70 mg/dL.
+
+Physical examination: Patient is hemodynamically stable by documented vital signs and is not hypoxic. No additional abnormal examination findings are documented in the supplied encounter information. The patient denies edema, dyspnea, nausea, pruritus, muscle cramps, or urinary frequency change.
+
+Assessment
+
+Chronic kidney disease with markedly reduced kidney function, present for approximately 7 years, with creatinine 6.0 mg/dL, eGFR 6 mL/min/1.73 m², and BUN 70 mg/dL. The patient has fatigue but no reported nausea, pruritus, edema, dyspnea, sleep disturbance, or change in urinary frequency. Despite the absence of overt fluid-overload or prominent uremic symptoms, the degree of renal impairment requires prompt specialist assessment and structured management. The disease is not currently under active management, and there is no confirmed medication regimen to evaluate for efficacy, adherence, or tolerance.
+
+Blood pressure is 132/88 mmHg. Hypertension is not listed as a comorbidity, but continued close blood pressure monitoring is appropriate in the setting of chronic kidney disease.
+
+Hyperlipidemia, present for approximately 1 year, requiring cardiovascular risk assessment and medication reconciliation.
+
+Gout, present for approximately 1 year, requiring review of flare history and renal-appropriate urate-lowering strategy if treatment is indicated. Medication selection and dosing must account for the markedly reduced kidney function.
+
+Plan
+
+Arrange urgent nephrology evaluation for comprehensive management of advanced chronic kidney disease, assessment for complications, and discussion of kidney replacement therapy planning when clinically appropriate. The absence of severe current symptoms does not lessen the significance of the laboratory findings.
+
+Complete medication reconciliation, including all prescription medications, over-the-counter products, NSAIDs, herbal preparations, and supplements. Confirm indication, dose, adherence, renal dosing, effectiveness, and adverse effects for each medication. Avoid NSAIDs and other potentially nephrotoxic agents unless specifically directed by a renal specialist. Any medication with renal clearance should be reviewed and dose-adjusted appropriately.
+
+Recommend serum electrolytes, bicarbonate, calcium, phosphorus, complete blood count, iron assessment, intact parathyroid hormone, urinalysis, and urine albumin-to-creatinine ratio as part of comprehensive CKD evaluation. Recommend renal ultrasound to assess renal structure and chronicity if not previously completed. These are recommended evaluations and are not documented as completed today.
+
+Monitor blood pressure and volume status closely. Counsel regarding sodium moderation and avoidance of excessive fluid or salt intake. No diuretic or renin-angiotensin system medication is initiated or assumed from the available medication history.
+
+Review fatigue in the context of severe renal dysfunction and assess for anemia and other CKD-related complications with recommended testing. Provide education regarding symptoms requiring urgent evaluation, including worsening shortness of breath, new or rapidly increasing edema, persistent vomiting, confusion, marked weakness, chest pain, or substantial reduction in urine output.
+
+Address hyperlipidemia after medication reconciliation and renal-risk review. Review gout management with attention to renal dosing and avoidance of inappropriate urate-lowering or anti-inflammatory therapy.
+
+Follow up promptly after medication reconciliation and nephrology assessment, with earlier evaluation for any worsening symptoms.

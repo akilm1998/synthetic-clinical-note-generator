@@ -1,0 +1,53 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Ryan Hughes is a 70-year-old man presenting for routine outpatient follow-up of anemia documented over approximately 21 years. He reports no current fatigue, generalized weakness, reduced exercise tolerance, dizziness, headache, palpitations, shortness of breath, or other cardiopulmonary limitation. He does not note pallor. No acute change in symptoms or functional status is reported.
+
+Relevant history includes malignancy of approximately 30 years’ duration and chronic infection of approximately 25 years’ duration, both of which may contribute to chronic inflammation and impaired erythropoiesis. He is a nonsmoker. No medication regimen is provided for review today.
+
+Review of systems is negative for fatigue, weakness, dizziness, headache, pallpitations, dyspnea, reduced exercise tolerance, and perceived pallor. No new constitutional or cardiopulmonary complaints are reported.
+
+Objective
+
+Vital signs: Blood pressure 126/81 mmHg, pulse 88 bpm, respiratory rate 22/min, temperature 36.8°C, oxygen saturation 98% on room air.
+
+Height 179 cm, weight 94.5 kg, BMI 29.5 kg/m².
+
+General: Alert and clinically stable appearing without reported pallor or acute distress.
+
+Cardiovascular: Normal cardiovascular examination documented. Pulse regular at 88 bpm.
+
+Respiratory: Normal respiratory examination documented. Oxygenation is preserved despite mildly increased respiratory rate.
+
+Laboratory data:
+Hemoglobin 9.5 g/dL
+Hematocrit 27.8%
+RBC count 3.16 million/µL
+MCV 88 fL
+Serum iron 39 µg/dL
+Ferritin 325 ng/mL
+TIBC 223 µg/dL
+Transferrin saturation 17.5%
+
+Assessment
+
+Chronic normocytic anemia, clinically stable and currently asymptomatic. Hemoglobin and hematocrit are reduced with a normocytic RBC pattern. The low serum iron and transferrin saturation with elevated ferritin and low TIBC are most consistent with anemia associated with chronic inflammation/chronic disease rather than straightforward absolute iron deficiency. His longstanding malignancy and chronic infection are relevant potential inflammatory contributors. There is no current evidence from the history or vital signs of symptomatic cardiopulmonary compromise.
+
+The anemia has not been actively managed recently and warrants renewed evaluation to confirm stability, exclude additional reversible contributors, and clarify whether treatment directed at the underlying chronic conditions is needed.
+
+Plan
+
+Obtain an updated complete blood count with reticulocyte count and peripheral smear to assess current severity, cellular morphology, and marrow response.
+
+Recommend evaluation for potentially coexisting causes of anemia, including serum vitamin B12, folate, renal function testing, and inflammatory markers. Repeat iron indices may be considered with the follow-up evaluation to assess trend and confirm the pattern.
+
+Continue clinical monitoring for fatigue, weakness, reduced exercise tolerance, dizziness, dyspnea, palpitations, chest discomfort, or other evidence of worsening anemia. Seek urgent evaluation for new significant shortness of breath, chest pain, syncope, or rapidly worsening weakness.
+
+Review and address the activity and treatment status of the longstanding malignancy and chronic infection, as control of the underlying inflammatory conditions is central to management. Consider coordination with the clinicians managing those conditions and hematology consultation if the anemia worsens, the reticulocyte response is inadequate, additional cytopenias develop, or the etiology remains unclear.
+
+Iron supplementation should not be started empirically solely on the current results, given the elevated ferritin and low TIBC; treatment should be guided by repeat studies and the overall clinical context. Erythropoiesis-stimulating therapy would require consideration of the underlying disease context and specialist input rather than initiation at this visit.
+
+Follow up after the recommended laboratory reassessment for review of trends and adjustment of management.
