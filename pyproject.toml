@@ -12,4 +12,7 @@ dependencies = [
     "python-dotenv",
     "pandas",
     "pyarrow",
+    "requests",
+    "beautifulsoup4",
+    "spacy"
 ]
