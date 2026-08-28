@@ -10,9 +10,9 @@ test.txt
 
 
 # Unignore the folders needed to reach the files
-!/notes/comprehensive/
-!/notes/concise/
-!/notes/standard/
+# !/notes/comprehensive/
+# !/notes/concise/
+# !/notes/standard/
 
 # Unignore only these 15 files
 # !/notes/comprehensive/anemia_PAT000013.txt
