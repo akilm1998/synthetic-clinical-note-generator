@@ -1,0 +1,32 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Zachary Barnes is a 62-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 4 years and currently untreated. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthelasmas, or other reported fatty skin deposits. He continues to smoke. No interval cardiovascular symptoms are reported.
+
+He has had obesity for approximately 12 years. Current weight is 106.2 kg at a height of 164 cm, with BMI 39.5 kg/m².
+
+Objective
+Vital signs: BP 129/80 mmHg, pulse 88 bpm, respiratory rate 19/min, temperature 36.7°C, oxygen saturation 98%.
+
+Recent lipid profile:
+Total cholesterol 308 mg/dL
+LDL cholesterol 216 mg/dL
+HDL cholesterol 35 mg/dL
+Triglycerides 283 mg/dL
+
+Assessment
+Hyperlipidemia with marked LDL elevation, elevated triglycerides, and low HDL. LDL of 216 mg/dL represents a clinically significant atherogenic burden, with additional risk related to active tobacco use and severe obesity. He reports no current symptoms suggestive of angina or intermittent claudication. Hyperlipidemia remains inadequately addressed and is not currently under pharmacologic management.
+
+Obesity, longstanding, with BMI 39.5 kg/m².
+
+Tobacco use, ongoing.
+
+Plan
+Discussed the substantially elevated LDL and overall cardiovascular risk, including the importance of active treatment despite the absence of current symptoms. Recommend initiation of a high-intensity statin after shared decision-making, with treatment selection and dosing to be finalized at this visit. If LDL reduction is inadequate or statin therapy is not tolerated, addition of ezetimibe may be considered.
+
+Recommend a repeat fasting lipid panel after treatment initiation to assess response and adherence. Consider evaluation for secondary contributors to dyslipidemia and measurement of ApoB and lipoprotein(a) for additional risk characterization. Coronary artery calcium scoring may be considered if treatment decision-making remains uncertain, although the degree of LDL elevation supports pharmacologic therapy independent of imaging.
+
+Counseled regarding a heart-healthy eating pattern with reduction of saturated and trans fats, refined carbohydrates, and excess calories; increased dietary fiber; gradual increase in physical activity as tolerated; and weight reduction. Strongly advised smoking cessation and offered support with cessation planning.
+
+Return for lipid management follow-up after initiation of therapy and reassessment of the lipid profile.

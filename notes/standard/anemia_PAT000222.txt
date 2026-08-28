@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Kimberly Franklin is a 62-year-old woman with an approximately 11-year history of anemia, chronic kidney disease for 10 years, rheumatoid arthritis for 18 years, and inflammatory bowel disease for 21 years. She presents for routine outpatient follow-up and is not currently receiving documented anemia-directed management.
+
+She denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. She reports intermittent headache. No pallor is reported. She continues to smoke.
+
+Objective
+
+Height 167 cm, weight 68.9 kg, BMI 24.7 kg/m². Blood pressure 140/84 mmHg, pulse 89 bpm, respiratory rate 22/min, temperature 36.8°C, oxygen saturation 98%.
+
+Recent laboratory results:
+Hemoglobin 9.6 g/dL
+Hematocrit 29.2%
+RBC count 3.21 million/µL
+MCV 91 fL
+Serum iron 50 µg/dL
+Ferritin 293 ng/mL
+TIBC 208 µg/dL
+Transferrin saturation 24%
+
+Assessment
+
+1. Chronic normocytic anemia, most consistent with anemia of chronic disease/inflammation. Hemoglobin and hematocrit remain reduced, with normocytic indices. The low serum iron and TIBC with elevated ferritin are compatible with impaired iron utilization in the setting of chronic inflammation and chronic kidney disease rather than uncomplicated iron deficiency. Her longstanding rheumatoid arthritis and inflammatory bowel disease are likely contributing factors, with chronic kidney disease also potentially contributing through reduced erythropoietic drive. She is clinically stable without dyspnea, palpitations, dizziness, or reduced exercise tolerance. Intermittent headache may be associated with the anemia but is not accompanied by other concerning symptoms today.
+
+2. Chronic kidney disease. This is a relevant contributor to the anemia. No formal stage is assigned based on the information available.
+
+3. Rheumatoid arthritis and inflammatory bowel disease. Both represent longstanding inflammatory comorbidities that may contribute to persistent anemia of inflammation.
+
+4. Tobacco use. Continued smoking may adversely affect overall cardiovascular and pulmonary health.
+
+Plan
+
+Review the chronic anemia and laboratory pattern with the patient. Recommend updated CBC with reticulocyte count and peripheral smear to assess ongoing anemia and marrow response. Recommend renal function testing and inflammatory markers as clinically appropriate, along with vitamin B12 and folate levels to evaluate other potentially reversible contributors. Continue evaluation and management of the underlying chronic kidney disease and inflammatory conditions.
+
+Given the elevated ferritin and low TIBC, avoid assuming that routine oral iron will correct the anemia without further assessment of iron availability and the underlying inflammatory conditions. Consider hematology or nephrology input if the anemia worsens, fails to improve with management of the underlying conditions, or becomes symptomatic; erythropoiesis-stimulating therapy or intravenous iron would require individualized specialist assessment.
+
+Monitor for worsening fatigue, weakness, dizziness, shortness of breath, palpitations, chest discomfort, bleeding, or reduced exercise tolerance. Encourage smoking cessation. Continue routine outpatient follow-up after reassessment of the anemia and contributing chronic conditions.

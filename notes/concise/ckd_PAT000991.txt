@@ -1,0 +1,23 @@
+Chief Complaint
+
+Urgent follow-up for chronic kidney disease and abnormal renal function.
+
+Subjective
+
+George Cunningham is an 89-year-old man presenting for urgent outpatient follow-up of chronic kidney disease, present for approximately 3 years and currently not under active management. He reports fatigue. Denies pruritus, muscle cramps, nausea, peripheral edema, change in urination, sleep disturbance, or shortness of breath. No tobacco use. History includes hypertension for 4 years and gout for 29 years.
+
+Objective
+
+Height 181 cm; weight 94.7 kg; BMI 28.9 kg/m².
+BP 163/95 mmHg, pulse 73 bpm, respirations 18/min, temperature 37.0°C, oxygen saturation 97%.
+Recent laboratory results: creatinine 6.0 mg/dL, eGFR 5 mL/min/1.73 m², BUN 73 mg/dL.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function and azotemia. Fatigue may be related. Although he currently denies nausea, pruritus, edema, dyspnea, or urinary changes, the degree of renal impairment requires urgent evaluation.
+2. Hypertension, currently above goal at 163/95 mmHg, contributing risk for ongoing renal injury.
+3. Chronic gout, longstanding, requiring medication review and renal-dose considerations.
+
+Plan
+
+Recommend same-day emergency department or urgent nephrology evaluation given creatinine 6.0 mg/dL, eGFR 5, and BUN 73, with assessment for electrolyte or acid-base abnormalities and need for expedited renal replacement planning. Recommend serum electrolytes, CBC, urinalysis with urine albumin-to-creatinine ratio, and renal ultrasound as part of urgent evaluation. Avoid NSAIDs and other nephrotoxins; review all over-the-counter and prescription medications for renal dosing. Hypertension management should be addressed promptly after medication reconciliation and renal assessment. Return immediately for nausea, vomiting, confusion, worsening fatigue, dyspnea, edema, chest pain, or reduced urine output.

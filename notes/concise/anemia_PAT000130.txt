@@ -1,0 +1,34 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Eliza Chandler is a 37-year-old woman, nonsmoker, with a 6-year history of anemia and comorbid chronic kidney disease and malignancy, each present for approximately 1 year. She reports headache but denies fatigue, weakness, dizziness, dyspnea, palpitations, reduced exercise tolerance, or noted pallor. Anemia has not been actively managed.
+
+Objective
+
+Height 164 cm, weight 72.9 kg, BMI 27.1 kg/m².
+BP 123/81 mmHg, pulse 79 bpm, respirations 20/min, temperature 36.8°C, oxygen saturation 99%.
+
+Recent laboratory results:
+Hemoglobin 8.1 g/dL
+Hematocrit 25.1%
+RBC 2.89 million/µL
+MCV 87 fL
+Serum iron 27 µg/dL
+Ferritin 161 ng/mL
+TIBC 201 µg/dL
+Transferrin saturation 13.4%
+
+Assessment
+
+Anemia consistent with chronic disease/inflammation, with normocytic indices and low serum iron and transferrin saturation despite ferritin being preserved. Chronic kidney disease and malignancy are relevant contributing conditions. Hemoglobin is significantly reduced, although she is currently hemodynamically stable and reports headache without cardiopulmonary symptoms.
+
+Plan
+
+Obtain CBC with reticulocyte count, peripheral smear, renal function testing, vitamin B12, folate, and inflammatory markers to further characterize the anemia and assess for additional contributors.
+
+Review anemia management with the clinicians managing her chronic kidney disease and malignancy. Consider iron replacement based on the overall evaluation; erythropoiesis-stimulating therapy should be considered only in the appropriate specialist context.
+
+Monitor for worsening headache, new fatigue or weakness, dizziness, shortness of breath, chest discomfort, palpitations, or syncope; seek urgent care if these occur. Arrange close outpatient reassessment after the above evaluation.

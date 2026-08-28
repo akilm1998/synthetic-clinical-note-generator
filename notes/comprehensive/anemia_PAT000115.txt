@@ -1,0 +1,81 @@
+Chief Complaint
+
+Initial consultation for evaluation of anemia.
+
+Subjective
+
+Bruce McKenzie is a 47-year-old man presenting for initial outpatient evaluation of anemia identified on laboratory testing. The anemia has been present for approximately 8 years. He currently denies fatigue, generalized weakness, reduced exercise tolerance, dizziness, headache, shortness of breath, palpitations, or other exertional cardiopulmonary symptoms. He does not report pallor.
+
+Relevant medical history includes rheumatoid arthritis for 11 years and type 2 diabetes mellitus for 4 years. These chronic conditions may contribute to an inflammatory or multifactorial anemia. He is a nonsmoker. No medication use, allergies, prior procedures, hospitalizations, family history, or additional social history are provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance. No reported fever or other constitutional symptoms.
+
+Eyes: No visual symptoms reported.
+
+耳, Nose, Throat: No symptoms reported.
+
+Cardiovascular: Denies palpitations, chest discomfort, or exercise-related cardiovascular symptoms.
+
+Respiratory: Denies shortness of breath. No respiratory complaints reported.
+
+Gastrointestinal: No gastrointestinal symptoms reported.
+
+Genitourinary: No urinary symptoms reported.
+
+Musculoskeletal: History of rheumatoid arthritis. No additional musculoskeletal symptoms reported.
+
+Neurologic: Denies dizziness or headache. No focal neurologic symptoms reported.
+
+Skin: No pallor reported. No other skin symptoms reported.
+
+Hematologic: Known anemia. No bleeding-related symptoms reported.
+
+Endocrine: History of type 2 diabetes mellitus. No additional endocrine symptoms reported.
+
+Psychiatric: No psychiatric symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 119/76 mmHg, pulse 83 beats/min, respiratory rate 21/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Anthropometrics: Height 176 cm, weight 78.1 kg, BMI 25.2 kg/m².
+
+General: Clinically stable by vital signs and symptom review, without reported fatigue, weakness, dyspnea, dizziness, palpitations, headache, or reduced exercise tolerance.
+
+Cardiovascular: Normal cardiovascular examination.
+
+Respiratory: Normal respiratory examination.
+
+Laboratory Data:
+Hemoglobin 9.3 g/dL
+Hematocrit 28.2%
+RBC count 3.4 million/µL
+MCV 83 fL
+Serum iron 50 µg/dL
+Ferritin 325 ng/mL
+TIBC 248 µg/dL
+Transferrin saturation 20.2%
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation, currently asymptomatic and hemodynamically stable. Hemoglobin, hematocrit, and RBC count are reduced, with a normocytic red-cell pattern. The combination of low serum iron, elevated ferritin, reduced TIBC, and transferrin saturation of 20.2% favors impaired iron availability related to chronic inflammation rather than uncomplicated absolute iron deficiency. His longstanding rheumatoid arthritis is a plausible inflammatory contributor. Type 2 diabetes mellitus may also be relevant if associated renal disease or other chronic complications are present, although renal function data are not available in the current record.
+
+The duration of approximately 8 years warrants confirmation of chronicity, assessment for additional reversible contributors, and evaluation for a multifactorial process. There are no current symptoms suggesting acute decompensation, and his pulse, blood pressure, temperature, and oxygen saturation are stable.
+
+Plan
+
+1. Obtain or review a complete blood count with differential and reticulocyte count to characterize marrow response and establish the current trajectory of the anemia.
+
+2. Recommend peripheral blood smear review, serum vitamin B12, serum folate, and renal function testing to assess for nutritional, renal, or hematologic contributors in addition to chronic inflammation.
+
+3. Recommend inflammatory markers and correlation with rheumatoid arthritis activity. Optimization of control of the underlying inflammatory disease is central to management of anemia of chronic inflammation.
+
+4. Review the iron profile in clinical context. The ferritin of 325 ng/mL and reduced TIBC do not support empiric treatment with oral iron alone as the sole strategy. Iron supplementation, including intravenous iron, should be considered only after confirmation of iron availability, evidence of concurrent absolute iron deficiency, and assessment of the underlying cause.
+
+5. Consider evaluation for erythropoietin deficiency if renal dysfunction is identified or if anemia persists despite management of inflammatory disease and exclusion of other causes. An erythropoiesis-stimulating agent would require individualized risk-benefit assessment and specialist-guided monitoring.
+
+6. Monitor for development of fatigue, exertional dyspnea, chest discomfort, palpitations, dizziness, syncope, or bleeding. Urgent evaluation would be appropriate if significant cardiopulmonary symptoms or evidence of acute blood loss develops.
+
+7. Arrange outpatient reassessment after the recommended laboratory evaluation to review the anemia pattern, reticulocyte response, renal function, nutritional studies, and inflammatory activity, and to formulate a targeted treatment plan.

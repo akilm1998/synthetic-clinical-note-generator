@@ -1,0 +1,39 @@
+Chief Complaint
+
+Annual review and chronic kidney disease follow-up.
+
+Subjective
+
+Bob Hill is a 40-year-old male, 188 cm, 87.7 kg (BMI 24.8), presenting for comprehensive annual review. Chronic kidney disease has been present for approximately 9 years and has not been under active management. He denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. Smoking status: current smoker.
+
+Comorbidities include gout for 1 year, coronary artery disease for 1 year, and hyperlipidemia for 2 years. No current medication regimen provided.
+
+Objective
+
+BP 132/89 mmHg, pulse 82 bpm, respiratory rate 15/min, temperature 37.0°C, oxygen saturation 96%.
+
+Serum creatinine 3.33 mg/dL. BUN 81 mg/dL. eGFR 18 mL/min/1.73 m².
+
+Assessment
+
+Chronic kidney disease of approximately 9 years’ duration with markedly reduced renal function and elevated BUN/creatinine. Currently without reported uremic or fluid-overload symptoms; management needs to be established.
+
+Coronary artery disease and hyperlipidemia, requiring cardiovascular risk-factor optimization.
+
+Gout, with renal impairment relevant to medication selection.
+
+Current tobacco use.
+
+Plan
+
+Refer promptly to nephrology for comprehensive CKD evaluation and ongoing management, including discussion of renal replacement planning if appropriate.
+
+Obtain urine albumin-to-creatinine ratio, serum electrolytes, CBC, intact PTH, and renal ultrasound as part of evaluation. Avoid NSAIDs and other potentially nephrotoxic agents; review all prescription and over-the-counter medications for renal dosing.
+
+Monitor blood pressure and renal function closely. Review dietary sodium and protein intake with renal dietitian if available.
+
+Address cardiovascular risk reduction, including lipid management and smoking cessation. Counsel regarding cessation resources.
+
+Review gout treatment with attention to renal dosing and avoidance of NSAIDs.
+
+Update age- and risk-appropriate preventive care, including influenza, COVID-19, pneumococcal, and tetanus vaccination status, and routine cancer screening. Close primary care follow-up after testing and nephrology evaluation.

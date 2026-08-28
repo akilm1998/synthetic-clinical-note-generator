@@ -1,0 +1,30 @@
+Chief Complaint
+New patient consultation for hypertension.
+
+Subjective
+Simone Bishop is a 76-year-old woman presenting for initial outpatient evaluation of longstanding hypertension, present for approximately 35 years and currently not under active treatment. Blood pressure today is elevated at 154/98 mmHg. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis.
+
+She has a history of chronic kidney disease for approximately 3 years. She reports no tobacco use. Current height is 163 cm and weight is 58.7 kg, with BMI 22.1 kg/m². No antihypertensive medication use is provided.
+
+Objective
+Vital signs: Blood pressure 154/98 mmHg, pulse 75 bpm, respiratory rate 19/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Height 163 cm. Weight 58.7 kg. BMI 22.1 kg/m².
+
+Serum electrolytes: Sodium 146 mmol/L, potassium 4.9 mmol/L.
+
+Assessment
+Essential hypertension, longstanding and currently uncontrolled based on today’s office reading. She is asymptomatic without features suggesting hypertensive emergency. Chronic kidney disease is an important comorbidity and will influence medication selection and laboratory monitoring. Potassium is high-normal at 4.9 mmol/L; renal function should be considered before initiating or titrating therapy.
+
+Plan
+Discussed the importance of consistent blood pressure management to reduce cardiovascular and renal risk. Recommend obtaining home blood pressure readings with a validated upper-arm cuff, seated after five minutes of rest, and bringing a written log to follow-up.
+
+Recommend initiation of an individualized antihypertensive regimen after review of kidney function and medication history, with cautious dosing given age, chronic kidney disease, and potassium level. Renal function and electrolytes should be rechecked after treatment is started or adjusted. Avoid nonsteroidal anti-inflammatory drugs when possible and review all over-the-counter medications for agents that may raise blood pressure or affect kidney function.
+
+Recommend a heart-healthy, lower-sodium eating pattern, regular activity as tolerated, and avoidance of excess alcohol. Weight is currently in a healthy range, and she does not smoke.
+
+Recommend baseline evaluation with urinalysis, lipid profile, and ECG as clinically appropriate for longstanding hypertension and cardiovascular risk assessment. Continue monitoring for chronic kidney disease progression.
+
+Reviewed emergency precautions: seek immediate care for severe or sudden headache, chest pain, shortness of breath, new neurologic symptoms, confusion, or visual loss.
+
+Follow up promptly for blood pressure reassessment and treatment planning, with earlier evaluation if home readings are markedly elevated or symptoms develop.

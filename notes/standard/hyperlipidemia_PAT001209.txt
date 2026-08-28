@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Maxwell Knight is a 43-year-old man presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 6 years and currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. He reports fatty skin deposits and yellowish eyelid deposits consistent with xanthomas and xanthelasma.
+
+Relevant comorbidities include type 2 diabetes mellitus for 11 years, non-alcoholic fatty liver disease for 15 years, and chronic kidney disease for approximately 1 year. He currently smokes. No medication regimen is provided for review.
+
+Objective
+
+Height 185 cm; weight 95.8 kg; BMI 28.0 kg/m².
+
+Blood pressure 131/81 mmHg, pulse 73 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 96%.
+
+Lipid panel: total cholesterol 357 mg/dL, LDL cholesterol 266 mg/dL, HDL cholesterol 32 mg/dL, triglycerides 296 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and concomitant hypertriglyceridemia and low HDL cholesterol. The LDL level of 266 mg/dL represents severe atherogenic dyslipidemia and, in the setting of diabetes mellitus, chronic kidney disease, active tobacco use, and overweight status, confers substantially increased long-term cardiovascular risk. Reported xanthomas and xanthelasma further support prolonged lipid elevation. He has no reported symptoms suggesting current angina or intermittent claudication.
+
+Type 2 diabetes mellitus, chronic, with increased cardiovascular risk.
+
+Chronic kidney disease, approximately 1 year in duration.
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Active tobacco use.
+
+Plan
+
+Recommend prompt initiation of evidence-based lipid-lowering pharmacotherapy, with a high-intensity statin as first-line treatment unless contraindicated or not tolerated. The markedly elevated LDL cholesterol warrants treatment independent of calculated 10-year risk. If LDL reduction remains inadequate or statin intolerance develops, addition of non-statin therapy such as ezetimibe should be considered.
+
+Discussed a heart-healthy eating pattern emphasizing reduced saturated and trans fats, avoidance of excessive refined carbohydrates, increased soluble fiber, weight reduction as appropriate, and regular aerobic and resistance activity. Counsel regarding complete tobacco cessation was provided.
+
+Recommend evaluation for contributing secondary causes of severe dyslipidemia and consideration of inherited lipid disorder given the degree and duration of LDL elevation and the presence of reported xanthomas. Additional risk stratification with ApoB and lipoprotein(a), and consideration of coronary artery calcium imaging, may be appropriate after shared decision-making.
+
+Because of diabetes, chronic kidney disease, and fatty liver disease, treatment should be coordinated with ongoing monitoring of metabolic and hepatic status. Repeat fasting lipid assessment after initiation or adjustment of therapy is recommended to document response and guide intensification. Follow up after treatment initiation to assess tolerance, adherence, and degree of LDL reduction.

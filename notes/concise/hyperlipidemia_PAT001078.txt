@@ -1,0 +1,19 @@
+Chief Complaint
+
+Routine follow-up of hyperlipidemia.
+
+Subjective
+
+William Turner is an 86-year-old man with a 47-year history of hyperlipidemia, currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. He continues to smoke. Relevant comorbidities include coronary artery disease for 21 years, hypertension for 16 years, and nonalcoholic fatty liver disease for 8 years.
+
+Objective
+
+Blood pressure 146/86 mmHg, pulse 79 bpm, respirations 17/min, temperature 36.9°C, oxygen saturation 95%. Height 190 cm, weight 89.9 kg, BMI 24.9 kg/m². Total cholesterol 383 mg/dL, LDL cholesterol 265 mg/dL, HDL cholesterol 44 mg/dL, triglycerides 372 mg/dL.
+
+Assessment
+
+Severe, currently untreated hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. His longstanding coronary artery disease and active tobacco use confer very high cardiovascular risk, despite absence of current ischemic or peripheral vascular symptoms. Hypertension remains above goal today. History of nonalcoholic fatty liver disease is relevant when selecting and monitoring lipid-lowering therapy.
+
+Plan
+
+Discussed the substantial cardiovascular risk associated with his lipid profile and coronary artery disease. Recommend initiation of guideline-directed statin therapy after reviewing risks, benefits, liver history, and patient preferences; consider addition of ezetimibe if LDL remains markedly elevated. Obtain a fasting lipid panel and liver profile after treatment initiation or adjustment, using clinical judgment regarding monitoring. Counsel on a heart-healthy diet low in saturated and trans fats, regular activity as tolerated, and smoking cessation. Continue monitoring blood pressure and coordinate management of coronary artery disease and hypertension. Follow up after repeat lipid testing to reassess response and treatment tolerance.

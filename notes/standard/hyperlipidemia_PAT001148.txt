@@ -1,0 +1,33 @@
+Chief Complaint
+
+Medication review for longstanding hyperlipidemia.
+
+Subjective
+
+Ian Lawson is an 81-year-old man presenting for review of untreated hyperlipidemia. He has had elevated lipids for approximately 46 years and is not currently described as receiving lipid-lowering therapy. No current medication regimen is provided for adherence or tolerance review. He denies chest discomfort, exertional calf pain, dizziness, xanthomas, and xanthelasma. He does not smoke.
+
+Relevant comorbidities include type 2 diabetes mellitus for 32 years, chronic kidney disease for 33 years, and longstanding obesity for 54 years. Current weight is 108.4 kg at 165 cm.
+
+Objective
+
+Vital signs: Blood pressure 144/84 mmHg, pulse 82 bpm, respiratory rate 21/min, temperature 37.0°C, oxygen saturation 95% on room air. BMI 39.8 kg/m².
+
+Recent lipid panel: total cholesterol 321 mg/dL, LDL cholesterol 211 mg/dL, HDL cholesterol 42 mg/dL, triglycerides 342 mg/dL.
+
+Assessment
+
+Hyperlipidemia, longstanding and currently untreated. Lipid levels are markedly elevated, with LDL 211 mg/dL and concomitant hypertriglyceridemia at 342 mg/dL. His advanced age, diabetes, chronic kidney disease, obesity, and elevated blood pressure substantially increase cardiovascular risk, although he reports no current chest discomfort, claudication, or dizziness. No lipid-lowering medication effectiveness or adverse effects can be assessed because an active regimen is not identified.
+
+Type 2 diabetes mellitus, longstanding, and chronic kidney disease are important considerations when selecting and monitoring lipid therapy.
+
+Severe obesity, BMI 39.8 kg/m².
+
+Plan
+
+Discussed the significance of the markedly elevated LDL and triglycerides and the expected benefit of pharmacologic lipid lowering in the setting of diabetes and chronic kidney disease. Recommend initiation of statin therapy, preferably a maximally tolerated moderate- to high-intensity regimen, using shared decision-making given his age and comorbidity burden. Atorvastatin or rosuvastatin would be reasonable options; dosing should account for renal function and overall tolerance.
+
+Reviewed potential adverse effects, including muscle aches, weakness, and medication intolerance. He should report new or persistent symptoms promptly. If statin therapy is not tolerated or LDL reduction is inadequate, addition of ezetimibe may be considered. Triglycerides are elevated but below the range generally associated with immediate pancreatitis risk; emphasis should be placed on improved glycemic control, reduction of saturated fats and refined carbohydrates, weight reduction, and avoidance of alcohol if applicable.
+
+Assess medication adherence at each visit once therapy is started, including missed doses, barriers to access, and adverse effects. Recommend repeat fasting lipid panel after approximately 4–12 weeks of treatment to assess response and guide titration. Consider evaluation for secondary contributors to dyslipidemia and review of kidney and liver function before and during therapy as clinically appropriate.
+
+Encouraged a heart-healthy eating pattern, increased physical activity as tolerated, and gradual weight loss. Follow up after initiation of therapy to review tolerance, adherence, and lipid response.

@@ -1,0 +1,61 @@
+Chief Complaint
+
+Initial outpatient consultation for longstanding type 2 diabetes mellitus.
+
+History of Present Illness
+
+Victor Pierce is an 80-year-old man presenting for initial outpatient evaluation of type 2 diabetes mellitus, reportedly present for approximately 47 years. His diabetes has not been under an established active management plan. Recent laboratory results show hemoglobin A1c of 9.7% and fasting glucose of 232 mg/dL, consistent with significantly elevated glycemia. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. There is no reported acute metabolic complaint today.
+
+He has a longstanding history of hypertension for approximately 38 years and obesity for approximately 44 years. He does not smoke. No current diabetes medication regimen is documented as part of this initial consultation.
+
+Past Medical History
+
+Type 2 diabetes mellitus for approximately 47 years, currently poorly controlled based on available glycemic measurements. Hypertension for approximately 38 years. Obesity for approximately 44 years.
+
+Social History
+
+He is a nonsmoker. Other social history was not contributory to today’s diabetes-focused evaluation.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Endocrine: Denies polydipsia, polyuria, and polyphagia.
+
+Eyes: Denies blurred vision.
+
+Skin: Denies slow-healing wounds or frequent infections.
+
+Neurologic: Denies numbness or tingling of the hands or feet.
+
+Objective
+
+Vital signs: Blood pressure 150/82 mmHg, pulse 77 beats per minute, respiratory rate 18 per minute, temperature 36.8°C, oxygen saturation 97% on room air.
+
+Height 180 cm. Weight 119.6 kg. BMI 36.9 kg/m², consistent with obesity.
+
+Laboratory data: Hemoglobin A1c 9.7%. Fasting glucose 232 mg/dL.
+
+No additional examination findings are provided from today’s visit.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, with substantially elevated hemoglobin A1c and fasting glucose indicating inadequate glycemic control. Although he denies classic hyperglycemic symptoms and neuropathic or infectious complications, the degree and duration of hyperglycemia warrant prompt treatment initiation and evaluation for end-organ involvement.
+
+Hypertension with blood pressure above usual outpatient treatment targets today.
+
+Obesity, BMI 36.9 kg/m², a significant contributor to insulin resistance and cardiovascular risk.
+
+Plan
+
+Discussed the significance of the elevated A1c and fasting glucose, including the risk of progressive microvascular and cardiovascular complications even in the absence of symptoms. Establish a structured diabetes treatment plan promptly, with consideration of age, comorbid hypertension, and renal function. Metformin would be a reasonable potential first-line option if renal function is adequate and there are no contraindications; renal function should be assessed before initiation. Given the A1c of 9.7%, additional glucose-lowering therapy may be needed if glycemic response is insufficient.
+
+Obtain renal function assessment including serum creatinine and estimated glomerular filtration rate, along with urine albumin-to-creatinine ratio. Obtain a fasting lipid profile for cardiovascular risk assessment. Continue periodic hemoglobin A1c and fasting glucose monitoring to assess response to treatment.
+
+Recommend diabetes-focused nutrition counseling emphasizing reduction of concentrated carbohydrates and portion control, along with gradual, individualized physical activity as tolerated. Weight reduction should be approached safely and realistically.
+
+Recommend comprehensive foot examination, including skin assessment, pulses, and sensation, at follow-up or as part of the initial diabetes evaluation. Recommend a dilated retinal examination because of the long duration of diabetes. Counsel regarding daily foot inspection and prompt evaluation of any wound, redness, drainage, or change in sensation.
+
+Blood pressure should be rechecked and incorporated into the overall cardiovascular risk-reduction plan. Review of the complete medication regimen and adjustment of antihypertensive therapy should occur as part of ongoing primary care management.
+
+Return for close outpatient follow-up after completion of the recommended baseline diabetes evaluation to review results and finalize pharmacologic therapy. He should seek urgent care for vomiting, confusion, marked weakness, inability to maintain hydration, or development of severe hyperglycemic symptoms.

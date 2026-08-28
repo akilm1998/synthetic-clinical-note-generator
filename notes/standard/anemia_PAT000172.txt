@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Maxwell Knight is a 35-year-old man presenting for follow-up of anemia present for approximately 4 years. He reports headache and has noted pallor. He denies fatigue, weakness, dizziness, dyspnea, palpitations, and reduced exercise tolerance. Anemia has not been actively managed to date.
+
+Relevant comorbidities include inflammatory bowel disease for 7 years, chronic infection for 4 years, and chronic kidney disease for 1 year. He currently smokes. No medication regimen is provided.
+
+Objective
+
+Height 188 cm, weight 91.9 kg, BMI 26.0 kg/m².
+
+Blood pressure 136/84 mmHg, pulse 84 bpm, respiratory rate 20/min, temperature 36.7°C, oxygen saturation 99%.
+
+Pallor is present. Cardiovascular examination is otherwise normal, and respiratory examination is normal.
+
+Laboratory results: hemoglobin 9.7 g/dL, hematocrit 28.5%, RBC count 3.17 million/µL, MCV 90 fL, serum iron 38 µg/dL, ferritin 262 ng/mL, TIBC 223 µg/dL, and transferrin saturation 17.0%.
+
+Assessment
+
+Chronic normocytic anemia with reduced hemoglobin, hematocrit, and RBC count. The low serum iron and transferrin saturation with elevated ferritin and reduced TIBC are most consistent with anemia of chronic inflammation/chronic disease rather than uncomplicated absolute iron deficiency. His inflammatory bowel disease, chronic infection, and chronic kidney disease are likely contributing factors. Pallor and headache are present, without reported cardiopulmonary symptoms or hemodynamic instability.
+
+The anemia is currently insufficiently addressed and warrants evaluation of contributing inflammatory, renal, nutritional, and hematologic factors.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral blood smear to assess persistence and marrow response.
+
+Recommend evaluation of vitamin B12, folate, and renal function, along with inflammatory markers, as clinically indicated. Continue assessment for ongoing inflammatory bowel disease activity or chronic infection, as control of the underlying disorders is central to improving anemia.
+
+Review iron indices in clinical context; the current ferritin does not support empiric iron therapy alone as the sole treatment strategy. Consider oral or intravenous iron only after further assessment of iron availability, gastrointestinal disease activity, and treatment response.
+
+If anemia persists or worsens after addressing reversible contributors, consider hematology-directed management, including assessment for erythropoiesis-stimulating therapy in the setting of chronic kidney disease when appropriate.
+
+Counseled regarding smoking cessation, which may improve overall cardiopulmonary and inflammatory health. Arrange outpatient reassessment after the recommended evaluation, with earlier review for worsening headache, dyspnea, chest discomfort, palpitations, dizziness, or marked functional decline.

@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Elijah Stone is a 54-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 9 years and currently without an established management regimen. He denies chest discomfort, exertional leg pain, or dizziness. He reports fatty-appearing deposits involving the skin and eyelids, consistent with xanthomas and xanthelasma.
+
+Relevant history includes coronary artery disease for 2 years, hypertension for 13 years, and non-alcoholic fatty liver disease for 12 years. He does not smoke. Current weight is 65.1 kg at a height of 165 cm, with BMI 23.9 kg/m².
+
+Recent lipid results show total cholesterol 311 mg/dL, LDL cholesterol 208 mg/dL, HDL cholesterol 35 mg/dL, and triglycerides 340 mg/dL.
+
+Objective
+
+Vital signs: Blood pressure 138/90 mmHg, pulse 71 bpm, respiratory rate 15/min, temperature 36.7°C, oxygen saturation 99% on room air.
+
+Well-developed male with BMI in the normal range. Xanthelasma and reported xanthomas are present. No acute cardiopulmonary symptoms reported today. No additional examination findings documented.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and triglycerides and low HDL cholesterol, longstanding and not currently adequately addressed. The lipid profile represents significant mixed dyslipidemia, with LDL 208 mg/dL and triglycerides 340 mg/dL. The presence of coronary artery disease places him at particularly high cardiovascular risk.
+
+Hypertension with mildly elevated office blood pressure at 138/90 mmHg.
+
+Coronary artery disease, longstanding 2 years, without current chest discomfort or other reported ischemic symptoms.
+
+Non-alcoholic fatty liver disease, present for 12 years.
+
+Plan
+
+Discussed the importance of active lipid management, dietary modification, regular physical activity as tolerated, and ongoing cardiovascular risk reduction. Given the markedly elevated LDL cholesterol and known coronary artery disease, recommend initiation of guideline-directed high-intensity statin therapy unless contraindicated, with medication selection and monitoring reviewed with the patient. If LDL remains above goal despite maximally tolerated statin therapy, consider addition of ezetimibe and escalation to other lipid-lowering therapy based on response and cardiovascular risk.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider evaluation with apolipoprotein B and lipoprotein(a), and assessment for secondary contributors to dyslipidemia as clinically appropriate. Liver-related monitoring should be considered in the context of his known non-alcoholic fatty liver disease.
+
+Counseled on reducing saturated and trans fats, limiting refined carbohydrates and excess alcohol, and maintaining a heart-healthy diet. Continue tobacco avoidance. Encourage home blood pressure monitoring and continued management of hypertension.
+
+Reviewed warning symptoms requiring urgent evaluation, including new or worsening chest discomfort, shortness of breath, syncope, or exertional leg pain. Follow up after lipid reassessment to review treatment response and update the cardiovascular risk-reduction plan.

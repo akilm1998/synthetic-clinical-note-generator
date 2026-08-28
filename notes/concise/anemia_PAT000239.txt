@@ -1,0 +1,22 @@
+Chief Complaint
+Annual review and follow-up of anemia.
+
+Subjective
+Maria Armstrong is a 47-year-old woman presenting for comprehensive annual review. She denies fatigue, weakness, dizziness, headache, pallor, dyspnea, palpitations, or reduced exercise tolerance. Anemia has not been actively managed. Relevant chronic conditions include inflammatory bowel disease for 17 years, type 2 diabetes mellitus for 15 years, and heart failure for 1 year. She does not smoke.
+
+Objective
+Height 167 cm; weight 56.1 kg; BMI 20.1 kg/m².
+BP 124/81 mmHg, pulse 88 bpm, respiratory rate 23/min, temperature 36.6°C, oxygen saturation 99%.
+Hemoglobin 9.5 g/dL, hematocrit 28.9%, RBC 3.48 million/µL, MCV 83 fL. Serum iron 41 µg/dL, ferritin 197 ng/mL, TIBC 245 µg/dL, transferrin saturation 16.7%.
+
+Assessment
+Anemia of chronic disease/inflammation, currently asymptomatic, with normocytic anemia and low serum iron/transferrin saturation in the setting of longstanding inflammatory bowel disease and other chronic comorbidity. Ferritin is preserved, and the low TIBC supports an inflammatory component rather than isolated iron depletion.
+
+Chronic inflammatory bowel disease, type 2 diabetes mellitus, and heart failure noted for ongoing annual review.
+
+Plan
+Obtain CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function, and inflammatory markers to further characterize the anemia. Review inflammatory bowel disease activity, nutritional status, and potential gastrointestinal blood loss; coordinate management with the treating clinician as appropriate.
+
+Consider iron replacement only after assessment of inflammatory activity and iron availability; intravenous iron may be appropriate if oral absorption or tolerance is limited. Consider hematology evaluation if anemia worsens, remains unexplained, or fails to improve.
+
+Continue routine chronic disease monitoring, including diabetes and heart failure care. Review age-appropriate cancer screening, immunizations, cardiovascular risk reduction, and inflammatory bowel disease surveillance at this annual visit. Return for worsening fatigue, dyspnea, chest discomfort, palpitations, dizziness, or bleeding.

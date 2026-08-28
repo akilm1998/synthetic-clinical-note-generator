@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Lauren Lawson is a 68-year-old woman, height 161 cm, weight 61.2 kg, BMI 23.6 kg/m², presenting for routine outpatient follow-up of anemia present for approximately 36 years. She reports headache but denies fatigue, generalized weakness, dizziness, dyspnea, palpitations, reduced exercise tolerance, or other reported symptoms. She does not smoke. Her relevant chronic conditions include chronic kidney disease of approximately 24 years’ duration and a chronic infection of approximately 26 years’ duration. No current anemia-directed medication regimen is documented.
+
+Objective
+
+Vital signs: blood pressure 132/81 mmHg, pulse 82 bpm, respiratory rate 19/min, temperature 36.7°C, oxygen saturation 99% on room air.
+
+Laboratory data: hemoglobin 8.4 g/dL, hematocrit 24.8%, RBC count 2.73 million/µL, MCV 91 fL, serum iron 31 µg/dL, ferritin 390 ng/mL, TIBC 217 µg/dL, and transferrin saturation 14.3%.
+
+The anemia is normocytic with reduced serum iron and transferrin saturation, elevated ferritin, and reduced TIBC, a pattern most consistent with iron-restricted erythropoiesis in the setting of chronic inflammation and/or chronic kidney disease rather than uncomplicated absolute iron deficiency.
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding and currently not actively managed. Hemoglobin remains substantially reduced at 8.4 g/dL with normocytic indices. The iron profile supports inflammatory iron sequestration, with chronic kidney disease also potentially contributing through impaired erythropoietin production. She is hemodynamically stable and denies cardiopulmonary or exertional symptoms, although headache may be anemia-related and warrants monitoring. There is no current clinical information suggesting acute decompensation.
+
+Chronic kidney disease, longstanding, likely contributory to the anemia. No formal stage is assigned based on the available information.
+
+Chronic infection, longstanding, a potential ongoing source of inflammatory burden.
+
+Plan
+
+Obtain updated CBC with reticulocyte count and peripheral smear to further characterize erythropoietic response and exclude an alternate hematologic process. Check vitamin B12 and folate levels and reassess renal function and inflammatory markers as clinically appropriate. Continue evaluation and treatment of the underlying chronic kidney disease and chronic infection, as control of the inflammatory drivers is central to anemia management.
+
+Given the hemoglobin level and chronicity, discuss anemia-directed therapy after review of renal function, inflammatory status, and nutritional studies. Depending on the overall clinical context, consideration may be given to iron replacement and/or an erythropoiesis-stimulating agent; treatment should be individualized and monitored rather than initiated empirically from the available data alone.
+
+Monitor for worsening fatigue, weakness, dyspnea, chest discomfort, palpitations, dizziness, syncope, or declining exercise tolerance. Arrange close outpatient reassessment after the recommended evaluation, with earlier assessment if symptoms develop or worsen.

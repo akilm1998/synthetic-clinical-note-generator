@@ -1,0 +1,66 @@
+Chief Complaint
+
+Initial consultation for chronic kidney disease and markedly reduced kidney function.
+
+Subjective
+
+Eliza Chandler is a 46-year-old woman, 171 cm tall and weighing 77.2 kg, with BMI 26.4 kg/m², presenting for initial outpatient evaluation of chronic kidney disease. Kidney disease has been present for approximately 3 years and has not been under active management. Available laboratory results show serum creatinine 3.21 mg/dL, estimated GFR 14 mL/min/1.73 m², and BUN 64 mg/dL.
+
+She reports no fatigue, pruritus, muscle cramps, nausea, peripheral edema, change in urinary frequency, sleep disturbance, or shortness of breath. No uremic or fluid-overload symptoms are reported today. She has a 9-year history of hypertension and a 1-year history of secondary hyperparathyroidism. She does not smoke.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Respiratory: Denies shortness of breath.
+
+Cardiovascular/volume-related: Denies peripheral edema.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urinary frequency.
+
+Skin: Denies pruritus.
+
+Musculoskeletal: Denies muscle cramps.
+
+Sleep: Denies sleep disturbance.
+
+Objective
+
+Vital Signs: Blood pressure 158/96 mmHg; pulse 75 bpm; respiratory rate 17/min; temperature 36.6°C; oxygen saturation 98% on room air.
+
+Anthropometrics: Height 171 cm; weight 77.2 kg; BMI 26.4 kg/m².
+
+General: Patient presents for outpatient consultation and is not reported to be in acute distress.
+
+Cardiopulmonary: Respiratory rate and oxygen saturation are normal. No shortness of breath is reported.
+
+Extremities: No peripheral edema is reported.
+
+Laboratory Data:
+Serum creatinine: 3.21 mg/dL
+Estimated GFR: 14 mL/min/1.73 m²
+BUN: 64 mg/dL
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced kidney function, present for approximately 3 years. Creatinine 3.21 mg/dL, BUN 64 mg/dL, and estimated GFR 14 mL/min/1.73 m² are consistent with advanced renal impairment. The patient is currently asymptomatic without reported nausea, pruritus, fatigue, muscle cramps, sleep disturbance, edema, urinary frequency changes, or dyspnea. Despite the absence of symptoms, the degree of renal dysfunction requires prompt nephrology-directed evaluation and active management.
+
+2. Hypertension, longstanding for 9 years, currently above goal at 158/96 mmHg. Poor blood pressure control may contribute to ongoing renal injury and increases cardiovascular risk.
+
+3. Secondary hyperparathyroidism, present for approximately 1 year, in the setting of chronic kidney disease. Further assessment of mineral and bone metabolism is indicated.
+
+4. Overweight by BMI, 26.4 kg/m². No smoking history.
+
+Plan
+
+Arrange prompt nephrology consultation for comprehensive evaluation of advanced chronic kidney disease, determination of etiology and trajectory, and development of a kidney-failure management plan. Given the estimated GFR of 14 mL/min/1.73 m², discuss renal replacement therapy education and advance planning as clinically appropriate, while recognizing that treatment decisions depend on symptoms, laboratory trends, volume status, and overall clinical assessment.
+
+Obtain or recommend repeat renal function assessment with serum creatinine, eGFR, BUN, and serum electrolytes. Recommend urine albumin-to-creatinine ratio to quantify proteinuria and assist with risk stratification. Recommend complete blood count to assess for anemia associated with chronic kidney disease, and intact parathyroid hormone evaluation with appropriate mineral studies to assess secondary hyperparathyroidism. Renal ultrasound is recommended to evaluate renal size and structural abnormalities if not previously completed.
+
+Address blood pressure promptly with confirmation of home or repeat office readings, review of dietary sodium intake, and selection or adjustment of antihypertensive therapy by the treating clinician/nephrologist. Medication reconciliation should include review for nephrotoxic agents and appropriate renal dosing of all medications. Avoid nonsteroidal anti-inflammatory drugs and other avoidable nephrotoxins.
+
+Counsel regarding moderate sodium restriction, avoidance of over-the-counter herbal or unregulated supplements, maintenance of appropriate hydration without excessive fluid intake, and prompt reporting of reduced urine output, new swelling, worsening shortness of breath, persistent nausea or vomiting, confusion, severe weakness, or chest pain.
+
+Continue monitoring for manifestations of uremia, fluid overload, anemia, electrolyte disturbance, and progression of secondary hyperparathyroidism. Follow up promptly after nephrology evaluation and repeat laboratory testing.

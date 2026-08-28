@@ -1,0 +1,35 @@
+Chief Complaint
+
+Annual health review and reassessment of chronic anemia.
+
+Subjective
+
+Emma Carter is a 67-year-old woman presenting for comprehensive annual review. She has a 15-year history of anemia and is not currently receiving active anemia-directed management. She denies fatigue, weakness, dizziness, headache, shortness of breath, palpitations, and reduced exercise tolerance. Pallor is present. She does not smoke.
+
+Her relevant comorbidity is heart failure, present for approximately 7 years. She does not report current cardiopulmonary symptoms. Medication history, allergies, and additional heart-failure treatment details are not provided.
+
+Objective
+
+Height is 155 cm and weight is 71.4 kg, with BMI 29.7 kg/m². Blood pressure is 120/76 mmHg, pulse 89 bpm, respiratory rate 20/min, temperature 36.7°C, and oxygen saturation 98% on room air. Pallor is noted. Cardiopulmonary findings are clinically stable based on normal oxygenation, absence of reported dyspnea or palpitations, and normal heart rate.
+
+Laboratory results show hemoglobin 8.2 g/dL, hematocrit 24.1%, RBC count 2.56 million/µL, and MCV 94 fL. Serum iron is 49 µg/dL, ferritin 284 ng/mL, TIBC 246 µg/dL, and transferrin saturation 19.9%.
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding and currently untreated. The anemia is substantial and normocytic, with reduced serum iron and TIBC and an elevated ferritin, a pattern most consistent with impaired iron utilization in chronic disease rather than isolated absolute iron deficiency. The degree of anemia warrants structured evaluation despite minimal reported symptoms. Her chronic heart failure may contribute to or complicate the anemia and should be considered in management. There is no current evidence of hemodynamic instability or hypoxemia.
+
+Chronic heart failure, present for approximately 7 years. She is clinically without reported shortness of breath, palpitations, or reduced exercise tolerance today, with blood pressure, pulse, and oxygen saturation within acceptable range. Ongoing surveillance is appropriate.
+
+Overweight, BMI 29.7 kg/m². Weight and cardiometabolic risk were reviewed in the context of heart failure and general preventive care.
+
+Preventive health maintenance. Annual review completed, including smoking status, vital signs, weight, chronic disease assessment, and symptom review.
+
+Plan
+
+Further evaluation of the anemia is recommended with repeat CBC, reticulocyte count, peripheral blood smear, renal function testing, vitamin B12, folate, and inflammatory markers. The clinical assessment should also review for occult blood loss, nutritional contributors, chronic infection, autoimmune or inflammatory disease, and other causes of persistent normocytic anemia. Given the hemoglobin of 8.2 g/dL and longstanding lack of management, timely follow-up is advised to review results and determine whether iron replacement, treatment of an underlying inflammatory condition, or hematology input is appropriate. Oral or intravenous iron should not be initiated empirically without correlating the iron studies with the broader clinical evaluation.
+
+Continue monitoring for new fatigue, weakness, dizziness, dyspnea, chest discomfort, palpitations, syncope, or declining exercise tolerance. Urgent assessment is appropriate if significant cardiopulmonary symptoms or acute worsening develop.
+
+Review heart-failure symptoms and current treatment regimen at follow-up, with attention to weight change, edema, orthopnea, paroxysmal nocturnal dyspnea, and exercise tolerance. Maintain routine heart-failure follow-up and reinforce adherence to the established care plan once medication details are confirmed.
+
+Encourage gradual nutrition- and activity-based weight management as tolerated, avoiding exertion beyond her cardiac limitations. Continue age-appropriate preventive care, including immunization review, cancer screening, bone health assessment, fall-risk review, and routine monitoring of blood pressure and cardiovascular risk factors.

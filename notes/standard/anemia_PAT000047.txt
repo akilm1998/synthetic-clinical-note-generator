@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Isabella Parker is a 61-year-old woman presenting for routine outpatient follow-up of anemia present for approximately 10 years. She reports no current fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other cardiopulmonary symptoms. She does not report symptomatic decline since the prior assessment.
+
+Her medical history is notable for chronic kidney disease of approximately 9 years’ duration, rheumatoid arthritis for 17 years, and inflammatory bowel disease for 35 years. She is a nonsmoker. Current medication use was not provided.
+
+Objective
+
+Height 152 cm, weight 55.2 kg, BMI 23.9 kg/m². Blood pressure 135/77 mmHg, pulse 80 bpm, respiratory rate 19/min, temperature 36.7°C, oxygen saturation 97%.
+
+Recent laboratory results demonstrate hemoglobin 8.6 g/dL, hematocrit 25.4%, RBC count 2.85 million/µL, and MCV 89 fL. Serum iron is 25 µg/dL, ferritin 206 ng/mL, TIBC 245 µg/dL, and transferrin saturation 10.2%.
+
+Assessment
+
+Chronic normocytic anemia consistent with anemia of chronic disease/inflammation. The low serum iron and transferrin saturation with a ferritin of 206 ng/mL and reduced TIBC support impaired iron availability in the setting of chronic inflammatory disease and chronic kidney disease rather than uncomplicated absolute iron deficiency alone. The anemia is longstanding and currently without reported constitutional or cardiopulmonary symptoms. Hemodynamically stable by available vital signs.
+
+The degree of anemia remains clinically significant and warrants renewed evaluation and active management, particularly given the concurrent chronic kidney disease, rheumatoid arthritis, and inflammatory bowel disease.
+
+Plan
+
+Obtain updated complete blood count with reticulocyte count and peripheral blood smear to reassess severity and marrow response. Recommend serum vitamin B12, folate, renal function testing, and inflammatory markers as part of the anemia evaluation.
+
+Review for ongoing inflammatory activity related to rheumatoid arthritis or inflammatory bowel disease and assess for occult gastrointestinal blood loss or reduced iron absorption as clinically indicated. Coordinate anemia management with the clinicians managing her chronic kidney disease and inflammatory conditions.
+
+Consider iron replacement strategy based on repeat indices, renal function, inflammatory burden, and assessment for gastrointestinal absorption or blood loss. Erythropoiesis-stimulating therapy may be considered only after evaluation of reversible contributors and in the context of chronic kidney disease management.
+
+Counseled to report new dyspnea, chest discomfort, palpitations, dizziness, syncope, worsening weakness, or reduced exercise tolerance promptly. Continue outpatient follow-up after repeat evaluation to review laboratory trends and treatment options.

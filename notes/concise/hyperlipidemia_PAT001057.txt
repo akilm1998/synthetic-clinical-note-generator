@@ -1,0 +1,17 @@
+Chief Complaint
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+Lauren Lawson is a 60-year-old woman with a 23-year history of hyperlipidemia that has not been actively managed. Recent lipid profile shows markedly elevated total cholesterol and LDL-C with elevated triglycerides. She reports xanthomas and xanthelasma. Denies chest discomfort, exertional leg pain, or dizziness. She does not smoke. History also includes hypertension for 7 years.
+
+Objective
+Height 172 cm; weight 60.1 kg; BMI 20.3 kg/m².
+BP 142/87 mmHg, pulse 72 bpm, respirations 18/min, temperature 36.6°C, oxygen saturation 99%.
+Total cholesterol 376 mg/dL, LDL-C 275 mg/dL, HDL-C 41 mg/dL, triglycerides 301 mg/dL.
+
+Assessment
+Hyperlipidemia, longstanding and currently untreated, with severe LDL elevation and moderate hypertriglyceridemia. Xanthomas and xanthelasma support significant chronic lipid burden. No current symptoms suggestive of angina or claudication.
+Hypertension, with blood pressure above goal today.
+
+Plan
+Discussed markedly abnormal lipid levels and increased long-term cardiovascular risk. Recommend initiation of high-intensity statin therapy after shared decision-making, with consideration of additional lipid-lowering therapy if response is inadequate or statin intolerance occurs. Review for secondary contributors and possible inherited lipid disorder; recommend repeat fasting lipid panel and consideration of ApoB and lipoprotein(a) testing. Counsel on a heart-healthy diet low in saturated and trans fats, regular aerobic activity, and continued avoidance of tobacco. Reassess blood pressure and overall cardiovascular risk at follow-up. Return after treatment initiation and repeat lipid assessment.

@@ -1,0 +1,39 @@
+Chief Complaint
+
+Initial consultation for hyperlipidemia.
+
+Subjective
+
+Penelope Long is a 34-year-old woman presenting for initial outpatient evaluation of hyperlipidemia, present for approximately 5 years and not currently under active management. Recent lipid results show total cholesterol 320 mg/dL, LDL cholesterol 236 mg/dL, HDL cholesterol 37 mg/dL, and triglycerides 234 mg/dL.
+
+She denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. She does not smoke.
+
+Relevant medical history includes obesity for approximately 11 years, type 2 diabetes mellitus for 4 years, and chronic kidney disease diagnosed approximately 1 year ago. Current weight is 102.5 kg with height 164 cm and BMI 38.1 kg/m².
+
+Objective
+
+Vital signs: blood pressure 128/85 mmHg, pulse 77 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Laboratory results: total cholesterol 320 mg/dL, LDL cholesterol 236 mg/dL, HDL cholesterol 37 mg/dL, triglycerides 234 mg/dL.
+
+No lipid-related cutaneous symptoms are reported. No cardiovascular or claudication symptoms are reported.
+
+Assessment
+
+1. Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. LDL of 236 mg/dL with low HDL and associated diabetes, obesity, and chronic kidney disease represents a significant long-term atherosclerotic cardiovascular risk. She is currently asymptomatic from a cardiovascular standpoint, without reported chest discomfort, claudication, or dizziness. The degree of LDL elevation warrants evaluation for secondary contributors and possible inherited lipid disorder, particularly given her young age. No xanthomas or xanthelasma are reported.
+
+2. Type 2 diabetes mellitus, present for approximately 4 years. Diabetes substantially increases cardiovascular risk and is an important consideration in lipid-lowering therapy selection and treatment intensity.
+
+3. Obesity, BMI 38.1 kg/m², present for approximately 11 years. This likely contributes to the adverse lipid pattern and increases cardiometabolic risk.
+
+4. Chronic kidney disease, present for approximately 1 year. Kidney disease is an additional cardiovascular risk factor and should be considered when selecting and monitoring lipid-lowering therapy.
+
+Plan
+
+Discussed the significance of the lipid results and the benefits of active cardiovascular risk reduction. Recommend initiation of guideline-directed high-intensity statin therapy after review of medication history, contraindications, potential drug interactions, and pregnancy plans. Atorvastatin or rosuvastatin would be reasonable options; therapy should be selected and prescribed following shared decision-making. If LDL reduction remains inadequate or statin therapy is not tolerated, addition of ezetimibe can be considered.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response and adherence. Recommend assessment of liver and kidney function and review for secondary causes of marked LDL elevation, including thyroid disease, renal disease-related dyslipidemia, and other metabolic contributors. Given the degree of LDL elevation at a young age, obtain a detailed family history of premature cardiovascular disease and markedly elevated cholesterol; consider ApoB and lipoprotein(a) measurement and referral for lipid specialist evaluation if clinically indicated.
+
+Counseled regarding a heart-healthy eating pattern emphasizing vegetables, fruits, legumes, whole grains, lean protein, and unsaturated fats while reducing saturated and trans fats, refined carbohydrates, and excess calories. Encourage gradual, sustainable weight reduction and regular physical activity as tolerated, with coordination of diabetes and chronic kidney disease care. Continue tobacco avoidance.
+
+Advised to seek urgent evaluation for new chest pressure, shortness of breath, syncope, neurologic symptoms, or exertional leg pain. Arrange outpatient follow-up after repeat lipid testing to review response and finalize ongoing management.

@@ -1,0 +1,16 @@
+Chief Complaint
+Urgent follow-up for anemia.
+
+Subjective
+Patricia Greene is a 40-year-old woman presenting for focused follow-up of anemia present for approximately 4 years and not currently under active treatment. She denies fatigue, weakness, dizziness, headache, dyspnea, palpitations, or reduced exercise tolerance. Pallor is noted. She does not smoke. Relevant comorbidities include type 2 diabetes mellitus for 7 years and chronic infection for 7 years.
+
+Objective
+Height 180 cm, weight 85.9 kg, BMI 26.5 kg/m². Blood pressure 118/79 mmHg, pulse 88 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 99% on room air. Pallor present. No tachycardia or respiratory distress evident from the recorded vital signs.
+
+Laboratory data: hemoglobin 8.2 g/dL, hematocrit 25.2%, RBC 2.68 million/µL, MCV 94 fL, serum iron 37 µg/dL, ferritin 181 ng/mL, TIBC 203 µg/dL, transferrin saturation 18.2%.
+
+Assessment
+Chronic normocytic anemia with significant reduction in hemoglobin. Low serum iron and TIBC with preserved ferritin are most consistent with anemia of chronic inflammation, in the setting of chronic infection; chronic kidney disease and other contributing causes should also be assessed. She is currently hemodynamically stable and largely asymptomatic, with pallor on examination.
+
+Plan
+Recommend prompt repeat CBC with reticulocyte count and peripheral smear, along with renal function testing, inflammatory markers, vitamin B12, and folate to clarify contributing factors. Continue evaluation and treatment of the underlying chronic infection with the treating clinician. Hematology consultation is recommended given the hemoglobin of 8.2 g/dL and prolonged untreated course; consideration of iron replacement or an erythropoiesis-stimulating agent should be guided by the underlying cause and renal/inflammatory assessment. Seek urgent care for new dyspnea, chest pain, syncope, palpitations, or rapidly worsening weakness.

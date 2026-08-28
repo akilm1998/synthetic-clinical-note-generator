@@ -1,0 +1,41 @@
+Chief Complaint
+
+Medication review and follow-up of longstanding hypertension.
+
+Subjective
+
+Grant Porter is a 79-year-old man seen for outpatient medication review. He has a 31-year history of hypertension that is currently not being actively managed. There is no antihypertensive regimen documented for medication-effectiveness, adherence, or tolerance review. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, and nosebleeds.
+
+Relevant history includes chronic kidney disease for approximately 23 years and hyperlipidemia for approximately 33 years. He does not smoke. Height is 189 cm and weight is 78.9 kg, with BMI 22.1 kg/m².
+
+Objective
+
+Blood pressure: 181/100 mmHg
+Pulse: 73 bpm
+Respiratory rate: 20/min
+Temperature: 36.8°C
+Oxygen saturation: 97%
+
+Serum electrolytes: sodium 142 mmol/L, potassium 4.6 mmol/L.
+
+Patient is asymptomatic at today’s markedly elevated blood pressure reading. No additional examination findings are documented.
+
+Assessment
+
+1. Longstanding essential hypertension with markedly elevated blood pressure today. He reports no symptoms suggestive of an acute hypertensive emergency, but the degree of elevation requires prompt confirmation and treatment planning. Hypertension is currently untreated/not actively managed, so medication effectiveness, adherence, and tolerance cannot be evaluated against an active regimen.
+
+2. Chronic kidney disease, longstanding. This increases the importance of careful blood pressure control and renal-conscious medication selection. Current sodium and potassium are within the provided reference context.
+
+3. Hyperlipidemia, longstanding.
+
+Plan
+
+Repeat blood pressure in the office after a period of seated rest using an appropriately sized cuff and confirm with repeat measurements. He should obtain prompt medical evaluation today if the pressure remains near this level, particularly given his age and chronic kidney disease.
+
+Discussed the importance of initiating a consistent antihypertensive treatment plan rather than continuing without therapy. Medication selection should account for chronic kidney disease, baseline electrolytes, blood pressure response, and treatment tolerance. Review adherence and adverse effects at each subsequent visit once therapy is established.
+
+Recommend evaluation of renal function and urine testing, along with an ECG and lipid profile, as clinically appropriate for longstanding uncontrolled hypertension and associated comorbidities.
+
+Seek emergency care immediately for chest pain, shortness of breath, severe headache, new neurologic symptoms, confusion, vision change, or persistent nosebleed.
+
+Arrange close outpatient follow-up for blood pressure reassessment and medication initiation/titration.

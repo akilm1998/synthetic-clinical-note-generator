@@ -1,0 +1,59 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia and review of lipid results.
+
+Subjective
+
+Naomi Myers is a 42-year-old woman, 178 cm tall and weighing 72.6 kg, with an 8-year history of hyperlipidemia, type 2 diabetes mellitus diagnosed 8 years ago, and non-alcoholic fatty liver disease for approximately 5 years. Her BMI is 22.9 kg/m². She presents for routine outpatient follow-up and disease-control assessment. Her dyslipidemia has not been actively managed to date, and no current lipid-lowering medication is provided in the record.
+
+She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She reports xanthomas and xanthelasma. She does not smoke. No medication history, allergies, family history, or prior cardiovascular events are provided.
+
+Review of Systems
+
+Constitutional: No constitutional symptoms reported.
+
+Cardiovascular: Denies chest discomfort. Denies exertional leg pain or symptoms suggestive of intermittent claudication.
+
+Neurologic: Denies dizziness.
+
+Skin: Reports fatty skin deposits consistent with xanthomas and fatty eyelid deposits consistent with xanthelasma.
+
+Respiratory, gastrointestinal, genitourinary, musculoskeletal, endocrine, hematologic, and psychiatric systems: No additional symptoms reported during today’s visit.
+
+Objective
+
+Vital Signs: Blood pressure 116/75 mmHg, pulse 70 bpm, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 178 cm, weight 72.6 kg, BMI 22.9 kg/m².
+
+General: Outpatient follow-up evaluation; no acute cardiopulmonary symptoms reported.
+
+Eyes/Skin: Xanthelasma reported. Xanthomas reported. No additional examination findings are provided.
+
+Cardiovascular: No chest discomfort or claudication reported. Blood pressure and pulse are within normal range.
+
+Laboratory Data: Total cholesterol 295 mg/dL, LDL cholesterol 198 mg/dL, HDL cholesterol 50 mg/dL, triglycerides 233 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. Current lipid profile demonstrates total cholesterol 295 mg/dL, LDL-C 198 mg/dL, HDL-C 50 mg/dL, and triglycerides 233 mg/dL. The LDL-C level is sufficiently elevated to warrant prompt pharmacologic risk reduction independent of short-term symptom status. The presence of xanthomas and xanthelasma raises concern for longstanding atherogenic lipid exposure and possible inherited susceptibility, although a specific familial disorder cannot be established from the available information. She currently has no reported anginal symptoms, claudication, or dizziness and has normal blood pressure and resting pulse.
+
+Type 2 diabetes mellitus of 8 years’ duration, representing an important cardiovascular risk enhancer in the setting of severe LDL elevation. Glycemic control data are not available in the provided record.
+
+Non-alcoholic fatty liver disease of approximately 5 years’ duration. This is relevant to cardiometabolic risk assessment but is not, by itself, a contraindication to statin therapy.
+
+Normal BMI and absence of tobacco use are favorable risk factors. Despite this, the degree and duration of LDL elevation, associated hypertriglyceridemia, diabetes, and cutaneous lipid deposits place her at increased long-term atherosclerotic cardiovascular risk.
+
+Plan
+
+Discussed the significance of the lipid results and the importance of active treatment. Recommend initiation of high-intensity statin therapy unless contraindicated or not tolerated, with selection and dosing reviewed through shared decision-making. Given LDL-C of 198 mg/dL, treatment should not be deferred solely on the basis of absence of cardiovascular symptoms. If LDL reduction is inadequate or statin intolerance develops, recommend consideration of additional therapy such as ezetimibe and, depending on response and overall risk assessment, other specialist-directed lipid-lowering treatment.
+
+Recommend a repeat fasting lipid panel after treatment initiation or adjustment to assess response and adherence. Recommend assessment of ApoB and lipoprotein(a) as additional markers of atherogenic risk. A coronary artery calcium scan may be considered if it would assist with risk discussion or treatment decision-making, but it should not delay treatment for this degree of LDL elevation.
+
+Recommend evaluation for potentially reversible secondary contributors to dyslipidemia as clinically appropriate, including thyroid, renal, hepatic, glycemic, and medication-related factors. Continue coordinated management of type 2 diabetes and non-alcoholic fatty liver disease. Lipid-lowering therapy can generally be used in patients with stable fatty liver disease, with liver safety monitoring guided by clinical circumstances.
+
+Counseled regarding a Mediterranean-style eating pattern, reduction of saturated and trans fats, avoidance of excess refined carbohydrates, increased soluble fiber, regular aerobic and resistance exercise as tolerated, and maintenance of her current healthy weight. Reinforced continued avoidance of tobacco.
+
+Recommend clarifying family history of premature cardiovascular disease and markedly elevated cholesterol at a subsequent visit, given the LDL level and presence of xanthomas. Consider lipid-specialist or preventive-cardiology evaluation if LDL remains substantially elevated despite therapy, if cutaneous deposits persist, or if an inherited lipid disorder is suspected.
+
+Follow up after repeat lipid assessment to review treatment response, tolerance, and overall cardiovascular risk reduction.

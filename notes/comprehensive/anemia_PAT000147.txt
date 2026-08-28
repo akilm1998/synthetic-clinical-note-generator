@@ -1,0 +1,53 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Denise Wheeler is a 78-year-old woman, 177 cm in height and 63.0 kg, with a BMI of 20.1 kg/m², presenting for routine outpatient follow-up of longstanding anemia. The anemia has been present for approximately 25 years and has not been under active management. She reports no current fatigue, generalized weakness, reduced exercise tolerance, dizziness, headache, palpitations, shortness of breath, or other cardiopulmonary limitation. She does not report pallor.
+
+Her relevant comorbidities include a 32-year history of inflammatory bowel disease and an 18-year history of heart failure. She currently smokes. No interval anemia-related concerns are reported.
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance.
+
+Cardiovascular: Denies palpitations.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Denies dizziness or headache.
+
+Hematologic: Denies noticeable pallor.
+
+Objective
+
+Vital Signs: Blood pressure 133/81 mmHg, pulse 91 beats/minute, respiratory rate 20/minute, temperature 36.6°C, oxygen saturation 97%.
+
+Anthropometrics: Height 177 cm, weight 63.0 kg, BMI 20.1 kg/m².
+
+Physical Examination: Patient is clinically stable without reported acute distress. No pallor is appreciated. Cardiovascular examination is normal. Respiratory examination is normal, with no reported respiratory compromise.
+
+Laboratory Data: Hemoglobin 9.3 g/dL, hematocrit 27.4%, RBC count 3.38 million/µL, MCV 81 fL. Serum iron 45 µg/dL, ferritin 417 ng/mL, TIBC 263 µg/dL, and transferrin saturation 17.1%.
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding and currently asymptomatic. Hemoglobin and hematocrit remain reduced, with a low RBC count and an MCV at the lower end of the normal range. The combination of reduced serum iron, elevated ferritin, reduced TIBC, and low transferrin saturation is most consistent with impaired iron availability in the setting of chronic inflammation rather than uncomplicated absolute iron deficiency. Her longstanding inflammatory bowel disease is a clinically relevant inflammatory comorbidity. Chronic heart failure may also contribute to anemia burden. There is no current evidence of symptomatic hypoxia or hemodynamic instability.
+
+The anemia has not been actively managed, and the hemoglobin of 9.3 g/dL warrants structured evaluation despite the absence of reported symptoms.
+
+Inflammatory bowel disease, longstanding. Chronic intestinal inflammation may be contributing to anemia of inflammation and may also predispose to superimposed iron deficiency or blood loss. Current disease activity is not characterized in the available history.
+
+Heart failure, longstanding. The patient is currently without dyspnea, palpitations, or reduced exercise tolerance, and oxygen saturation is 97%. Anemia may increase cardiac workload, so ongoing clinical surveillance is appropriate.
+
+Tobacco use. Continued smoking may adversely affect cardiopulmonary reserve and overall inflammatory burden.
+
+Plan
+
+Obtain interval CBC with reticulocyte count and peripheral smear to reassess the anemia and marrow response. Recommend evaluation with serum vitamin B12, folate, renal function testing, and inflammatory markers. Given the history of inflammatory bowel disease and low transferrin saturation, reassess for active intestinal inflammation and possible chronic gastrointestinal blood loss as clinically indicated.
+
+Review the degree of anemia in the context of inflammatory bowel disease activity and heart failure status. Iron replacement should be considered only after clarifying the relative contributions of inflammation and absolute iron deficiency; intravenous iron may be appropriate if iron-restricted erythropoiesis persists or oral absorption is expected to be limited by intestinal disease. Erythropoiesis-stimulating therapy is not initiated from the information available and would require confirmation of the underlying cause, renal status, and overall risk-benefit profile.
+
+Continue clinical monitoring for development of fatigue, weakness, exertional intolerance, dyspnea, dizziness, palpitations, chest discomfort, or syncope. Prompt evaluation is advised if these symptoms develop or worsen. Smoking cessation should be encouraged, particularly given the coexistence of anemia and heart failure.
+
+Follow up after repeat laboratory assessment to update management and determine whether treatment for iron-restricted erythropoiesis or additional evaluation is warranted.

@@ -1,0 +1,51 @@
+Chief Complaint
+
+Medication review and management of longstanding hyperlipidemia.
+
+Subjective
+
+Scott Douglas is a 51-year-old man presenting for review of untreated hyperlipidemia, present for approximately 10 years. He is not currently documented as taking lipid-lowering medication, so there is no active regimen against which adherence or medication effectiveness can be assessed. No medication intolerance or adverse effects are reported.
+
+Recent lipid results show total cholesterol 377 mg/dL, LDL cholesterol 264 mg/dL, HDL cholesterol 43 mg/dL, and triglycerides 352 mg/dL. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma.
+
+He has a 12-year history of hypertension. Current smoking status is positive. Weight is 93.0 kg at a height of 180 cm, with BMI 28.7 kg/m². No additional cardiovascular symptoms are reported today.
+
+Review of Systems
+
+Constitutional: No symptoms reported.
+
+Cardiovascular: Denies chest discomfort. No exertional leg pain reported.
+
+Neurologic: Denies dizziness.
+
+Skin: Denies xanthomas or xanthelasma.
+
+Respiratory, gastrointestinal, genitourinary, musculoskeletal, and psychiatric: No additional concerns reported today.
+
+Objective
+
+Vital Signs: Blood pressure 135/85 mmHg, pulse 73 bpm, respiratory rate 15/min, temperature 36.9°C, oxygen saturation 98%.
+
+Anthropometrics: Height 180 cm, weight 93.0 kg, BMI 28.7 kg/m².
+
+Laboratory Data: Total cholesterol 377 mg/dL; LDL cholesterol 264 mg/dL; HDL cholesterol 43 mg/dL; triglycerides 352 mg/dL.
+
+Physical Examination: No xanthomas or xanthelasma reported. No cardiopulmonary or neurologic symptoms elicited during today’s review.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding and currently without documented lipid-lowering treatment. The LDL level is substantially above the threshold at which pharmacologic therapy is strongly indicated, with additional risk contributed by active tobacco use, hypertension, overweight status, male sex, and age. Triglycerides are also elevated but are below the range generally associated with pancreatitis risk. He has no reported anginal symptoms, claudication, dizziness, or visible lipid deposits.
+
+Medication effectiveness and adherence cannot be assessed because no active lipid-lowering regimen is documented. There are no reported medication-related adverse effects. Given the degree and duration of LDL elevation, a primary lipid disorder should be considered while also evaluating for potentially reversible secondary contributors.
+
+Plan
+
+Recommend initiation of high-intensity statin therapy after shared decision-making, with selection of agent and dose based on formulary, drug interactions, and patient preference. Discussed that treatment is intended to substantially reduce LDL cholesterol and long-term cardiovascular risk. If LDL reduction is inadequate or statin therapy is not tolerated, addition of ezetimibe or other lipid-lowering therapy can be considered.
+
+Obtain a repeat fasting lipid panel after initiation or adjustment of therapy to assess response and adherence. Consider evaluation for secondary causes of dyslipidemia and measurement of ApoB and lipoprotein(a) as clinically appropriate. Review family history of premature cardiovascular disease and severe hypercholesterolemia at follow-up.
+
+Counseled on a heart-healthy eating pattern emphasizing vegetables, fruits, whole grains, legumes, fish, and unsaturated fats while reducing saturated fat, trans fat, refined carbohydrates, and excess alcohol. Encourage regular aerobic and resistance activity as tolerated and gradual weight reduction.
+
+Strongly advised smoking cessation and offered assistance with cessation planning and pharmacotherapy. Continue monitoring blood pressure given the 12-year history of hypertension.
+
+Return for medication and tolerance review with repeat lipid assessment in approximately 4–12 weeks, sooner for significant muscle pain, weakness, dark urine, or other concerning medication effects.

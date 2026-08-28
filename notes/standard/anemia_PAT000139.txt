@@ -1,0 +1,49 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Chelsea Benson is a 47-year-old woman presenting for outpatient follow-up of anemia present for approximately 11 years. She reports intermittent headache and appears to have pallor. She denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. No interval change in these symptoms is reported.
+
+Her medical history is notable for malignancy diagnosed approximately 5 years ago. She is a current smoker. Height is 164 cm, weight 77.5 kg, BMI 28.8 kg/m². No current anemia-directed treatment is documented.
+
+Objective
+
+Vital signs: Blood pressure 123/76 mmHg, pulse 85 bpm, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 99% on room air.
+
+General: Pallor noted. No acute cardiopulmonary distress described.
+
+Cardiovascular: Normal cardiovascular examination; no tachycardia.
+
+Respiratory: Normal respiratory examination.
+
+Laboratory results:
+Hemoglobin 8.6 g/dL
+Hematocrit 26.1%
+RBC count 3.0 million/µL
+MCV 87 fL
+Serum iron 35 µg/dL
+Ferritin 447 ng/mL
+TIBC 203 µg/dL
+Transferrin saturation 17.2%
+
+Assessment
+
+Chronic symptomatic anemia with persistent normocytic indices and significant reduction in hemoglobin and hematocrit. The low serum iron and transferrin-binding capacity with elevated ferritin are most consistent with anemia associated with chronic inflammation/chronic disease rather than uncomplicated absolute iron deficiency. Her history of malignancy is a significant potential contributor. The prolonged duration and current lack of anemia-directed management warrant further characterization and review for progression or additional contributing factors.
+
+Headache and pallor are present, without reported cardiopulmonary symptoms or hemodynamic instability today.
+
+Plan
+
+Obtain updated complete blood count with reticulocyte count and peripheral blood smear to assess current severity, marrow response, and morphology.
+
+Recommend evaluation of vitamin B12, folate, renal function, and inflammatory markers as clinically appropriate to identify additional reversible contributors.
+
+Review malignancy status and current disease activity with the treating oncology team, as chronic inflammation or malignancy-associated processes may be contributing to the anemia.
+
+Assess clinically for occult blood loss and other sources of iron depletion before initiating iron therapy. Given the elevated ferritin and low TIBC, avoid empiric iron supplementation without clarification of iron status and overall etiology. Intravenous iron or an erythropoiesis-stimulating agent may be considered only if indicated by the underlying disease context and after appropriate specialist review.
+
+Counseled regarding smoking cessation, which may improve overall health and reduce comorbidity burden.
+
+Monitor for worsening headache, new fatigue or weakness, dyspnea, chest discomfort, palpitations, dizziness, syncope, or bleeding; seek urgent evaluation if these occur. Arrange close outpatient follow-up after repeat laboratory assessment.

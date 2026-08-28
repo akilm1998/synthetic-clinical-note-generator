@@ -1,0 +1,41 @@
+Chief Complaint
+
+Medication review for type 2 diabetes mellitus.
+
+Subjective
+
+Angela Holland is a 91-year-old woman with an 11-year history of type 2 diabetes mellitus presenting for review of treatment effectiveness, adherence, and tolerance. Glycemic control is currently suboptimal, with recent hemoglobin A1c of 9.6% and fasting glucose of 217 mg/dL. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. She also denies numbness or tingling of the hands or feet.
+
+No medication-related adverse effects are reported today. Medication reconciliation and confirmation of actual diabetes medication use, dosing, adherence, and tolerance are important before selecting or adjusting therapy. She does not smoke.
+
+Relevant comorbidities include non-alcoholic fatty liver disease of approximately 55 years’ duration and depression of approximately 51 years’ duration.
+
+Objective
+
+Height 157 cm. Weight 59.2 kg. BMI 24.0 kg/m².
+
+Blood pressure 133/78 mmHg. Pulse 76 bpm. Respiratory rate 18/min. Temperature 36.8°C. Oxygen saturation 95%.
+
+Laboratory results: Hemoglobin A1c 9.6%. Fasting glucose 217 mg/dL.
+
+Assessment
+
+1. Type 2 diabetes mellitus without reported complications, with inadequate glycemic control. A1c and fasting glucose are significantly above goal despite the absence of current hyperglycemic, neuropathic, or infectious symptoms. Given her age of 91 years, treatment goals should be individualized with emphasis on avoiding hypoglycemia, falls, functional decline, and treatment burden.
+
+2. Medication review. Glycemic effectiveness, adherence, and tolerability require confirmation of her current regimen and actual medication-taking pattern. No specific diabetes medication regimen or adverse effects are documented for today’s review.
+
+3. Non-alcoholic fatty liver disease, longstanding. This should be considered when reviewing diabetes therapy and nutrition recommendations.
+
+4. Depression, longstanding. Mood, cognition, medication adherence, appetite, and ability to manage treatment should be considered as part of diabetes care.
+
+Plan
+
+Review all prescription, over-the-counter, and supplement use with the patient and/or caregiver, including dosing schedule, missed doses, affordability, administration difficulties, and prior intolerance. Avoid assuming adherence or making medication changes until the current regimen is confirmed.
+
+Discuss escalation of diabetes treatment in a stepwise manner appropriate for advanced age, comorbidity burden, and hypoglycemia risk. If metformin or another glucose-lowering agent is being considered or continued, review renal function and hepatic considerations before prescribing or adjusting therapy. Avoid aggressive glucose lowering and agents with a substantial risk of hypoglycemia unless there is a clear indication and reliable monitoring support.
+
+Encourage a consistent, balanced meal pattern, avoidance of concentrated sugars, adequate hydration, and activity appropriate to her functional status and fall risk. If home glucose monitoring is part of her care, review technique and glucose trends rather than relying on isolated readings.
+
+Recommend assessment for diabetes-related complications with foot examination, renal screening, lipid evaluation, and eye care as clinically appropriate. Review warning symptoms of significant hyperglycemia and hypoglycemia with the patient and caregiver.
+
+Continue attention to depression management and functional support, as these may affect medication adherence and nutrition. Follow up after medication reconciliation and review of home glucose data to determine a safe, individualized treatment plan.

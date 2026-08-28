@@ -1,0 +1,55 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia and hypertension.
+
+Subjective
+
+Tyler Kelly is a 65-year-old man presenting for outpatient follow-up of hyperlipidemia, present for approximately 35 years and currently without active lipid-lowering management. Recent lipid testing demonstrates markedly elevated cholesterol and triglycerides. He reports fatty skin deposits consistent with xanthomas. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, and fatty eyelid deposits. No tobacco use.
+
+He has a 6-year history of hypertension. No medication regimen is provided for review today. Weight is 66.9 kg at a height of 161 cm, with BMI 25.8 kg/m².
+
+Review of Systems
+
+Cardiovascular: Denies chest discomfort and exertional leg pain.
+
+Neurologic: Denies dizziness.
+
+Skin: Reports xanthomas. Denies xanthelasma.
+
+Respiratory, gastrointestinal, genitourinary, musculoskeletal, and constitutional review: No additional concerns reported today.
+
+Objective
+
+Vital Signs: Blood pressure 140/92 mmHg, pulse 74 bpm, respiratory rate 14/min, temperature 36.7°C, oxygen saturation 98%.
+
+Height 161 cm. Weight 66.9 kg. BMI 25.8 kg/m².
+
+Laboratory Results:
+Total cholesterol 300 mg/dL.
+LDL cholesterol 191 mg/dL.
+HDL cholesterol 35 mg/dL.
+Triglycerides 371 mg/dL.
+
+Physical Examination
+
+Patient is seen in the outpatient setting without reported acute cardiopulmonary or neurologic symptoms. Skin examination is notable for reported xanthomas. No xanthelasma is reported. The available examination is otherwise focused on the documented problems.
+
+Assessment and Plan
+
+1. Hyperlipidemia with markedly elevated LDL cholesterol and triglycerides
+
+Longstanding, approximately 35-year history of untreated or currently unmanaged dyslipidemia. Current lipid profile shows total cholesterol 300 mg/dL, LDL 191 mg/dL, HDL 35 mg/dL, and triglycerides 371 mg/dL, consistent with severe mixed elevation of atherogenic lipids and low HDL. The presence of xanthomas further supports a longstanding significant lipid disorder. He currently denies chest discomfort, claudication, or dizziness, but his age, hypertension, very high LDL level, low HDL, and prolonged duration of dyslipidemia confer substantial cardiovascular risk.
+
+Discussed the importance of active lipid-lowering therapy. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after medication reconciliation and shared decision-making. If LDL reduction is inadequate or statin therapy is not tolerated, addition of ezetimibe and consideration of specialist-directed therapy may be appropriate. Triglycerides are elevated but below the level generally associated with the highest pancreatitis risk; primary emphasis remains reduction of LDL and overall atherosclerotic cardiovascular risk.
+
+Counseled regarding a heart-healthy eating pattern with reduction of saturated and trans fats, refined carbohydrates, and excess sugars; increased intake of vegetables, fiber, legumes, and unsaturated fats; regular physical activity as tolerated; and maintenance of a healthy weight. He does not smoke, which is favorable.
+
+Recommend repeat fasting lipid testing after starting or adjusting therapy to assess response and adherence. Evaluation for contributing secondary causes and consideration of additional risk stratification, including apolipoprotein B or lipoprotein(a), may be appropriate based on treatment response and overall cardiovascular risk assessment. Coronary artery calcium imaging can be considered if treatment decisions remain uncertain, although the LDL level itself supports pharmacologic treatment.
+
+2. Hypertension
+
+Blood pressure today is 140/92 mmHg in the setting of a 6-year history of hypertension. This is above the usual outpatient treatment goal, though a single office reading should be interpreted with serial measurements. Recommend confirmation with home or repeat office blood pressure readings, review of current antihypertensive therapy if any, and reinforcement of sodium restriction, regular physical activity, and weight maintenance. Hypertension control is particularly important given the markedly abnormal lipid profile.
+
+Follow-up
+
+Return for medication and blood pressure review and reassessment of lipid response after implementation of therapy. Seek urgent evaluation for new chest discomfort, shortness of breath, focal neurologic symptoms, or acute limb pain.

@@ -1,0 +1,91 @@
+Chief Complaint
+
+Medication review and follow-up of longstanding type 2 diabetes mellitus.
+
+Subjective
+
+Chloe Cox is a 96-year-old woman, 161 cm in height and 70.2 kg in weight, with a 59-year history of type 2 diabetes mellitus. She presents for review of glycemic control, medication effectiveness, adherence, and treatment tolerance. Current diabetes medications are not specified in the available history; therefore, effectiveness and tolerability of any individual agent cannot be assessed at this visit.
+
+Recent laboratory results demonstrate suboptimal glycemic control, with hemoglobin A1c 9.2% and fasting glucose 225 mg/dL. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. There are no reported symptoms suggestive of symptomatic hyperglycemia, peripheral neuropathy, or active diabetic infection.
+
+She does not smoke. Her documented comorbidities include non-alcoholic fatty liver disease of approximately 54 years’ duration and depression of approximately 70 years’ duration. No medication-related adverse effects are reported in the supplied history.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Eyes: Denies blurred vision.
+
+Endocrine: Denies increased thirst, frequent urination, and increased hunger.
+
+Skin: Denies slow-healing wounds or frequent infections.
+
+Neurologic: Denies numbness or tingling of the hands or feet.
+
+Additional systems are not contributory based on the history provided.
+
+Objective
+
+Vital Signs: Blood pressure 134/82 mmHg. Pulse 73 bpm. Respiratory rate 15/min. Temperature 36.7°C. Oxygen saturation 96%.
+
+Anthropometrics: Height 161 cm. Weight 70.2 kg. BMI 27.1 kg/m².
+
+Laboratory Data: Hemoglobin A1c 9.2%. Fasting glucose 225 mg/dL.
+
+Physical Examination
+
+General: Vital signs reviewed. No acute symptomatic manifestation of hyperglycemia reported.
+
+Endocrine: No reported polydipsia, polyuria, or polyphagia.
+
+Skin: No slow-healing wounds or recurrent infections reported.
+
+Neurologic: No distal numbness or tingling reported.
+
+The available data do not include documented findings from a detailed retinal, vascular, sensory foot, or skin examination.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complications, with hyperglycemia
+
+Glycemic control is substantially above goal based on hemoglobin A1c of 9.2% and fasting glucose of 225 mg/dL. Despite the biochemical hyperglycemia, she denies polyuria, polydipsia, weight loss, visual symptoms, neuropathic symptoms, wounds, or recurrent infections. At age 96 and with very longstanding diabetes, treatment decisions should balance glycemic benefit against hypoglycemia, medication adverse effects, regimen complexity, renal function, nutritional status, and overall goals of care. There is no evidence in the supplied information of a specific diabetes medication regimen, so medication effectiveness, adherence, and tolerance cannot be judged agent by agent.
+
+2. Non-alcoholic fatty liver disease
+
+Longstanding comorbidity, reported for approximately 54 years. No liver-related symptoms or laboratory data are provided in this encounter. Diabetes management should account for hepatic comorbidity when selecting and monitoring therapy.
+
+3. Depression
+
+Longstanding depression, reported for approximately 70 years. Mood symptoms and current psychiatric treatment are not described in the available history. Depression may affect medication adherence, nutrition, and self-management and should be considered during treatment planning.
+
+4. Overweight status
+
+BMI is 27.1 kg/m². Weight-focused counseling should emphasize preservation of strength, adequate nutrition, and avoidance of unintended weight loss given advanced age rather than aggressive caloric restriction.
+
+Plan
+
+1. Diabetes management
+
+Confirm the complete current medication list, including prescription agents, over-the-counter products, dosing, administration schedule, missed doses, and any prior intolerance. Until the active regimen is confirmed, no specific medication adjustment can be made safely.
+
+Review practical adherence barriers, including regimen complexity, ability to administer medications, access, cognition, vision, dexterity, and caregiver support. Assess for hypoglycemia symptoms and events before intensifying therapy.
+
+Discuss individualized glycemic goals appropriate for a 96-year-old woman with very longstanding diabetes, emphasizing avoidance of symptomatic hyperglycemia while minimizing hypoglycemia and treatment burden. If pharmacologic intensification is considered, select therapy only after reviewing renal function, hepatic considerations, nutritional status, hypoglycemia risk, and the patient’s preferences and goals.
+
+Recommend assessment of serum creatinine/eGFR and urine albumin-to-creatinine ratio to evaluate renal safety and diabetic kidney involvement, as well as a fasting lipid profile for cardiovascular risk assessment. These are recommendations; no results are available from today’s encounter.
+
+Reinforce a consistent, age-appropriate eating pattern, hydration, and physical activity within her functional abilities. Avoid restrictive dieting or intentional weight loss that could compromise nutrition or muscle mass.
+
+Recommend routine foot and skin assessment, including inspection for wounds and evaluation of sensation and perfusion, and retinal evaluation as clinically appropriate. No abnormal foot, vascular, skin, or retinal findings are documented today.
+
+2. Non-alcoholic fatty liver disease
+
+Continue coordination of diabetes and liver risk management. Avoid medication selection without review of hepatic and renal safety parameters. No additional liver-directed treatment is initiated from the information available today.
+
+3. Depression
+
+Assess current mood, functional status, antidepressant treatment, adherence, and safety at follow-up, as these factors may influence diabetes self-management. No psychiatric medication changes are made because no current regimen is provided.
+
+Follow-up
+
+Follow up after medication reconciliation and review of recommended renal and metabolic assessments to determine a safe, individualized diabetes treatment plan. Earlier reassessment is appropriate for symptomatic hyperglycemia, inability to maintain oral intake, confusion, marked weakness, new visual changes, hypoglycemia, or development of a wound or infection.

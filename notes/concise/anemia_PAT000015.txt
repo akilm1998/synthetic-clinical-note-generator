@@ -1,0 +1,23 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Eliza Chandler is a 41-year-old woman presenting for routine follow-up of anemia present for approximately 7 years. She reports no current fatigue, weakness, dizziness, headache, shortness of breath, palpitations, or reduced exercise tolerance. Pallor remains noted. Anemia has not been actively managed. Relevant chronic conditions include inflammatory bowel disease for 17 years and heart failure for 1 year. She smokes. Weight is 72.5 kg at 156 cm (BMI 29.8 kg/m²).
+
+Objective
+
+Vital signs: BP 125/82 mmHg, pulse 87 bpm, respiratory rate 24/min, temperature 37.0°C, oxygen saturation 96%.
+
+Pallor present. Cardiovascular and respiratory examinations are otherwise normal.
+
+Laboratory results: Hemoglobin 9.1 g/dL, hematocrit 27.8%, RBC 3.39 million/µL, MCV 82 fL, serum iron 40 µg/dL, ferritin 371 ng/mL, TIBC 208 µg/dL, transferrin saturation 19.2%.
+
+Assessment
+
+Chronic anemia consistent with anemia of chronic inflammation, with normocytic indices and low serum iron/TIBC despite elevated ferritin. Likely related to longstanding inflammatory bowel disease, with heart failure as an additional chronic comorbidity. She is currently clinically stable without cardiopulmonary symptoms, although respiratory rate is mildly elevated at 24/min.
+
+Plan
+
+Obtain updated CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function, and inflammatory markers to further characterize the anemia. Continue evaluation and control of underlying inflammatory bowel disease and heart failure. Review iron replacement options, including oral or intravenous iron, based on repeat studies and clinical response; consider erythropoiesis-stimulating therapy only if clinically appropriate after evaluation of contributing conditions. Counsel regarding smoking cessation. Advise prompt evaluation for new or worsening dyspnea, chest pain, palpitations, dizziness, syncope, or marked weakness.

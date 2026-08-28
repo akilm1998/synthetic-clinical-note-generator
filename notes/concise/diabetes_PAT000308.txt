@@ -1,0 +1,39 @@
+Chief Complaint
+
+Initial consultation for management of type 2 diabetes mellitus.
+
+Subjective
+
+John Jacob is a 51-year-old man presenting as a new patient for diabetes care. He has an 11-year history of type 2 diabetes mellitus and is currently not receiving active management. Recent HbA1c is 9.8% and fasting glucose is 227 mg/dL. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+Past medical history is also notable for non-alcoholic fatty liver disease for approximately 14 years and depression for approximately 32 years. Smoking status: never smoker. Current medications, allergies, family history, and other social history were not provided.
+
+Objective
+
+Height 163 cm. Weight 77.6 kg. BMI 29.2 kg/m².
+
+Blood pressure 127/81 mmHg. Pulse 70 bpm. Respiratory rate 18/min. Temperature 36.8°C. Oxygen saturation 97%.
+
+Laboratory results: HbA1c 9.8%. Fasting glucose 227 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, currently significantly above glycemic goal after 11 years of disease and without active management. He is asymptomatic despite marked hyperglycemia. No neuropathic, infectious, constitutional, or visual symptoms reported.
+
+Overweight, BMI 29.2 kg/m².
+
+History of non-alcoholic fatty liver disease.
+
+Longstanding depression, which may affect diabetes self-management and adherence.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the risks of untreated hyperglycemia. Recommend initiation of structured diabetes treatment, including medication therapy after review of renal function, hepatic status, allergies, and current medication use. Metformin would be a reasonable first-line option if clinically appropriate; additional therapy should be considered if glycemic control remains inadequate.
+
+Counseled on reducing refined carbohydrates and sugary beverages, portion control, weight reduction, and gradual regular physical activity as tolerated. Encourage home glucose monitoring with documentation of readings for review.
+
+Recommend renal assessment with serum creatinine/eGFR and urine albumin-to-creatinine ratio, fasting lipid profile, and routine diabetes complication screening, including comprehensive foot examination and dilated retinal examination. Continue monitoring liver disease in the context of diabetes and weight management.
+
+Assess current depressive symptoms, treatment history, and safety at follow-up, and coordinate mental health care as clinically indicated.
+
+Close outpatient follow-up after initial treatment and laboratory evaluation to review glucose readings, tolerance of therapy, and progress toward improved glycemic control.

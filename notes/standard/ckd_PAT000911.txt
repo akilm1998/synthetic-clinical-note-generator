@@ -1,0 +1,44 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Alexandra Boyd is a 35-year-old woman, height 169 cm, weight 63.7 kg, BMI 22.3 kg/m², presenting for outpatient follow-up of chronic kidney disease diagnosed approximately 3 years ago. Disease control has not been actively managed. She reports ongoing fatigue. She denies pruritus, muscle cramps, nausea, sleep disturbance, peripheral swelling, shortness of breath, or change in urination frequency.
+
+Relevant comorbidities include anemia of chronic disease for approximately 1 year, secondary hyperparathyroidism for approximately 1 year, and hyperlipidemia for approximately 3 years. She does not smoke. No current medication regimen was provided for review.
+
+Objective
+
+Vital signs: Blood pressure 131/84 mmHg, pulse 82 bpm, respiratory rate 14/min, temperature 37.0°C, oxygen saturation 97%.
+
+Recent laboratory results:
+Serum creatinine 3.02 mg/dL
+Estimated GFR 14 mL/min/1.73 m²
+BUN 77 mg/dL
+
+She is afebrile and hemodynamically stable. No peripheral edema or respiratory symptoms reported.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function, present for approximately 3 years and currently requiring re-establishment of active management. Creatinine is 3.02 mg/dL, eGFR 14 mL/min/1.73 m², and BUN 77 mg/dL. She has fatigue but no reported nausea, pruritus, change in urination, edema, dyspnea, or sleep disturbance. Blood pressure is currently acceptable. Given the degree of renal impairment and limited current management, this requires prompt renal evaluation and close follow-up.
+
+2. Anemia of chronic disease, documented for approximately 1 year, likely contributing to fatigue. No current blood count or treatment information was provided.
+
+3. Secondary hyperparathyroidism, documented for approximately 1 year, requiring reassessment in the setting of significant chronic kidney disease.
+
+4. Hyperlipidemia, present for approximately 3 years.
+
+Plan
+
+Chronic kidney disease: Discussed the importance of active renal care and avoidance of nephrotoxic medications, particularly nonsteroidal anti-inflammatory drugs, unless specifically directed by a clinician. Recommend prompt nephrology referral for evaluation and longitudinal management. Obtain repeat renal function testing with serum electrolytes, urinalysis and urine albumin-to-creatinine ratio. Renal ultrasound is also appropriate to assess renal structure and exclude obstructive or other structural disease. Review blood pressure at each visit and encourage home monitoring if available. Discussed seeking urgent care for new shortness of breath, rapidly increasing swelling, persistent vomiting, confusion, markedly reduced urine output, or chest pain.
+
+Anemia of chronic disease: Recommend CBC and iron studies as part of reassessment. Treatment should be guided by the updated results and renal specialist evaluation.
+
+Secondary hyperparathyroidism: Recommend intact parathyroid hormone, calcium, phosphorus, and vitamin D assessment as clinically appropriate. Management will depend on the updated mineral and bone profile; no medication was initiated today based on the information available.
+
+Hyperlipidemia: Continue cardiovascular risk reduction counseling, including heart-healthy nutrition, regular physical activity as tolerated, and avoidance of tobacco. Review a current lipid panel and cardiovascular risk profile at follow-up before determining pharmacologic therapy.
+
+Follow-up
+
+Arrange close outpatient follow-up after repeat testing and nephrology evaluation, with earlier assessment for worsening fatigue or development of uremic or fluid-overload symptoms.

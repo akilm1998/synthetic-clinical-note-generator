@@ -1,0 +1,16 @@
+Chief Complaint
+Routine follow-up of chronic anemia.
+
+Subjective
+Ian Lawson is a 70-year-old man presenting for follow-up of anemia present for approximately 22 years. He reports no current fatigue, weakness, dizziness, headache, palpitations, shortness of breath, reduced exercise tolerance, or noticed pallor. History is significant for inflammatory bowel disease for 41 years and heart failure for 17 years. He currently smokes. No active anemia-directed treatment is documented.
+
+Objective
+Height 174 cm, weight 72.7 kg, BMI 24.0 kg/m². BP 125/80 mmHg, pulse 90 bpm, respirations 21/min, temperature 37.0°C, oxygen saturation 96%.
+
+Recent laboratory results: hemoglobin 8.9 g/dL, hematocrit 25.9%, RBC 3.16 million/µL, MCV 82 fL, serum iron 48 µg/dL, ferritin 220 ng/mL, TIBC 228 µg/dL, transferrin saturation 21.1%.
+
+Assessment
+Chronic anemia with significant reduction in hemoglobin and hematocrit, currently asymptomatic. Normocytic indices with low serum iron and TIBC and preserved/elevated ferritin are most consistent with anemia associated with chronic inflammation, in the setting of longstanding inflammatory bowel disease and heart failure. No current evidence of symptomatic cardiopulmonary compromise based on reported symptoms and vital signs.
+
+Plan
+Obtain/review CBC with reticulocyte count and peripheral smear, along with vitamin B12, folate, renal function, and inflammatory markers to further characterize the anemia. Continue assessment and control of underlying inflammatory bowel disease and heart failure. Review for evidence of ongoing blood loss or worsening gastrointestinal disease at follow-up. Consider hematology consultation if anemia persists or worsens, or if initial evaluation is unrevealing. Advise prompt evaluation for new dyspnea, chest pain, palpitations, dizziness, syncope, or marked weakness. Encourage smoking cessation. Follow up after repeat evaluation.

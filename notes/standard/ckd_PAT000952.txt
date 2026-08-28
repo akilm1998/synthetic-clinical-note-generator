@@ -1,0 +1,44 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Chloe Cox is a 97-year-old woman, height 153 cm, weight 56.9 kg, BMI 24.3 kg/m², presenting for outpatient follow-up of chronic kidney disease present for approximately 26 years. She reports no current fatigue, pruritus, muscle cramps, nausea, sleep disturbance, change in urination, peripheral edema, or shortness of breath. No uremic or fluid-overload symptoms are reported today.
+
+Relevant comorbidities include anemia of chronic disease for approximately 24 years and gout for approximately 46 years. She currently smokes. No medication regimen was provided for review.
+
+Objective
+
+Vital Signs: Blood pressure 145/90 mmHg, pulse 76 bpm, respiratory rate 19/min, temperature 36.7°C, oxygen saturation 95%.
+
+Laboratory Data:
+Serum creatinine 5.55 mg/dL
+BUN 92 mg/dL
+Estimated GFR 10 mL/min/1.73 m²
+
+The supplied history does not identify current edema, dyspnea, nausea, pruritus, muscle cramps, sleep disturbance, fatigue, or urinary frequency changes.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal filtration and significant azotemia. Creatinine is 5.55 mg/dL, BUN 92 mg/dL, and eGFR 10 mL/min/1.73 m². Despite the severity of the laboratory abnormalities, she is currently without reported uremic or volume-overload symptoms. Given the longstanding 26-year history and lack of active disease management documented, she requires prompt reassessment for complications and clarification of treatment goals.
+
+2. Anemia of chronic disease, longstanding for approximately 24 years. Current hemoglobin and iron indices are not available in the provided data.
+
+3. Gout, longstanding for approximately 46 years. Renal function is substantially impaired and should be considered in any future urate-lowering or flare-treatment decisions.
+
+4. Elevated blood pressure in the setting of chronic kidney disease, measured at 145/90 mmHg today.
+
+5. Tobacco use. Continued smoking may increase cardiovascular and renal risk.
+
+Plan
+
+Arrange prompt nephrology evaluation for comprehensive management of advanced chronic kidney disease, assessment for renal replacement therapy appropriateness, and discussion of conservative kidney care and goals of treatment in the context of her age and overall preferences.
+
+Obtain updated serum electrolytes, bicarbonate, calcium, phosphorus, CBC, iron studies, intact parathyroid hormone, urinalysis, and urine albumin-to-creatinine ratio to assess for metabolic, hematologic, mineral-bone, and proteinuric complications. Consider renal ultrasound as part of structural assessment if not recently performed.
+
+Review for interval development of nausea, vomiting, confusion, worsening fatigue, pruritus, muscle cramps, reduced urine output, edema, or dyspnea. Emergency evaluation is warranted for significant shortness of breath, chest pain, confusion, persistent vomiting, or other symptoms concerning for uremic or fluid-overload complications.
+
+Avoid NSAIDs and other potentially nephrotoxic medications; all prescriptions, over-the-counter agents, and gout therapies should be reviewed for renal dosing. Encourage smoking cessation and avoidance of dehydration. Monitor blood pressure closely and reassess treatment needs after medication reconciliation and review of electrolytes and volume status.
+
+Continue close outpatient follow-up while nephrology assessment is arranged.

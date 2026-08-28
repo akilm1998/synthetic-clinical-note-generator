@@ -1,0 +1,27 @@
+Chief Complaint
+New patient evaluation of untreated hyperlipidemia.
+
+Subjective
+Elijah Stone is a 36-year-old male with a 4-year history of hyperlipidemia, currently not actively managed. He denies chest discomfort, exertional leg pain, or dizziness. Reports fatty skin deposits consistent with xanthomas; denies xanthelasma. He smokes tobacco. Medical history includes type 2 diabetes mellitus for 5 years, non-alcoholic fatty liver disease for 4 years, and chronic kidney disease for 1 year. No current lipid-lowering medication is documented.
+
+Objective
+Vital signs: BP 127/85 mmHg, pulse 77 bpm, respirations 15/min, temperature 36.7°C, SpO2 99% on room air.
+Height 164 cm, weight 57.0 kg, BMI 21.2 kg/m².
+Available lipid panel: total cholesterol 389 mg/dL, LDL-C 272 mg/dL, HDL-C 44 mg/dL, triglycerides 365 mg/dL.
+Xanthomas reported. No other examination findings provided.
+
+Assessment
+Severe mixed hyperlipidemia with markedly elevated LDL-C and triglycerides, untreated, in the setting of diabetes, chronic kidney disease, non-alcoholic fatty liver disease, and active tobacco use. Xanthomas raise concern for longstanding significant lipid elevation. No current symptoms suggestive of angina or intermittent claudication.
+
+Plan
+Discussed cardiovascular risk associated with the lipid levels, diabetes, CKD, and smoking.
+
+Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after medication counseling and review of baseline hepatic and renal function. Consider addition of ezetimibe if LDL-C remains substantially elevated despite adherence and maximally tolerated statin therapy.
+
+Repeat fasting lipid panel after treatment initiation and titration. Recommend assessment for secondary contributors, including glycemic control, thyroid function, renal function, and liver enzymes. Consider ApoB and lipoprotein(a) testing given the severity and young age at presentation.
+
+Counseled on smoking cessation, regular physical activity, and a heart-healthy diet low in saturated and trans fats; limit refined carbohydrates and alcohol given elevated triglycerides and fatty liver disease.
+
+Continue coordinated management of diabetes, CKD, and non-alcoholic fatty liver disease. Consider lipid specialist consultation if LDL-C remains markedly elevated or xanthomas persist despite therapy.
+
+Follow up after baseline evaluation and initiation of treatment to review tolerance and lipid response.

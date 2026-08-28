@@ -1,0 +1,16 @@
+Chief Complaint
+Medication review for hyperlipidemia.
+
+Subjective
+Marcus Cross is a 67-year-old man with a 23-year history of hyperlipidemia, currently not actively managed. No lipid-lowering medication regimen is established for adherence or tolerance review. Denies chest discomfort, dizziness, and intermittent claudication. Reports xanthomas. Nonsmoker. History includes coronary artery disease for 14 years and hypertension for 27 years.
+
+Objective
+Height 172 cm, weight 81.7 kg, BMI 27.6 kg/m². BP 140/86 mmHg, pulse 78 bpm, respirations 17/min, temperature 36.7°C, oxygen saturation 99%.
+
+Total cholesterol 295 mg/dL, LDL-C 199 mg/dL, HDL-C 39 mg/dL, triglycerides 287 mg/dL.
+
+Assessment
+Severe untreated hyperlipidemia with markedly elevated LDL-C and elevated triglycerides, in the setting of established coronary artery disease and hypertension. Xanthomas support longstanding lipid elevation. No current lipid-lowering therapy adherence or tolerance can be assessed because treatment has not been established.
+
+Plan
+Recommend initiation of high-intensity statin therapy after shared decision-making, with review of prior medication history, contraindications, and potential adverse effects. Reinforce adherence and heart-healthy diet emphasizing reduced saturated and trans fats, weight control, and regular physical activity as tolerated. Given persistent LDL-C elevation or statin intolerance, consider addition of ezetimibe and further lipid-lowering therapy. Recommend repeat fasting lipid panel after treatment initiation and evaluation for secondary contributors to dyslipidemia. Continue cardiovascular risk-factor management, including blood pressure control, in view of known coronary artery disease.

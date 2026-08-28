@@ -1,0 +1,42 @@
+Chief Complaint
+
+Medication review for type 2 diabetes mellitus.
+
+Subjective
+
+Tristan Burke is a 74-year-old man with a 22-year history of type 2 diabetes mellitus, presenting for review of glycemic management. He reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+No active diabetes medication regimen is identified in the current medication information; consequently, medication effectiveness, adherence, and treatment tolerance cannot be meaningfully assessed today. He continues to smoke. Relevant comorbidities include obesity of 28 years’ duration, dyslipidemia diagnosed 3 years ago, and longstanding anxiety of 43 years’ duration.
+
+Objective
+
+Height 182 cm; weight 116.6 kg; BMI 35.2 kg/m².
+Blood pressure 130/75 mmHg, pulse 85 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 94%.
+Hemoglobin A1c 9.4%.
+Fasting glucose 222 mg/dL.
+
+Patient denies symptoms of hyperglycemia or peripheral neuropathy. No diabetes-related complication is reported in the available clinical information.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, currently inadequately controlled based on HbA1c 9.4% and fasting glucose 222 mg/dL. Despite the absence of classic hyperglycemic symptoms, laboratory values indicate persistent hyperglycemia. The prolonged 22-year disease duration and obesity increase the risk of future microvascular and macrovascular complications.
+
+Obesity, BMI 35.2 kg/m².
+
+Dyslipidemia.
+
+Tobacco use.
+
+Anxiety.
+
+Plan
+
+Review and reconcile all current prescription, over-the-counter, and supplemental medications at the next medication-focused discussion. Establish a specific diabetes treatment regimen based on prior medication exposure, renal function, contraindications, cost, and patient preference; pharmacologic therapy is indicated given the degree of hyperglycemia.
+
+Discuss adherence strategies, medication administration, expected benefits, and potential adverse effects once a regimen is confirmed. Encourage home glucose monitoring as clinically appropriate and review glucose values at follow-up.
+
+Provide counseling regarding reduction of refined carbohydrates, portion control, gradual increase in physical activity as tolerated, and weight reduction. Reinforce smoking cessation and offer cessation support.
+
+Recommend evaluation of renal function with serum creatinine/eGFR and urine albumin-to-creatinine ratio, along with fasting lipid assessment, to guide diabetes risk reduction. Recommend routine comprehensive foot examination and dilated retinal evaluation given the duration of diabetes. Continue monitoring for neuropathic symptoms, visual changes, wounds, infections, polyuria, polydipsia, and unexplained weight loss.
+
+Follow up after treatment initiation or adjustment to assess glycemic response, adherence, and tolerance, with repeat HbA1c at an appropriate interval.

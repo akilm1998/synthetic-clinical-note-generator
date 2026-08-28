@@ -1,0 +1,55 @@
+Chief Complaint
+
+Initial consultation for elevated cholesterol and triglycerides.
+
+Subjective
+
+Jesse Chapman is a 36-year-old man, height 189 cm and weight 93.2 kg, presenting for initial outpatient evaluation of untreated hyperlipidemia. He reports a history of elevated lipids for approximately 5 years and has not been receiving lipid-lowering treatment. Recent lipid results show total cholesterol 294 mg/dL, LDL cholesterol 197 mg/dL, HDL cholesterol 36 mg/dL, and triglycerides 306 mg/dL.
+
+He has type 2 diabetes mellitus diagnosed approximately 2 years ago. Current diabetes treatment was not provided. He does not smoke. He denies chest discomfort, intermittent claudication or exertional leg pain, dizziness, xanthomas, and xanthelasma. No lipid-related symptoms are reported.
+
+Review of Systems
+
+Constitutional: No lipid-related constitutional complaints reported.
+
+Cardiovascular: Negative for chest discomfort. No exertional leg pain reported.
+
+Neurologic: Negative for dizziness.
+
+Skin: Negative for fatty skin deposits or eyelid deposits.
+
+Endocrine/metabolic: Known type 2 diabetes mellitus of approximately 2 years’ duration. Hyperlipidemia present for approximately 5 years.
+
+Respiratory, gastrointestinal, genitourinary, musculoskeletal, hematologic, and psychiatric review: No additional positive symptoms documented for this lipid-focused consultation.
+
+Objective
+
+Vital Signs: Blood pressure 124/80 mmHg, pulse 75 beats/minute, respiratory rate 14/minute, temperature 36.9°C, oxygen saturation 99%.
+
+Anthropometrics: Height 189 cm, weight 93.2 kg, BMI 26.1 kg/m².
+
+Laboratory Data: Total cholesterol 294 mg/dL. LDL cholesterol 197 mg/dL. HDL cholesterol 36 mg/dL. Triglycerides 306 mg/dL.
+
+Physical Examination: Hemodynamically stable by recorded vital signs. No xanthomas or xanthelasma are reported. A complete cardiovascular and peripheral vascular examination should specifically assess for carotid bruits, diminished peripheral pulses, and tendon xanthomas given the markedly elevated LDL cholesterol; corresponding abnormal findings are not provided in this encounter.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and concomitant hypertriglyceridemia. LDL cholesterol is 197 mg/dL, with total cholesterol 294 mg/dL, triglycerides 306 mg/dL, and low HDL cholesterol of 36 mg/dL. This represents a significant atherogenic lipid burden and warrants active treatment rather than observation alone. The LDL level near or above 190 mg/dL raises concern for a possible inherited lipid disorder, although a definitive familial diagnosis cannot be made from the available information. Secondary contributors should also be evaluated.
+
+Type 2 diabetes mellitus, present for approximately 2 years. Diabetes increases lifetime cardiovascular risk and strengthens the indication for intensive lipid management despite the patient’s young age.
+
+BMI 26.1 kg/m², in the overweight range. He is a nonsmoker and has a normal blood pressure today. He has no reported chest discomfort, claudication, dizziness, xanthomas, or xanthelasma.
+
+Plan
+
+Discussed the significance of the lipid pattern and the increased long-term risk associated with LDL cholesterol of 197 mg/dL, particularly in the setting of diabetes. Recommend initiation of high-intensity statin therapy after shared decision-making, such as atorvastatin 40–80 mg daily or rosuvastatin 20–40 mg daily, unless contraindications or patient preferences dictate otherwise. No current lipid-lowering medication use is documented.
+
+Obtain baseline liver enzymes and assessment for other secondary causes of dyslipidemia, including thyroid testing and review of glycemic control, diet, alcohol intake, and other potentially contributing conditions or medications. A fasting lipid panel should be repeated approximately 4–12 weeks after treatment initiation or adjustment to assess response and adherence.
+
+If LDL cholesterol remains substantially elevated despite confirmed adherence and maximally tolerated statin therapy, consider addition of ezetimibe and further risk assessment. ApoB and lipoprotein(a) may provide additional risk stratification, particularly given the markedly elevated LDL cholesterol at a young age. Coronary artery calcium imaging is not necessary to establish the need for treatment when LDL cholesterol is at this level, but could be considered in a future shared decision-making discussion if treatment uncertainty persists.
+
+Counseled regarding a heart-healthy dietary pattern emphasizing vegetables, fruits, legumes, whole grains, fish, and unsaturated fats while reducing saturated and trans fats, refined carbohydrates, and excess sugar. Recommend regular aerobic and resistance exercise, gradual weight optimization, and avoidance of tobacco exposure. Triglycerides of 306 mg/dL do not suggest an immediate pancreatitis risk, but improved glycemic control, dietary modification, and statin therapy are important for reduction.
+
+Perform a focused examination for tendon xanthomas, xanthelasma, corneal arcus, carotid bruits, and peripheral vascular abnormalities at follow-up. Review family history of premature cardiovascular disease and markedly elevated cholesterol when available, as this may influence evaluation for an inherited lipid disorder.
+
+Follow up after repeat laboratory testing, generally within 4–12 weeks of starting or adjusting therapy, with earlier evaluation for medication intolerance or new cardiovascular symptoms.

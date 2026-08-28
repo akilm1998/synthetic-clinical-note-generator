@@ -1,0 +1,42 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Ariana Lawson is a 64-year-old woman, height 154 cm, weight 56.0 kg, BMI 23.6 kg/m², presenting for routine follow-up of chronic kidney disease diagnosed approximately 10 years ago. She reports no current fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. No interval uremic or fluid-overload symptoms are reported.
+
+Her chronic conditions include hypertension for 14 years, coronary artery disease for 14 years, and secondary hyperparathyroidism for 5 years. Smoking status is positive. Current medication use was not provided.
+
+Objective
+
+Vital signs: Blood pressure 160/99 mmHg, pulse 85 bpm, respiratory rate 15/min, temperature 36.6°C, oxygen saturation 96% on room air.
+
+Laboratory results:
+Serum creatinine 5.93 mg/dL
+BUN 74 mg/dL
+Estimated GFR 6 mL/min/1.73 m²
+
+No edema, pallor, dry skin, or other examination findings were provided. Patient denies symptoms suggestive of current fluid overload or uremic prodrome.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function and significant azotemia. Although she is currently asymptomatic, the creatinine, BUN, and estimated GFR indicate advanced renal impairment requiring prompt specialist assessment and active management. No formal disease stage is assigned today.
+
+Hypertension, currently above goal at 160/99 mmHg, increasing risk for further renal and cardiovascular injury.
+
+Secondary hyperparathyroidism in the setting of chronic kidney disease.
+
+Coronary artery disease, longstanding.
+
+Active tobacco use, contributing to cardiovascular and renal risk.
+
+Plan
+
+Arrange urgent nephrology evaluation to assess the severity and trajectory of renal dysfunction, review renal replacement therapy planning, and determine whether immediate intervention is indicated. Given the markedly reduced estimated GFR and elevated BUN, advise same-day medical assessment; proceed to the emergency department for nausea, vomiting, confusion, progressive weakness, chest pain, worsening shortness of breath, new edema, markedly decreased urine output, or other acute change.
+
+Repeat renal function and serum electrolyte testing promptly, with complete blood count, urine albumin-to-creatinine ratio, and intact parathyroid hormone as clinically appropriate. Consider renal ultrasound if not previously completed to assess renal structure and obstruction.
+
+Review all current prescription and over-the-counter medications with particular attention to nephrotoxic agents and renal dosing. Medication reconciliation is needed before initiating or adjusting antihypertensive or kidney-related therapy. Blood pressure requires prompt reassessment and treatment optimization, taking coronary artery disease and renal function into account.
+
+Continue close monitoring for anemia, mineral and bone complications, volume overload, and uremic symptoms. Counsel on smoking cessation and avoidance of NSAIDs. Follow up promptly after nephrology assessment or sooner for any change in symptoms.

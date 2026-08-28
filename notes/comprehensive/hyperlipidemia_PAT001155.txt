@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up of longstanding hyperlipidemia.
+
+Subjective
+
+Isabella Parker is a 68-year-old woman seen for routine outpatient follow-up of hyperlipidemia present for approximately 35 years. Her dyslipidemia has not been actively managed with a documented medication regimen. She has known coronary artery disease of approximately 1 year’s duration and non-alcoholic fatty liver disease present for approximately 14 years.
+
+She reports no chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, or xanthelasma. No additional symptoms were reported at today’s visit. She does not smoke. Current weight is 62.7 kg at a height of 161 cm, with BMI 24.2 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 128/76 mmHg, pulse 78 bpm, respiratory rate 17/min, temperature 36.8°C, oxygen saturation 99% on room air.
+
+General: 68-year-old woman presenting for routine follow-up, with stable vital signs.
+
+Cardiovascular/respiratory: No cardiopulmonary symptoms reported today. No abnormal examination findings were provided.
+
+Skin/eyes: No xanthomas or xanthelasma reported.
+
+Laboratory data: Total cholesterol 347 mg/dL, LDL cholesterol 226 mg/dL, HDL cholesterol 44 mg/dL, triglycerides 386 mg/dL.
+
+Assessment
+
+Hyperlipidemia with marked elevation of LDL cholesterol and triglycerides. The current lipid profile represents severe mixed dyslipidemia, with total cholesterol 347 mg/dL, LDL 226 mg/dL, triglycerides 386 mg/dL, and HDL 44 mg/dL. This is longstanding, reportedly present for approximately 35 years, and currently without documented active pharmacologic management. Given her established coronary artery disease, the degree of LDL elevation warrants prompt intensive risk-reduction therapy unless contraindicated. The triglyceride elevation is substantial but below the level typically associated with the highest pancreatitis risk; it remains an important additional cardiovascular risk marker.
+
+Coronary artery disease, present for approximately 1 year. She currently denies chest discomfort, dizziness, or exertional claudication. Her markedly elevated atherogenic lipids substantially increase ongoing cardiovascular risk.
+
+Non-alcoholic fatty liver disease, present for approximately 14 years. This is not a contraindication to statin therapy in the absence of evidence of active hepatic injury, and lipid treatment may provide important overall cardiovascular benefit.
+
+Blood pressure is currently controlled at 128/76 mmHg. BMI is 24.2 kg/m², without obesity. She is a nonsmoker.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL and triglycerides, particularly in the setting of known coronary artery disease. Recommend initiation of high-intensity lipid-lowering therapy, such as atorvastatin or rosuvastatin, after reviewing contraindications, prior intolerance, potential adverse effects, and patient preference. No current medication regimen was provided in the available history, so treatment should be reconciled and documented before prescribing.
+
+Recommend a heart-healthy dietary pattern emphasizing vegetables, fruits, whole grains, legumes, fish, and unsaturated fats, with reduction of saturated fats, trans fats, refined carbohydrates, and concentrated sugars. Encourage regular physical activity as tolerated and continued avoidance of tobacco. Her current BMI is normal; weight maintenance is appropriate.
+
+Recommend evaluation for potentially reversible contributors to severe dyslipidemia, including thyroid dysfunction, abnormal glycemia, renal disease, and medication or dietary contributors, with testing guided by clinical history. Given the longstanding and marked LDL elevation, consider measurement of apolipoprotein B and lipoprotein(a) to further characterize atherogenic risk. A fasting lipid panel should be reassessed after initiation or adjustment of therapy to document response and guide further treatment.
+
+If LDL cholesterol remains substantially above an appropriate secondary-prevention goal despite adherence to maximally tolerated statin therapy, recommend consideration of add-on ezetimibe and, if needed, additional lipid-lowering therapy such as a PCSK9 inhibitor. Triglyceride response should be reassessed after dietary intervention and LDL-directed therapy; additional triglyceride-lowering treatment can be considered if persistent elevation warrants it.
+
+Continue clinical monitoring for new chest discomfort, dyspnea, exercise intolerance, dizziness, or exertional leg pain. She was advised to seek urgent evaluation for persistent or severe chest symptoms or other acute cardiovascular symptoms.
+
+Follow up after medication initiation or adjustment and repeat lipid assessment to review tolerance, adherence, and treatment response.

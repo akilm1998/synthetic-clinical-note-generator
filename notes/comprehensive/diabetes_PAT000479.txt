@@ -1,0 +1,45 @@
+Chief Complaint
+
+Urgent follow-up for poorly controlled type 2 diabetes mellitus.
+
+Subjective
+
+Daniel Hayes is a 96-year-old man with a 56-year history of type 2 diabetes mellitus, currently without documented diabetes-specific complications. He presents for focused follow-up after markedly elevated glycemic indices: hemoglobin A1c 9.2% and fasting glucose 211 mg/dL. His diabetes has not been actively managed. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+Relevant comorbidities include chronic kidney disease of 37 years’ duration, non-alcoholic fatty liver disease of 15 years’ duration, and depression of 21 years’ duration. He currently smokes. No medication regimen is provided.
+
+Objective
+
+Height 173 cm; weight 67.9 kg; BMI 22.7 kg/m².
+
+Blood pressure 134/78 mmHg, pulse 70 beats/min, respiratory rate 14/min, temperature 36.7°C, oxygen saturation 95%.
+
+He is afebrile and hemodynamically stable by recorded vital signs. Glycemic studies show hemoglobin A1c 9.2% and fasting glucose 211 mg/dL. No additional examination findings are documented.
+
+Review of systems is negative for the diabetes-related symptoms listed above.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, with significant chronic hyperglycemia. A1c of 9.2% and fasting glucose of 211 mg/dL indicate inadequate glycemic control despite the absence of symptomatic hyperglycemia. Given his advanced age, long disease duration, chronic kidney disease, and non-alcoholic fatty liver disease, treatment should be individualized with particular attention to renal function, hypoglycemia risk, functional status, nutritional intake, and overall goals of care.
+
+Chronic kidney disease, longstanding. Renal function is particularly relevant before selecting or dosing glucose-lowering therapy.
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Depression, longstanding.
+
+Active tobacco use.
+
+Plan
+
+Prompt medication reconciliation and clinician-guided initiation or adjustment of diabetes therapy are recommended. Treatment selection should account for his age, chronic kidney disease, hepatic comorbidity, ability to self-manage, and risk of hypoglycemia. Avoid overly aggressive glucose lowering without individualized discussion of treatment goals.
+
+Obtain or review serum creatinine with estimated glomerular filtration rate and urine albumin-to-creatinine ratio before finalizing therapy. Consider review of a fasting lipid profile as part of cardiovascular risk assessment. These are recommendations and are not reported as completed today.
+
+Provide individualized dietary counseling focused on consistent carbohydrate intake and adequate nutrition. Encourage safe, age-appropriate physical activity as tolerated, with attention to fall risk and functional capacity.
+
+Perform a comprehensive diabetic foot examination, including skin assessment, pulses, and protective sensation, and ensure appropriate retinal evaluation when consistent with the patient’s goals and overall health status.
+
+Counsel regarding smoking cessation and the substantial cardiovascular and renal benefits of stopping tobacco use.
+
+Discuss symptoms requiring urgent evaluation, including new confusion, inability to maintain oral intake, vomiting, marked weakness, or symptomatic worsening of hyperglycemia. Arrange close outpatient reassessment after treatment decisions and review of renal function.

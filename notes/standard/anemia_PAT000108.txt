@@ -1,0 +1,39 @@
+Chief Complaint
+
+Medication review and follow-up of chronic anemia.
+
+Subjective
+
+Caleb Freeman is a 92-year-old man with a 15-year history of anemia in the setting of longstanding malignancy, reported duration 38 years. He is not currently receiving documented anemia-directed treatment. He denies fatigue, weakness, dizziness, headache, shortness of breath, palpitations, or reduced exercise tolerance. Pallor has been noted.
+
+Medication effectiveness, adherence, and treatment tolerance cannot be assessed because no active anemia medication regimen is provided. He is a current smoker. Height is 187 cm, weight 90.6 kg, BMI 25.9 kg/m².
+
+Objective
+
+Vital signs: BP 127/77 mmHg, pulse 82 bpm, respirations 20/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+General: Pallor noted.
+
+Laboratory results:
+Hemoglobin 9.4 g/dL
+Hematocrit 28.3%
+RBC 3.18 million/µL
+MCV 89 fL
+Serum iron 25 µg/dL
+Ferritin 254 ng/mL
+TIBC 206 µg/dL
+Transferrin saturation 12.1%
+
+Assessment
+
+Chronic normocytic anemia, most consistent with anemia of chronic inflammation associated with longstanding malignancy. Hemoglobin and hematocrit are reduced, with low serum iron and transferrin saturation, elevated/adequate ferritin, and low TIBC, supporting impaired iron utilization rather than uncomplicated absolute iron deficiency. He is currently clinically stable without cardiopulmonary or constitutional symptoms, although pallor is present.
+
+No anemia-directed medication is currently documented; therefore, treatment effectiveness, adherence, and tolerance are not applicable at this visit.
+
+Plan
+
+Discussed laboratory pattern and likely contribution of chronic disease/inflammation. Recommend reassessment with CBC, reticulocyte count, peripheral smear, renal function testing, vitamin B12, folate, and inflammatory markers. Continue evaluation for ongoing blood loss or other contributors as clinically appropriate.
+
+Review management options after reassessment, including oral or intravenous iron if indicated and consideration of an erythropoiesis-stimulating agent only when appropriate to the underlying disease and overall goals of care. Avoid empiric iron therapy without further assessment given the ferritin level and chronic disease pattern.
+
+Encouraged smoking cessation. Monitor for new fatigue, weakness, dizziness, dyspnea, palpitations, chest discomfort, or declining exercise tolerance. Follow up after repeat laboratory evaluation or sooner for worsening symptoms.

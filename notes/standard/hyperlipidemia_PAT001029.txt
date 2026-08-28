@@ -1,0 +1,43 @@
+Chief Complaint
+
+Initial consultation for elevated cholesterol.
+
+Subjective
+
+Grace Powell is a 67-year-old woman presenting for initial outpatient evaluation of hyperlipidemia, present for approximately 14 years and currently without active lipid-lowering management. Recent lipid results show total cholesterol 290 mg/dL, LDL cholesterol 194 mg/dL, HDL cholesterol 41 mg/dL, and triglycerides 274 mg/dL.
+
+She denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. She does not smoke. Weight is 62.0 kg at a height of 169 cm, with BMI 21.7 kg/m².
+
+Relevant comorbidities include hypertension of approximately 18 years’ duration and non-alcoholic fatty liver disease of approximately 41 years’ duration.
+
+Objective
+
+Vital signs: Blood pressure 150/84 mmHg, pulse 76 bpm, respiratory rate 15/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Height 169 cm; weight 62.0 kg; BMI 21.7 kg/m².
+
+Lipid profile: Total cholesterol 290 mg/dL; LDL cholesterol 194 mg/dL; HDL cholesterol 41 mg/dL; triglycerides 274 mg/dL.
+
+No cardiovascular or cutaneous symptoms associated with dyslipidemia are reported.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and concomitant moderate hypertriglyceridemia. The LDL level of 194 mg/dL represents a substantial atherogenic burden and, in the setting of age and longstanding hypertension, places her at increased lifetime risk for atherosclerotic cardiovascular disease despite the absence of current anginal or claudication symptoms. HDL is borderline low at 41 mg/dL. Her normal BMI and absence of tobacco use are favorable risk characteristics.
+
+Longstanding hypertension with current blood pressure of 150/84 mmHg, which is above usual outpatient treatment targets and increases overall cardiovascular risk.
+
+History of non-alcoholic fatty liver disease. This is not, by itself, a contraindication to statin therapy, but hepatic history should be considered when selecting and monitoring treatment.
+
+Plan
+
+Discussed the significance of the lipid profile, particularly the LDL cholesterol of 194 mg/dL and the associated cardiovascular risk. Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after shared decision-making and review of contraindications, tolerability, and patient preferences. Given the degree and duration of LDL elevation, pharmacologic therapy is appropriate in addition to lifestyle measures.
+
+Recommend a heart-healthy dietary pattern emphasizing vegetables, fruits, legumes, whole grains, fish, and unsaturated fats while minimizing saturated fats, trans fats, refined carbohydrates, and excess alcohol. Encourage regular aerobic and resistance exercise as tolerated. Continue avoidance of tobacco.
+
+Recommend evaluation for potentially reversible secondary contributors to dyslipidemia, including thyroid dysfunction, renal disease, glycemic abnormalities, and medication or dietary contributors. Given the history of non-alcoholic fatty liver disease, obtain baseline hepatic assessment before or at the time of therapy initiation as clinically appropriate.
+
+Repeat a fasting lipid panel after treatment initiation and dose adjustment to assess adherence and response. If LDL reduction is inadequate or statin therapy is not tolerated, consider addition of ezetimibe; further risk stratification with lipoprotein(a), apolipoprotein B, or coronary artery calcium scoring may be considered if it would influence treatment decisions.
+
+Recommend ongoing blood pressure monitoring and coordination of hypertension management, as the current reading of 150/84 mmHg adds to her atherosclerotic risk.
+
+Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance, laboratory response, and cardiovascular risk-reduction goals.

@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for hypertension.
+
+Subjective
+
+Lauren Lawson is a 32-year-old woman presenting for routine outpatient follow-up of hypertension, present for approximately 15 years. Her blood pressure has not been actively managed. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or nosebleeds. No interval hypertensive symptoms are reported.
+
+Relevant comorbidities include type 2 diabetes mellitus for 2 years, chronic kidney disease for 1 year, and coronary artery disease for 1 year. She currently smokes. Weight is 88.1 kg at a height of 180 cm, with BMI 27.2 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 157/98 mmHg, pulse 79 bpm, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 99%.
+
+Laboratory data: Sodium 136 mmol/L. Potassium 5.3 mmol/L.
+
+No acute cardiopulmonary or neurologic symptoms reported today.
+
+Assessment
+
+1. Essential hypertension, longstanding and currently above goal at 157/98 mmHg without associated symptoms. Her diabetes, chronic kidney disease, coronary artery disease, and tobacco use substantially increase cardiovascular and renal risk. She has no reported features of hypertensive emergency today.
+
+2. Mildly elevated serum potassium at 5.3 mmol/L in the setting of chronic kidney disease. This requires confirmation and consideration when selecting antihypertensive therapy.
+
+3. Type 2 diabetes mellitus, reported duration 2 years; increases overall cardiovascular and renal risk.
+
+4. Chronic kidney disease, reported duration 1 year.
+
+5. Coronary artery disease, reported duration 1 year.
+
+6. Tobacco use. Continued smoking contributes to poor blood pressure control and increased cardiovascular risk.
+
+7. BMI 27.2 kg/m², in the overweight range.
+
+Plan
+
+Discussed the importance of consistent blood pressure management given her longstanding hypertension and associated diabetes, chronic kidney disease, and coronary artery disease. Recommend prompt follow-up for confirmation of out-of-office blood pressure readings and initiation or adjustment of antihypertensive therapy. Medication selection should account for the potassium of 5.3 mmol/L and underlying kidney disease; avoid empiric changes that could further increase potassium until renal function and repeat potassium are reviewed.
+
+Recommend repeat serum electrolytes, including potassium, with assessment of renal function. Obtain urinalysis, lipid profile, and ECG as part of cardiovascular and hypertension risk assessment. Continue monitoring blood pressure at home if a validated cuff is available and bring readings to follow-up.
+
+Counseled regarding reduced dietary sodium, regular physical activity as tolerated, weight management, and smoking cessation. Reinforced the importance of coordinated management of diabetes, chronic kidney disease, coronary artery disease, and hypertension.
+
+Seek urgent medical attention for chest pain, shortness of breath, new neurologic symptoms, severe headache, confusion, vision loss, or markedly elevated blood pressure with symptoms. Close outpatient follow-up is recommended after repeat laboratory testing and blood pressure review.

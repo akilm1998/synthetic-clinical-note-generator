@@ -1,0 +1,73 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Zoe Butler is a 66-year-old woman presenting for outpatient follow-up of anemia present for approximately 23 years. She reports no current fatigue, generalized weakness, dizziness, headache, shortness of breath, palpitations, reduced exercise tolerance, or other anemia-related symptoms. She does not report pallor.
+
+Her anemia has not been actively managed. Relevant chronic comorbidities include inflammatory bowel disease for approximately 25 years, type 2 diabetes mellitus for 33 years, and malignancy diagnosed approximately 12 years ago. She is a current smoker. No medication regimen is provided for review today.
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance.
+
+Cardiovascular: Denies palpitations.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Denies dizziness or headache.
+
+Hematologic/skin: No pallor reported.
+
+Objective
+
+Vital Signs: Blood pressure 128/76 mmHg, pulse 86 bpm, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 96%.
+
+Height 167 cm, weight 65.8 kg, BMI 23.6 kg/m².
+
+General: No anemia-related symptoms reported today.
+
+Cardiovascular: Regular rate by recorded pulse; cardiovascular examination otherwise normal.
+
+Respiratory: Respiratory rate and oxygenation are normal; respiratory examination is normal.
+
+Skin: No pallor reported.
+
+Laboratory Data: Hemoglobin 9.3 g/dL, hematocrit 27.0%, RBC count 3.0 million/µL, MCV 90 fL. Serum iron 49 µg/dL, ferritin 212 ng/mL, TIBC 210 µg/dL, transferrin saturation 23.3%.
+
+Assessment
+
+1. Chronic normocytic anemia, most consistent with anemia of chronic disease/inflammation.
+
+Hemoglobin and hematocrit are reduced with a normocytic red-cell profile. The relatively low serum iron and TIBC with ferritin preserved/elevated at 212 ng/mL support impaired iron utilization in the setting of chronic inflammation rather than straightforward absolute iron depletion. Her long-standing inflammatory bowel disease and history of malignancy are clinically relevant potential contributors. Chronic kidney disease is not documented in the supplied information and should be assessed as part of the anemia evaluation. She is currently asymptomatic, hemodynamically stable, and without tachycardia, hypoxemia, dyspnea, or reduced exercise tolerance. The anemia has not been actively managed.
+
+2. Inflammatory bowel disease, longstanding.
+
+Present for approximately 25 years and potentially contributing to chronic inflammatory anemia and impaired iron utilization. The current activity of the bowel disease is not described in this encounter.
+
+3. Malignancy, longstanding history.
+
+Reported duration approximately 12 years. Ongoing inflammatory burden or treatment-related factors may be relevant to the anemia, although no current cancer status or treatment information is provided.
+
+4. Type 2 diabetes mellitus, longstanding.
+
+Present for approximately 33 years. Chronic diabetes increases the importance of assessing renal function when evaluating persistent anemia.
+
+5. Tobacco use.
+
+Patient continues to smoke. Smoking cessation should be addressed as part of overall risk reduction.
+
+Plan
+
+1. Further characterize the anemia with repeat CBC, reticulocyte count, and peripheral blood smear. Recommend assessment of vitamin B12 and folate levels, renal function, and inflammatory markers. These studies will help distinguish chronic inflammatory anemia from nutritional deficiency, reduced erythropoiesis, renal contribution, or another hematologic process.
+
+2. Review the clinical activity and treatment history of her inflammatory bowel disease and malignancy, including whether there has been any recent blood loss, gastrointestinal disease activity, or cancer-directed therapy that could contribute to the anemia.
+
+3. Given the chronicity and hemoglobin of 9.3 g/dL, recommend structured follow-up of the blood counts and consideration of hematology evaluation if the anemia persists, worsens, or the initial evaluation does not clarify the cause.
+
+4. Do not assume isolated iron deficiency based on the low serum iron alone. Ferritin is preserved/elevated and TIBC is low, favoring inflammation-associated iron restriction. Iron replacement should be guided by the complete clinical assessment and follow-up studies rather than initiated empirically from the currently available values alone.
+
+5. Monitor for development of fatigue, weakness, dizziness, dyspnea, palpitations, headache, pallor, or reduced exercise tolerance. Prompt reassessment is appropriate if these symptoms develop or if there is evidence of bleeding or clinical deterioration.
+
+6. Counsel regarding smoking cessation and continue coordination of care for her chronic inflammatory bowel disease, malignancy history, and diabetes.

@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Julia Stone is a 61-year-old woman presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 7 years ago. Recent laboratory results show HbA1c 9.6% and fasting glucose 234 mg/dL, consistent with inadequate glycemic control. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+She does not smoke. Comorbid conditions include obesity for approximately 7 years, dyslipidemia for 27 years, and non-alcoholic fatty liver disease for 27 years. No diabetes medication regimen is provided for review today.
+
+Objective
+
+Vital signs: BP 126/81 mmHg, pulse 82 bpm, respiratory rate 21/min, temperature 36.7°C, oxygen saturation 97%.
+
+Height 175 cm; weight 100.4 kg; BMI 32.8 kg/m².
+
+Laboratory results: HbA1c 9.6%. Fasting glucose 234 mg/dL.
+
+No acute distress or diabetes-related symptoms reported. No examination findings indicating neuropathy, skin breakdown, or other diabetes complications are provided.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, currently poorly controlled based on HbA1c 9.6% and fasting glucose 234 mg/dL. Despite the absence of symptomatic hyperglycemia, current glycemic levels warrant treatment intensification and close follow-up.
+
+Obesity, BMI 32.8 kg/m².
+
+Dyslipidemia.
+
+Non-alcoholic fatty liver disease.
+
+Plan
+
+Discussed that current glucose control is above goal and increases the long-term risk of microvascular and cardiovascular complications. Reinforced reduction of concentrated carbohydrates and sugar-sweetened beverages, portion control, increased intake of vegetables and fiber, and gradual progression toward regular physical activity as tolerated. Weight reduction was encouraged.
+
+Recommend initiation or optimization of guideline-directed glucose-lowering medication therapy. Metformin would be a reasonable first-line option if renal and hepatic considerations permit; other agents, including therapies with cardiovascular or weight-related benefit, can be considered based on treatment goals, contraindications, cost, and patient preference. No medication regimen was assumed or documented today.
+
+Recommend monitoring fasting and postprandial glucose as directed and reviewing home glucose readings at the next visit. Obtain renal function with serum creatinine/eGFR and urine albumin-to-creatinine ratio before or during treatment planning. Recommend fasting lipid profile for cardiovascular risk assessment and management. Continue attention to the associated dyslipidemia and non-alcoholic fatty liver disease.
+
+Recommend comprehensive diabetic foot examination and routine dilated retinal evaluation; patient should report any new vision changes, foot wounds, numbness, or persistent hyperglycemic symptoms promptly.
+
+Follow up in approximately 4–6 weeks to review glucose readings and treatment response, with repeat HbA1c in approximately 3 months.

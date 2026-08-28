@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up of hyperlipidemia.
+
+Subjective
+
+Marcus Cross is a 45-year-old man presenting for follow-up of hyperlipidemia, present for approximately 5 years and currently not actively managed. Recent lipid profile shows total cholesterol 285 mg/dL, LDL cholesterol 202 mg/dL, HDL cholesterol 33 mg/dL, and triglycerides 249 mg/dL. He denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma.
+
+Relevant comorbidities include type 2 diabetes mellitus for 3 years and non-alcoholic fatty liver disease for approximately 15 years. He currently smokes. No medication regimen was provided for review.
+
+Objective
+
+Height 185 cm; weight 95.1 kg; BMI 27.8 kg/m².
+
+Blood pressure 125/81 mmHg, pulse 73 bpm, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 97%.
+
+Laboratory results:
+Total cholesterol 285 mg/dL
+LDL cholesterol 202 mg/dL
+HDL cholesterol 33 mg/dL
+Triglycerides 249 mg/dL
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol, low HDL cholesterol, and elevated triglycerides. The degree and duration of LDL elevation confer substantially increased long-term atherosclerotic cardiovascular risk, particularly in the setting of diabetes and active tobacco use. He has no reported anginal symptoms, claudication, or other current cardiovascular symptoms.
+
+Type 2 diabetes mellitus, 3-year history, increasing overall cardiovascular risk.
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Overweight by BMI.
+
+Active tobacco use.
+
+Plan
+
+Discussed the significance of the lipid profile and the importance of active treatment. Recommend initiation of high-intensity lipid-lowering therapy after shared decision-making, with medication selection and dosing reviewed at the visit. If LDL reduction is inadequate or therapy is not tolerated, consider addition of non-statin therapy.
+
+Emphasized a heart-healthy, Mediterranean-style dietary pattern with reduction of saturated and trans fats, refined carbohydrates, and excess alcohol; increase soluble fiber and physical activity as tolerated. Encourage gradual weight reduction.
+
+Strongly advised smoking cessation and offered cessation support.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response and adherence. Monitor liver enzymes in the context of treatment and known non-alcoholic fatty liver disease, using clinical judgment. Consider evaluation for secondary contributors to severe LDL elevation if not previously performed.
+
+Continue comprehensive cardiovascular risk reduction in coordination with diabetes care. Instructed to seek urgent evaluation for new chest pain, dyspnea, neurologic symptoms, or exertional leg pain.
+
+Follow up after repeat lipid testing to reassess control and treatment tolerance.

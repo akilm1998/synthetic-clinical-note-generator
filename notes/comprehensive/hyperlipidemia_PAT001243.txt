@@ -1,0 +1,55 @@
+Chief Complaint
+
+Medication review and management of longstanding hyperlipidemia.
+
+Subjective
+
+Hazel Fisher is a 92-year-old woman seen for review of markedly abnormal lipid values and treatment planning. Hyperlipidemia has been present for approximately 58 years and is currently not being actively treated. No lipid-lowering medication is identified in the information reviewed; therefore, adherence and medication tolerance cannot be assessed for pharmacologic therapy at this visit.
+
+Recent lipid panel shows total cholesterol 344 mg/dL, LDL cholesterol 229 mg/dL, HDL cholesterol 45 mg/dL, and triglycerides 351 mg/dL. She denies chest discomfort, exertional leg pain consistent with claudication, dizziness, xanthomas, or xanthelasma.
+
+She continues to smoke. Relevant comorbidities include chronic kidney disease of approximately 32 years’ duration and non-alcoholic fatty liver disease of approximately 29 years’ duration. No medication-related adverse effects are reported. No additional treatment history is provided.
+
+Review of Systems
+
+Cardiovascular: Denies chest discomfort and intermittent claudication.
+
+Neurologic: Denies dizziness.
+
+Dermatologic: Denies xanthomas and xanthelasma.
+
+Medication-related: No adverse effects reported; current lipid-lowering therapy is not identified for adherence or tolerance assessment.
+
+Objective
+
+Vital Signs: Blood pressure 140/82 mmHg, pulse 73 bpm, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Anthropometrics: Height 172 cm, weight 72.8 kg, BMI 24.6 kg/m².
+
+Laboratory Data:
+Total cholesterol: 344 mg/dL
+LDL cholesterol: 229 mg/dL
+HDL cholesterol: 45 mg/dL
+Triglycerides: 351 mg/dL
+
+Physical examination is limited to the documented vital signs and symptom review. No xanthomas or xanthelasma are reported. No current cardiovascular or claudication symptoms are reported.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and triglycerides, longstanding for approximately 58 years and presently without documented active pharmacologic management. The LDL of 229 mg/dL represents a substantial atherosclerotic cardiovascular risk factor, with additional risk contribution from advanced age, active tobacco use, chronic kidney disease, and mildly elevated blood pressure. Triglycerides are also significantly elevated at 351 mg/dL, consistent with mixed dyslipidemia. HDL is 45 mg/dL.
+
+There are no currently reported symptoms suggestive of angina, peripheral arterial disease, or symptomatic medication intolerance. Her normal BMI does not mitigate the lipid-associated risk. Chronic kidney disease and longstanding non-alcoholic fatty liver disease should be considered when selecting and monitoring therapy, although these conditions do not by themselves preclude lipid-lowering treatment. At age 92, treatment intensity should be individualized according to overall health, functional status, life expectancy, goals of care, and patient preference.
+
+Plan
+
+Discussed the severity and long duration of the lipid abnormalities, the increased cardiovascular risk associated with LDL cholesterol of 229 mg/dL, and the additional risk from smoking and chronic kidney disease.
+
+Recommend medication reconciliation and shared decision-making regarding initiation of lipid-lowering therapy. If consistent with the patient’s goals and overall health, consider starting a statin at a tolerable intensity with cautious titration, taking renal function, liver history, potential drug interactions, and risk of muscle-related adverse effects into account. Because no current lipid-lowering medication is documented, there is no established regimen for which effectiveness or adherence can be evaluated.
+
+Recommend confirming baseline renal and hepatic status before treatment selection and monitoring clinically for myalgias, weakness, gastrointestinal symptoms, or other intolerance after initiation. A repeat fasting lipid panel after an appropriate treatment interval would be reasonable to assess response and guide adjustment. Additional evaluation for secondary contributors to mixed dyslipidemia may be considered if clinically indicated.
+
+Counseled regarding reduction of saturated and trans fats, limiting refined carbohydrates and excess alcohol if applicable, maintaining regular physical activity appropriate to mobility and fall-risk status, and avoiding tobacco. Smoking cessation was emphasized as an important component of cardiovascular risk reduction.
+
+Triglycerides of 351 mg/dL warrant attention to dietary contributors and overall cardiovascular risk management; pharmacologic triglyceride-specific therapy would be considered only after reviewing the complete medication list, renal and hepatic status, treatment goals, and response to LDL-directed therapy.
+
+Follow-up should occur after medication reconciliation and initiation or adjustment of therapy to review tolerance, adherence, and lipid response.

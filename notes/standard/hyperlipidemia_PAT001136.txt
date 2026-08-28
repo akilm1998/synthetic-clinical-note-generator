@@ -1,0 +1,45 @@
+Chief Complaint
+
+Initial consultation for longstanding hyperlipidemia.
+
+Subjective
+
+James Carter is a 75-year-old man presenting for evaluation and management of hyperlipidemia, present for approximately 32 years and currently without active lipid-lowering management. He has a history of coronary artery disease for approximately 27 years, chronic kidney disease for 22 years, obesity for 25 years, and ongoing tobacco smoking.
+
+Recent lipid results show total cholesterol 331 mg/dL, LDL cholesterol 227 mg/dL, HDL cholesterol 33 mg/dL, and triglycerides 357 mg/dL. He reports fatty skin deposits consistent with xanthomas. He denies chest discomfort, exertional leg pain suggestive of claudication, and dizziness. He denies xanthelasma.
+
+No medication list, allergy history, prior lipid-lowering treatment history, or family history is provided for review today.
+
+Objective
+
+Vital Signs: Blood pressure 134/79 mmHg, pulse 86 bpm, respiratory rate 21/min, temperature 36.8°C, oxygen saturation 96%.
+
+Height 189 cm. Weight 136.1 kg. BMI 38.1 kg/m².
+
+Laboratory Data: Total cholesterol 331 mg/dL. LDL cholesterol 227 mg/dL. HDL cholesterol 33 mg/dL. Triglycerides 357 mg/dL.
+
+General examination findings and vascular examination findings are not otherwise documented in the available encounter information. Patient reports xanthomas.
+
+Assessment
+
+Severe mixed dyslipidemia with markedly elevated LDL cholesterol and triglycerides and low HDL cholesterol. The LDL level of 227 mg/dL is particularly concerning in the setting of longstanding disease, established coronary artery disease, obesity, chronic kidney disease, and active tobacco use. The reported xanthomas support substantial and prolonged lipid elevation. His absence of current chest discomfort, claudication, or dizziness does not reduce the need for aggressive cardiovascular risk reduction.
+
+Coronary artery disease, longstanding, with substantially elevated residual atherosclerotic risk related to untreated dyslipidemia and ongoing smoking.
+
+Chronic kidney disease, longstanding, which is an important cardiovascular risk-enhancing comorbidity and should be considered when selecting and dosing lipid-lowering therapy.
+
+Class II obesity with BMI 38.1 kg/m².
+
+Active tobacco use.
+
+Plan
+
+Discussed the markedly abnormal lipid profile and the importance of treatment given his coronary artery disease and chronic kidney disease. Recommend prompt initiation of guideline-directed intensive LDL-lowering therapy after confirmation of current medications, prior statin exposure, treatment intolerance, and allergy history. A high-intensity statin would generally be first-line therapy unless contraindicated or not tolerated, with addition of ezetimibe and consideration of a PCSK9-directed agent if LDL reduction remains inadequate or therapy is not tolerated. Triglyceride management should focus initially on LDL reduction, dietary modification, weight reduction, glycemic assessment as clinically appropriate, and avoidance of alcohol and refined carbohydrates; additional triglyceride-directed therapy may be considered based on repeat results and renal function.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider ApoB and lipoprotein(a) measurement for further risk characterization, particularly given the degree and duration of dyslipidemia and established coronary artery disease. Coronary calcium scoring would not generally be necessary to establish risk in a patient with known coronary artery disease.
+
+Counseled regarding a heart-healthy dietary pattern emphasizing reduction of saturated and trans fats, increased soluble fiber, vegetables, legumes, and whole grains, along with gradual weight reduction and activity appropriate for his functional capacity and coronary disease. Strongly advised complete tobacco cessation and offered structured cessation support.
+
+Recommend coordination with the clinicians managing his coronary artery disease and chronic kidney disease before and during lipid-lowering therapy. He should seek urgent medical attention for new or persistent chest discomfort, dyspnea, syncope, or acute neurologic symptoms.
+
+Follow-up after medication and allergy reconciliation and repeat lipid assessment to finalize and intensify the long-term lipid-lowering regimen.

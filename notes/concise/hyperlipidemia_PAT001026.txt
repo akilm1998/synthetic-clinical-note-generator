@@ -1,0 +1,18 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Brooke Snyder is a 93-year-old woman with a 13-year history of hyperlipidemia, currently not receiving documented lipid-lowering treatment. She denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. Continues to smoke. History also includes hypertension for 6 years and non-alcoholic fatty liver disease for approximately 60 years.
+
+Objective
+Height 160 cm; weight 61.4 kg; BMI 24.0 kg/m². BP 144/86 mmHg, pulse 71 bpm, respirations 17/min, temperature 36.9°C, oxygen saturation 96%.
+
+Lipid panel: total cholesterol 334 mg/dL, LDL-C 211 mg/dL, HDL-C 45 mg/dL, triglycerides 391 mg/dL.
+
+Assessment
+Hyperlipidemia with marked elevation of LDL cholesterol and triglycerides, without reported ischemic or peripheral vascular symptoms. Risk is increased by advanced age, active tobacco use, and hypertension. Coexisting non-alcoholic fatty liver disease should be considered when selecting and monitoring therapy.
+
+Plan
+Discussed substantially elevated cardiovascular risk and benefits versus potential risks of lipid-lowering therapy in the context of advanced age and overall goals of care. Recommend shared decision-making regarding initiation of a statin, with consideration of a moderate-intensity regimen if consistent with patient preference and tolerance. Consider repeat fasting lipid panel after treatment initiation or lifestyle intervention to assess response.
+
+Counseled on reduction of saturated and trans fats, limiting refined carbohydrates and alcohol, and maintaining regular activity as tolerated. Strongly advised smoking cessation. Continue blood pressure follow-up and management. Monitor for new chest discomfort, exertional leg pain, or other cardiovascular symptoms.

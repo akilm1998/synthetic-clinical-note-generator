@@ -1,0 +1,27 @@
+Chief Complaint
+
+Annual review and chronic anemia follow-up.
+
+Subjective
+
+Scarlett Hughes is a 96-year-old woman presenting for comprehensive annual review. She has a 27-year history of anemia in the setting of a chronic malignancy present for approximately 15 years. She denies fatigue, weakness, dizziness, shortness of breath, palpitations, headache, reduced exercise tolerance, or subjective pallor. She does not smoke.
+
+Objective
+
+Height 175 cm, weight 65.2 kg, BMI 21.3 kg/m². Blood pressure 131/82 mmHg, pulse 76 bpm, respiratory rate 19/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Recent laboratory results show hemoglobin 9.3 g/dL, hematocrit 27.0%, RBC count 2.97 million/µL, and MCV 91 fL. Serum iron is 44 µg/dL, ferritin 338 ng/mL, TIBC 259 µg/dL, and transferrin saturation 17%.
+
+Assessment
+
+1. Chronic normocytic anemia, most consistent with anemia of chronic inflammation associated with longstanding malignancy. The anemia has been present for approximately 27 years and is currently not receiving active management. Hemoglobin and hematocrit are reduced with a normal MCV. The low serum iron and transferrin saturation, together with elevated ferritin and relatively low TIBC, support impaired iron utilization in the setting of chronic disease rather than uncomplicated absolute iron deficiency. She is currently asymptomatic, with normal heart rate, blood pressure, and oxygen saturation.
+
+2. Chronic malignancy, reported duration approximately 15 years. This remains the most clinically relevant underlying comorbidity contributing to chronic inflammation and anemia. No additional malignancy details or current treatment regimen are provided.
+
+3. Preventive health and geriatric annual review. Weight is within a healthy range for height. She is a nonsmoker. Vital signs are stable. Preventive interventions should be individualized to overall health, functional status, life expectancy, and patient preferences.
+
+Plan
+
+For the anemia, review the trend in hemoglobin and hematocrit over time and assess for any interval development of fatigue, dyspnea, dizziness, palpitations, bleeding, or reduced function. Recommend reticulocyte count, peripheral blood smear, vitamin B12, folate, renal function testing, and inflammatory markers if not recently assessed, to confirm the mechanism and exclude additional reversible contributors. Continue evaluation for occult blood loss if clinically indicated. Iron replacement should not be started empirically solely on the basis of the low serum iron given the elevated ferritin and overall pattern; treatment decisions should be guided by the complete clinical context and goals of care. Consider hematology and/or oncology input regarding anemia management, including whether erythropoietin-stimulating therapy or intravenous iron is appropriate in the context of her chronic malignancy.
+
+Continue clinical surveillance, with earlier reassessment for new anemia-related symptoms or evidence of worsening. Routine annual preventive care should be individualized, with attention to fall prevention, functional status, nutrition, vaccination review, and age-appropriate screening decisions based on preferences and overall goals of care.

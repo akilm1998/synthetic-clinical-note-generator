@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+
+Gavin Franklin is a 74-year-old man, 164 cm tall and weighing 60.5 kg, with a BMI of 22.5 kg/m². He has a 23-year history of hyperlipidemia that has not been under active management. He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. He reports fatty skin deposits and yellowish plaques around the eyelids consistent with xanthomas and xanthelasma. He does not smoke.
+
+Relevant comorbidity includes hypertension of approximately 25 years’ duration. No lipid-lowering medications are provided in the current history.
+
+Objective
+
+Vital signs: Blood pressure 144/85 mmHg, pulse 71 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 98% on room air.
+
+Recent lipid profile:
+Total cholesterol 311 mg/dL
+LDL cholesterol 196 mg/dL
+HDL cholesterol 37 mg/dL
+Triglycerides 390 mg/dL
+
+Reported findings include xanthomas and xanthelasma. No cardiovascular or claudication symptoms reported.
+
+Assessment
+
+Longstanding untreated/undertreated mixed dyslipidemia with markedly elevated LDL cholesterol and triglycerides and low HDL cholesterol. The LDL level of 196 mg/dL represents a substantial atherosclerotic cardiovascular disease risk, particularly in the setting of advanced age and longstanding hypertension. Triglycerides are significantly elevated but below the level typically associated with the highest pancreatitis risk. Cutaneous lipid deposits further support prolonged lipid burden.
+
+Blood pressure is above goal at today’s visit in the setting of longstanding hypertension and warrants continued monitoring and management.
+
+Plan
+
+Discussed the significance of the lipid profile and the importance of initiating active lipid-lowering therapy. Recommend shared decision-making regarding a high-intensity statin, such as atorvastatin or rosuvastatin, assuming no contraindication. If LDL reduction is inadequate or statin therapy is not tolerated, addition of ezetimibe and consideration of specialist-directed nonstatin therapy may be appropriate.
+
+Recommend repeat lipid panel after treatment initiation or adjustment to assess response and adherence. Consider evaluation for secondary contributors to dyslipidemia and measurement of ApoB and lipoprotein(a) for further risk characterization. Coronary artery calcium imaging may be considered if treatment decisions remain uncertain after clinical discussion.
+
+Counseled on reducing saturated and trans fats, refined carbohydrates, and excess dietary sugars; increasing soluble fiber and unsaturated fats; and maintaining regular aerobic physical activity as tolerated. Continue tobacco avoidance. Monitor for development of chest discomfort, exertional leg symptoms, or other ischemic symptoms and seek prompt evaluation if these occur.
+
+Continue attention to blood pressure control through primary care follow-up. Return for lipid and cardiovascular risk reassessment after implementation of the treatment plan.

@@ -1,0 +1,20 @@
+Chief Complaint
+Annual review of anemia.
+
+Subjective
+Logan Stewart is a 48-year-old male, nonsmoker, presenting for annual review of anemia present for approximately 2 years. He denies fatigue, weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or symptoms suggestive of pallor. History is notable for malignancy of 8 years’ duration. No current anemia-directed therapy is documented.
+
+Objective
+Height 169 cm, weight 68.3 kg, BMI 23.9 kg/m².
+BP 119/81 mmHg, pulse 85 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 98%.
+Hemoglobin 9.7 g/dL, hematocrit 29.3%, RBC 3.22 million/µL, MCV 91 fL. Serum iron 47 µg/dL, ferritin 197 ng/mL, TIBC 264 µg/dL, transferrin saturation 17.8%.
+
+Assessment
+Persistent normocytic anemia with low serum iron and transferrin saturation and relatively preserved ferritin, most consistent with anemia associated with chronic inflammation/malignancy. Currently clinically compensated and asymptomatic. No evidence of acute cardiopulmonary compromise based on vital signs and reported symptoms.
+
+Plan
+Obtain/review CBC with reticulocyte count and peripheral smear, renal function, vitamin B12, folate, and inflammatory markers; repeat iron studies as clinically indicated.
+Assess for interval change or active treatment related to the underlying malignancy and coordinate management with the treating oncology team.
+No empiric iron regimen documented today; consider oral or intravenous iron only after evaluation of iron availability and the underlying inflammatory process.
+Advise prompt review for new dyspnea, chest pain, palpitations, dizziness, bleeding, or worsening functional tolerance.
+Continue routine annual preventive care, including age-appropriate cancer screening and immunization review. Follow up after laboratory reassessment or sooner if symptoms develop.

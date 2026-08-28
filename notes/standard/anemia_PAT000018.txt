@@ -1,0 +1,51 @@
+Chief Complaint
+
+Initial outpatient consultation for anemia.
+
+Subjective
+
+Gavin Holland is a 38-year-old man presenting for evaluation of anemia reported over approximately 4 years. He denies fatigue, generalized weakness, dizziness, dyspnea, palpitations, headache, reduced exercise tolerance, or subjective pallor. The anemia has not been under active management.
+
+Relevant medical history includes chronic kidney disease for approximately 1 year, type 2 diabetes mellitus for 7 years, and chronic infection for approximately 3 years. These conditions may contribute to chronic inflammation and impaired erythropoiesis. He reports current cigarette smoking. No medication, allergy, surgical, hospitalization, or family history information is provided in the current record.
+
+Objective
+
+Height 182 cm; weight 71.9 kg; BMI 21.7 kg/m².
+
+Vital signs: blood pressure 137/83 mmHg, pulse 85 bpm, respiratory rate 21/min, temperature 37.0°C, oxygen saturation 98% on room air.
+
+Laboratory results:
+Hemoglobin 9.8 g/dL
+Hematocrit 29.4%
+RBC count 3.42 million/µL
+MCV 86 fL
+Serum iron 38 µg/dL
+Ferritin 272 ng/mL
+TIBC 209 µg/dL
+Transferrin saturation 18.2%
+
+The CBC demonstrates anemia with a normocytic profile. Iron studies show low serum iron and TIBC with preserved-to-elevated ferritin, a pattern favoring iron-restricted erythropoiesis in the setting of inflammation or chronic disease rather than uncomplicated absolute iron deficiency.
+
+Assessment
+
+Anemia most consistent with anemia of chronic disease/chronic inflammation. The anemia is normocytic, with hemoglobin 9.8 g/dL and hematocrit 29.4%. Low serum iron and TIBC with ferritin of 272 ng/mL support impaired iron utilization associated with chronic inflammation. Chronic kidney disease may additionally contribute through reduced erythropoietic signaling. His chronic infection and other comorbid illness are relevant potential inflammatory drivers. He is currently asymptomatic from an anemia standpoint, without reported cardiopulmonary or constitutional symptoms.
+
+Type 2 diabetes mellitus, present for approximately 7 years.
+
+Chronic kidney disease, present for approximately 1 year, potentially contributing to the anemia.
+
+Chronic infection, present for approximately 3 years.
+
+Current cigarette smoking.
+
+Plan
+
+Confirm the persistence and trajectory of the anemia with a repeat complete blood count and reticulocyte count. Review a peripheral blood smear and assess vitamin B12 and folate levels to exclude other causes of normocytic anemia.
+
+Obtain renal function testing and inflammatory markers to assess the relative contribution of chronic kidney disease and ongoing inflammation. Continue evaluation and treatment of the underlying chronic infection and other inflammatory conditions through the appropriate treating clinicians.
+
+The iron profile does not support empiric iron therapy as the sole intervention. Reassess iron indices if the anemia worsens or if additional evidence of iron deficiency develops. Consider oral or intravenous iron only after clinical reassessment and confirmation of the likely mechanism.
+
+If anemia persists after evaluation and correction of reversible contributors, consider hematology and/or nephrology consultation regarding further management, including whether an erythropoiesis-stimulating therapy is appropriate in the context of kidney disease. No such therapy is initiated today.
+
+Counseled regarding smoking cessation, given its adverse effects on vascular health and chronic disease control. Continue routine management of diabetes and chronic kidney disease. Advise prompt reassessment for new dyspnea, chest discomfort, palpitations, syncope, marked weakness, or bleeding. Arrange outpatient follow-up after the recommended evaluation to review the anemia and guide treatment.

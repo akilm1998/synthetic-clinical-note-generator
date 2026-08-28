@@ -1,0 +1,28 @@
+Chief Complaint
+Routine follow-up for hypertension.
+
+Subjective
+Faith Hawkins is a 45-year-old woman with a 4-year history of essential hypertension, currently without documented antihypertensive treatment. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis. History is also notable for coronary artery disease for 1 year and hyperlipidemia for 8 years. She does not smoke.
+
+Objective
+Blood pressure 146/100 mmHg, pulse 78 bpm, respiratory rate 15/min, temperature 36.8°C, oxygen saturation 99% on room air. Height 165 cm, weight 58.8 kg, BMI 21.6 kg/m².
+
+Serum electrolytes: sodium 145 mmol/L, potassium 5.2 mmol/L.
+
+Assessment
+Essential hypertension with persistently elevated office blood pressure, currently asymptomatic and not at goal.
+
+Mild hyperkalemia requiring confirmation before selecting antihypertensive therapy.
+
+Coronary artery disease and hyperlipidemia, clinically stable by today’s history.
+
+Plan
+Repeat serum electrolytes and obtain renal function testing to confirm potassium level and guide antihypertensive selection. Avoid initiating potassium-raising therapy until repeat potassium is reviewed.
+
+Recommend home blood pressure monitoring with documented readings. Review dietary sodium reduction, regular physical activity, and avoidance of excess alcohol.
+
+Discuss initiation of antihypertensive therapy after laboratory reassessment, with consideration of her coronary artery disease and potassium level.
+
+Recommend ECG, lipid profile, and urinalysis as part of cardiovascular risk and hypertension evaluation.
+
+Follow up promptly after repeat laboratory testing and home blood pressure review; seek urgent care for chest pain, shortness of breath, neurologic symptoms, or markedly elevated blood pressure with symptoms.

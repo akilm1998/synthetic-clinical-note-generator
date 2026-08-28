@@ -1,0 +1,29 @@
+Chief Complaint
+
+Medication review and follow-up of chronic anemia.
+
+Subjective
+
+Dylan Rivera is an 88-year-old man, height 184 cm, weight 84.6 kg, BMI 25.0 kg/m², seen for outpatient review of longstanding anemia. The anemia has been present for approximately 11 years in the setting of chronic infection for 16 years and inflammatory bowel disease for 60 years. He is not currently reporting fatigue, weakness, dizziness, shortness of breath, palpitations, headache, reduced exercise tolerance, or visible pallor.
+
+No active anemia-directed medication regimen is identified for review today. Accordingly, medication effectiveness, adherence, and treatment tolerance cannot be assessed. He continues to smoke.
+
+Objective
+
+Vital signs: Blood pressure 135/75 mmHg, pulse 87 bpm, respiratory rate 23/min, temperature 36.8°C, oxygen saturation 96%.
+
+Laboratory results: Hemoglobin 9.2 g/dL, hematocrit 27.4%, RBC count 2.98 million/µL, MCV 92 fL, serum iron 27 µg/dL, ferritin 309 ng/mL, TIBC 237 µg/dL, transferrin saturation 11.4%.
+
+Assessment
+
+Chronic normocytic anemia consistent with anemia of chronic inflammation, with contributions likely related to longstanding inflammatory bowel disease and chronic infection. The low serum iron and transferrin saturation with elevated ferritin and reduced TIBC support impaired iron availability in the setting of inflammation rather than uncomplicated absolute iron deficiency. Hemoglobin is reduced at 9.2 g/dL, although he currently denies anemia-related symptoms and has no documented tachycardia or hypoxemia. No anemia treatment is currently being used, so there is no therapeutic response or adverse-effect profile to evaluate.
+
+Chronic inflammatory bowel disease and chronic infection remain clinically relevant potential drivers of persistent inflammation and impaired erythropoiesis. Smoking may further reduce cardiopulmonary reserve and should be addressed.
+
+Plan
+
+Review and reconcile all current medications at the next medication-focused visit, including any agents that may worsen gastrointestinal blood loss or affect hematologic status. Do not initiate or continue iron therapy solely on the basis of the low serum iron, given the elevated ferritin and inflammatory pattern; assess the overall clinical context before selecting oral or intravenous iron.
+
+Recommend repeat CBC with reticulocyte count and peripheral smear, along with renal function testing, vitamin B12, folate, and inflammatory markers to further characterize the anemia and identify potentially reversible contributors. Ongoing management of the chronic infection and inflammatory bowel disease is important to reduce inflammatory suppression of erythropoiesis.
+
+If anemia persists or worsens after evaluation and treatment of reversible contributors, consider discussion of hematology-directed therapy, including intravenous iron or an erythropoiesis-stimulating agent when clinically appropriate. Monitor for new fatigue, weakness, dyspnea, chest discomfort, palpitations, dizziness, bleeding, or reduced exercise tolerance. Encourage smoking cessation. Reassess after the recommended laboratory evaluation or sooner for new symptoms.

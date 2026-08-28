@@ -1,0 +1,37 @@
+Chief Complaint
+
+Medication review and follow-up of type 2 diabetes mellitus.
+
+Subjective
+
+Simon Bishop is a 93-year-old man with a 5-year history of type 2 diabetes mellitus, obesity, and longstanding non-alcoholic fatty liver disease. He presents for review of diabetes treatment effectiveness, adherence, and tolerance. No active diabetes medication regimen is identified in the current record for reconciliation. He reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. He does not smoke.
+
+Objective
+
+Height 163 cm; weight 89.5 kg; BMI 33.7 kg/m².
+
+Blood pressure 133/79 mmHg, pulse 75 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 96%.
+
+Hemoglobin A1c 9.7%. Fasting glucose 230 mg/dL.
+
+No additional examination findings documented today.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, currently inadequately controlled based on HbA1c of 9.7% and fasting glucose of 230 mg/dL. Despite significant hyperglycemia, he denies classic osmotic or constitutional symptoms. There is no documented evidence today of neuropathy, infection, visual symptoms, or an active diabetic wound. Medication effectiveness, adherence, and tolerability cannot be assessed against a confirmed regimen because no active diabetes medications are identified in the current record.
+
+Obesity, BMI 33.7 kg/m², longstanding and contributing to insulin resistance.
+
+Longstanding non-alcoholic fatty liver disease.
+
+Plan
+
+Complete medication reconciliation with the patient and caregiver, including confirmation of any prescribed diabetes therapy, actual use, missed doses, adverse effects, and barriers to adherence. Given his age and marked hyperglycemia, treatment should be individualized with emphasis on avoiding hypoglycemia, excessive treatment burden, dehydration, and other medication-related adverse effects.
+
+If he is not currently receiving pharmacologic therapy, discuss initiation of an age-appropriate glucose-lowering regimen after reviewing renal function, hepatic status, oral intake, functional status, and goals of care. If treatment is already prescribed, assess adherence and tolerance before intensifying therapy. Avoid making medication changes until the current regimen and relevant safety parameters are confirmed.
+
+Recommend practical nutrition counseling focused on reducing concentrated carbohydrates and sweetened beverages, maintaining adequate hydration, and pursuing gradual, sustainable weight reduction as tolerated. Encourage physical activity appropriate to his mobility and fall risk.
+
+Recommend monitoring of home glucose readings if feasible, with instructions to report persistent marked elevations or symptoms of dehydration, confusion, vomiting, or acute illness. Recommend periodic HbA1c reassessment after treatment changes, along with renal function, urine albumin-to-creatinine ratio, and lipid assessment as clinically appropriate. Continue routine diabetes complication surveillance, including foot and eye assessment.
+
+Follow up after medication reconciliation and treatment planning, sooner for symptomatic hyperglycemia or other acute concerns.

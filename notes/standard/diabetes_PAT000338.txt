@@ -1,0 +1,35 @@
+Chief Complaint
+
+Medication review for type 2 diabetes mellitus.
+
+Subjective
+
+Kevin Peterson is a 67-year-old man with a 21-year history of type 2 diabetes presenting for outpatient medication review. Diabetes is currently poorly controlled based on recent laboratory values. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+No active diabetes medication is identified for review today; therefore, effectiveness, adherence, and treatment tolerance cannot be confirmed. He does not smoke. Relevant comorbidities include chronic kidney disease for approximately 7 years and dyslipidemia for approximately 14 years.
+
+Objective
+
+Height 184 cm. Weight 91.7 kg. BMI 27.1 kg/m².
+
+Blood pressure 134/88 mmHg. Pulse 71 bpm. Respiratory rate 17/min. Temperature 36.7°C. Oxygen saturation 96%.
+
+HbA1c 9.5%. Fasting glucose 252 mg/dL.
+
+No additional examination findings documented today.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, with significant hyperglycemia based on HbA1c of 9.5% and fasting glucose of 252 mg/dL. The patient is currently asymptomatic, but glycemic control is inadequate for a 21-year history of diabetes.
+
+Chronic kidney disease, present for approximately 7 years; renal function should be considered when selecting or adjusting diabetes therapy.
+
+Dyslipidemia, present for approximately 14 years.
+
+Plan
+
+Review and reconcile all current prescription, over-the-counter, and supplemental medications at the next medication discussion, including any prior diabetes therapies, dosing, adherence, and adverse effects. Given the elevated HbA1c and fasting glucose, prompt initiation or intensification of glucose-lowering therapy is recommended, with medication selection and dosing guided by kidney function and treatment tolerance.
+
+Recommend monitoring fasting and postprandial glucose as appropriate and bringing glucose records to follow-up. Reinforce consistent carbohydrate intake, avoidance of sugar-sweetened beverages, portion control, and regular physical activity as tolerated. His BMI is 27.1 kg/m²; modest weight reduction may improve glycemic control.
+
+Recommend obtaining renal function assessment, including serum creatinine/eGFR and urine albumin-to-creatinine ratio, before finalizing medication adjustments. Continue routine diabetes complication surveillance, including foot assessment and retinal evaluation. Follow up promptly after medication reconciliation and laboratory review to reassess glycemic control and treatment tolerance.

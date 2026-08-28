@@ -1,0 +1,35 @@
+Chief Complaint
+
+Urgent follow-up for anemia.
+
+Subjective
+
+Noah Hamilton is a 51-year-old man, nonsmoker, 189 cm tall and 98.2 kg (BMI 27.5 kg/m²), seen for focused follow-up of anemia identified approximately 2 years ago. He denies fatigue, weakness, dizziness, headache, pallor, dyspnea, palpitations, or reduced exercise tolerance. No acute cardiopulmonary symptoms are reported.
+
+Relevant comorbidities include inflammatory bowel disease for 23 years, malignancy for 4 years, and chronic kidney disease for 4 years. Anemia has not been under active treatment. Current medication use is not provided.
+
+Objective
+
+Vital signs: BP 131/85 mmHg, pulse 82 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 97%.
+
+Laboratory data:
+Hemoglobin 9.4 g/dL
+Hematocrit 27.4%
+RBC count 3.15 million/µL
+MCV 87 fL
+Serum iron 46 µg/dL
+Ferritin 378 ng/mL
+TIBC 258 µg/dL
+Transferrin saturation 17.8%
+
+Assessment
+
+1. Normocytic anemia consistent with anemia of chronic inflammation/chronic disease. Hemoglobin and hematocrit are reduced with a normal MCV. The low serum iron and transferrin saturation, together with elevated ferritin and reduced TIBC, support iron-restricted erythropoiesis in the setting of chronic inflammatory disease and chronic kidney disease rather than uncomplicated absolute iron deficiency. His longstanding inflammatory bowel disease and malignancy are additional potential contributors. He is currently clinically stable and without reported anemia-related symptoms.
+
+Plan
+
+Obtain repeat CBC with reticulocyte count and peripheral smear to characterize the anemia and assess marrow response. Check vitamin B12, folate, renal function, and inflammatory markers. Reassess iron indices in clinical context, recognizing that ferritin may be elevated with inflammation.
+
+Review for active inflammatory bowel disease, malignancy-related inflammation, and renal contribution to anemia with the clinicians managing those conditions. Consider disease-directed anemia therapy, including iron replacement or an erythropoiesis-stimulating agent, only after review of repeat testing, renal function, inflammatory activity, malignancy status, and overall treatment goals. Avoid empiric escalation of iron therapy based on serum iron alone.
+
+Because the anemia is currently untreated and hemoglobin is 9.4 g/dL, arrange prompt outpatient reassessment after the recommended evaluation. Seek urgent care for new shortness of breath, chest pain, syncope, sustained palpitations, significant bleeding, or rapidly worsening weakness.

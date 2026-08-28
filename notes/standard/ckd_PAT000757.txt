@@ -1,0 +1,44 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Noah Hamilton is a 68-year-old man, 187 cm tall and weighing 83.9 kg, with BMI 24.0 kg/m², presenting for outpatient medication review and follow-up of chronic kidney disease diagnosed approximately 10 years ago. He reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. No medication-related symptoms are reported.
+
+His history is also notable for hypertension for 29 years, anemia of chronic disease for 7 years, and secondary hyperparathyroidism for 18 months. He currently smokes. Medication effectiveness, adherence, and tolerance cannot be adequately assessed without a confirmed active medication list; no specific medication regimen is provided for review today.
+
+Objective
+
+Vital signs: BP 157/94 mmHg, pulse 80/min, respirations 17/min, temperature 36.8°C, oxygen saturation 96%.
+
+Recent laboratory results:
+Serum creatinine 4.39 mg/dL
+BUN 95 mg/dL
+Estimated GFR 13 mL/min/1.73 m²
+
+No peripheral edema, dyspnea, nausea, pruritus, or other uremic or fluid-overload symptoms reported. BMI is normal at 24.0 kg/m².
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine. Although currently without reported uremic or volume-overload symptoms, the laboratory profile represents advanced renal impairment requiring close nephrology involvement and medication safety review.
+
+Hypertension, longstanding and above goal today at 157/94 mmHg.
+
+Anemia of chronic disease, longstanding.
+
+Secondary hyperparathyroidism.
+
+Active tobacco use.
+
+Plan
+
+Complete medication reconciliation, including prescription medications, over-the-counter agents, supplements, and NSAID use. Assess adherence, therapeutic response, adverse effects, and renal dosing before making medication changes. Avoid NSAIDs and other potentially nephrotoxic agents.
+
+Arrange prompt nephrology follow-up for management of advanced chronic kidney disease and counseling regarding renal replacement therapy planning if clinically appropriate. Review warning symptoms requiring urgent evaluation, including worsening shortness of breath, new edema, persistent nausea or vomiting, confusion, marked weakness, or significant change in urine output.
+
+Reassess blood pressure with confirmed medication list and home readings if available; adjust antihypertensive therapy only after reviewing current regimen, renal function, potassium status, and treatment tolerance.
+
+Recommend monitoring serum electrolytes, CBC, urine albumin-to-creatinine ratio, and intact parathyroid hormone, with renal ultrasound as clinically indicated. Continue management of anemia and secondary hyperparathyroidism in coordination with nephrology.
+
+Counseled regarding smoking cessation and avoidance of nonprescribed medications or supplements that may worsen kidney function. Follow up promptly after medication reconciliation and renal evaluation.

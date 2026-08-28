@@ -1,0 +1,33 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Connor Walters is a 46-year-old man presenting for routine outpatient follow-up of longstanding anemia, present for approximately 16 years. He reports intermittent headache and appears pale. He denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. No acute cardiopulmonary complaints are reported.
+
+His medical history is notable for rheumatoid arthritis diagnosed approximately 7 years ago and type 2 diabetes mellitus diagnosed approximately 1 year ago. He does not smoke. Height is 190 cm, weight 85.2 kg, BMI 23.6 kg/m². The anemia has not been actively managed to date.
+
+Objective
+
+Vital signs: Blood pressure 126/77 mmHg, pulse 85 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 97% on room air.
+
+Patient is clinically stable. Pallor is noted. Cardiovascular examination is normal without tachycardia. Respiratory examination is normal.
+
+Laboratory results reviewed: hemoglobin 8.9 g/dL, hematocrit 27.3%, RBC count 3.29 million/µL, MCV 83 fL, serum iron 27 µg/dL, ferritin 403 ng/mL, TIBC 202 µg/dL, and transferrin saturation 13.4%.
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding. Current studies demonstrate a significant normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC, a pattern most consistent with iron-restricted erythropoiesis associated with chronic inflammation rather than uncomplicated absolute iron deficiency. His rheumatoid arthritis is a likely contributing inflammatory condition. Chronic kidney disease and other contributors should also be assessed. He is hemodynamically stable and does not report symptoms suggesting acute blood loss or cardiopulmonary compromise, but the hemoglobin level warrants further evaluation and active management.
+
+Rheumatoid arthritis, approximately 7 years’ duration. Chronic inflammatory disease may be contributing to the anemia. Current inflammatory disease activity is not documented in this visit.
+
+Type 2 diabetes mellitus, approximately 1 year’s duration. This is a relevant comorbidity when assessing renal function and potential contribution to anemia.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral smear to confirm persistence and characterize marrow response. Assess renal function, vitamin B12, folate, and inflammatory markers. Review the clinical activity and treatment status of rheumatoid arthritis, as improved control of underlying inflammation may improve the anemia.
+
+The iron profile is not typical of isolated iron deficiency; avoid empiric escalation of oral iron without further assessment. Consider hematology evaluation if the anemia persists, worsens, or remains unexplained after evaluation of inflammatory and renal contributors. Treatment options, including iron replacement or an erythropoiesis-stimulating approach, should be considered based on the underlying cause, renal function, inflammatory status, and response to evaluation.
+
+Monitor for worsening fatigue, weakness, dyspnea, chest discomfort, palpitations, dizziness, or evidence of bleeding. Continue routine management of rheumatoid arthritis and diabetes, with attention to renal function in the setting of diabetes and chronic anemia.

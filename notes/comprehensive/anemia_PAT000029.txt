@@ -1,0 +1,77 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Erica Chapman is a 94-year-old woman presenting for outpatient follow-up of anemia present for approximately 26 years. She reports no current fatigue, generalized weakness, dizziness, headache, palpitations, shortness of breath, or reduced exercise tolerance. She has not noticed pallor. No anemia-related symptoms are reported today.
+
+Her medical history is significant for chronic kidney disease of approximately 38 years, inflammatory bowel disease of approximately 48 years, and heart failure of approximately 31 years. These chronic conditions are relevant potential contributors to her longstanding anemia. The anemia is currently not under active management. No medication regimen is provided for review today.
+
+She does not smoke. Height is 162 cm, weight 66.1 kg, and BMI 25.2 kg/m².
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance.
+
+Cardiopulmonary: Denies shortness of breath, palpitations, or dizziness. No exercise intolerance reported.
+
+Neurologic: Denies headache or dizziness.
+
+Hematologic: Denies awareness of pallor. No anemia-related symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 142/89 mmHg. Pulse 87 bpm. Respiratory rate 26/min. Temperature 36.6°C. Oxygen saturation 97% on room air.
+
+General: Elderly woman presenting for routine outpatient follow-up without reported anemia-related symptoms.
+
+Cardiovascular: Pulse is not tachycardic. Cardiovascular examination is otherwise normal.
+
+Respiratory: Respiratory examination is normal despite mildly increased respiratory rate. Oxygen saturation is preserved.
+
+Laboratory Data:
+Hemoglobin 8.5 g/dL
+Hematocrit 25.1%
+RBC count 2.82 million/µL
+MCV 89 fL
+Serum iron 33 µg/dL
+Ferritin 463 ng/mL
+TIBC 205 µg/dL
+Transferrin saturation 16.1%
+
+Assessment
+
+1. Chronic normocytic anemia, most consistent with anemia of chronic inflammation/disease.
+
+Hemoglobin and hematocrit are substantially reduced, with a normocytic pattern. Low serum iron and low TIBC with an elevated ferritin are consistent with iron sequestration and impaired iron availability in the setting of chronic disease rather than uncomplicated absolute iron deficiency. Her longstanding chronic kidney disease and inflammatory bowel disease are likely contributors; chronic heart failure may also contribute to reduced erythropoietic reserve. She remains clinically asymptomatic by history, without tachycardia, hypoxemia, dizziness, dyspnea, or reduced exercise tolerance. Nonetheless, the degree of anemia warrants active reassessment, particularly given her advanced age and history of heart failure. Current anemia management is not established.
+
+2. Chronic kidney disease.
+
+Longstanding condition and likely contributor to reduced erythropoietin production and chronic normocytic anemia. Renal function values are not provided today.
+
+3. Inflammatory bowel disease.
+
+Longstanding inflammatory condition that may contribute to chronic inflammation and functional iron restriction. No current gastrointestinal symptoms are reported in the available history.
+
+4. Heart failure.
+
+Longstanding comorbidity relevant to anemia tolerance and cardiopulmonary risk. She denies dyspnea and palpitations, with oxygen saturation 97% and pulse 87 bpm today. Respiratory rate is elevated at 26/min and should be reassessed clinically.
+
+5. Elevated blood pressure reading.
+
+Blood pressure is 142/89 mmHg today. This should be monitored in the context of chronic kidney disease and heart failure.
+
+Plan
+
+Anemia: Review the chronic anemia with the patient and recommend active evaluation rather than continued observation alone. Obtain a repeat complete blood count with reticulocyte count and peripheral smear to confirm persistence and assess marrow response. Recommend renal function testing, vitamin B12, folate, and inflammatory markers as clinically appropriate. Consider repeat iron indices to follow iron availability. The current pattern does not support empiric escalation of oral iron solely on the basis of low serum iron because ferritin is elevated and TIBC is low; iron replacement strategy should be guided by the full clinical picture, renal function, inflammatory bowel disease status, and clinician-directed evaluation. If anemia persists at this level, discuss management options appropriate to the underlying chronic kidney disease and inflammatory conditions, including consideration of specialist-directed erythropoiesis-stimulating therapy or intravenous iron when indicated.
+
+Chronic kidney disease: Recommend review of current renal function and kidney-related contributors to anemia. Coordinate anemia management with the clinician managing her kidney disease if persistent or worsening anemia is confirmed.
+
+Inflammatory bowel disease: Assess current inflammatory and gastrointestinal disease activity and monitor for occult or overt blood loss as clinically appropriate. Any new melena, hematochezia, abdominal pain, or change in bowel pattern should prompt timely evaluation.
+
+Heart failure and respiratory rate: Reassess respiratory rate and volume status during the visit. Although she denies shortness of breath and has normal oxygen saturation, a persistent respiratory rate of 26/min or development of dyspnea, chest discomfort, palpitations, syncope, new edema, or rapid weight gain should prompt urgent evaluation. Emergency care is appropriate for chest pain, severe shortness of breath, fainting, acute confusion, or marked weakness.
+
+Blood pressure: Continue outpatient monitoring and address persistently elevated readings in the context of kidney disease and heart failure.
+
+Follow-up: Arrange close outpatient follow-up after repeat blood count and related evaluation to review results and establish a specific anemia treatment plan.

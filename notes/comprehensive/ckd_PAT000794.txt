@@ -1,0 +1,92 @@
+Chief Complaint
+
+Annual review and follow-up of chronic kidney disease.
+
+History of Present Illness
+
+Sadie Hunter is a 44-year-old woman, 160 cm tall and 53.8 kg (BMI 21.0 kg/m²), presenting for comprehensive annual review of chronic kidney disease of approximately 14 years’ duration. Current laboratory data demonstrate creatinine 5.84 mg/dL, BUN 62 mg/dL, and estimated GFR 6 mL/min/1.73 m², indicating markedly reduced kidney function. No active CKD management plan is documented.
+
+Despite the severity of the renal impairment, she currently denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, or shortness of breath. She has a history of anemia of chronic disease for approximately 4 years, gout for 3 years, and coronary artery disease for 1 year. She does not smoke. No current medication list, allergies, dialysis history, prior renal imaging, or prior nephrology recommendations are provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Skin: Denies pruritus.
+
+Cardiopulmonary: Denies shortness of breath. No smoking history.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urinary frequency.
+
+Musculoskeletal: Denies muscle cramps. History of gout.
+
+Neurologic/Sleep: Denies sleep disturbance.
+
+Peripheral vascular: Denies peripheral edema.
+
+Objective
+
+Vital signs: Blood pressure 134/90 mmHg, pulse 78 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 99%.
+
+Anthropometrics: Height 160 cm, weight 53.8 kg, BMI 21.0 kg/m².
+
+Laboratory data:
+Serum creatinine: 5.84 mg/dL
+BUN: 62 mg/dL
+Estimated GFR: 6 mL/min/1.73 m²
+
+Physical examination: No abnormal examination findings are supplied for this encounter. Patient-reported absence of edema, dyspnea, nausea, pruritus, muscle cramps, fatigue, urinary frequency change, and sleep disturbance is noted.
+
+Assessment
+
+1. Chronic kidney disease with severely reduced renal function
+
+Fourteen-year history of chronic kidney disease with creatinine 5.84 mg/dL, BUN 62 mg/dL, and eGFR 6 mL/min/1.73 m². The patient is currently free of reported uremic, volume-overload, and constitutional symptoms; however, absence of symptoms does not lessen the urgency of the laboratory findings. Her renal function requires prompt specialist assessment and active renal replacement planning. There are no available electrolyte, acid-base, calcium-phosphate, urine protein, or hematologic results to determine current metabolic complications.
+
+2. Anemia of chronic disease
+
+Reported duration approximately 4 years. Anemia may be related to advanced chronic kidney disease, but current hemoglobin and iron indices are not provided. No treatment regimen is documented.
+
+3. Coronary artery disease
+
+History of coronary artery disease for approximately 1 year. Blood pressure is 134/90 mmHg. Cardiovascular risk assessment and medication reconciliation are particularly important given the degree of renal impairment.
+
+4. Gout
+
+History of gout for approximately 3 years. Advanced kidney disease substantially affects urate handling and medication selection. No current flare or gout-directed treatment is documented.
+
+5. Preventive health and annual review
+
+44-year-old nonsmoking woman with normal BMI. Preventive care should be coordinated with primary care and individualized according to prior screening history, family history, vaccination status, and reproductive health considerations, none of which are provided here.
+
+Plan
+
+1. Chronic kidney disease
+
+Arrange urgent nephrology evaluation, ideally promptly, for comprehensive assessment of markedly reduced kidney function and determination of renal replacement therapy needs and timing. The patient should be advised to seek emergency care immediately for new or worsening shortness of breath, chest pain, confusion, persistent vomiting, profound weakness, marked reduction in urine output, or new swelling.
+
+Obtain updated renal and metabolic assessment as clinically appropriate, including serum electrolytes, bicarbonate, calcium, phosphorus, albumin, complete blood count, urinalysis, urine albumin-to-creatinine ratio, and intact parathyroid hormone. Renal ultrasound should be considered if not previously performed or if the etiology and renal anatomy have not been established. These are recommended evaluations; no additional results are available today.
+
+Perform complete medication reconciliation before prescribing or renewing therapy. Avoid nonsteroidal anti-inflammatory drugs and other nephrotoxins where possible. All medications should be renally dosed. Dietary counseling should address sodium restriction and individualized protein, potassium, and phosphorus guidance after review of laboratory results and nephrology input. Assess blood pressure longitudinally rather than relying on today’s single reading.
+
+2. Anemia associated with chronic kidney disease
+
+Obtain CBC, iron studies, ferritin, and transferrin saturation as part of nephrology assessment. Treatment decisions, including iron replacement or erythropoiesis-stimulating therapy, should be based on those results and specialist evaluation. No anemia medication is documented and none is initiated from the information available today.
+
+3. Coronary artery disease
+
+Reconcile cardiovascular medications and confirm ongoing cardiology/primary care follow-up. Continue aggressive risk-factor management with attention to blood pressure, lipid management, diet, and avoidance of tobacco. Any antiplatelet or lipid-lowering therapy should be confirmed from the actual medication list rather than assumed.
+
+4. Gout
+
+Assess current flare frequency, urate-lowering treatment history, and renal dosing of any gout medications during medication reconciliation. Avoid routine NSAID use because of the markedly reduced kidney function. Acute joint pain, redness, or swelling should prompt timely evaluation.
+
+5. Preventive care
+
+Review immunization status, including influenza, COVID-19, pneumococcal, hepatitis B, and other age- and risk-appropriate vaccines, with consideration of the patient’s advanced kidney disease. Confirm age-appropriate cervical, breast, colorectal, and other preventive screenings according to prior results and guideline recommendations. Encourage continued avoidance of tobacco, regular appropriate physical activity, and maintenance of current healthy weight.
+
+Follow-up
+
+Prompt nephrology follow-up is recommended because of the creatinine 5.84 mg/dL and eGFR 6 mL/min/1.73 m². Primary care follow-up should occur after updated laboratory testing and medication reconciliation, or sooner for any new renal, cardiovascular, gastrointestinal, neurologic, or respiratory symptoms.

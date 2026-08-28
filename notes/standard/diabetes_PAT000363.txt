@@ -1,0 +1,33 @@
+Chief Complaint
+
+Medication review for type 2 diabetes mellitus.
+
+Subjective
+
+Christina Pierce is a 68-year-old woman seen for outpatient review of diabetes management. Her type 2 diabetes was diagnosed approximately 3 years ago and is currently not being actively managed with a documented glucose-lowering regimen. She reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling. No medication-related adverse effects are reported. She does not smoke.
+
+Relevant comorbidity includes non-alcoholic fatty liver disease, present for approximately 31 years.
+
+Objective
+
+Vital signs: BP 124/78 mmHg, pulse 73 bpm, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 170 cm, weight 69.4 kg, BMI 24.0 kg/m².
+
+Laboratory results: HbA1c 9.9%. Fasting glucose 233 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, currently significantly above glycemic goal based on HbA1c of 9.9% and fasting glucose of 233 mg/dL. She is presently asymptomatic despite marked hyperglycemia. There is no reported neuropathy, visual symptom, infection, or wound complication.
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Plan
+
+Discussed that current glucose values indicate inadequate diabetes control and that lifestyle measures alone are unlikely to be sufficient at this time. Reviewed nutrition focused on reducing concentrated sugars and refined carbohydrates, portion control, regular meals, and continuation of physical activity as tolerated.
+
+Recommend initiation of a glucose-lowering medication, with metformin a reasonable first-line option if renal function and gastrointestinal tolerance permit. Discussed potential gastrointestinal adverse effects and the importance of taking medication consistently. Renal function should be assessed before initiation and periodically thereafter. If glycemic response remains inadequate or metformin is not tolerated, additional therapy should be considered based on renal function, hepatic status, cost, and patient preferences.
+
+Recommend home glucose monitoring during treatment initiation and review of readings at follow-up. Obtain urine albumin-to-creatinine ratio, serum creatinine/eGFR, and fasting lipid profile as part of diabetes risk assessment. Recommend routine diabetic retinal evaluation and comprehensive foot examination. Reinforced prompt evaluation for persistent vomiting, confusion, severe weakness, dehydration, or markedly elevated glucose readings.
+
+Follow up in approximately 4 weeks for medication effectiveness, adherence, and tolerance review, with repeat HbA1c after an appropriate treatment interval.

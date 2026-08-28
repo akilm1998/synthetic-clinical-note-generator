@@ -1,0 +1,33 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Colin Graham is an 83-year-old man with a 41-year history of type 2 diabetes mellitus and longstanding non-alcoholic fatty liver disease. He presents for routine outpatient follow-up and review of glycemic control. He reports no increased thirst, urinary frequency, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. He does not smoke. Current diabetes treatment regimen is not documented; treatment adherence and home glucose monitoring should be clarified.
+
+Objective
+
+Vital signs: Blood pressure 129/76 mmHg, pulse 73 beats/min, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 167 cm; weight 68.6 kg; BMI 24.6 kg/m².
+
+Laboratory results: Hemoglobin A1c 9.7%. Fasting glucose 264 mg/dL.
+
+No additional examination findings are provided.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, with markedly suboptimal glycemic control based on HbA1c of 9.7% and fasting glucose of 264 mg/dL. Despite the absence of hyperglycemic, constitutional, infectious, or neuropathic symptoms, the laboratory values indicate persistent significant hyperglycemia. Given his advanced age and prolonged disease duration, treatment intensification should be individualized with attention to hypoglycemia risk, functional status, renal function, and overall goals of care.
+
+Longstanding non-alcoholic fatty liver disease.
+
+Plan
+
+Clarify current diabetes medications, adherence, dietary pattern, home glucose readings, and history of hypoglycemia before selecting therapy. Discuss initiation or adjustment of glucose-lowering treatment, with an individualized glycemic target appropriate for an 83-year-old patient and his comorbidity profile. Medication selection should consider renal and hepatic function and minimize hypoglycemia risk.
+
+Counsel regarding a consistent carbohydrate-conscious eating pattern, avoidance of sugar-sweetened beverages, portion control, and regular physical activity as tolerated. Encourage continued tobacco avoidance.
+
+Recommend assessment of renal function and urine albumin-to-creatinine ratio, fasting lipid profile, and repeat HbA1c after an appropriate interval to assess response to therapy. Recommend routine comprehensive foot examination and diabetic retinal evaluation, with particular attention to neuropathy, skin integrity, peripheral perfusion, and retinopathy given the duration of diabetes. Continue clinical monitoring of his non-alcoholic fatty liver disease while optimizing metabolic control.
+
+Follow up after medication and home glucose data review to finalize treatment adjustments and reassess glycemic control.

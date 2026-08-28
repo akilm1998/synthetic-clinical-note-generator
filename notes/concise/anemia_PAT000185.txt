@@ -1,0 +1,16 @@
+Chief Complaint
+Routine follow-up for chronic anemia.
+
+Subjective
+Lauren Lawson is a 71-year-old woman with approximately 30 years of anemia, inflammatory bowel disease for 23 years, and heart failure for 22 years. She reports headache and appears pale. She denies fatigue, weakness, dizziness, shortness of breath, palpitations, and reduced exercise tolerance. Anemia has not been actively managed. She continues to smoke.
+
+Objective
+Height 179 cm, weight 83.6 kg, BMI 26.1 kg/m². BP 134/79 mmHg, pulse 94 bpm, respirations 21/min, temperature 36.8°C, oxygen saturation 96% on room air. Pallor noted. Cardiovascular and respiratory examinations are otherwise unremarkable.
+
+Laboratory results: hemoglobin 8.2 g/dL, hematocrit 24.4%, RBC 3.01 million/µL, MCV 81 fL, serum iron 36 µg/dL, ferritin 312 ng/mL, TIBC 237 µg/dL, transferrin saturation 15.2%.
+
+Assessment
+Chronic anemia consistent with anemia of chronic inflammation, likely related to longstanding inflammatory bowel disease and other chronic comorbidity. Hemoglobin is significantly reduced, with low serum iron and transferrin saturation, elevated ferritin, and low TIBC. Symptoms are currently limited to headache and pallor, without cardiopulmonary complaints. Mild tachycardia and tachypnea noted.
+
+Plan
+Review anemia and laboratory findings with the patient and recommend active evaluation and management rather than continued observation. Obtain repeat CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers. Assess for ongoing inflammatory bowel disease activity or occult blood loss and coordinate care with gastroenterology and cardiology as clinically appropriate. Consider iron replacement, including intravenous iron if indicated, and hematology consultation for persistent or worsening anemia. Advise urgent evaluation for new or worsening shortness of breath, chest pain, palpitations, dizziness, syncope, or marked weakness. Encourage smoking cessation.

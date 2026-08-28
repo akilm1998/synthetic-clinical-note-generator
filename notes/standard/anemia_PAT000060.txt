@@ -1,0 +1,45 @@
+Chief Complaint
+
+Initial consultation for chronic anemia.
+
+Subjective
+
+Adam Ross is a 50-year-old man presenting for evaluation of anemia present for approximately 13 years. He reports headache but denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or awareness of pallor. He has a history of rheumatoid arthritis for approximately 17 years and heart failure for approximately 3 years, both of which may contribute to chronic inflammation and impaired erythropoiesis. He currently smokes. No medication use, allergies, bleeding history, or other relevant history is provided.
+
+Objective
+
+Height 186 cm; weight 73.7 kg; BMI 21.3 kg/m².
+
+Blood pressure 122/75 mmHg, pulse 91 bpm, respiratory rate 22/min, temperature 36.7°C, oxygen saturation 97%.
+
+Laboratory results:
+Hemoglobin 9.5 g/dL
+Hematocrit 27.7%
+RBC count 3.01 million/µL
+MCV 92 fL
+Serum iron 40 µg/dL
+Ferritin 458 ng/mL
+TIBC 264 µg/dL
+Transferrin saturation 15.2%
+
+He is not reporting cardiopulmonary symptoms, and oxygen saturation is preserved. Pallor is not reported.
+
+Assessment
+
+Chronic normocytic anemia, most consistent with anemia of chronic inflammation associated with longstanding rheumatoid arthritis and possibly heart failure. Hemoglobin, hematocrit, and RBC count are reduced, with a normal MCV. The low serum iron and transferrin saturation in the setting of elevated ferritin and relatively low TIBC favor inflammatory iron sequestration rather than uncomplicated absolute iron deficiency. The duration of approximately 13 years supports a chronic process. Headache may be associated with the anemia, although he has no current fatigue, weakness, dyspnea, palpitations, dizziness, or reduced exercise tolerance.
+
+Rheumatoid arthritis, longstanding, with potential contribution from chronic inflammatory activity.
+
+Heart failure, approximately 3 years in duration. There are no reported symptoms suggesting current cardiopulmonary decompensation, though ongoing assessment is important given the anemia and respiratory rate of 22/min.
+
+Tobacco use.
+
+Plan
+
+Obtain and review a repeat complete blood count with differential, reticulocyte count, and peripheral blood smear to confirm the pattern and assess marrow response. Recommend renal function testing, vitamin B12, folate, and inflammatory markers as part of the evaluation for contributors to chronic normocytic anemia. Consider additional evaluation for occult blood loss if clinically indicated, particularly if the anemia worsens or iron indices become more suggestive of absolute deficiency.
+
+Management should focus on control of the underlying rheumatoid arthritis and optimization of heart failure care in coordination with the appropriate treating clinicians. Review the rheumatoid arthritis and heart failure treatment history at follow-up; no medication regimen is documented today.
+
+Do not begin empiric iron solely on the basis of the low serum iron without further assessment, given the elevated ferritin and pattern suggestive of inflammation. If anemia persists despite appropriate management of underlying disease, consider hematology consultation and discussion of intravenous iron or an erythropoiesis-stimulating agent based on renal function, inflammatory activity, symptom burden, and follow-up laboratory results.
+
+Counseled regarding smoking cessation, which is relevant to cardiovascular and heart failure risk. Advise prompt evaluation for worsening shortness of breath, chest pain, syncope, sustained palpitations, rapidly progressive weakness, or evidence of bleeding. Follow up after the recommended evaluation to review trends and establish an ongoing anemia management plan.

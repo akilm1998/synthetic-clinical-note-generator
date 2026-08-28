@@ -1,0 +1,39 @@
+Chief Complaint
+
+Initial outpatient consultation for chronic kidney disease.
+
+Subjective
+
+Lucas Patterson is a 67-year-old man presenting for initial outpatient evaluation of chronic kidney disease, reported to have been present for approximately 3 years and currently without active management. He denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, shortness of breath, or changes in urination frequency. No tobacco use reported.
+
+He has a history of anemia of chronic disease for approximately 1 year. No current medication list, allergies, prior procedures, hospitalizations, or family history are provided. Height is 186 cm and weight is 73.0 kg, with BMI 21.1 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 147/83 mmHg, pulse 78 bpm, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Laboratory results: Serum creatinine 3.07 mg/dL, estimated glomerular filtration rate 20 mL/min/1.73 m², BUN 85 mg/dL.
+
+The patient is clinically stable by vital signs and reports no current symptoms suggestive of fluid overload or uremic prodrome. No additional examination findings are documented today.
+
+Assessment
+
+Chronic kidney disease with creatinine 3.07 mg/dL, eGFR 20 mL/min/1.73 m², and BUN 85 mg/dL. Disease has been present for approximately 3 years and is not currently under active management. He is presently asymptomatic without reported edema, dyspnea, nausea, pruritus, muscle cramps, sleep disturbance, or change in urinary frequency. Renal function is significantly reduced and warrants prompt characterization, monitoring, and renal specialty involvement.
+
+Anemia of chronic disease, present for approximately 1 year, likely clinically relevant in the setting of chronic kidney disease. Current hemoglobin and iron indices are not available in the provided data.
+
+Blood pressure is elevated at 147/83 mmHg and requires confirmation with outpatient monitoring and evaluation as a potentially modifiable contributor to renal disease progression.
+
+Plan
+
+Arrange prompt nephrology consultation for comprehensive evaluation and ongoing management of chronic kidney disease, including discussion of renal-protective strategies and preparation for potential progression-related needs.
+
+Obtain repeat renal function testing with serum creatinine and eGFR, BUN, and a serum electrolytes panel. Recommend urine albumin-to-creatinine ratio to assess proteinuria and a urinalysis as clinically appropriate. Recommend CBC and iron studies for evaluation of the known anemia, along with intact parathyroid hormone and related mineral-bone assessment as part of chronic kidney disease evaluation. Renal ultrasound is recommended to assess renal structure and exclude obstructive or other structural pathology.
+
+Review and reconcile all current prescription medications, over-the-counter products, and supplements before initiating or adjusting therapy. Avoid NSAIDs and other potentially nephrotoxic agents unless specifically directed by a clinician. Medication dosing should be reviewed for renal adjustment. Encourage avoidance of dehydration while also monitoring for development of edema or shortness of breath.
+
+Monitor blood pressure at home if feasible and bring readings to follow-up. Dietary counseling focused on appropriate sodium intake and individualized renal nutrition is recommended; protein, potassium, phosphorus, and fluid recommendations should be guided by repeat laboratory results and nephrology assessment.
+
+Discussed warning symptoms requiring urgent evaluation, including new or worsening shortness of breath, marked swelling, persistent nausea or vomiting, confusion, profound weakness, chest pain, or substantially decreased urine output.
+
+Follow up promptly after laboratory evaluation and nephrology referral, with earlier reassessment for any new symptoms.

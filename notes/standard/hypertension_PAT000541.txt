@@ -1,0 +1,18 @@
+Chief Complaint
+Urgent follow-up for elevated blood pressure.
+
+Subjective
+Claire PriceLucy Sanders is a 64-year-old woman presenting for focused follow-up of hypertension reportedly present for approximately 30 years and currently not under active management. Blood pressure today is elevated at 160/93 mmHg. She denies headache, dizziness, blurred vision, chest pain, dyspnea, palpitations, fatigue, or epistaxis. Relevant comorbidities include type 2 diabetes mellitus for 18 years and hyperlipidemia for 18 years. She currently smokes. Weight is 52.3 kg at 159 cm; BMI 20.7 kg/m².
+
+Objective
+Vital signs: BP 160/93 mmHg, pulse 78 bpm, respiratory rate 17/min, temperature 36.8°C, oxygen saturation 98% on room air. BMI 20.7 kg/m².
+
+Serum electrolytes: sodium 139 mmol/L, potassium 5.0 mmol/L.
+
+Assessment
+Persistent markedly elevated blood pressure in a patient with longstanding hypertension, currently without reported antihypertensive management. She is asymptomatic today, without features concerning for hypertensive emergency. Her diabetes, hyperlipidemia, and active smoking substantially increase overall cardiovascular risk. Potassium is at the upper end of the reported range and should be considered when selecting antihypertensive therapy.
+
+Plan
+Repeat blood pressure measurement after a period of rest and confirm with home or ambulatory readings if feasible. Arrange prompt outpatient initiation or adjustment of antihypertensive therapy, with medication selection guided by diabetes status, renal function, and potassium level; avoid empiric treatment decisions without review of these factors. Recommend dietary sodium reduction, regular physical activity as tolerated, moderation of alcohol intake if applicable, and smoking cessation counseling.
+
+Recommend evaluation with ECG, lipid profile, urinalysis, and renal function assessment as part of cardiovascular and end-organ risk assessment. Recheck serum electrolytes, particularly potassium, after treatment is initiated or changed. Continue risk-factor management for diabetes and hyperlipidemia. Seek emergency care for chest pain, shortness of breath, neurologic symptoms, severe headache, visual changes, or other acute symptoms associated with substantially elevated blood pressure. Close outpatient follow-up is recommended.

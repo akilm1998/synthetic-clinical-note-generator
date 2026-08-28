@@ -1,0 +1,45 @@
+Chief Complaint
+
+Annual review and follow-up of anemia.
+
+Subjective
+
+Austin Dean is a 49-year-old man presenting for comprehensive annual review. He has a 6-year history of anemia in the setting of rheumatoid arthritis for 7 years and chronic infection for 1 year. He also has type 2 diabetes mellitus diagnosed 6 years ago. The anemia has not previously been actively managed.
+
+He denies fatigue, weakness, dizziness, headache, shortness of breath, palpitations, reduced exercise tolerance, or recognized pallor. He does not smoke. Height is 162 cm and weight is 58.0 kg, with BMI 22.1 kg/m².
+
+Objective
+
+Blood pressure 119/75 mmHg. Pulse 80 bpm. Respiratory rate 20/min. Temperature 36.7°C. Oxygen saturation 98%.
+
+Recent laboratory results show hemoglobin 9.8 g/dL, hematocrit 29.5%, RBC count 3.24 million/µL, and MCV 91 fL. Serum iron is low at 23 µg/dL, ferritin 154 ng/mL, TIBC 230 µg/dL, and transferrin saturation 10%.
+
+Assessment
+
+1. Anemia consistent with chronic inflammation
+
+Moderate normocytic anemia with low serum iron and transferrin saturation, with ferritin not reduced and TIBC low, a pattern most consistent with anemia associated with chronic inflammation. His rheumatoid arthritis and chronic infection are relevant potential contributors. He is currently hemodynamically stable and denies symptoms attributable to anemia. No formal staging is assigned.
+
+2. Rheumatoid arthritis, 7-year history
+
+Chronic inflammatory disease likely contributing to the anemia. Current activity and treatment status were not provided and should be reviewed.
+
+3. Chronic infection, 1-year history
+
+Potential contributor to ongoing inflammatory anemia. The underlying infection and current treatment status should be reviewed.
+
+4. Type 2 diabetes mellitus, 6-year history
+
+Requires routine chronic disease monitoring and preventive care review. No glycemic laboratory results or medication information were provided today.
+
+5. Preventive health maintenance
+
+Annual review completed. He is a nonsmoker with a normal BMI. Preventive care should be individualized according to age, immunization history, diabetic status, and colorectal and other age-appropriate screening history.
+
+Plan
+
+Obtain or repeat a complete blood count with reticulocyte count and peripheral blood smear to confirm persistence and assess marrow response. Check vitamin B12, folate, and renal function, and consider inflammatory markers as clinically appropriate. Review the rheumatoid arthritis and chronic infection for current inflammatory activity and adequacy of treatment.
+
+The iron profile supports restricted iron availability from inflammation rather than straightforward depleted iron stores. Avoid assuming benefit from empiric oral iron without further clinical assessment; iron replacement, including intravenous iron, should be considered only if additional evaluation supports it or if response is inadequate. If anemia persists, worsens, becomes symptomatic, or the cause remains unclear, consider hematology assessment.
+
+Review diabetes monitoring, including glycemic control and routine complication screening, at the annual visit. Confirm immunizations and age-appropriate cancer screening, including colorectal screening, based on prior results and eligibility. Arrange outpatient follow-up after repeat assessment of the anemia and sooner for new fatigue, weakness, dizziness, shortness of breath, palpitations, bleeding, or reduced exercise tolerance.

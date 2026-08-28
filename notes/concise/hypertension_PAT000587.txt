@@ -1,0 +1,19 @@
+Chief Complaint
+
+Medication review for hypertension.
+
+Subjective
+
+Brandon Cox is a 63-year-old man with a 30-year history of essential hypertension, currently without active antihypertensive management. He reports dizziness but denies headache, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or nosebleeds. Medication effectiveness, adherence, and tolerance are not assessable in the absence of an active antihypertensive regimen. Relevant comorbidities include coronary artery disease for 1 year, type 2 diabetes mellitus for 27 years, and chronic kidney disease for 7 years. He currently smokes.
+
+Objective
+
+Blood pressure 164/99 mmHg, pulse 81 bpm, respirations 17/min, temperature 36.7°C, oxygen saturation 98%. Height 178 cm, weight 94.1 kg, BMI 29.7 kg/m². Serum sodium 145 mmol/L and potassium 5.0 mmol/L.
+
+Assessment
+
+Essential hypertension, inadequately controlled and untreated, with associated dizziness. Longstanding hypertension in the setting of diabetes, chronic kidney disease, and coronary artery disease. Potassium is at the upper end of the provided range, which is relevant when selecting therapy.
+
+Plan
+
+Discussed the importance of active blood pressure treatment and home blood pressure monitoring. Begin an appropriate antihypertensive regimen after medication reconciliation, with consideration of chronic kidney disease, diabetes, coronary artery disease, and potassium level. Review adherence and tolerance at the next visit. Repeat serum electrolytes after treatment initiation or adjustment and monitor renal function. Counsel on sodium reduction, weight loss, physical activity as tolerated, and smoking cessation. Seek urgent care for chest pain, shortness of breath, severe headache, new neurologic symptoms, or markedly worsening blood pressure.

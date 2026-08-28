@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Leah Coleman is a 34-year-old woman presenting for outpatient follow-up of anemia present for approximately 7 years. Her anemia has not been under active treatment. She reports headache and pallor but denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. She does not smoke. Her relevant comorbidity is malignancy, present for approximately 1 year. No current medication regimen is provided.
+
+She is 169 cm tall and weighs 60.8 kg, with a BMI of 21.3 kg/m². There is no reported interval cardiopulmonary limitation or symptomatic deterioration.
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance.
+
+Neurologic: Reports headache. Denies dizziness.
+
+Cardiopulmonary: Denies shortness of breath or palpitations.
+
+Hematologic: Pallor is present. No additional bleeding-related symptoms are reported.
+
+Objective
+
+Vital signs: Blood pressure 123/76 mmHg, pulse 78 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 97% on room air.
+
+General: Pallor is noted. She is hemodynamically stable by recorded vital signs.
+
+Cardiovascular: Normal cardiovascular examination; no tachycardia.
+
+Respiratory: Normal respiratory examination with normal oxygen saturation.
+
+Laboratory data: Hemoglobin 8.4 g/dL, hematocrit 25.9%, RBC count 2.94 million/µL, and MCV 88 fL, consistent with a normocytic anemia. Serum iron is low at 25 µg/dL, ferritin is 307 ng/mL, TIBC is reduced at 215 µg/dL, and transferrin saturation is low at 11.6%.
+
+Assessment
+
+Chronic normocytic anemia with hemoglobin 8.4 g/dL and associated pallor and headache. The pattern of low serum iron, low TIBC, elevated ferritin, and low transferrin saturation is most consistent with impaired iron availability in the setting of chronic inflammation, compatible with anemia of chronic disease/inflammation. Her known malignancy is a clinically relevant potential driver of chronic inflammatory anemia. The elevated ferritin argues against uncomplicated absolute iron deficiency, although the low transferrin saturation raises the possibility of concurrent functional or absolute iron restriction that should be clarified.
+
+She is currently stable without tachycardia, hypoxemia, dyspnea, palpitations, dizziness, or reduced exercise tolerance. Given the chronicity and absence of cardiopulmonary symptoms, there is no evidence in today’s presentation of acute symptomatic decompensation. The degree of anemia nonetheless warrants structured evaluation and active management rather than continued observation alone.
+
+Plan
+
+Obtain an updated complete blood count with reticulocyte count and peripheral blood smear to assess current severity, marrow response, and red-cell morphology. Recommend serum vitamin B12, folate, renal function testing, and inflammatory markers as part of the evaluation for persistent normocytic anemia. Repeat iron studies can help distinguish inflammatory iron sequestration from coexisting absolute iron deficiency.
+
+Management should be coordinated with the clinician overseeing her malignancy, with attention to the underlying inflammatory process. Iron replacement should be considered only after review of the complete iron assessment and clinical context; intravenous iron may be appropriate if functional iron restriction is confirmed, while erythropoiesis-stimulating therapy requires individualized specialist assessment and consideration of malignancy-related risks. No current anemia-directed medication use is documented.
+
+Monitor for worsening headache, new fatigue or weakness, dizziness, shortness of breath, palpitations, chest discomfort, syncope, or reduced exercise tolerance. Prompt reassessment is recommended if these symptoms develop. Continue close outpatient follow-up after the recommended evaluation to review the anemia trend and establish a disease-directed treatment plan.

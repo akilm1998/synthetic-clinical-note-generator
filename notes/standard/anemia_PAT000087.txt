@@ -1,0 +1,39 @@
+Chief Complaint
+
+Annual review and follow-up of chronic anemia.
+
+Subjective
+
+Christopher Perry is a 90-year-old man presenting for comprehensive annual review. He has a 3-year history of anemia and is not currently receiving specific management for this condition. He denies fatigue, weakness, dizziness, headache, shortness of breath, palpitations, or reduced exercise tolerance. Pallor has been noted.
+
+Past medical history is significant for type 2 diabetes mellitus for 37 years and heart failure for 4 years. He reports ongoing tobacco use. Current medication and allergy information were not provided for review today.
+
+Objective
+
+Height 170 cm; weight 67.3 kg; BMI 23.3 kg/m².
+
+Blood pressure 134/80 mmHg, pulse 93 bpm, respiratory rate 23/min, temperature 36.6°C, oxygen saturation 98%.
+
+Patient appears clinically stable. Pallor is present. Cardiovascular examination is otherwise normal. Respiratory examination is normal.
+
+Recent laboratory results show hemoglobin 9.8 g/dL, hematocrit 29.4%, RBC count 3.54 million/µL, and MCV 83 fL. Serum iron is 45 µg/dL, ferritin 272 ng/mL, TIBC 262 µg/dL, and transferrin saturation 17.2%.
+
+Assessment
+
+Anemia consistent with anemia of chronic disease/inflammation, present for approximately 3 years. The anemia is normocytic with reduced serum iron and transferrin saturation, elevated ferritin, and relatively low TIBC, a pattern supportive of impaired iron availability associated with chronic disease. He is currently asymptomatic apart from pallor and has no reported cardiopulmonary symptoms. Given his advanced age and comorbid heart failure and longstanding diabetes, continued clinical monitoring is appropriate.
+
+Type 2 diabetes mellitus, longstanding, 37 years. No current glycemic data were provided for assessment today.
+
+Heart failure, 4-year history. Currently without reported dyspnea, palpitations, or reduced exercise tolerance; vital signs are stable with normal oxygen saturation.
+
+Tobacco use.
+
+Plan
+
+Review the anemia with the patient and discuss that the current laboratory pattern is more consistent with chronic inflammation or chronic disease than straightforward iron depletion. Recommend follow-up complete blood count with reticulocyte count and peripheral smear, along with renal function testing, vitamin B12, folate, and inflammatory markers to further clarify the anemia and assess reversible contributors. Repeat iron studies may be considered based on the clinical course. Monitor for fatigue, weakness, dizziness, worsening pallor, exertional dyspnea, chest discomfort, palpitations, or bleeding; seek urgent evaluation for new or severe symptoms.
+
+Review management of the underlying chronic conditions, including diabetes and heart failure, and reconcile all current medications at the next visit. Continue routine monitoring appropriate for these conditions, with attention to renal function and volume status given the coexisting anemia and heart failure.
+
+Counseled regarding smoking cessation and offered support for quitting. Review age-appropriate immunizations, fall-risk prevention, hearing and vision needs, and individualized preventive screening at the annual preventive visit. Encourage adequate nutrition and regular activity within his cardiac tolerance.
+
+Arrange outpatient follow-up after the recommended laboratory evaluation and sooner for any new symptoms or clinical deterioration.

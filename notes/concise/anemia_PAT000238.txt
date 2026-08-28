@@ -1,0 +1,24 @@
+Chief Complaint
+Annual review and follow-up of chronic anemia.
+
+Subjective
+Caroline Rivera is a 75-year-old woman presenting for annual review. She has a 27-year history of anemia in the setting of longstanding malignancy (33 years) and chronic infection (43 years). She denies fatigue, weakness, dizziness, headache, dyspnea, palpitations, or reduced exercise tolerance. Pallor is noted. She does not smoke.
+
+Objective
+Height 153 cm; weight 64.4 kg; BMI 27.5 kg/m². BP 134/79 mmHg, pulse 80 bpm, respiratory rate 24/min, temperature 36.8°C, oxygen saturation 98% on room air. Pallor present. Cardiovascular examination without tachycardia; respiratory examination without abnormality.
+
+Laboratory results: hemoglobin 8.3 g/dL, hematocrit 25.7%, RBC 2.76 million/µL, MCV 93 fL, serum iron 31 µg/dL, ferritin 270 ng/mL, TIBC 257 µg/dL, transferrin saturation 12.1%.
+
+Assessment
+Anemia of chronic disease/inflammation, longstanding and currently not actively managed. Significant normocytic anemia with low serum iron and transferrin saturation and elevated ferritin, consistent with impaired iron availability in chronic disease. She is clinically stable without reported cardiopulmonary symptoms, although pallor and respiratory rate of 24/min warrant monitoring.
+
+Chronic malignancy and chronic infection are relevant underlying conditions.
+
+Plan
+Recommend prompt reassessment with CBC, reticulocyte count, peripheral smear, renal function, vitamin B12, folate, and inflammatory markers to clarify current contributors and trajectory.
+
+Review management of the underlying malignancy and chronic infection with the treating clinicians; consider hematology consultation given hemoglobin 8.3 g/dL and longstanding untreated anemia. Assess suitability for iron replacement or erythropoiesis-stimulating therapy only after evaluation of cause and comorbidities.
+
+Advise urgent evaluation for new or worsening dyspnea, chest pain, syncope, palpitations, or marked weakness.
+
+Annual preventive review: address immunizations, fall-risk assessment, nutrition and activity, and age-appropriate cancer screening in the context of her established malignancy.

@@ -1,0 +1,45 @@
+Chief Complaint
+
+Initial consultation for hypertension.
+
+Subjective
+
+Trevor Warren is a 36-year-old man presenting for initial outpatient evaluation of hypertension, reported to have been present for approximately 5 years and not currently under active management. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, and epistaxis. He reports fatigue.
+
+Past medical history is significant for type 2 diabetes mellitus diagnosed approximately 1 year ago. No antihypertensive medications are provided in the current history. He does not smoke.
+
+Height is 189 cm and weight is 105.4 kg, with BMI 29.5 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 140/94 mmHg, pulse 75 bpm, respiratory rate 15/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Available laboratory data:
+Sodium 137 mmol/L.
+Potassium 4.3 mmol/L.
+
+No acute cardiopulmonary or neurologic symptoms are reported today.
+
+Assessment
+
+1. Essential primary hypertension, present for approximately 5 years and currently untreated/not actively managed. Blood pressure today is 140/94 mmHg, with diastolic elevation. He is asymptomatic without features suggestive of hypertensive emergency. Electrolytes are within expected limits.
+
+2. Type 2 diabetes mellitus, duration approximately 1 year, increasing overall cardiovascular and renal risk in the setting of hypertension.
+
+3. BMI 29.5 kg/m², in the overweight range, contributing to cardiometabolic risk.
+
+4. Fatigue, nonspecific; may be multifactorial and warrants assessment in the context of his cardiometabolic comorbidity.
+
+Plan
+
+Discussed the importance of sustained blood pressure control, particularly given concurrent type 2 diabetes mellitus and the duration of untreated hypertension. Recommend home blood pressure monitoring with a validated upper-arm cuff, recording twice-daily readings under resting conditions, and bringing the log to follow-up.
+
+Recommend initiation of clinician-directed antihypertensive therapy after review of repeat blood pressure measurements and baseline renal assessment. An agent acting on the renin-angiotensin system would be a reasonable consideration in a patient with diabetes, provided renal function and potassium remain appropriate. Medication selection and dosing should be individualized after review of the complete medication and allergy history.
+
+Recommend lifestyle measures including reduction of dietary sodium, regular aerobic and resistance physical activity as tolerated, weight reduction toward a healthy range, moderation of alcohol intake if applicable, and a heart-healthy dietary pattern.
+
+Recommend evaluation of cardiovascular and hypertension-related risk with renal function testing, urinalysis including assessment for albuminuria, lipid profile, and electrocardiogram. Continue routine diabetes care and coordination of blood pressure goals with diabetes management.
+
+Seek urgent medical attention for severe or abrupt headache, chest pain, shortness of breath, focal neurologic symptoms, acute visual change, or markedly elevated blood pressure accompanied by symptoms.
+
+Follow up in the outpatient setting after a period of home blood pressure monitoring, sooner if readings rise substantially or symptoms develop.

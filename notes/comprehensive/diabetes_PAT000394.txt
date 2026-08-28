@@ -1,0 +1,73 @@
+Chief Complaint
+
+Annual review of type 2 diabetes mellitus and chronic medical conditions.
+
+Subjective
+
+Shannon Douglas is a 36-year-old woman presenting for comprehensive annual review. She has a 15-year history of type 2 diabetes mellitus, currently without a documented active treatment regimen. Glycemic control is poor based on today’s reported laboratory results. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, and frequent infections. She reports numbness in the hands or feet but denies tingling.
+
+She has obesity of approximately 5 years’ duration and hypertension diagnosed approximately 1 year ago. She does not smoke. No medication, allergy, family history, surgical history, or hospitalization information is provided for this encounter.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Eyes: Denies blurred vision.
+
+Endocrine: Denies increased thirst, frequent urination, and increased hunger.
+
+Skin: Denies slow-healing wounds.
+
+Infectious: Denies frequent infections.
+
+Neurologic: Reports numbness in the hands or feet. Denies tingling in the hands or feet.
+
+Cardiovascular: No symptoms reported.
+
+Respiratory: No symptoms reported.
+
+Gastrointestinal: No symptoms reported.
+
+Genitourinary: No symptoms reported.
+
+Musculoskeletal: No symptoms reported.
+
+Psychiatric: No symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 134/82 mmHg. Pulse 80 beats/minute. Respiratory rate 21/minute. Temperature 36.8°C. Oxygen saturation 97%.
+
+Height 170 cm. Weight 104.0 kg. BMI 36.0 kg/m².
+
+Laboratory Results: Hemoglobin A1c 9.7%. Fasting glucose 251 mg/dL.
+
+Physical Examination: Examination findings available for this encounter are limited to the documented vital signs and anthropometric measurements. Oxygenation is normal. Blood pressure is mildly elevated but not severely elevated. No acute symptomatic hyperglycemia is reported.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complication, currently poorly controlled. Fifteen-year disease duration with HbA1c 9.7% and fasting glucose 251 mg/dL, consistent with substantial chronic and fasting hyperglycemia despite absence of prominent osmotic or constitutional symptoms. The reported distal numbness raises concern for possible diabetic peripheral neuropathic symptoms, although a formal neurologic and foot examination is needed to characterize this further. There is no reported wound, infection, or visual complaint.
+
+2. Obesity, BMI 36.0 kg/m², present for approximately 5 years. This is an important contributor to insulin resistance and cardiovascular risk.
+
+3. Hypertension, diagnosed approximately 1 year ago. Blood pressure today is 134/82 mmHg. No antihypertensive regimen is documented, so treatment adequacy cannot be determined from the available information.
+
+4. Preventive health and diabetes complication surveillance. Long-standing diabetes and current hyperglycemia increase risk for retinopathy, nephropathy, neuropathy, dyslipidemia, and cardiovascular disease.
+
+Plan
+
+Diabetes: Discussed that current glycemic values are above target and require active management. Confirm current medication use, adherence, access, dietary pattern, and prior treatment history at the next medication reconciliation. Recommend prompt initiation or intensification of evidence-based glucose-lowering therapy rather than diet-only management, with medication selection individualized to renal function, cardiovascular risk, cost, tolerability, and pregnancy considerations. Nutrition counseling should emphasize reduction of sugar-sweetened beverages and refined carbohydrates, portion control, increased fiber, and a sustainable calorie deficit. Encourage gradual physical activity toward at least 150 minutes weekly as tolerated, with resistance exercise when appropriate.
+
+Recommend home glucose monitoring based on the eventual treatment plan and review of readings at follow-up. Repeat HbA1c in approximately 3 months after treatment changes. Obtain renal and cardiovascular risk assessment with serum creatinine/eGFR, urine albumin-to-creatinine ratio, and fasting lipid profile. Consider additional diabetes testing as clinically indicated, including assessment for other causes of neuropathic symptoms if the examination is not consistent with diabetic neuropathy.
+
+Neurologic and foot care: Perform a comprehensive diabetic foot examination, including skin inspection, pulses, and monofilament sensation. Counsel on daily foot inspection, appropriate footwear, avoiding barefoot walking, and prompt evaluation of blisters, ulcers, color change, or infection. The reported numbness warrants further characterization and monitoring.
+
+Eye care: Recommend a dilated retinal examination because of the 15-year diabetes duration and current poor glycemic control. Advise prompt evaluation for new visual changes.
+
+Hypertension: Continue regular blood pressure monitoring and reassess readings at follow-up. Reinforce sodium reduction, weight loss, regular activity, and avoidance of tobacco. Review the need for antihypertensive therapy after medication reconciliation and renal/cardiovascular risk assessment.
+
+Obesity: Discussed gradual weight reduction through nutrition, physical activity, sleep optimization, and behavioral strategies. Consider referral to structured weight-management support and discuss pharmacologic weight-management options if clinically appropriate and compatible with the diabetes treatment plan.
+
+Preventive care: Review immunization status and update age- and risk-appropriate influenza, COVID-19, pneumococcal, hepatitis B, and other vaccines as indicated. Ensure routine cervical cancer screening and age-appropriate breast and colorectal cancer screening are current. Continue tobacco avoidance.
+
+Follow-up: Arrange close follow-up for diabetes treatment planning and review of glucose readings, with reassessment sooner for polyuria, polydipsia, vomiting, marked weakness, confusion, or persistent glucose elevation.

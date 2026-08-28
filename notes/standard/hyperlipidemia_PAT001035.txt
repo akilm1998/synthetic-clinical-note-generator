@@ -1,0 +1,51 @@
+Chief Complaint
+
+Annual review with reassessment of longstanding hyperlipidemia and chronic medical conditions.
+
+Subjective
+
+Alice Mathew is an 82-year-old woman, nonsmoker, seen for comprehensive annual review. She has a 45-year history of hyperlipidemia that has not been actively managed. She denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma.
+
+Her significant comorbidities include coronary artery disease of approximately 30 years’ duration, type 2 diabetes mellitus for 46 years, and chronic kidney disease for 38 years. No current lipid-lowering medication regimen is provided for review.
+
+Objective
+
+Height 161 cm; weight 54.2 kg; BMI 20.9 kg/m².
+
+Blood pressure 146/82 mmHg, pulse 73 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 98%.
+
+Lipid profile: total cholesterol 372 mg/dL, LDL cholesterol 247 mg/dL, HDL cholesterol 50 mg/dL, triglycerides 374 mg/dL.
+
+Assessment
+
+1. Hyperlipidemia, unspecified
+
+Markedly elevated atherogenic lipid burden with total cholesterol 372 mg/dL, LDL cholesterol 247 mg/dL, and triglycerides 374 mg/dL. HDL cholesterol is 50 mg/dL. The degree and longstanding nature of dyslipidemia are particularly concerning in the setting of established coronary artery disease, diabetes mellitus, and chronic kidney disease. She is currently without reported chest discomfort, claudication, or dizziness and has no reported xanthomas or xanthelasma. Given her age and comorbidity burden, treatment decisions should be individualized, but the potential cardiovascular benefit of active lipid reduction is substantial.
+
+2. Coronary artery disease
+
+Longstanding coronary artery disease, approximately 30 years in duration. No ischemic symptoms are reported at this visit. The markedly elevated LDL cholesterol represents a significant modifiable cardiovascular risk factor.
+
+3. Type 2 diabetes mellitus
+
+Longstanding type 2 diabetes mellitus, approximately 46 years in duration. Current glycemic control cannot be assessed from the information available today. Diabetes substantially increases her cardiovascular risk and reinforces the need for coordinated risk-factor management.
+
+4. Chronic kidney disease
+
+Chronic kidney disease of approximately 38 years’ duration. Kidney function should be considered when selecting and dosing lipid-lowering therapy and when monitoring treatment safety.
+
+5. Preventive and cardiovascular risk review
+
+She does not smoke. BMI is 20.9 kg/m². Blood pressure is 146/82 mmHg today, which warrants confirmation with repeat office measurements or home monitoring rather than diagnosis based on a single reading. Annual preventive care should remain aligned with her age, functional status, comorbidities, and goals of care.
+
+Plan
+
+Discuss initiation of evidence-based lipid-lowering therapy, most appropriately a statin-based regimen if consistent with her preferences, prior treatment history, kidney function, and overall goals of care. Review medication history, prior intolerance, and potential drug interactions before prescribing. If LDL reduction is inadequate or statin therapy is not tolerated, consider addition of non-statin therapy such as ezetimibe; specialist-directed alternatives may be considered for persistent severe elevation.
+
+Repeat a fasting lipid panel after treatment initiation or adjustment to assess response. Consider ApoB and lipoprotein(a) measurement for additional risk characterization if results would change management. Because she has established coronary artery disease, coronary calcium scoring would generally add limited management value compared with direct secondary-prevention risk-factor treatment.
+
+Reinforce a heart-healthy eating pattern emphasizing reduction of saturated and trans fats, avoidance of excess refined carbohydrates given the elevated triglycerides and diabetes, and regular physical activity appropriate to her functional capacity. Continue tobacco avoidance.
+
+Coordinate lipid management with ongoing care for coronary artery disease, diabetes, and chronic kidney disease. Confirm renal function and other routine safety monitoring before and during pharmacologic therapy. Reassess blood pressure with serial readings and address persistent elevation within the context of her cardiovascular and renal disease.
+
+Return for lipid and chronic disease follow-up after treatment decisions and repeat lipid testing, or sooner for new chest discomfort, exertional leg pain, dizziness, or other concerning cardiovascular symptoms.

@@ -1,0 +1,41 @@
+Chief Complaint
+
+New patient evaluation of elevated blood pressure.
+
+Subjective
+
+Simon Bishop is a 36-year-old man presenting for initial outpatient evaluation of hypertension, present for approximately 6 years and currently untreated. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, and nosebleeds. No acute cardiopulmonary or neurologic symptoms are reported.
+
+He has type 2 diabetes mellitus diagnosed approximately 1 year ago. Current medication use, allergies, family history, and additional social history were not provided. He does not smoke. Height is 161 cm and weight is 72.3 kg, with BMI 27.9 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 153/99 mmHg; pulse 69 bpm; respiratory rate 14/min; temperature 36.8°C; oxygen saturation 99% on room air.
+
+General: No acute symptoms reported during today’s encounter.
+
+Laboratory data:
+Sodium 144 mmol/L
+Potassium 4.6 mmol/L
+
+Assessment
+
+Essential primary hypertension, with persistently elevated blood pressure by today’s reading and a reported 6-year duration without active treatment. He is asymptomatic, with no current features suggestive of hypertensive emergency. The combination of hypertension and type 2 diabetes increases his long-term cardiovascular and renal risk. Electrolytes are currently within expected ranges, though renal function and urinary albumin status are important to guide treatment selection.
+
+Type 2 diabetes mellitus, present for approximately 1 year; glycemic control data were not provided.
+
+Overweight by BMI of 27.9 kg/m².
+
+Plan
+
+Confirm blood pressure control with properly seated repeat measurements in the office and a home blood pressure log, including morning and evening readings. He should bring the log and home cuff to follow-up for comparison.
+
+Discussed the need for active antihypertensive treatment given the degree and duration of elevation and the presence of diabetes. Recommend initiation of an appropriate first-line agent after review of renal function and urine albumin status; an ACE inhibitor or angiotensin receptor blocker may be particularly appropriate if albuminuria or diabetic kidney involvement is identified. Monitor renal function and potassium after starting therapy.
+
+Recommend evaluation with serum creatinine/eGFR, urinalysis with urine albumin assessment, lipid profile, and ECG as part of cardiovascular risk assessment. Continue monitoring serum electrolytes.
+
+Counseled on reducing dietary sodium, limiting alcohol if applicable, increasing regular physical activity as tolerated, pursuing gradual weight reduction, and following a heart-healthy diet. Reinforced the importance of diabetes management and coordinated cardiovascular risk-factor reduction.
+
+Seek urgent medical attention for severe headache, chest pain, shortness of breath, new neurologic symptoms, confusion, or vision loss.
+
+Follow up promptly after home blood pressure monitoring and completion of recommended baseline evaluation to establish and adjust therapy.

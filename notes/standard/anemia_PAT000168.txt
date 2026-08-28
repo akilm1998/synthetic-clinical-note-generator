@@ -1,0 +1,49 @@
+Chief Complaint
+
+Annual review and follow-up of anemia.
+
+Subjective
+
+Spencer Lawson is a 97-year-old man presenting for comprehensive annual review. He has a 1-year history of anemia in the setting of chronic infection, present for approximately 38 years, and chronic kidney disease, present for approximately 3 years. The anemia has not previously been actively managed.
+
+He denies fatigue, generalized weakness, dizziness, headache, shortness of breath, palpitations, reduced exercise tolerance, or recognized pallor. He does not smoke. No current medication list or allergies were provided.
+
+Objective
+
+Height 165 cm; weight 80.0 kg; BMI 29.4 kg/m². Blood pressure 151/80 mmHg, pulse 84 bpm, respiratory rate 19/min, temperature 36.6°C, oxygen saturation 95%.
+
+Laboratory results:
+Hemoglobin 8.4 g/dL
+Hematocrit 24.7%
+RBC count 2.66 million/µL
+MCV 93 fL
+Serum iron 24 µg/dL
+Ferritin 280 ng/mL
+TIBC 260 µg/dL
+Transferrin saturation 9.2%
+
+The patient is clinically stable by the supplied vital signs and reports no cardiopulmonary or constitutional symptoms. The anemia is normocytic with low serum iron and transferrin saturation, elevated-to-preserved ferritin, and relatively low TIBC.
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation/chronic disease, with likely contribution from chronic kidney disease. The normocytic indices and iron profile support impaired iron availability rather than uncomplicated absolute iron deficiency, although the transferrin saturation is markedly reduced and warrants further evaluation. Hemoglobin of 8.4 g/dL represents clinically significant anemia despite the absence of reported symptoms. No current evidence of symptomatic hemodynamic compromise is provided.
+
+Chronic kidney disease, duration approximately 3 years, likely contributing to reduced erythropoiesis. No formal stage assigned because renal function results were not provided.
+
+Chronic infection, longstanding at approximately 38 years, representing an ongoing inflammatory contributor to anemia.
+
+Elevated office blood pressure at 151/80 mmHg. No diagnosis or treatment change is made from a single reading.
+
+Overweight by BMI at 29.4 kg/m².
+
+Plan
+
+Repeat CBC with reticulocyte count and peripheral smear to confirm persistence and assess marrow response. Obtain renal function testing, vitamin B12, folate, and inflammatory markers as clinically appropriate. Reassess iron studies in context, including the markedly low transferrin saturation and preserved ferritin.
+
+Review for potential sources of blood loss, nutritional factors, and the current status and treatment of the chronic infection. Review renal function and consider renal and hematology consultation if anemia persists, worsens, or remains unexplained. Treatment options, including iron replacement or an erythropoiesis-stimulating agent, should be determined after confirming the cause, reviewing renal function, and weighing risks and benefits in this 97-year-old patient.
+
+Provide emergency precautions for new chest discomfort, dyspnea at rest, syncope, sustained palpitations, acute weakness, or evidence of bleeding.
+
+Repeat blood pressure measurements outside the office or at a subsequent visit and review cardiovascular risk factors before determining whether intervention is needed.
+
+Annual preventive review should include individualized vaccination status, fall-risk and functional assessment, nutrition, medication reconciliation, and age-appropriate cancer screening based on overall health, life expectancy, and patient goals. Encourage balanced nutrition and activity as tolerated. Arrange follow-up after repeat laboratory testing to reassess anemia and chronic disease management.

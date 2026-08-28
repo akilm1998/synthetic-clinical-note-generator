@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Joseph Bailey is a 35-year-old man presenting for follow-up of longstanding hyperlipidemia, present for approximately 15 years and currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain, or dizziness. He reports fatty skin deposits consistent with xanthomas; no xanthelasma is reported.
+
+Relevant comorbidities include coronary artery disease diagnosed approximately 1 year ago, hypertension for 3 years, and obesity for approximately 5 years. He does not smoke. Current weight is 118.5 kg at a height of 175 cm, with BMI 38.7 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 134/87 mmHg, pulse 81 bpm, respiratory rate 15/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Laboratory results: Total cholesterol 320 mg/dL, LDL cholesterol 230 mg/dL, HDL cholesterol 39 mg/dL, triglycerides 257 mg/dL.
+
+Xanthomas are reported. No active cardiovascular or claudication symptoms reported today.
+
+Assessment
+
+Severe untreated dyslipidemia with markedly elevated LDL cholesterol and concomitant hypertriglyceridemia, in the setting of established coronary artery disease. The degree and longstanding nature of LDL elevation, along with reported xanthomas at a young age, raise concern for an inherited lipid disorder and confer very high atherosclerotic cardiovascular risk.
+
+Obesity with BMI 38.7 kg/m².
+
+Hypertension, with blood pressure today 134/87 mmHg.
+
+Plan
+
+Recommend prompt initiation of high-intensity lipid-lowering therapy, such as atorvastatin or rosuvastatin at a high-intensity dose, given the LDL level and history of coronary artery disease. Treatment goals should include a substantial reduction in LDL cholesterol, with escalation based on response and tolerance. If LDL remains significantly elevated despite maximally tolerated statin therapy, recommend addition of ezetimibe and consideration of a PCSK9 inhibitor in the setting of established coronary disease and persistent severe hypercholesterolemia.
+
+Recommend repeat fasting lipid panel after therapy is initiated and titrated to assess response. Consider ApoB and lipoprotein(a) measurement to further characterize atherogenic risk and evaluation for an inherited dyslipidemia. Review for potentially reversible secondary contributors as clinically appropriate.
+
+Counseled regarding a heart-healthy eating pattern emphasizing vegetables, whole grains, legumes, lean proteins, and unsaturated fats while minimizing saturated and trans fats, refined carbohydrates, and excess alcohol. Encourage gradual, sustainable weight reduction and regular aerobic activity as tolerated.
+
+Continue cardiovascular risk-factor management, including blood pressure monitoring and adherence to cardiology-directed care for coronary artery disease. Seek urgent evaluation for new or worsening chest discomfort, dyspnea, syncope, or exertional leg symptoms.
+
+Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, lipid response, and need for combination treatment.

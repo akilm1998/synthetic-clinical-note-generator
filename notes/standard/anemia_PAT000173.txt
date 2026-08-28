@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Victor Pierce is an 85-year-old man presenting for routine outpatient follow-up of longstanding anemia, present for approximately 25 years. He reports no current fatigue, weakness, dizziness, headache, pallor, shortness of breath, palpitations, or reduced exercise tolerance. No acute interval concerns are reported.
+
+Relevant chronic conditions include malignancy of approximately 29 years’ duration, heart failure of approximately 34 years’ duration, and chronic kidney disease for approximately 5 years. He does not smoke. Height is 171 cm, weight 73.7 kg, BMI 25.2 kg/m². Anemia has not been under active treatment or management recently.
+
+Objective
+
+Vital signs: Blood pressure 145/84 mmHg, pulse 89 bpm, respiratory rate 23/min, temperature 37.0°C, oxygen saturation 96%.
+
+Recent laboratory results:
+Hemoglobin 8.2 g/dL
+Hematocrit 24.0%
+RBC count 2.76 million/µL
+MCV 87 fL
+Serum iron 32 µg/dL
+Ferritin 388 ng/mL
+TIBC 218 µg/dL
+Transferrin saturation 14.7%
+
+Laboratory pattern demonstrates significant normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC. He is currently without reported anemia-related symptoms. Oxygenation is preserved, with mildly increased respiratory rate.
+
+Assessment
+
+Chronic, significant normocytic anemia most consistent with anemia related to chronic disease/inflammation, with likely contribution from chronic kidney disease and longstanding malignancy. The low iron and transferrin saturation with elevated ferritin and low TIBC favor impaired iron availability in the setting of chronic inflammation rather than isolated uncomplicated iron deficiency. Hemoglobin is 8.2 g/dL and hematocrit 24.0%, although he currently denies fatigue, dyspnea, dizziness, palpitations, or reduced exercise tolerance.
+
+Chronic kidney disease, malignancy, and heart failure are important comorbid conditions in the context of his anemia. No acute cardiopulmonary symptoms are reported today.
+
+Plan
+
+Review the anemia and laboratory pattern with the patient and discuss that the degree of anemia warrants active evaluation and management despite minimal symptoms.
+
+Recommend repeat CBC with reticulocyte count and peripheral smear, along with renal function testing, vitamin B12, folate, and inflammatory markers to further characterize the anemia. Consider assessment for ongoing blood loss if clinically indicated.
+
+Recommend coordination with the clinicians managing his chronic kidney disease and malignancy regarding anemia treatment, including consideration of iron replacement or an erythropoiesis-stimulating agent when appropriate to the overall clinical context. No treatment regimen is documented today.
+
+Monitor for development of fatigue, weakness, dizziness, chest discomfort, palpitations, shortness of breath, syncope, or reduced exercise tolerance. He should seek urgent evaluation for new or worsening cardiopulmonary symptoms, syncope, or signs of bleeding.
+
+Continue outpatient follow-up after the recommended evaluation to reassess hemoglobin and determine an appropriate management plan.

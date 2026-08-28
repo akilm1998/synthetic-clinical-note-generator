@@ -1,0 +1,69 @@
+Chief Complaint
+
+Medication review and follow-up of type 2 diabetes mellitus.
+
+Subjective
+
+Melanie Knight is a 52-year-old woman, 150 cm in height and 64.8 kg in weight, with a BMI of 28.8 kg/m², presenting for comprehensive diabetes medication review. She has had type 2 diabetes for approximately 5 years. Glycemic control is currently inadequate, with hemoglobin A1c 9.3% and fasting glucose 186 mg/dL. She does not report increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or frequent infections.
+
+She does report numbness and tingling involving the hands or feet. No medication-related adverse effects are reported. A specific active glucose-lowering medication regimen is not documented for review today; consequently, agent-specific effectiveness, adherence, and tolerance cannot be determined. Medication reconciliation is an important component of the next treatment decision.
+
+Her medical history is also notable for chronic kidney disease of approximately 5 years’ duration, hypertension for 16 years, and obstructive sleep apnea for 17 years. She does not smoke. There is no reported recent weight loss or infectious complication.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Endocrine: Denies increased thirst, frequent urination, and increased hunger.
+
+Eyes: Denies blurred vision.
+
+Neurologic: Reports numbness and tingling of the hands or feet.
+
+Skin: Denies slow-healing wounds.
+
+Infectious: Denies frequent infections.
+
+Other systems are not contributory based on the history provided.
+
+Objective
+
+Vital signs: Blood pressure 146/86 mmHg, pulse 76 beats/minute, respiratory rate 14/minute, temperature 36.8°C, oxygen saturation 97% on room air.
+
+Height 150 cm. Weight 64.8 kg. BMI 28.8 kg/m².
+
+Laboratory data: Hemoglobin A1c 9.3%. Fasting glucose 186 mg/dL.
+
+Physical examination is notable from the available encounter data for overweight status. The reported distal numbness and tingling warrant focused neurologic and diabetic foot assessment, including protective sensation, skin integrity, and peripheral perfusion, at the next direct examination.
+
+Assessment
+
+Type 2 diabetes mellitus without documented acute complication, currently poorly controlled based on HbA1c 9.3% and fasting glucose 186 mg/dL. She is not reporting osmotic or constitutional symptoms despite biochemical hyperglycemia. The absence of reported wounds or recurrent infections is reassuring; however, the distal numbness and tingling may represent diabetes-associated peripheral sensory symptoms and should be evaluated clinically rather than assumed to be medication-related.
+
+Medication effectiveness, adherence, and tolerance cannot be assessed for a specific glucose-lowering agent because an active regimen is not identified in the information reviewed today. Her chronic kidney disease is clinically important when selecting and dosing diabetes therapy. Renal function should be confirmed before initiating or adjusting medications, and agents with renal and cardiovascular benefit may be appropriate if consistent with her kidney function and overall treatment plan.
+
+Hypertension with above-goal office blood pressure of 146/86 mmHg in the setting of chronic kidney disease and diabetes.
+
+Chronic kidney disease, present for approximately 5 years; no formal stage is assigned because staging laboratory data are not provided.
+
+Obstructive sleep apnea, present for approximately 17 years.
+
+Overweight status with BMI 28.8 kg/m².
+
+Plan
+
+The immediate priority is to establish and reconcile the complete medication list, including all prescription medications, over-the-counter products, and supplements, and to clarify whether she has been taking any glucose-lowering therapy, how consistently it is taken, and whether cost, access, dosing complexity, or adverse effects have limited adherence. Treatment should be intensified promptly rather than relying on lifestyle measures alone given the HbA1c of 9.3%.
+
+Obtain current renal assessment, including serum creatinine with estimated glomerular filtration rate and urine albumin-to-creatinine ratio, before selecting or dosing diabetes medications. A fasting lipid profile is also appropriate for comprehensive cardiometabolic risk assessment. These are recommendations for ongoing management and are not reported as completed today.
+
+After medication reconciliation and review of kidney function, initiate or adjust glucose-lowering therapy using a regimen appropriate for chronic kidney disease. Metformin may be considered if renal function permits; an SGLT2 inhibitor may also be considered when appropriate for kidney function and individualized risk assessment. The final regimen should account for tolerability, adherence, hypoglycemia risk, renal dosing, and patient preference. She should be instructed to report symptomatic hypoglycemia, worsening paresthesias, new foot wounds, visual changes, polyuria, polydipsia, or unexplained weight loss.
+
+Recommend a structured nutrition plan emphasizing reduction of concentrated carbohydrates and sugar-sweetened foods, portion control, increased fiber, and regular meal timing. Encourage gradual physical activity as tolerated, with attention to appropriate footwear and daily inspection of the feet. Weight reduction would likely improve glycemic and blood pressure control.
+
+Perform a comprehensive diabetic foot examination, including monofilament sensation, skin inspection, and assessment of pulses, given her numbness and tingling. Recommend a dilated retinal examination as part of diabetes complication surveillance. Continue monitoring for neuropathic symptoms, wounds, and recurrent infections.
+
+Blood pressure remains elevated at today’s measurement. Review current antihypertensive therapy during medication reconciliation and optimize treatment in the context of diabetes and chronic kidney disease, with attention to kidney-protective therapy when clinically appropriate.
+
+Continue management of obstructive sleep apnea and reinforce adherence to its established treatment plan if one is in use; no specific device or medication is documented in this encounter.
+
+Repeat HbA1c after an appropriate interval following treatment initiation or adjustment to assess response, with earlier clinical review for medication intolerance, adherence barriers, or worsening hyperglycemic symptoms.

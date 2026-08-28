@@ -1,0 +1,24 @@
+Chief Complaint
+Routine follow-up for hypertension.
+
+Subjective
+Brandon Cox is a 48-year-old male with a 17-year history of hypertension, currently not receiving active management. He reports intermittent dizziness, palpitations, and fatigue. Denies headache, blurred vision, chest pain, shortness of breath, or epistaxis. He has a history of coronary artery disease for 3 years. Nonsmoker. Weight 89.4 kg, height 188 cm, BMI 25.3 kg/m².
+
+Objective
+Blood pressure 144/91 mmHg. Pulse 74 bpm. Respiratory rate 15/min. Temperature 36.9°C. Oxygen saturation 98% on room air.
+
+Serum electrolytes: sodium 140 mmol/L, potassium 4.2 mmol/L.
+
+Assessment
+Essential hypertension with blood pressure above goal and associated intermittent dizziness, palpitations, and fatigue. Long-standing hypertension is currently untreated/not actively managed. Electrolytes are within normal limits. Coronary artery disease noted as a comorbidity. No symptoms concerning for hypertensive emergency today.
+
+Plan
+Discussed importance of consistent blood pressure management, particularly in the setting of coronary artery disease. Recommend home blood pressure monitoring with a written log and review of readings at follow-up.
+
+Recommend initiation of antihypertensive therapy after medication review and shared decision-making, with selection guided by coronary artery disease and renal/electrolyte status.
+
+Recommend lifestyle measures including sodium reduction, regular physical activity as tolerated, maintenance of healthy weight, and avoidance of excess alcohol.
+
+Recommend ECG, lipid profile, and urinalysis as part of cardiovascular risk and hypertension assessment if not recently completed. Consider evaluation of intermittent palpitations and dizziness based on persistence or progression.
+
+Seek urgent care for chest pain, shortness of breath, neurologic symptoms, severe headache, or markedly elevated blood pressure. Follow up in the outpatient setting for blood pressure review and treatment adjustment.

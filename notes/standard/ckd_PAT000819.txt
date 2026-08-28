@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease and hypertension.
+
+Subjective
+
+Ava Mitchell is a 31-year-old woman presenting for routine outpatient follow-up of chronic kidney disease, present for approximately 15 years, and hypertension diagnosed approximately 1 year ago. She reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, or shortness of breath. No interval uremic or fluid-overload symptoms are reported.
+
+She also has a history of gout for approximately 1 year. Current medication use, allergies, and interval specialist care are not documented. She does not smoke.
+
+Objective
+
+Height 167 cm; weight 81.2 kg; BMI 29.1 kg/m².
+
+Blood pressure 153/92 mmHg, pulse 72/min, respiratory rate 15/min, temperature 36.6°C, oxygen saturation 99% on room air.
+
+Recent laboratory results: serum creatinine 3.53 mg/dL, estimated GFR 13 mL/min/1.73 m², BUN 66 mg/dL.
+
+No abnormal physical examination findings are provided. The patient denies edema, dyspnea, nausea, pruritus, cramps, fatigue, urinary frequency changes, or sleep disturbance.
+
+Assessment
+
+1. Chronic kidney disease with longstanding history and marked reduction in renal function. Creatinine is 3.53 mg/dL, eGFR 13 mL/min/1.73 m², and BUN 66 mg/dL. She is currently asymptomatic without reported clinical features of uremia or volume overload. Disease control appears suboptimal and requires active renal evaluation and monitoring.
+
+2. Hypertension, diagnosed approximately 1 year ago, with elevated office blood pressure of 153/92 mmHg. Poor blood pressure control may accelerate renal disease progression. No antihypertensive regimen is documented.
+
+3. Gout, diagnosed approximately 1 year ago, requiring treatment planning that accounts for significantly impaired renal function. No current gout medications or recent flare history are documented.
+
+4. Overweight, BMI 29.1 kg/m².
+
+Plan
+
+1. Recommend prompt nephrology referral for comprehensive evaluation of advanced chronic kidney disease, assessment of progression and complications, and discussion of renal replacement planning if clinically indicated. This recommendation is based on the eGFR of 13 mL/min/1.73 m² despite absence of current uremic symptoms.
+
+2. Obtain or trend serum electrolytes, repeat renal function studies, complete blood count, urine albumin-to-creatinine ratio, intact parathyroid hormone, and renal ultrasound as clinically appropriate to characterize kidney disease and screen for associated complications.
+
+3. Intensify blood pressure management with a documented home blood pressure log and review of antihypertensive therapy at the next visit. Individual medication selection should account for renal function, potassium status, volume status, and gout history. Counsel on sodium restriction, avoidance of NSAIDs and other potentially nephrotoxic agents, and prompt communication regarding reduced urine output, new edema, dyspnea, persistent nausea or vomiting, confusion, or severe weakness.
+
+4. Review gout history and urate-lowering strategy with renal dosing considerations; avoid empiric NSAID use given the degree of renal impairment.
+
+5. Encourage weight management through a renal-appropriate dietary approach and regular activity as tolerated.
+
+6. Continue close outpatient follow-up after laboratory and nephrology assessment, with earlier evaluation for any new uremic or fluid-overload symptoms.

@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+
+Eliana Matthews is a 71-year-old woman presenting for outpatient follow-up of hyperlipidemia present for approximately 24 years. Her condition has not been actively managed. Recent lipid results remain markedly elevated, with total cholesterol 375 mg/dL, LDL cholesterol 268 mg/dL, HDL cholesterol 50 mg/dL, and triglycerides 284 mg/dL.
+
+She reports fatty skin deposits consistent with xanthomas. She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She continues to smoke. Relevant comorbidities include obesity for approximately 7 years and non-alcoholic fatty liver disease for approximately 39 years. No current lipid-lowering regimen is documented.
+
+Objective
+
+Vital signs: Blood pressure 128/82 mmHg, pulse 78 bpm, respiratory rate 17/min, temperature 36.6°C, oxygen saturation 95%.
+
+Height 154 cm; weight 76.1 kg; BMI 32.1 kg/m².
+
+Available laboratory results:
+Total cholesterol 375 mg/dL
+LDL cholesterol 268 mg/dL
+HDL cholesterol 50 mg/dL
+Triglycerides 284 mg/dL
+
+No acute cardiopulmonary symptoms reported. Xanthomas are reported. No other examination findings provided.
+
+Assessment
+
+Severe longstanding hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, currently without active disease-directed management. The lipid pattern places her at substantially increased lifetime atherosclerotic cardiovascular risk, particularly in the setting of age, obesity, and active tobacco use. She currently denies symptoms suggestive of angina or intermittent claudication.
+
+Obesity, BMI 32.1 kg/m².
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Active tobacco use.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and the importance of initiating lipid-lowering therapy. Recommend shared decision-making regarding a high-intensity statin, such as atorvastatin or rosuvastatin, unless contraindicated or not tolerated. Her history of non-alcoholic fatty liver disease should be considered when selecting and monitoring therapy but is not, by itself, a reason to defer treatment.
+
+Recommend assessment for potentially reversible contributors to dyslipidemia and obtaining baseline hepatic testing before or at the time treatment is initiated. Recommend repeat fasting lipid panel after starting therapy to assess response and adherence. ApoB and lipoprotein(a) may be considered for additional risk assessment. If LDL cholesterol remains substantially elevated despite maximally tolerated statin therapy, addition of ezetimibe may be appropriate.
+
+Counseled on a heart-healthy eating pattern emphasizing vegetables, fruits, whole grains, legumes, fish, and unsaturated fats while reducing saturated fat, trans fat, refined carbohydrates, and excess calories. Encourage gradual, regular physical activity as tolerated and weight reduction.
+
+Strongly advised smoking cessation; discussed that cessation is an important component of reducing cardiovascular risk.
+
+Reviewed warning symptoms requiring urgent evaluation, including new or persistent chest discomfort, shortness of breath, sudden neurologic symptoms, or exertional leg pain. Follow up after initiation or adjustment of lipid therapy to review tolerance and response.

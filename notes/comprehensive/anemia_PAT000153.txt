@@ -1,0 +1,61 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Christina Pierce is a 77-year-old woman seen for routine outpatient follow-up of anemia present for approximately 7 years. Her relevant chronic conditions include inflammatory bowel disease for 47 years, rheumatoid arthritis for 46 years, and heart failure for 5 years. The anemia has not been actively managed to date.
+
+She denies fatigue, generalized weakness, reduced exercise tolerance, dizziness, headache, palpitations, shortness of breath, or awareness of pallor. No smoking history. Current weight is 62.1 kg at 174 cm, with BMI 20.5 kg/m².
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance.
+
+Cardiopulmonary: Denies shortness of breath, palpitations, or dizziness.
+
+Neurologic: Denies headache or dizziness.
+
+Hematologic: Denies awareness of pallor. No bleeding symptoms are reported in the available history.
+
+Objective
+
+Vital Signs: Blood pressure 135/78 mmHg, pulse 82 bpm, respiratory rate 23/min, temperature 36.9°C, oxygen saturation 96%.
+
+Anthropometrics: Height 174 cm, weight 62.1 kg, BMI 20.5 kg/m².
+
+General: Clinically stable at rest without reported anemia-related symptoms.
+
+Cardiovascular: Heart rate and blood pressure are stable. Cardiovascular examination is otherwise unremarkable.
+
+Respiratory: Respiratory rate mildly increased at 23/min, with oxygen saturation 96%. Respiratory examination is otherwise unremarkable.
+
+Laboratory Results:
+Hemoglobin 9.1 g/dL
+Hematocrit 27.3%
+RBC count 3.03 million/µL
+MCV 90 fL
+Serum iron 22 µg/dL
+Ferritin 182 ng/mL
+TIBC 204 µg/dL
+Transferrin saturation 10.8%
+
+Assessment
+
+Chronic normocytic anemia, consistent with anemia of chronic inflammation in the setting of longstanding rheumatoid arthritis and inflammatory bowel disease. Hemoglobin is 9.1 g/dL with hematocrit 27.3% and RBC count 3.03 million/µL. The normal MCV of 90 fL supports a normocytic pattern. Low serum iron, low TIBC, ferritin of 182 ng/mL, and low transferrin saturation of 10.8% are most compatible with inflammation-associated iron sequestration and restricted iron availability. Concurrent iron deficiency cannot be excluded solely on the basis of the elevated ferritin, particularly given the history of inflammatory bowel disease.
+
+She is currently without reported fatigue, weakness, cardiopulmonary symptoms, dizziness, or reduced exercise tolerance. Vital signs are stable, although respiratory rate is mildly elevated. No evidence of acute symptomatic deterioration is provided. Her chronic heart failure increases the importance of monitoring for any development of exertional dyspnea, tachycardia, or reduced functional capacity.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral blood smear to confirm the current pattern and assess marrow response.
+
+Further characterize reversible contributors with serum vitamin B12, folate, and renal function testing. Obtain inflammatory markers to help correlate anemia severity with activity of rheumatoid arthritis and inflammatory bowel disease.
+
+Review for potential gastrointestinal blood loss or malabsorption related to inflammatory bowel disease, even though the current indices are predominantly consistent with inflammation-associated anemia. Any new melena, hematochezia, worsening abdominal symptoms, or unexplained decline in hemoglobin should prompt more urgent evaluation.
+
+Review disease activity and current management of rheumatoid arthritis and inflammatory bowel disease with the treating clinicians, as improved control of chronic inflammation may improve the anemia.
+
+Given the low transferrin saturation, assess iron availability after completion of the above evaluation and determine whether oral or intravenous iron would be appropriate. Iron therapy should be guided by the overall clinical picture and gastrointestinal tolerance rather than ferritin alone. Consider hematology input if the anemia worsens, the reticulocyte response is inadequate, or the diagnosis remains mixed or unclear. Erythropoietin-stimulating therapy is not indicated without further evaluation, including renal function and the underlying cause of anemia.
+
+Continue clinical monitoring for fatigue, weakness, dizziness, palpitations, chest discomfort, worsening shortness of breath, or decreased exercise tolerance, particularly given her heart failure. Seek urgent evaluation for new or progressive cardiopulmonary symptoms or evidence of significant bleeding.

@@ -1,0 +1,55 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia and review of lipid results.
+
+Subjective
+
+Adriana Wells is a 57-year-old woman, height 159 cm and weight 52.1 kg, with a BMI of 20.6 kg/m², presenting for routine outpatient follow-up of hyperlipidemia diagnosed approximately 7 years ago. Her dyslipidemia has not been under active management. She has not reported chest discomfort, exertional leg pain consistent with intermittent claudication, or dizziness. She does report xanthomas and xanthelasma.
+
+Recent lipid results show total cholesterol 366 mg/dL, LDL cholesterol 255 mg/dL, HDL cholesterol 42 mg/dL, and triglycerides 343 mg/dL. These results represent marked elevation of atherogenic cholesterol with concomitant hypertriglyceridemia.
+
+Relevant medical history includes hypertension for approximately 27 years, coronary artery disease for approximately 9 years, and non-alcoholic fatty liver disease for approximately 16 years. She does not smoke. No medication regimen or medication tolerability history is provided today.
+
+Review of Systems
+
+Constitutional: No constitutional symptoms reported.
+
+Cardiovascular: Denies chest discomfort. No intermittent claudication reported.
+
+Neurologic: Denies dizziness.
+
+Integumentary: Positive for xanthomas and xanthelasma.
+
+Respiratory, gastrointestinal, genitourinary, musculoskeletal, and psychiatric systems: No additional concerns reported during this follow-up.
+
+Objective
+
+Vital Signs: Blood pressure 140/85 mmHg, pulse 72 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Anthropometrics: Height 159 cm, weight 52.1 kg, BMI 20.6 kg/m².
+
+Physical Examination: Patient is an adult woman presenting for routine follow-up and is not in documented acute distress. Cardiopulmonary symptoms are absent by history. Xanthomas and xanthelasma are present by history and are clinically relevant cutaneous manifestations of significant lipid excess. No additional examination findings are provided.
+
+Laboratory Data: Total cholesterol 366 mg/dL; LDL cholesterol 255 mg/dL; HDL cholesterol 42 mg/dL; triglycerides 343 mg/dL.
+
+Assessment
+
+Hyperlipidemia with severe elevation of LDL cholesterol and moderate-to-marked hypertriglyceridemia, currently inadequately controlled and not receiving documented active management. LDL cholesterol of 255 mg/dL is substantially above the threshold associated with high lifetime atherosclerotic cardiovascular risk. The presence of xanthomas and xanthelasma further supports prolonged significant lipid accumulation. Given the history of coronary artery disease and longstanding hypertension, she is at very high cardiovascular risk despite a normal BMI and absence of current anginal or claudication symptoms. The lipid pattern and physical findings also raise concern for a possible inherited disorder of lipid metabolism, although this is not established from the available information.
+
+Coronary artery disease, reported duration 9 years, without current chest discomfort or other ischemic symptoms reported today.
+
+Hypertension, reported duration 27 years, with blood pressure 140/85 mmHg at today’s visit.
+
+Non-alcoholic fatty liver disease, reported duration 16 years. This does not by itself preclude statin therapy, but hepatic safety should be considered when initiating and monitoring treatment.
+
+Plan
+
+Discussed the markedly abnormal lipid profile and the importance of prompt active lipid-lowering therapy in the setting of established coronary artery disease. Recommend initiation of maximally tolerated high-intensity statin therapy, such as atorvastatin or rosuvastatin, after medication reconciliation and review of contraindications, prior intolerance, and patient preference. Given the LDL level and established coronary disease, addition of ezetimibe should be considered if LDL remains substantially above goal or if adequate response is not achieved with statin therapy. Referral for consideration of a PCSK9 inhibitor may be appropriate if severe LDL elevation persists despite maximally tolerated therapy.
+
+Recommend repeat fasting lipid panel approximately 4–12 weeks after treatment initiation or dose adjustment to assess adherence and response. Consider ApoB and lipoprotein(a) measurement for further risk characterization. Evaluation for secondary contributors to dyslipidemia should be performed as clinically appropriate, with particular attention to thyroid, renal, hepatic, and glycemic status; no additional laboratory results are available from today’s encounter.
+
+Recommend dietary reduction of saturated and trans fats, limitation of refined carbohydrates and excess dietary sugars given the triglyceride elevation, increased intake of soluble fiber and plant-based foods, and continuation of regular physical activity as tolerated. Her BMI is currently normal, so weight loss is not the primary intervention.
+
+Because of the history of coronary artery disease, advise prompt evaluation for new or worsening chest discomfort, exertional dyspnea, syncope, or claudication. Coronary artery calcium scoring would not generally add meaningful risk information in a patient with known coronary artery disease.
+
+Continue cardiovascular risk-factor management, including blood pressure follow-up. Coordinate lipid and cardiovascular management with the clinician overseeing her coronary artery disease and hypertension. Return after treatment initiation and repeat lipid testing to review response and adjust therapy.

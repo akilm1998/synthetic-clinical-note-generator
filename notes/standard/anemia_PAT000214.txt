@@ -1,0 +1,28 @@
+Chief Complaint
+Annual review with assessment of longstanding anemia.
+
+History of Present Illness
+Michelle Cross is a 78-year-old woman, 156 cm tall and 71.8 kg, with BMI 29.5 kg/m², presenting for comprehensive annual review. She has a 48-year history of anemia and is currently asymptomatic, denying fatigue, weakness, dizziness, shortness of breath, palpitations, headache, reduced exercise tolerance, or pallor. There is no current symptom burden suggesting acute decompensation. Her relevant chronic comorbidities include heart failure for 27 years, rheumatoid arthritis for 20 years, and chronic infection for 44 years. She continues to smoke. The anemia has not previously been under active management.
+
+Review of Systems
+Constitutional: No fatigue, weakness, or reduced exercise tolerance.
+Cardiopulmonary: No dyspnea, palpitations, or dizziness.
+Neurologic: No headache.
+Hematologic: No pallor reported.
+
+Objective
+Vital signs: Blood pressure 135/77 mmHg, pulse 80 bpm, respiratory rate 25/min, temperature 36.6°C, oxygen saturation 96%. Weight 71.8 kg; height 156 cm; BMI 29.5 kg/m².
+
+Available laboratory results show hemoglobin 9.3 g/dL, hematocrit 27.2%, RBC count 3.2 million/µL, and MCV 85 fL, consistent with a significant normocytic anemia. Serum iron is 50 µg/dL, ferritin 301 ng/mL, TIBC 248 µg/dL, and transferrin saturation 20.2%. The combination of normocytic anemia, relatively low iron-binding capacity, and elevated ferritin is most consistent with anemia associated with chronic inflammation, in the context of longstanding rheumatoid arthritis and chronic infection. The available results do not establish isolated iron deficiency.
+
+Assessment
+Longstanding, clinically compensated normocytic anemia associated with chronic disease and inflammation. Hemoglobin is 9.3 g/dL with hematocrit 27.2% and RBC count 3.2 million/µL. The iron profile favors impaired iron utilization related to chronic inflammation rather than uncomplicated iron depletion. Her chronic rheumatoid arthritis, chronic infection, and heart failure are relevant contributing conditions. She currently reports no anemia-related symptoms, although the respiratory rate is mildly elevated at 25/min despite normal oxygen saturation and absence of dyspnea.
+
+Chronic comorbid conditions include heart failure, rheumatoid arthritis, and chronic infection. She is an active smoker and has overweight-range BMI, both of which warrant attention during preventive care review.
+
+Plan
+Obtain updated CBC with reticulocyte count and peripheral smear to confirm stability and assess marrow response. Recommend serum vitamin B12, folate, renal function testing, and inflammatory markers as part of the evaluation of this longstanding anemia. Trend hemoglobin and hematocrit, with earlier reassessment if fatigue, exertional dyspnea, chest discomfort, palpitations, dizziness, or bleeding develops.
+
+Review and optimize management of the underlying inflammatory conditions, particularly rheumatoid arthritis and chronic infection, as control of inflammation is central to treatment of anemia of chronic disease. Iron therapy should not be initiated empirically solely on the current results; iron status should be reassessed in clinical context. If anemia persists or worsens after evaluation of reversible contributors, consider specialist hematology review for discussion of additional management, including whether intravenous iron or an erythropoiesis-stimulating approach is appropriate in the setting of her comorbid disease.
+
+Continue annual monitoring of cardiovascular and respiratory status given the history of heart failure and the mildly increased respiratory rate today. Smoking cessation counseling is recommended, including discussion of cessation support. Review age-appropriate immunizations, cancer screening, bone health, fall risk, nutrition, and functional status as part of preventive care. Follow up after repeat laboratory evaluation, or sooner for new anemia-related or cardiopulmonary symptoms.

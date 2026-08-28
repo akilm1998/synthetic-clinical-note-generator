@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for hypertension.
+
+Subjective
+
+Jordan Spencer is a 60-year-old man presenting for routine follow-up of essential hypertension diagnosed approximately 10 years ago. His blood pressure has not been actively managed. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, or epistaxis. He reports intermittent palpitations and fatigue. No acute neurologic or cardiopulmonary symptoms are reported.
+
+Medical history is significant for type 2 diabetes mellitus for 9 years, hyperlipidemia for 16 years, and coronary artery disease for 13 years. He currently smokes. Height is 177 cm and weight is 84.0 kg, with BMI 26.8 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 151/94 mmHg; pulse 83 bpm; respiratory rate 18/min; temperature 37.0°C; oxygen saturation 96%.
+
+Laboratory data: Sodium 146 mmol/L; potassium 5.2 mmol/L.
+
+No acute distress or hypertensive-emergency symptoms are evident from the interval history. No additional examination findings are documented today.
+
+Assessment
+
+Essential hypertension, longstanding and currently above goal at 151/94 mmHg in the setting of diabetes mellitus and established coronary artery disease. He is asymptomatic without features suggesting an acute hypertensive emergency, but his cardiovascular risk is substantial and blood pressure control requires active management.
+
+Intermittent palpitations and fatigue. These symptoms warrant evaluation, particularly given his coronary artery disease and uncontrolled blood pressure.
+
+Mild potassium elevation at 5.2 mmol/L and sodium at the upper end of the reference range. Repeat assessment is appropriate before selecting therapy that may further increase potassium.
+
+Type 2 diabetes mellitus, hyperlipidemia, and coronary artery disease are important comorbid cardiovascular risk factors.
+
+Current tobacco use.
+
+Plan
+
+Confirm blood pressure control with repeat office measurement and home blood pressure monitoring, including documentation of readings and technique. Review adherence and access to care at the next visit.
+
+Recommend initiation of antihypertensive pharmacotherapy promptly, with agent selection guided by repeat potassium and assessment of renal function. Given the potassium of 5.2 mmol/L, avoid empiric use of therapies that may worsen hyperkalemia until this has been reassessed. Repeat serum electrolytes and obtain renal function testing.
+
+Obtain an ECG to evaluate palpitations and assess for evidence of ischemia or hypertensive cardiac effects. Advise urgent evaluation for chest pain, dyspnea, syncope, focal neurologic symptoms, severe headache, or sustained/worsening palpitations.
+
+Counsel on sodium reduction, regular physical activity as tolerated, moderation of alcohol if applicable, weight maintenance, and smoking cessation. His BMI is 26.8 kg/m²; modest weight reduction may provide additional blood pressure benefit.
+
+Continue comprehensive cardiovascular risk-factor management, including review of lipid and diabetes control. Recommend urinalysis and lipid assessment as part of hypertension and cardiovascular risk evaluation if not recently completed.
+
+Arrange close outpatient follow-up after repeat laboratory testing and home blood pressure review to reassess response and finalize the antihypertensive regimen.

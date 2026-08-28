@@ -1,0 +1,55 @@
+Chief Complaint
+
+Routine follow-up for blood pressure management.
+
+Subjective
+
+Violet Murphy is a 66-year-old woman presenting for routine outpatient follow-up of hypertension, present for approximately 29 years. Her blood pressure has not been under an active management plan. She reports intermittent dizziness, palpitations, and fatigue. She denies headache, blurred vision, chest pain, shortness of breath, and epistaxis.
+
+She has type 2 diabetes mellitus of approximately 8 years’ duration. Current smoking status is positive. Weight is stable at 71.4 kg with BMI 24.7 kg/m². No current antihypertensive regimen is documented.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms reported.
+
+Eyes: Denies blurred vision.
+
+Cardiovascular: Positive for palpitations. Denies chest pain.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Positive for dizziness. Denies headache.
+
+Hematologic: Denies nosebleeds.
+
+Objective
+
+Vital Signs: Blood pressure 164/97 mmHg. Pulse 79 bpm. Respiratory rate 14/min. Temperature 36.8°C. Oxygen saturation 98% on room air.
+
+Height 170 cm. Weight 71.4 kg. BMI 24.7 kg/m².
+
+Laboratory Data: Sodium 139 mmol/L. Potassium 3.9 mmol/L.
+
+Physical Examination: Blood pressure is elevated. Pulse and respiratory rate are within the documented range. Oxygenation is normal. No additional examination findings are documented in the supplied encounter data.
+
+Assessment
+
+Essential primary hypertension with persistently elevated office blood pressure and associated intermittent dizziness, palpitations, and fatigue. Hypertension has been present for approximately 29 years and is currently not under active management. She has no reported chest pain, dyspnea, visual disturbance, severe headache, or epistaxis to suggest an acute hypertensive emergency based on today’s history.
+
+Type 2 diabetes mellitus, present for approximately 8 years, increasing overall cardiovascular and renal risk.
+
+Tobacco use, ongoing.
+
+Serum sodium and potassium are currently within expected ranges.
+
+Plan
+
+Discussed the importance of active blood pressure treatment given the degree and duration of elevation, diabetes comorbidity, and cardiovascular risk. Confirm blood pressure with repeat office measurement and recommend home blood pressure monitoring with a written log, including seated readings taken consistently under resting conditions.
+
+Review medication history, allergies, renal function, and prior treatment response before selecting and initiating an antihypertensive agent. Obtain clinically appropriate baseline evaluation, including renal function assessment, urinalysis, lipid profile, and electrocardiogram, as recommended outpatient investigations. Continue monitoring electrolytes after therapy is initiated or adjusted.
+
+Counseled regarding reduced dietary sodium, regular physical activity as tolerated, avoidance of excess alcohol, and maintenance of a healthy weight. Strongly advised smoking cessation and offered cessation support.
+
+Because of reported palpitations, obtain an ECG as part of the outpatient evaluation. Seek emergency care immediately for chest pain, new shortness of breath, focal neurologic symptoms, severe or sudden headache, acute vision changes, confusion, or persistently extreme blood pressure readings.
+
+Arrange close outpatient follow-up for blood pressure review and treatment initiation or adjustment rather than routine long-interval follow-up.

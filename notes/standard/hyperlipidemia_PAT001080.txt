@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up of markedly elevated cholesterol.
+
+Subjective
+
+Patrick Harper is a 64-year-old man presenting for outpatient follow-up of longstanding hyperlipidemia, present for approximately 32 years and currently without active lipid-lowering management. Recent lipid panel shows total cholesterol 344 mg/dL, LDL cholesterol 257 mg/dL, HDL cholesterol 30 mg/dL, and triglycerides 286 mg/dL.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He has known coronary artery disease of approximately 2 years’ duration and non-alcoholic fatty liver disease present for approximately 25 years. He continues to smoke. No medication regimen was provided for review today.
+
+Objective
+
+Vital signs: BP 124/81 mmHg, pulse 75 bpm, respiratory rate 14/min, temperature 36.6°C, oxygen saturation 96%.
+
+Height 171 cm, weight 84.8 kg, BMI 29.0 kg/m².
+
+Laboratory data:
+Total cholesterol 344 mg/dL
+LDL cholesterol 257 mg/dL
+HDL cholesterol 30 mg/dL
+Triglycerides 286 mg/dL
+
+Assessment
+
+Severe untreated hyperlipidemia with markedly elevated LDL cholesterol, low HDL cholesterol, and elevated triglycerides. The degree and chronicity of LDL elevation, together with known coronary artery disease and active tobacco use, confer very high atherosclerotic cardiovascular risk. He is currently without reported chest discomfort, claudication, dizziness, or cutaneous lipid deposits.
+
+Overweight by BMI.
+
+Non-alcoholic fatty liver disease, longstanding. This warrants consideration when selecting and monitoring lipid-lowering therapy but is not, by itself, a contraindication to statin treatment.
+
+Active tobacco use.
+
+Plan
+
+Discussed the substantially increased cardiovascular risk associated with LDL cholesterol of 257 mg/dL in the setting of coronary artery disease and smoking. Recommend initiation of high-intensity statin therapy unless contraindicated, with shared decision-making regarding treatment and review of potential adverse effects. If LDL reduction remains inadequate or statin therapy is not tolerated, consider addition of ezetimibe and/or referral for further lipid management.
+
+Recommend repeat fasting lipid panel after treatment initiation and titration to assess response. Recommend baseline and follow-up hepatic laboratory assessment given known non-alcoholic fatty liver disease and planned lipid-lowering therapy. Consider evaluation for secondary contributors to severe dyslipidemia and measurement of ApoB and lipoprotein(a) for further risk characterization.
+
+Counseled on a Mediterranean-style diet emphasizing vegetables, whole grains, legumes, fish, and unsaturated fats while reducing saturated and trans fats, processed foods, and refined carbohydrates. Encourage gradual increase in regular physical activity as tolerated and weight reduction from current BMI of 29.0 kg/m².
+
+Strongly advised smoking cessation; discussed that stopping tobacco is a key component of cardiovascular risk reduction. Advised to seek urgent evaluation for new or persistent chest discomfort, shortness of breath, syncope, or exertional leg symptoms.
+
+Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance and lipid response.

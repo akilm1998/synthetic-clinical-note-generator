@@ -1,0 +1,18 @@
+Chief Complaint
+Urgent follow-up for anemia.
+
+Subjective
+Elizabeth Perry is a 63-year-old woman, 162 cm and 66.9 kg (BMI 25.5 kg/m²), seen for follow-up of longstanding anemia, present for approximately 19 years and not currently under active management. She reports no fatigue, weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or noted pallor. Nonsmoker. Relevant chronic conditions include heart failure and inflammatory bowel disease, each present for approximately 9 years.
+
+Objective
+Blood pressure 123/78 mmHg, pulse 91 bpm, respiratory rate 24/min, temperature 36.9°C, oxygen saturation 99%.
+
+Hemoglobin 8.0 g/dL, hematocrit 23.9%, RBC 2.66 million/µL, MCV 90 fL. Serum iron 24 µg/dL, ferritin 446 ng/mL, TIBC 191 µg/dL, transferrin saturation 12.6%.
+
+Assessment
+Anemia of chronic inflammation, longstanding, with normocytic indices and laboratory pattern of low serum iron and transferrin saturation with elevated ferritin and low TIBC. Hemoglobin is significantly reduced despite minimal reported symptoms. Chronic inflammatory bowel disease and heart failure may be contributing. Mild tachypnea noted with preserved oxygen saturation and otherwise stable blood pressure.
+
+Plan
+Recommend same-day clinical assessment given hemoglobin of 8.0 g/dL and respiratory rate of 24/min, with emergency evaluation for dyspnea, chest pain, syncope, palpitations, worsening weakness, or bleeding.
+
+Recommend repeat CBC with reticulocyte count and peripheral smear, renal function testing, vitamin B12, folate, and inflammatory markers. Assess for ongoing gastrointestinal blood loss or active inflammatory bowel disease. Review management options for anemia of chronic disease, including consideration of iron replacement or erythropoiesis-stimulating therapy based on the underlying disease and renal status. Close follow-up after repeat evaluation.

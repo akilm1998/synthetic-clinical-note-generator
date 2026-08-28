@@ -1,0 +1,39 @@
+Chief Complaint
+
+Medication review and follow-up of elevated cholesterol.
+
+Subjective
+
+Henry Walsh is a 66-year-old man seen for outpatient review of longstanding hyperlipidemia, present for approximately 10 years. He also has known coronary artery disease for 7 years, hypertension for 21 years, and longstanding obesity. He continues to smoke. He denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma.
+
+Current lipid results are markedly elevated: total cholesterol 370 mg/dL, LDL cholesterol 270 mg/dL, HDL cholesterol 36 mg/dL, and triglycerides 320 mg/dL. Medication effectiveness, adherence, and tolerance were reviewed as priorities for today’s visit. A specific active lipid-lowering regimen is not identified in the encounter information; the current medication list should be confirmed, including any prior intolerance or barriers to consistent use.
+
+Objective
+
+Height 172 cm. Weight 91.4 kg. BMI 30.9 kg/m².
+
+Blood pressure 138/84 mmHg. Pulse 83 bpm. Respiratory rate 15/min. Temperature 36.8°C. Oxygen saturation 97%.
+
+Laboratory data: total cholesterol 370 mg/dL, LDL cholesterol 270 mg/dL, HDL cholesterol 36 mg/dL, triglycerides 320 mg/dL.
+
+Assessment
+
+Hyperlipidemia with severe LDL elevation and elevated triglycerides, longstanding and currently requiring active management. The low HDL and ongoing tobacco use further increase cardiovascular risk. His history of coronary artery disease places him at particularly high risk, and the current lipid values are substantially above usual treatment targets for a patient with established coronary disease.
+
+Coronary artery disease, chronic, without reported current chest discomfort or exertional claudication.
+
+Hypertension with blood pressure 138/84 mmHg today.
+
+Obesity, BMI 30.9 kg/m².
+
+Tobacco use, ongoing.
+
+Plan
+
+Confirm the complete medication list and specifically assess whether he is taking a statin or other lipid-lowering medication, how consistently it is taken, perceived benefit, and any prior muscle symptoms or other adverse effects. If not contraindicated, recommend initiation or re-initiation of high-intensity statin therapy given the LDL of 270 mg/dL and established coronary artery disease. If LDL remains markedly elevated despite reliable statin use or if intolerance limits therapy, consider addition of ezetimibe and further lipid-management evaluation.
+
+Repeat a fasting lipid panel after an appropriate interval following medication initiation or adjustment to assess response. Consider evaluation for secondary contributors to the marked lipid elevation and measurement of additional risk markers such as apolipoprotein B or lipoprotein(a) when clinically appropriate.
+
+Counseled regarding reduction of saturated and trans fats, limiting refined carbohydrates and alcohol-containing products that may worsen triglycerides, gradual weight loss, and regular physical activity as tolerated with his coronary disease. Strongly advised smoking cessation.
+
+Continue cardiovascular risk-factor management and reinforce adherence to all prescribed therapies. Seek urgent evaluation for new chest discomfort, shortness of breath, syncope, or other acute cardiovascular symptoms. Follow up after medication reconciliation and repeat lipid assessment to review effectiveness and tolerance.

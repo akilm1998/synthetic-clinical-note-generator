@@ -1,0 +1,45 @@
+Chief Complaint
+
+Annual review and follow-up of chronic anemia.
+
+Subjective
+
+Sean Palmer is a 64-year-old man presenting for comprehensive annual review. He has a 15-year history of anemia in the setting of long-standing inflammatory bowel disease for 32 years, chronic kidney disease for 20 years, and malignancy for 8 years. He is not currently receiving documented management for the anemia.
+
+He denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. He reports headache and is noted to have pallor. No smoking history. Height is 182 cm, weight 88.1 kg, BMI 26.6 kg/m².
+
+Objective
+
+Vital signs: BP 141/87 mmHg, pulse 82 bpm, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 96% on room air.
+
+General: Pallor noted. No tachycardia.
+
+Cardiovascular: Normal cardiovascular examination.
+
+Respiratory: Normal respiratory examination.
+
+Recent laboratory results: Hemoglobin 8.9 g/dL, hematocrit 27.0%, RBC 3.25 million/µL, MCV 83 fL. Serum iron 50 µg/dL, ferritin 288 ng/mL, TIBC 209 µg/dL, transferrin saturation 23.9%.
+
+Assessment
+
+Anemia of chronic disease/chronic inflammation, longstanding. Current results demonstrate a significant normocytic anemia with low hemoglobin and hematocrit, reduced RBC count, low serum iron and TIBC, and preserved-to-elevated ferritin, a pattern most consistent with anemia related to chronic inflammation and chronic kidney disease. His long-standing inflammatory bowel disease and malignancy are additional likely contributors. He is clinically stable today without cardiopulmonary symptoms, although headache and pallor are present. No evidence of tachycardia or hypoxia on current vital signs.
+
+Chronic kidney disease, longstanding, with renal contribution to anemia likely. No formal stage assigned based on the information available.
+
+Inflammatory bowel disease, longstanding.
+
+Malignancy, longstanding.
+
+Overweight by BMI.
+
+Preventive health and chronic disease review completed as part of annual examination.
+
+Plan
+
+Further evaluation is recommended with repeat complete blood count, reticulocyte count, peripheral blood smear, vitamin B12, folate, renal function testing, and inflammatory markers to characterize the anemia and assess for reversible contributors. The existing iron profile should be reviewed in clinical context; the ferritin and low TIBC do not suggest uncomplicated absolute iron deficiency, although mixed etiologies remain possible.
+
+Arrange coordinated follow-up with the clinicians managing his chronic kidney disease, inflammatory bowel disease, and malignancy. Consider specialist evaluation for anemia management, including assessment of suitability for intravenous iron or an erythropoiesis-stimulating agent if clinically indicated after review of renal function, inflammatory status, malignancy history, and repeat blood counts. No treatment regimen is assumed today.
+
+Monitor for worsening fatigue, weakness, dizziness, shortness of breath, palpitations, chest discomfort, reduced exercise tolerance, or progressive headache. Seek urgent assessment for severe or rapidly worsening symptoms or evidence of bleeding.
+
+Continue routine follow-up of chronic kidney disease, inflammatory bowel disease, and malignancy. Review age-appropriate preventive care, immunizations, cancer surveillance, cardiovascular risk assessment, nutrition, physical activity, and fall-risk counseling at the next preventive care review. Reassess blood counts and symptoms after the recommended evaluation.

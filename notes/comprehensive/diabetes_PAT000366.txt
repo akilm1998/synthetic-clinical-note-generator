@@ -1,0 +1,53 @@
+Chief Complaint
+
+Medication review and follow-up of type 2 diabetes mellitus.
+
+Subjective
+
+Kevin Peterson is a 47-year-old man with a 14-year history of type 2 diabetes mellitus, seen for outpatient medication review. Diabetes is currently not under active management. Most recent laboratory results show HbA1c 9.5% and fasting glucose 239 mg/dL, consistent with inadequately controlled hyperglycemia. No current diabetes medication regimen was provided for review, so medication effectiveness, adherence, and tolerance cannot be assessed against a specific agent or dose.
+
+He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, frequent infections, numbness of the hands or feet, and tingling of the hands or feet. No medication-related adverse effects are reported. Smoking status: never smoker. Comorbidities include chronic kidney disease of 6 years’ duration, obstructive sleep apnea of 11 years’ duration, and depression of 18 years’ duration.
+
+Objective
+
+Vital Signs: Blood pressure 130/83 mmHg, pulse 69 bpm, respiratory rate 14/min, temperature 36.6°C, oxygen saturation 99% on room air.
+
+Height 174 cm, weight 66.9 kg, BMI 22.1 kg/m².
+
+Laboratory Results: HbA1c 9.5%. Fasting glucose 239 mg/dL.
+
+Physical Examination:
+General: No acute concern evident from the available vital signs.
+Cardiovascular: Pulse regular by vital-sign measurement.
+Respiratory: Respiratory rate and oxygen saturation are normal.
+Neurologic: Patient reports no numbness or tingling in the hands or feet.
+Skin/Extremities: Patient reports no slow-healing wounds or recurrent infections.
+A complete foot and neurologic examination should be performed at the next in-person assessment, including inspection, pulses, and sensation testing.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, currently poorly controlled based on HbA1c 9.5% and fasting glucose 239 mg/dL. Despite significant biochemical hyperglycemia, he denies polyuria, polydipsia, weight loss, visual symptoms, neuropathic symptoms, or infectious complications. His BMI is 22.1 kg/m², without current overweight or obesity. The 14-year duration of diabetes and coexisting chronic kidney disease increase the importance of timely treatment and renal assessment before selecting or dosing medication.
+
+Medication review: No active diabetes medication list or regimen was supplied. Therefore, treatment effectiveness, adherence, and tolerance cannot be determined. There is no reported medication intolerance.
+
+Chronic kidney disease, reported duration 6 years; current kidney function values are not provided. This is clinically relevant to medication selection and dosing.
+
+Obstructive sleep apnea, duration 11 years.
+
+Depression, duration 18 years.
+
+Plan
+
+Obtain a complete medication reconciliation, including any prescribed, over-the-counter, and nonprescription diabetes therapies, and clarify whether he has been taking medication consistently. Review barriers to adherence, dosing schedule, cost, access, and prior medication adverse effects.
+
+Discuss prompt initiation or intensification of glucose-lowering pharmacotherapy given HbA1c of 9.5% and fasting glucose of 239 mg/dL. Metformin would generally be considered if renal function permits and if there are no contraindications; renal function should be reviewed before prescribing or adjusting it. Depending on medication history, kidney function, glycemic pattern, and patient preference, additional therapy may be needed. If glucose levels remain markedly elevated or symptoms develop, injectable therapy should be discussed.
+
+Order/recommend serum creatinine with estimated glomerular filtration rate and urine albumin-to-creatinine ratio to guide renal risk assessment and medication selection. Recommend fasting lipid evaluation as part of cardiovascular risk management if not recently completed. These are recommendations and no new results are available today.
+
+Encourage a structured eating plan emphasizing consistent carbohydrate intake, avoidance of sugar-sweetened beverages, and regular physical activity as tolerated. Given his normal BMI, counseling should focus on glycemic quality and medication adherence rather than weight loss.
+
+Recommend home glucose monitoring according to the eventual treatment regimen, with documentation of fasting and occasional post-meal readings for medication adjustment. Review symptoms requiring urgent evaluation, including persistent vomiting, inability to maintain hydration, confusion, severe weakness, or rapidly worsening hyperglycemic symptoms.
+
+Perform comprehensive diabetic foot examination and reinforce daily foot inspection, appropriate footwear, and prompt evaluation of wounds. Recommend routine retinal evaluation and ongoing kidney surveillance as part of diabetes care.
+
+Continue coordinated outpatient management of chronic kidney disease, obstructive sleep apnea, and depression. Follow up promptly after medication reconciliation and renal testing to establish a specific diabetes regimen and assess tolerance and response.

@@ -1,0 +1,59 @@
+Chief Complaint
+
+Medication review and management of markedly elevated cholesterol.
+
+Subjective
+
+Eliana Matthews is a 61-year-old woman, 161 cm tall and weighing 74.7 kg, with BMI 28.8 kg/m², presenting for review of untreated hyperlipidemia identified approximately 6 years ago. She has a 19-year history of type 2 diabetes mellitus and non-alcoholic fatty liver disease, as well as coronary artery disease diagnosed 3 years ago. She currently smokes.
+
+No active lipid-lowering medication regimen is documented for review today. Accordingly, lipid-lowering effectiveness, adherence, and medication tolerance cannot be assessed from an established treatment course. She does not report chest discomfort, intermittent exertional leg pain, dizziness, xanthomas, or xanthelasma.
+
+Review of Systems
+
+Cardiovascular: Denies chest discomfort and intermittent claudication.
+
+Neurologic: Denies dizziness.
+
+Skin: Denies fatty skin deposits or yellow plaques around the eyelids.
+
+Objective
+
+Vital Signs: Blood pressure 132/78 mmHg, pulse 79 bpm, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 96%.
+
+Anthropometrics: Height 161 cm, weight 74.7 kg, BMI 28.8 kg/m².
+
+Laboratory Data: Total cholesterol 333 mg/dL. LDL cholesterol 246 mg/dL. HDL cholesterol 38 mg/dL. Triglycerides 243 mg/dL.
+
+Physical Examination: Visit examination is notable for the documented vital signs and absence of reported xanthomas or xanthelasma. No symptomatic cardiovascular or peripheral vascular complaints are reported today.
+
+Assessment
+
+Hyperlipidemia with severe LDL elevation and concomitant moderate hypertriglyceridemia. Total cholesterol is 333 mg/dL, LDL 246 mg/dL, HDL 38 mg/dL, and triglycerides 243 mg/dL. The lipid pattern is substantially above acceptable levels, particularly in the setting of established coronary artery disease and long-standing type 2 diabetes mellitus. Her low HDL, active tobacco use, overweight status, and diabetes further increase cardiovascular risk.
+
+There is no documented evidence of current lipid-lowering therapy, adherence, or treatment intolerance. The degree of LDL elevation warrants prompt pharmacologic treatment and assessment for secondary contributors, while remaining alert to the possibility of an inherited lipid disorder if supported by additional personal or family history. Her established non-alcoholic fatty liver disease does not, by itself, preclude statin therapy.
+
+Coronary artery disease, diagnosed 3 years ago, without current chest discomfort or claudication.
+
+Type 2 diabetes mellitus for 19 years.
+
+Non-alcoholic fatty liver disease for 19 years.
+
+Active tobacco use.
+
+Overweight, BMI 28.8 kg/m².
+
+Plan
+
+Recommend initiation of high-intensity statin therapy, such as atorvastatin 40–80 mg daily or rosuvastatin 20–40 mg daily, after medication reconciliation and review of contraindications, allergies, and patient preference. The treatment objective is substantial LDL reduction for secondary prevention in the setting of coronary artery disease. Discussed that non-alcoholic fatty liver disease is not generally a reason to withhold statin therapy.
+
+Confirm whether she has taken any lipid-lowering medication previously, including duration, adherence, prior LDL response, muscle symptoms, gastrointestinal symptoms, or other treatment-related intolerance. Reinforce daily adherence and review potential adverse effects, including new muscle pain or weakness and dark urine, with instructions to contact the office promptly if these occur.
+
+Repeat a fasting lipid panel approximately 4–12 weeks after treatment initiation or dose adjustment to assess response and adherence. Recommend hepatic safety laboratory assessment in accordance with statin initiation and her history of non-alcoholic fatty liver disease. If LDL remains above goal despite verified adherence to maximally tolerated statin therapy, consider addition of ezetimibe and subsequent specialist-directed therapy if needed.
+
+Given triglycerides of 243 mg/dL, emphasize reduction of refined carbohydrates, added sugars, and alcohol if applicable, along with weight reduction and improved glycemic control. Statin therapy and lifestyle intervention remain the primary initial approach at this triglyceride level.
+
+Counseled regarding a Mediterranean-style eating pattern emphasizing vegetables, legumes, whole grains, nuts, fish, and unsaturated fats while limiting saturated and trans fats. Encourage gradual regular aerobic activity as tolerated, with attention to her coronary artery disease and diabetes.
+
+Strongly advised complete smoking cessation and offered cessation-focused counseling and pharmacologic support discussion.
+
+Continue coordinated management of coronary artery disease and diabetes mellitus. Reassess lipid response, adherence, and tolerance after repeat testing, with earlier evaluation for new chest discomfort, exertional leg pain, or other cardiovascular symptoms.

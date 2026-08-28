@@ -1,0 +1,29 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Jane Watson is a 54-year-old woman presenting for routine follow-up of anemia present for approximately 10 years. She reports headache but denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or other cardiopulmonary symptoms. Pallor has been noted. There is no reported interval change in symptoms.
+
+Her medical history is significant for inflammatory bowel disease for 21 years, rheumatoid arthritis for 5 years, and malignancy for 4 years, all of which may contribute to chronic inflammation and anemia. She is a current smoker. Anemia has not been under active treatment. Current medication use is not provided.
+
+Objective
+
+Height 171 cm, weight 58.8 kg, BMI 20.1 kg/m². Blood pressure 117/79 mmHg, pulse 85 bpm, respiratory rate 22/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Patient appears clinically stable. Pallor is present. Cardiovascular examination is normal without tachycardia. Respiratory examination is normal. No respiratory distress is noted.
+
+Recent laboratory results show hemoglobin 8.5 g/dL, hematocrit 25.2%, RBC count 3.04 million/µL, and MCV 83 fL. Serum iron is 43 µg/dL, ferritin 268 ng/mL, TIBC 213 µg/dL, and transferrin saturation 20.2%.
+
+Assessment
+
+Chronic normocytic anemia consistent with anemia of chronic inflammation, in the setting of longstanding inflammatory bowel disease, rheumatoid arthritis, and malignancy. Hemoglobin and hematocrit are significantly reduced. The relatively low serum iron and TIBC with elevated ferritin support impaired iron utilization associated with inflammation rather than uncomplicated iron depletion, although a concurrent iron-deficient component cannot be excluded. She is currently hemodynamically stable without reported dyspnea, chest symptoms, palpitations, or exercise intolerance, but reports headache and has clinical pallor.
+
+Plan
+
+Obtain updated complete blood count with reticulocyte count and peripheral smear to assess current severity and marrow response. Recommend evaluation of vitamin B12, folate, renal function, and inflammatory markers, with review of the activity and treatment status of her inflammatory bowel disease, rheumatoid arthritis, and malignancy. Consider assessment for gastrointestinal blood loss if clinically indicated, particularly given her inflammatory bowel disease.
+
+Review anemia management with the clinicians managing her underlying inflammatory and malignant conditions. Treatment options, including iron replacement or an erythropoiesis-stimulating agent, should be guided by repeat studies, renal function, inflammatory burden, bleeding assessment, and oncology considerations; no therapy is initiated in this note. Hematology consultation should be considered given the degree and chronicity of anemia and the multiple contributing conditions.
+
+Counseled regarding urgent evaluation for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, marked weakness, or evidence of bleeding. Smoking cessation was encouraged. Close outpatient follow-up is recommended after repeat laboratory assessment.

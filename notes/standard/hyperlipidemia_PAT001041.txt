@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Ruby Marshall is a 52-year-old woman presenting for routine follow-up of hyperlipidemia, present for approximately 19 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. No interval cardiovascular symptoms are reported.
+
+Her medical history is also notable for coronary artery disease for approximately 4 years, chronic kidney disease for 5 years, and obesity for approximately 30 years. She continues to smoke. Current weight is 86.8 kg at a height of 154 cm, with BMI 36.6 kg/m².
+
+Objective
+
+Vital signs: BP 137/84 mmHg, pulse 84 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 96%.
+
+Laboratory results:
+Total cholesterol 363 mg/dL
+LDL cholesterol 268 mg/dL
+HDL cholesterol 48 mg/dL
+Triglycerides 234 mg/dL
+
+Assessment
+
+1. Hyperlipidemia, longstanding and substantially uncontrolled. Lipid profile demonstrates markedly elevated total cholesterol and LDL cholesterol with moderately elevated triglycerides and HDL of 48 mg/dL. Given the degree and duration of LDL elevation, along with established coronary artery disease and chronic kidney disease, she is at high risk for further atherosclerotic cardiovascular events. She reports no current symptoms suggestive of angina or claudication. No xanthomas or xanthelasma are reported.
+
+2. Coronary artery disease, present for approximately 4 years. Currently without chest discomfort, dizziness, or other reported ischemic symptoms. The markedly elevated untreated LDL is an important modifiable risk factor.
+
+3. Chronic kidney disease, present for approximately 5 years. This increases cardiovascular risk and should be considered when selecting and monitoring lipid-lowering therapy.
+
+4. Obesity, BMI 36.6 kg/m², longstanding. Excess weight likely contributes to dyslipidemia and overall cardiovascular risk.
+
+5. Tobacco use. Continued smoking further increases cardiovascular risk.
+
+Plan
+
+Discussed the severity of the lipid abnormalities and the importance of active treatment, particularly in the setting of coronary artery disease and chronic kidney disease. Recommend initiation of guideline-directed high-intensity statin therapy after medication reconciliation and review of contraindications, with consideration of additional lipid-lowering therapy if LDL remains above goal or if statin therapy is not tolerated. Treatment selection and dosing should account for renal function.
+
+Recommend a heart-healthy, low-saturated-fat and low-trans-fat eating pattern, increased dietary fiber, avoidance of tobacco, and gradual increase in physical activity as tolerated. Weight reduction was encouraged.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider evaluation for secondary contributors to severe dyslipidemia and additional risk assessment with ApoB and lipoprotein(a) testing when clinically appropriate. Ongoing cardiovascular and renal follow-up is recommended.
+
+Smoking cessation counseling provided, including discussion that cessation is a key component of secondary cardiovascular prevention. She was advised to seek urgent evaluation for new chest pain, dyspnea, syncope, or exertional leg symptoms.
+
+Follow-up
+
+Return for reassessment of lipid management, treatment tolerance, and repeat lipid results.

@@ -1,0 +1,76 @@
+Chief Complaint
+
+Initial nephrology consultation for chronic kidney disease.
+
+Subjective
+
+Janet McKenzie is a 59-year-old woman, 156 cm tall and weighing 59.1 kg, with BMI 24.3 kg/m², referred for evaluation and management of chronic kidney disease diagnosed approximately 9 years ago. Relevant comorbidities include longstanding type 2 diabetes mellitus for 28 years, hypertension for 25 years, and gout for 14 years. She currently smokes. No medication list was provided, and no current renal or antihypertensive regimen is assumed.
+
+Recent laboratory results show serum creatinine 3.31 mg/dL, estimated glomerular filtration rate 15 mL/min/1.73 m², and BUN 66 mg/dL. She denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination frequency, or shortness of breath. She does not report current uremic or fluid-overload symptoms.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Respiratory: Denies shortness of breath.
+
+Cardiovascular: Denies peripheral edema.
+
+Genitourinary: Denies change in urinary frequency.
+
+Gastrointestinal: Denies nausea.
+
+Skin: Denies pruritus.
+
+Musculoskeletal: Denies muscle cramps.
+
+Neurologic and sleep: Denies sleep disturbance.
+
+Objective
+
+Vital signs: Blood pressure 151/96 mmHg, pulse 78 beats/min, respiratory rate 18/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+General measurements: Height 156 cm, weight 59.1 kg, BMI 24.3 kg/m².
+
+Laboratory data:
+Serum creatinine: 3.31 mg/dL.
+Estimated GFR: 15 mL/min/1.73 m².
+BUN: 66 mg/dL.
+
+Physical examination: The available examination data consist of the documented vital signs and absence of reported symptoms. No additional examination findings are documented for this encounter.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal filtration, present for approximately 9 years, in the setting of very longstanding type 2 diabetes mellitus and hypertension. The degree of renal dysfunction is significant, with creatinine 3.31 mg/dL, BUN 66 mg/dL, and eGFR 15 mL/min/1.73 m². She is currently without reported uremic symptoms, volume-overload symptoms, or respiratory complaints. The etiology is most likely multifactorial, particularly diabetic and hypertensive kidney disease; however, the underlying cause should be characterized with urine studies and renal imaging.
+
+Hypertension, longstanding and currently above goal at 151/96 mmHg. In the setting of advanced CKD, improved blood pressure control is important to reduce further kidney injury and cardiovascular risk. Current antihypertensive medications are not provided.
+
+Type 2 diabetes mellitus of 28 years’ duration, an important risk factor for progressive kidney disease. Current glycemic control and diabetes medications were not provided.
+
+Gout of 14 years’ duration. This is relevant to renal and medication management, although no current urate-lowering therapy or recent flare history is provided.
+
+Tobacco use, ongoing, which increases cardiovascular and renal risk.
+
+No current clinical evidence from the supplied history of symptomatic fluid overload, significant uremic prodrome, or respiratory compromise.
+
+Plan
+
+Arrange prompt nephrology follow-up and structured CKD management given the eGFR of 15 mL/min/1.73 m² and elevated BUN. Discuss the implications of the current renal function, expected progression risk, symptoms requiring urgent evaluation, and the importance of close monitoring.
+
+Obtain urine albumin-to-creatinine ratio and urinalysis to assess proteinuria and characterize the renal disease. Recommend serum electrolytes, bicarbonate, calcium, phosphorus, complete blood count, and intact parathyroid hormone testing to evaluate common metabolic and hematologic complications of advanced CKD. Repeat renal function testing as clinically indicated to establish trajectory.
+
+Recommend renal ultrasound to assess kidney size and structural abnormalities, particularly given the long duration of kidney disease and absence of an established documented etiology.
+
+Review and reconcile all current medications at the next visit. Avoid nephrotoxic agents, particularly nonsteroidal anti-inflammatory drugs, and adjust all renally cleared medications to current kidney function. Any treatment for gout should be reviewed carefully for renal dosing and safety.
+
+Address blood pressure management with a goal of sustained control appropriate for CKD. Selection or adjustment of therapy should be based on the complete medication history, potassium and electrolyte results, albuminuria status, and tolerance. Do not initiate or intensify therapy without medication reconciliation and laboratory review.
+
+Continue diabetes management with attention to renal dosing and avoidance of hypoglycemia as kidney function declines. Obtain current diabetes control data through primary care or the diabetes clinician and coordinate treatment accordingly.
+
+Counsel regarding a kidney-protective lifestyle, including avoidance of tobacco, moderation of dietary sodium, avoidance of over-the-counter herbal products and NSAIDs, maintenance of appropriate hydration without forced excess intake, and individualized dietary counseling for protein, potassium, phosphorus, and sodium once laboratory results are available.
+
+Begin education regarding future kidney replacement options, including conservative kidney management, dialysis modalities, and transplant evaluation as appropriate, given the current degree of renal impairment. This discussion is preparatory; the absence of uremic or volume-overload symptoms does not by itself indicate an immediate need for dialysis.
+
+Advise urgent medical evaluation for new or worsening shortness of breath, rapidly increasing edema, markedly reduced urine output, persistent vomiting, confusion, chest pain, or severe weakness.
+
+Follow up after completion of urine studies, renal ultrasound, and CKD complication laboratory testing, with closer monitoring based on renal function trend and blood pressure response.

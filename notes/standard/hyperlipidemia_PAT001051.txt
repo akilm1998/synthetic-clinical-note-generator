@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Pamela Donovan is a 54-year-old woman seen for follow-up of longstanding hyperlipidemia, present for approximately 12 years and not currently actively managed. She denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. She continues to smoke. Her weight is 61.6 kg at 150 cm, with BMI 27.4 kg/m². Relevant comorbidity includes non-alcoholic fatty liver disease, present for approximately 8 years.
+
+Objective
+
+Vital signs: Blood pressure 127/76 mmHg, pulse 76 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 98%.
+
+Laboratory data:
+Total cholesterol 344 mg/dL
+LDL cholesterol 217 mg/dL
+HDL cholesterol 47 mg/dL
+Triglycerides 398 mg/dL
+
+Assessment
+
+1. Hyperlipidemia with marked elevation of LDL cholesterol and triglycerides. Current lipid profile demonstrates substantially elevated atherogenic cholesterol, with LDL 217 mg/dL, total cholesterol 344 mg/dL, and triglycerides 398 mg/dL. She has no reported symptoms suggestive of active ischemia or peripheral arterial disease. Given the degree and duration of dyslipidemia, pharmacologic therapy is strongly indicated in addition to lifestyle intervention.
+
+2. Non-alcoholic fatty liver disease, longstanding. This is relevant to lipid management and should be considered when selecting and monitoring lipid-lowering therapy; fatty liver disease alone is not a contraindication to statin treatment.
+
+3. Tobacco use. Ongoing smoking increases her overall atherosclerotic cardiovascular risk and is an important modifiable risk factor.
+
+4. Overweight, BMI 27.4 kg/m².
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and triglycerides and the associated long-term cardiovascular risk. Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after discussion of risks, benefits, and preferences. Given the LDL level, treatment should not be deferred solely for additional risk calculation. If LDL reduction remains inadequate or statin therapy is not tolerated, addition of ezetimibe and consideration of specialist-directed therapy would be appropriate.
+
+Recommend a heart-healthy eating pattern emphasizing reduced saturated and trans fats, increased soluble fiber, vegetables, and minimally processed foods. Limit refined carbohydrates and added sugars given the triglyceride elevation. Encourage gradual increase in regular aerobic activity as tolerated and weight reduction toward a healthier range.
+
+Strongly advised smoking cessation and offered counseling and evidence-based cessation support.
+
+Recommend repeat fasting lipid panel after initiation or adjustment of therapy to assess response. Consider evaluation for secondary contributors to the lipid abnormalities and measurement of apolipoprotein B and lipoprotein(a) for further risk characterization. Monitor liver-related parameters as clinically appropriate in the setting of known non-alcoholic fatty liver disease.
+
+Follow up after treatment initiation and repeat lipid testing to assess adherence, tolerance, and lipid response.

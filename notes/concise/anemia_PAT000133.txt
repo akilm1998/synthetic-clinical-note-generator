@@ -1,0 +1,24 @@
+Chief Complaint
+Annual review and follow-up of chronic anemia.
+
+Subjective
+Zachary Barnes is an 84-year-old man, nonsmoker, seen for comprehensive annual review. Anemia has been present for approximately 48 years and is not currently under active management. Reports headache and appears pale. Denies fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. Relevant chronic conditions include heart failure for 39 years, inflammatory bowel disease for 11 years, and type 2 diabetes mellitus for 9 years.
+
+Objective
+Height 165 cm; weight 65.6 kg; BMI 24.1 kg/m².
+BP 130/81 mmHg, pulse 82 bpm, respiratory rate 25/min, temperature 36.9°C, oxygen saturation 96%.
+Pallor noted. No other examination findings provided.
+
+Recent laboratory results:
+Hemoglobin 9.7 g/dL, hematocrit 28.3%, RBC 3.25 million/µL, MCV 87 fL.
+Serum iron 25 µg/dL, ferritin 315 ng/mL, TIBC 232 µg/dL, transferrin saturation 10.8%.
+
+Assessment
+Chronic normocytic anemia, most consistent with anemia of chronic inflammation/disease in the setting of longstanding inflammatory bowel disease and heart failure. Low serum iron and transferrin saturation with elevated ferritin and low TIBC support impaired iron availability; concurrent iron deficiency should be considered. Currently clinically stable without cardiopulmonary anemia symptoms, though pallor and headache are present.
+
+Annual review with significant chronic comorbidity burden, including heart failure, inflammatory bowel disease, and type 2 diabetes.
+
+Plan
+Obtain repeat CBC with reticulocyte count and peripheral smear; assess vitamin B12, folate, renal function, and inflammatory markers. Reassess iron studies and review for ongoing gastrointestinal blood loss or active inflammatory bowel disease. Consider oral or intravenous iron only after evaluation of iron status and tolerance; consider hematology consultation if anemia persists, worsens, or remains unexplained. Continue monitoring for fatigue, dyspnea, chest pain, palpitations, dizziness, or worsening headache; seek urgent care for significant bleeding or new cardiopulmonary symptoms.
+
+Review heart failure, inflammatory bowel disease, and diabetes control at follow-up. Address age-appropriate immunizations, cancer screening, fall-risk assessment, nutrition, and advance care planning as appropriate. Schedule follow-up after laboratory reassessment.

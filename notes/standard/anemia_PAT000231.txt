@@ -1,0 +1,39 @@
+Chief Complaint
+
+Annual health review and follow-up of chronic anemia.
+
+Subjective
+
+Savannah Bell is a 70-year-old woman presenting for comprehensive annual review. She has a 23-year history of anemia. She denies fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. She reports headache but no other anemia-related symptoms. No pallor is reported. She does not smoke.
+
+She has type 2 diabetes mellitus diagnosed approximately 24 years ago. No current diabetes treatment, home glucose readings, or diabetes-related complications were provided for review today.
+
+Objective
+
+Height 157 cm, weight 72.2 kg, BMI 29.3 kg/m².
+
+Blood pressure 128/80 mmHg, pulse 81 bpm, respiratory rate 21/min, temperature 36.8°C, oxygen saturation 98%.
+
+Available laboratory results show hemoglobin 9.2 g/dL, hematocrit 27.9%, RBC count 3.07 million/µL, and MCV 91 fL. Serum iron is 30 µg/dL, ferritin 216 ng/mL, TIBC 207 µg/dL, and transferrin saturation 14.5%. This is a chronic normocytic anemia with low serum iron and transferrin saturation, elevated/retained ferritin, and low TIBC, a pattern compatible with anemia associated with chronic inflammation or other chronic disease.
+
+Assessment
+
+1. Chronic normocytic anemia, consistent with anemia of chronic disease/inflammation. Hemoglobin remains reduced at 9.2 g/dL, with no current cardiopulmonary symptoms or exercise limitation. The iron profile does not show a straightforward pattern of isolated iron deficiency, although the low transferrin saturation warrants further clarification. Given the longstanding duration and absence of acute symptoms, outpatient evaluation is appropriate.
+
+2. Type 2 diabetes mellitus, longstanding for approximately 24 years. Current glycemic control and complication screening data were not reviewed in the information available for this visit.
+
+3. Overweight, BMI 29.3 kg/m².
+
+4. Headache. Present without associated dizziness, weakness, dyspnea, palpitations, or other reported anemia symptoms. Persistent or changing headache should be assessed separately rather than attributed automatically to anemia.
+
+5. Preventive health maintenance, annual review.
+
+Plan
+
+For the anemia, repeat a complete blood count with reticulocyte count and peripheral smear to confirm stability and assess marrow response. Obtain vitamin B12, folate, renal function, and inflammatory markers as clinically appropriate. Review for chronic inflammatory conditions, occult blood loss, nutritional factors, and other sources of chronic disease. Consider gastrointestinal evaluation if clinically indicated, particularly if iron deficiency becomes more evident or there is any evidence of blood loss. Iron supplementation should not be started solely on the basis of the low serum iron given the ferritin and TIBC pattern; treatment should be guided by the overall evaluation. Consider hematology referral if the anemia worsens, becomes symptomatic, or remains unexplained after initial assessment.
+
+Monitor for fatigue, exertional dyspnea, chest discomfort, palpitations, dizziness, syncope, or bleeding. Seek urgent care for severe shortness of breath, chest pain, fainting, new neurologic symptoms, or rapidly worsening headache.
+
+Continue comprehensive diabetes follow-up, including review of glycemic control, medication regimen, renal function, urine albumin assessment, dilated eye examination, foot examination, and cardiovascular risk reduction as appropriate. Encourage balanced nutrition, regular physical activity within tolerance, and weight management.
+
+Review age-appropriate preventive care, including immunizations and recommended breast, colorectal, cervical, osteoporosis, and vision screening based on prior results, health status, and shared decision-making. Arrange routine follow-up after laboratory reassessment, sooner if symptoms develop.

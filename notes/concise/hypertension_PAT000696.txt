@@ -1,0 +1,27 @@
+Chief Complaint
+
+Medication review and uncontrolled blood pressure.
+
+Subjective
+
+Michael Brooks is a 32-year-old man with a 15-year history of essential hypertension, currently without a documented antihypertensive regimen. He reports dizziness, palpitations, and fatigue. Denies headache, blurred vision, chest pain, shortness of breath, or epistaxis. Medication adherence and treatment tolerance cannot be assessed because no active antihypertensive therapy is identified.
+
+Relevant comorbidities include coronary artery disease for 1 year, hyperlipidemia for 2 years, and chronic kidney disease for 1 year. Nonsmoker.
+
+Objective
+
+Blood pressure 161/100 mmHg, pulse 76 bpm, respirations 15/min, temperature 37.0°C, oxygen saturation 99%. Height 168 cm, weight 74.8 kg, BMI 26.5 kg/m².
+
+Serum electrolytes: sodium 142 mmol/L, potassium 4.1 mmol/L.
+
+Assessment
+
+Essential hypertension, persistently uncontrolled, with associated dizziness, palpitations, and fatigue. No symptoms currently suggestive of hypertensive emergency. Prolonged untreated hypertension is concerning given comorbid coronary artery disease and chronic kidney disease.
+
+Coronary artery disease, hyperlipidemia, and chronic kidney disease—relevant comorbidities requiring consideration when selecting antihypertensive therapy and monitoring response.
+
+Plan
+
+Initiate clinician-directed antihypertensive therapy appropriate for hypertension with coronary artery disease and chronic kidney disease; review adherence and tolerance at follow-up. Recommend home blood pressure monitoring and lifestyle measures, including sodium restriction, regular physical activity as tolerated, weight management, and moderation of alcohol intake.
+
+Obtain/review ECG, lipid profile, and urinalysis as clinically appropriate. Continue monitoring renal function and electrolytes after therapy is initiated. Seek urgent evaluation for chest pain, shortness of breath, severe headache, neurologic symptoms, or markedly worsening blood pressure. Close follow-up for blood pressure reassessment and medication titration.

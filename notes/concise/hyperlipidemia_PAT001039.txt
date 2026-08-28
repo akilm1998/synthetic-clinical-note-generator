@@ -1,0 +1,18 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Tristan Burke is a 64-year-old man with a 22-year history of hyperlipidemia, currently without documented active management. He denies chest discomfort, exertional leg pain, or dizziness. Xanthelasma is present. Comorbid coronary artery disease for 10 years, type 2 diabetes mellitus for 9 years, and hypertension for 30 years. Continues to smoke. No medication regimen provided for review.
+
+Objective
+Height 166 cm, weight 81.0 kg, BMI 29.4 kg/m².
+BP 147/84 mmHg, pulse 74 bpm, respirations 14/min, temperature 36.6°C, oxygen saturation 97%.
+Lipid panel: total cholesterol 304 mg/dL, LDL 198 mg/dL, HDL 43 mg/dL, triglycerides 313 mg/dL. Xanthelasma noted. No acute cardiopulmonary symptoms reported.
+
+Assessment
+Hyperlipidemia with markedly elevated LDL and triglycerides, inadequately controlled, in the setting of established coronary artery disease, diabetes, hypertension, obesity, and active tobacco use. No current anginal or claudication symptoms.
+
+Plan
+Discussed cardiovascular risk and importance of active lipid-lowering therapy. Recommend initiation or confirmation of high-intensity statin therapy, with consideration of additional lipid-lowering treatment if targets are not achieved; review contraindications and tolerance before prescribing. Counsel on reducing saturated and trans fats, limiting refined carbohydrates, weight reduction, and regular physical activity as tolerated. Strongly advised smoking cessation.
+
+Repeat fasting lipid panel after treatment initiation or adjustment and assess for secondary contributors to dyslipidemia. Continue close management of diabetes and blood pressure. Seek urgent care for new or persistent chest pain, dyspnea, or other acute cardiovascular symptoms. Follow up after repeat lipid testing to reassess response and treatment adherence.

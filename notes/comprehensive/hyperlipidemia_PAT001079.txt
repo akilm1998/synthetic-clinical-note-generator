@@ -1,0 +1,79 @@
+Chief Complaint
+
+Initial consultation for untreated hyperlipidemia.
+
+Subjective
+
+Hailey Johnston is a 34-year-old woman presenting for initial outpatient evaluation of hyperlipidemia, present for approximately 6 years and currently without active lipid-lowering management. Available lipid results show total cholesterol 315 mg/dL, LDL-C 214 mg/dL, HDL-C 36 mg/dL, and triglycerides 326 mg/dL.
+
+She reports xanthomas and xanthelasma. She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. No current cardiopulmonary or neurologic symptoms are reported.
+
+Relevant medical history includes coronary artery disease for approximately 1 year, chronic kidney disease for approximately 1 year, and non-alcoholic fatty liver disease for approximately 3 years. She currently smokes tobacco. Medication use, allergies, family history, and prior lipid-treatment history were not provided.
+
+She is 157 cm tall and weighs 51.5 kg, with BMI 20.9 kg/m². Despite a normal BMI, the degree and duration of LDL elevation, associated hypertriglyceridemia, cutaneous lipid deposits, smoking, and reported coronary artery disease place her at substantially elevated atherosclerotic cardiovascular risk.
+
+Review of Systems
+
+Constitutional: No constitutional symptoms reported.
+
+Cardiovascular: Denies chest discomfort. History of coronary artery disease is reported. No intermittent claudication reported.
+
+Neurologic: Denies dizziness.
+
+Skin: Reports xanthomas and xanthelasma.
+
+Respiratory: No respiratory symptoms reported.
+
+Gastrointestinal: History of non-alcoholic fatty liver disease. No gastrointestinal symptoms reported.
+
+Genitourinary: History of chronic kidney disease. No genitourinary symptoms reported.
+
+Musculoskeletal: No exertional leg pain reported.
+
+Objective
+
+Vital Signs: Blood pressure 130/80 mmHg, pulse 80 beats/min, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Height: 157 cm.
+
+Weight: 51.5 kg.
+
+BMI: 20.9 kg/m².
+
+Laboratory Data:
+Total cholesterol: 315 mg/dL
+LDL-C: 214 mg/dL
+HDL-C: 36 mg/dL
+Triglycerides: 326 mg/dL
+
+Focused Physical Examination: Xanthomas and xanthelasma are reported. No additional examination findings are provided. The patient is currently without reported chest discomfort, claudication, or dizziness.
+
+Assessment
+
+1. Severe untreated hyperlipidemia with mixed atherogenic pattern. LDL-C is markedly elevated at 214 mg/dL, with elevated triglycerides at 326 mg/dL, low HDL-C at 36 mg/dL, and total cholesterol of 315 mg/dL. This degree of LDL elevation warrants prompt pharmacologic risk reduction and evaluation for secondary contributors and possible inherited dyslipidemia. The presence of xanthomas and xanthelasma further supports longstanding significant lipid exposure.
+
+2. Reported coronary artery disease. In the setting of LDL-C greater than 190 mg/dL and known coronary artery disease, she should be considered at very high cardiovascular risk pending review of the underlying coronary history and prior treatment.
+
+3. Chronic kidney disease, duration approximately 1 year. Kidney disease is an important cardiovascular risk enhancer and may influence medication selection and dosing.
+
+4. Non-alcoholic fatty liver disease, duration approximately 3 years. This does not by itself preclude statin therapy, but hepatic history and current liver status should be reviewed before and during treatment.
+
+5. Tobacco use. Ongoing smoking materially increases cardiovascular risk and is a modifiable contributor to her overall risk profile.
+
+Plan
+
+Recommend prompt initiation of high-intensity LDL-lowering therapy, assuming no contraindication after medication reconciliation and review of renal and hepatic status. A high-intensity statin such as atorvastatin or rosuvastatin would ordinarily be first-line therapy in this clinical setting. The specific agent and dose should account for chronic kidney disease, liver history, potential interactions, pregnancy considerations, and prior intolerance history.
+
+Because of the reported coronary artery disease and LDL-C of 214 mg/dL, treatment should target a substantial LDL reduction, with addition of ezetimibe if the response to maximally tolerated statin therapy is inadequate. If LDL remains markedly above goal despite maximally tolerated statin plus ezetimibe, referral for consideration of a PCSK9 inhibitor is appropriate.
+
+Repeat a fasting lipid panel after initiation or adjustment of therapy to assess adherence and response. Recommend evaluation for secondary causes of dyslipidemia, including thyroid dysfunction, glycemic abnormalities, renal disease activity, and hepatic status. Reasonable additional risk characterization includes apolipoprotein B and one-time lipoprotein(a) measurement. Coronary artery calcium scoring is unlikely to change the need for treatment if the reported coronary artery disease is confirmed.
+
+Review and obtain available records regarding the diagnosis of coronary artery disease, chronic kidney disease, and non-alcoholic fatty liver disease, including prior cardiac testing and current renal and hepatic function. Assess for tendon xanthomas and other stigmata of inherited lipid disorders on in-person examination. Given the LDL level, xanthomas, and young age, evaluate for possible familial hypercholesterolemia and consider family-based lipid screening if clinically indicated.
+
+Counsel regarding a Mediterranean-style eating pattern, reduction of saturated and trans fats, avoidance of excess refined carbohydrates and alcohol given the triglyceride elevation and fatty liver disease, regular aerobic activity as tolerated, and maintenance of current healthy body weight.
+
+Strongly advise smoking cessation. Discuss behavioral support and evidence-based cessation pharmacotherapy at follow-up.
+
+Confirm reproductive plans before prescribing lipid-lowering therapy, as statin and other systemic lipid-lowering treatment requires appropriate pregnancy counseling.
+
+Follow up promptly after medication reconciliation and baseline safety review, with lipid reassessment after treatment initiation. Earlier evaluation is warranted for new chest discomfort, exertional dyspnea, syncope, or claudication.

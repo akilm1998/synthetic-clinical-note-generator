@@ -1,0 +1,23 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Leah Coleman is a 51-year-old woman with a 20-year history of type 2 diabetes, hypertension for 6 years, and chronic kidney disease for 11 years. Diabetes is currently inadequately controlled. She denies polydipsia, polyuria, polyphagia, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. Reports numbness and tingling in the hands and feet. She does not smoke.
+
+Objective
+Height 180 cm; weight 74.2 kg; BMI 22.9 kg/m².
+BP 153/92 mmHg, pulse 70 bpm, respiratory rate 15/min, temperature 37.0°C, oxygen saturation 97%.
+HbA1c 9.8%; fasting glucose 231 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus with significant hyperglycemia, currently not adequately managed. Chronic distal numbness and tingling raise concern for peripheral neuropathic symptoms, although no wounds or infectious complications are reported.
+Hypertension, above goal today.
+Chronic kidney disease, duration 11 years; renal function data not provided.
+
+Plan
+Discussed the markedly elevated HbA1c and fasting glucose and the need for prompt initiation or intensification of a comprehensive diabetes treatment plan. Review current medications and adherence at the next medication reconciliation; select therapy with consideration of chronic kidney disease and renal function.
+Recommend home glucose monitoring with documentation of readings, individualized nutrition counseling, and regular physical activity as tolerated.
+Obtain serum creatinine/eGFR and urine albumin-to-creatinine ratio to guide treatment and assess kidney involvement; fasting lipid profile is also recommended.
+Perform comprehensive foot examination, including sensory assessment, and arrange dilated retinal evaluation. Counsel on daily foot inspection and prompt reporting of skin breakdown or infection.
+Reassess blood pressure and review antihypertensive management, with attention to kidney-protective therapy when clinically appropriate.
+Close outpatient follow-up after completion of recommended laboratory evaluation to reassess glycemic and blood pressure control.

@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Blake Hunter is a 92-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 48 years ago. His diabetes has not been actively managed recently. Recent laboratory testing shows HbA1c 9.3% and fasting glucose 215 mg/dL, consistent with inadequate glycemic control. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. He reports tingling in the hands or feet but denies numbness.
+
+He does not smoke. Relevant comorbidities include depression of approximately 13 years’ duration and obstructive sleep apnea of approximately 61 years’ duration. No current diabetes medications are provided for review.
+
+Objective
+
+Vital signs: Blood pressure 132/78 mmHg, pulse 76 beats/min, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 97% on room air.
+
+Height 169 cm, weight 68.8 kg, BMI 24.1 kg/m². He is a normal-weight older man by BMI. Available laboratory results: HbA1c 9.3%; fasting glucose 215 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complication, with significant chronic hyperglycemia and currently inadequate disease control. The elevated HbA1c and fasting glucose are concerning given the long duration of diabetes and lack of active management. He does not report osmotic or constitutional symptoms, visual complaints, recurrent infection, or poor wound healing. Paresthesia of the hands or feet raises concern for possible diabetic peripheral neuropathic symptoms, although no formal neurologic or foot examination findings are available today.
+
+Depression and obstructive sleep apnea are longstanding comorbidities and may affect adherence, activity, and overall diabetes self-management.
+
+Plan
+
+Discussed the importance of re-establishing active diabetes care and balancing glycemic improvement with the risks of hypoglycemia in a 92-year-old patient. Recommend prompt medication reconciliation and individualized initiation or adjustment of glucose-lowering therapy rather than continued observation without treatment. Treatment selection should account for renal function, nutritional status, functional status, hypoglycemia risk, and patient goals.
+
+Recommend nutritional counseling focused on consistent carbohydrate intake, avoidance of sugar-sweetened foods and beverages, and adequate hydration. Encourage physical activity appropriate to his functional capacity and fall risk.
+
+Obtain renal assessment with serum creatinine/eGFR and urine albumin-to-creatinine ratio before finalizing therapy, along with a fasting lipid profile for cardiovascular risk assessment. Recommend comprehensive diabetic foot examination, including assessment of skin integrity, pulses, and protective sensation, given the reported tingling. Recommend ophthalmologic evaluation for diabetes-related retinal disease. Review home glucose monitoring practices and provide individualized glucose targets appropriate for advanced age and comorbidity burden.
+
+Reassess glycemic control and tolerance of the management plan after treatment is initiated, with earlier review for symptomatic hyperglycemia, hypoglycemia, worsening paresthesias, new visual changes, or foot wounds.

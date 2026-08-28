@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up of longstanding hyperlipidemia.
+
+Subjective
+
+Richard Lawson is a 58-year-old man presenting for follow-up of hyperlipidemia present for approximately 13 years and currently without active lipid-lowering management. Recent lipid results remain markedly abnormal, with total cholesterol 301 mg/dL, LDL cholesterol 212 mg/dL, HDL cholesterol 36 mg/dL, and triglycerides 263 mg/dL. He denies chest discomfort, exertional leg pain, or dizziness. He reports xanthelasma but no xanthomas.
+
+His medical history is also notable for coronary artery disease diagnosed approximately 1 year ago, chronic kidney disease for 8 years, and non-alcoholic fatty liver disease for approximately 1 year. He continues to smoke. He has no reported symptoms suggestive of an acute cardiovascular event today.
+
+Objective
+
+Blood pressure 129/79 mmHg, pulse 84 bpm, respiratory rate 15/min, temperature 36.9°C, oxygen saturation 97% on room air. Height 164 cm, weight 65.1 kg, BMI 24.2 kg/m².
+
+Laboratory data: total cholesterol 301 mg/dL, LDL cholesterol 212 mg/dL, HDL cholesterol 36 mg/dL, triglycerides 263 mg/dL.
+
+Assessment
+
+Hyperlipidemia with severe elevation of LDL cholesterol and associated elevation of triglycerides and low HDL cholesterol. The degree and duration of dyslipidemia, along with active tobacco use and known coronary artery disease, place him at high cardiovascular risk. Xanthelasma is consistent with longstanding lipid elevation. He is currently asymptomatic from a cardiovascular standpoint, but the lipid profile is substantially above goal for a patient with established coronary disease.
+
+Chronic kidney disease, longstanding, which is an additional cardiovascular risk consideration and should be incorporated into medication selection and monitoring.
+
+Non-alcoholic fatty liver disease. This is not a contraindication to appropriately monitored statin therapy, although liver-related monitoring is appropriate.
+
+Tobacco use, contributing substantially to overall atherosclerotic risk.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and the need for active secondary cardiovascular prevention. Recommend initiation of high-intensity statin therapy, with medication selection and dosing reviewed in the context of chronic kidney disease and fatty liver disease. If LDL reduction remains inadequate or statin therapy is not tolerated, addition of ezetimibe and other guideline-directed options can be considered.
+
+Recommend a heart-healthy diet emphasizing reduced saturated and trans fat intake, increased soluble fiber, and avoidance of excess refined carbohydrates to address both LDL cholesterol and triglycerides. Encourage regular physical activity as tolerated and continued weight maintenance.
+
+Strongly advised smoking cessation and offered support with cessation planning.
+
+Recommend repeat fasting lipid testing after treatment initiation or adjustment to assess response and adherence. Consider evaluation for secondary contributors to severe dyslipidemia and additional risk stratification, including lipoprotein(a) or apolipoprotein B measurement, as clinically appropriate. Monitor renal and hepatic status in conjunction with therapy.
+
+Continue routine follow-up for lipid response and cardiovascular risk-factor management. Advise urgent evaluation for new chest discomfort, dyspnea, syncope, or exertional leg symptoms.

@@ -1,0 +1,21 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Sean Palmer is a 70-year-old man, nonsmoker, seen for follow-up of anemia present for approximately 22 years. He reports headache and appears pale but denies fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. He has rheumatoid arthritis of approximately 2 years’ duration. No current anemia-directed treatment is documented.
+
+Objective
+
+Height 184 cm, weight 75.5 kg, BMI 22.3 kg/m². Blood pressure 130/79 mmHg, pulse 77 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 98% on room air. Pallor noted. He is hemodynamically stable by vital signs.
+
+Hemoglobin 8.1 g/dL, hematocrit 23.9%, RBC 2.63 million/µL, MCV 91 fL. Serum iron 33 µg/dL, ferritin 185 ng/mL, TIBC 240 µg/dL, transferrin saturation 13.8%.
+
+Assessment
+
+Chronic normocytic anemia with significant reduction in hemoglobin. Low serum iron and transferrin saturation with ferritin 185 ng/mL and low TIBC are most consistent with anemia associated with chronic inflammation, in the setting of rheumatoid arthritis. He is currently clinically stable but has headache and pallor.
+
+Plan
+
+Obtain CBC with reticulocyte count, peripheral smear, renal function testing, vitamin B12, folate, and inflammatory markers to further characterize the anemia and assess contributing factors. Review rheumatoid arthritis activity and coordinate management of the underlying inflammatory disease as clinically appropriate. Consider hematology evaluation and discussion of iron replacement or erythropoietin-based therapy after evaluation of the underlying cause and renal function. Advise urgent evaluation for new or worsening shortness of breath, chest pain, palpitations, dizziness, syncope, or marked weakness. Arrange close outpatient follow-up to review results and management.

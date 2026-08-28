@@ -1,0 +1,67 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+History of Present Illness
+
+Evan Bryant is an 80-year-old man, height 189 cm, weight 89.3 kg, BMI 25.0 kg/m², presenting for routine outpatient follow-up of chronic kidney disease. He reports fatigue but otherwise denies pruritus, nausea, muscle cramps, sleep disturbance, peripheral edema, shortness of breath, or changes in urinary frequency. His chronic kidney disease has been present for approximately 31 years and is currently not under active management. Most recent laboratory results show serum creatinine 5.98 mg/dL, BUN 73 mg/dL, and estimated GFR 8 mL/min/1.73 m².
+
+He has a 33-year history of type 2 diabetes mellitus. No medication list, home glucose data, or home blood pressure readings are provided. He does not smoke.
+
+Review of Systems
+
+Constitutional: Positive for fatigue.
+
+Skin: Denies pruritus.
+
+Respiratory: Denies shortness of breath.
+
+Cardiovascular: Denies peripheral edema.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urinary frequency.
+
+Musculoskeletal: Denies muscle cramps.
+
+Sleep: Denies sleep disturbance.
+
+Objective
+
+Vital Signs: Blood pressure 143/91 mmHg, pulse 72 bpm, respiratory rate 18/min, temperature 37.0°C, oxygen saturation 97%.
+
+Anthropometrics: Height 189 cm, weight 89.3 kg, BMI 25.0 kg/m².
+
+Laboratory Data: Serum creatinine 5.98 mg/dL. BUN 73 mg/dL. Estimated GFR 8 mL/min/1.73 m².
+
+Physical Examination
+
+No additional examination findings are provided. Patient-specific renal and volume-status assessment should include evaluation for lower-extremity edema, skin dryness or pallor, pulmonary congestion, blood pressure control, and asterixis or other signs of uremia.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function
+
+Longstanding chronic kidney disease in an 80-year-old man with a 31-year history of disease and 33-year history of type 2 diabetes mellitus. Current creatinine of 5.98 mg/dL, BUN 73 mg/dL, and estimated GFR 8 mL/min/1.73 m² indicate severe renal impairment. He currently reports fatigue but no nausea, pruritus, muscle cramps, sleep disturbance, edema, dyspnea, or change in urinary frequency. The condition is not currently under active management, placing him at high risk for uremic complications, electrolyte abnormalities, acid-base disturbances, anemia, mineral and bone complications, and fluid overload.
+
+2. Type 2 diabetes mellitus, longstanding
+
+Thirty-three-year history of diabetes and likely major contributor to chronic kidney disease. Current glycemic control cannot be assessed from the available information. Any diabetes treatment will require careful consideration of renal function and hypoglycemia risk.
+
+3. Elevated blood pressure reading
+
+Blood pressure is 143/91 mmHg today. Blood pressure control is particularly important in the setting of advanced chronic kidney disease. No current antihypertensive regimen is provided.
+
+Plan
+
+Chronic kidney disease: This degree of renal impairment requires prompt nephrology evaluation rather than routine observation. Recommend urgent assessment by nephrology for comprehensive management and discussion of renal replacement therapy options, including dialysis planning when clinically appropriate, as well as goals of care and treatment preferences. Obtain updated renal evaluation with serum electrolytes, bicarbonate, calcium, phosphorus, CBC, intact parathyroid hormone, urinalysis, urine albumin-to-creatinine ratio, and repeat renal function testing. Consider renal ultrasound if not previously performed or if clinically indicated.
+
+Review for complications of advanced kidney disease, including anemia, hyperkalemia, metabolic acidosis, mineral and bone disorder, worsening uremic symptoms, and volume overload. Medication reconciliation is essential, with avoidance of nephrotoxic agents and renal dosing of all medications. Do not use nonsteroidal anti-inflammatory drugs unless specifically directed by a treating clinician.
+
+The patient should seek emergency care for new or worsening shortness of breath, chest pain, confusion, marked weakness, persistent nausea or vomiting, inability to maintain oral intake, rapidly increasing swelling, substantially reduced urine output, or other acute deterioration.
+
+Diabetes mellitus: Review home glucose monitoring, current diabetes medications, hypoglycemia history, and diabetic complications at the next visit. Glycemic management should be individualized for age and advanced renal impairment, with avoidance of hypoglycemia. Coordinate diabetes care with renal management.
+
+Blood pressure: Repeat blood pressure measurement and obtain home readings if feasible. Review sodium intake and current medications before selecting or adjusting therapy. Blood pressure management should be coordinated with nephrology given the degree of renal dysfunction.
+
+Follow-up: Arrange prompt follow-up after nephrology evaluation and updated laboratory testing. This patient should not be managed with routine long-interval follow-up given the severity of renal impairment.

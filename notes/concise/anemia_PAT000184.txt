@@ -1,0 +1,19 @@
+Chief Complaint: Annual review and follow-up of chronic anemia.
+
+Subjective:
+Chelsea Benson is a 68-year-old woman presenting for comprehensive annual review. Anemia has been present for approximately 21 years and is currently not actively managed. She reports headache and appears pale. Denies fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. Relevant chronic conditions include inflammatory bowel disease for 44 years and heart failure for 19 years. She does not smoke.
+
+Objective:
+Height 155 cm, weight 62.5 kg, BMI 26.0 kg/m². BP 125/76 mmHg, pulse 86 bpm, respiratory rate 25/min, temperature 36.8°C, oxygen saturation 96%. Pallor noted. Cardiovascular and respiratory examinations otherwise unremarkable.
+
+Laboratory results: Hemoglobin 8.3 g/dL, hematocrit 24.4%, RBC 2.98 million/µL, MCV 82 fL. Serum iron 44 µg/dL, ferritin 361 ng/mL, TIBC 254 µg/dL, transferrin saturation 17.3%.
+
+Assessment:
+Anemia of chronic disease/inflammation, longstanding, with normocytic indices and low serum iron/transferrin saturation, elevated ferritin, and reduced TIBC. Likely related to chronic inflammatory disease, with chronic kidney disease not documented. Headache and pallor present; no reported cardiopulmonary symptoms, though respiratory rate is mildly elevated.
+
+Inflammatory bowel disease and chronic heart failure, longstanding.
+
+Plan:
+Recommend prompt reassessment with CBC, reticulocyte count, peripheral smear, renal function, vitamin B12, folate, and inflammatory markers. Review for ongoing inflammatory bowel disease activity and other sources contributing to anemia. Consider gastroenterology and hematology consultation regarding management, including appropriateness of oral or intravenous iron or erythropoiesis-stimulating therapy based on further evaluation and comorbidities. Advise urgent evaluation for new or worsening shortness of breath, chest pain, palpitations, dizziness, syncope, or marked weakness.
+
+Continue comprehensive preventive care review, including age-appropriate cancer screening, immunizations, cardiovascular risk reduction, and fall-risk assessment. Follow up after laboratory reassessment or sooner if symptoms develop.

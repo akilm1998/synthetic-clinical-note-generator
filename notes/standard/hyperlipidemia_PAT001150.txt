@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Justin Richardson is a 34-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 8 years and not currently under active treatment. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He does not smoke. No medication regimen is provided.
+
+He also has a history of chronic kidney disease for approximately 1 year. No interval renal symptoms are reported.
+
+Objective
+
+Vital signs: Blood pressure 127/84 mmHg, pulse 70 bpm, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 165 cm, weight 59.6 kg, BMI 21.9 kg/m².
+
+Recent lipid panel: total cholesterol 297 mg/dL, LDL cholesterol 207 mg/dL, HDL cholesterol 32 mg/dL, triglycerides 289 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and concomitant hypertriglyceridemia and low HDL cholesterol. The LDL level is substantially elevated despite a normal BMI and absence of tobacco use, and the condition has been untreated for approximately 8 years. He currently reports no symptoms suggestive of symptomatic atherosclerotic disease. Given the degree and duration of LDL elevation, pharmacologic lipid-lowering therapy should be strongly considered after discussion of risks, benefits, and preferences.
+
+Chronic kidney disease, present for approximately 1 year. Kidney disease is an important cardiovascular risk consideration and should be incorporated into lipid-management decisions.
+
+Plan
+
+Discussed the significant elevation in total cholesterol, LDL cholesterol, and triglycerides and the associated long-term cardiovascular risk. Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, following shared decision-making and review of renal considerations, potential adverse effects, and reproductive counseling as appropriate.
+
+Recommend evaluation for secondary contributors to dyslipidemia, including thyroid disease, diabetes, liver disease, nephrotic-range protein loss, and medication or dietary contributors. Recommend obtaining a repeat fasting lipid panel and appropriate renal and hepatic monitoring before or shortly after treatment initiation, using renal-adjusted medication selection as needed.
+
+Counseled on a heart-healthy eating pattern emphasizing vegetables, fruits, whole grains, legumes, lean proteins, and unsaturated fats while limiting saturated and trans fats, refined carbohydrates, and alcohol. Encourage regular aerobic and resistance exercise as tolerated. Continue tobacco avoidance.
+
+Because of the markedly elevated LDL cholesterol and young age, recommend clarification of family history of premature cardiovascular disease and consideration of lipoprotein(a) or apolipoprotein B testing if clinically useful. Consider referral to a lipid specialist if LDL reduction is inadequate or familial dyslipidemia is suspected.
+
+Continue monitoring chronic kidney disease with the treating clinician and avoid nephrotoxic exposures. Follow up after repeat testing to assess response and finalize ongoing lipid-lowering management.

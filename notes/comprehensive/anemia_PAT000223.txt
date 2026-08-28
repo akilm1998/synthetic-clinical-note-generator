@@ -1,0 +1,57 @@
+Chief Complaint
+
+Annual review of chronic anemia.
+
+Subjective
+
+Scott Douglas is a 73-year-old man presenting for comprehensive annual review and reassessment of anemia present for approximately 9 years. He reports headache but denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or other reported anemia-related symptoms. Pallor is noted.
+
+Relevant chronic conditions include inflammatory bowel disease for 17 years, chronic infection for 23 years, and type 2 diabetes mellitus for 12 years. His anemia has not been actively managed. He is a current smoker. Height is 177 cm, weight 83.0 kg, BMI 26.5 kg/m².
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance.
+
+Neurologic: Reports headache. Denies dizziness.
+
+Cardiopulmonary: Denies shortness of breath or palpitations.
+
+Hematologic: Pallor noted. No additional bleeding symptoms reported.
+
+Objective
+
+Vital signs: Blood pressure 131/80 mmHg, pulse 84 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 95%.
+
+General: Pallor present.
+
+Cardiovascular: Examination is normal.
+
+Respiratory: Examination is normal.
+
+Laboratory data: Hemoglobin 9.6 g/dL, hematocrit 28.0%, RBC 3.18 million/µL, MCV 88 fL. Serum iron 40 µg/dL, ferritin 317 ng/mL, TIBC 199 µg/dL, transferrin saturation 20.1%.
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation/chronic disease. This is a longstanding, clinically stable, normocytic anemia with reduced hemoglobin, hematocrit, and RBC count. The low serum iron and TIBC with elevated ferritin are most compatible with inflammatory iron sequestration rather than uncomplicated absolute iron deficiency. His longstanding inflammatory bowel disease and chronic infection are likely contributors. Chronic kidney disease, nutritional deficiency, occult blood loss, and other marrow or hematologic causes have not been excluded based on the available data.
+
+He is currently hemodynamically stable without dyspnea, tachycardia, chest symptoms, or reduced exercise tolerance. Headache and pallor may be related to the anemia but warrant reassessment if persistent or progressive.
+
+Inflammatory bowel disease, longstanding, with potential contribution to chronic inflammation and possible gastrointestinal blood loss.
+
+Chronic infection, longstanding.
+
+Type 2 diabetes mellitus, longstanding; ongoing annual chronic disease monitoring indicated.
+
+Current tobacco use.
+
+Plan
+
+Obtain repeat complete blood count with reticulocyte count and peripheral smear to confirm persistence and characterize marrow response. Check vitamin B12, folate, renal function, and inflammatory markers as part of the anemia evaluation. Review trends rather than relying on a single hemoglobin measurement.
+
+Reassess inflammatory bowel disease activity and gastrointestinal blood loss risk with the treating clinician. If anemia worsens, iron indices decline, or gastrointestinal symptoms or bleeding develop, pursue appropriate gastrointestinal evaluation. The current iron profile does not support empiric iron therapy as the sole treatment; consider oral or intravenous iron only if subsequent evaluation demonstrates iron deficiency or inadequate available iron.
+
+If anemia remains significant after reversible contributors are addressed, consider hematology evaluation and assessment for erythropoietin-based therapy only in the context of an identified qualifying cause, particularly renal or inflammatory disease.
+
+Continue comprehensive management of inflammatory bowel disease, chronic infection, and diabetes with attention to inflammatory control and renal status. Encourage smoking cessation and provide cessation support. Review age-appropriate preventive care, immunizations, diabetes surveillance, cardiovascular risk reduction, and cancer screening at the annual visit.
+
+Seek urgent assessment for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, overt gastrointestinal bleeding, or rapidly worsening weakness. Arrange clinical and laboratory reassessment after the recommended evaluation.

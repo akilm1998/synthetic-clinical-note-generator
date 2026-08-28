@@ -1,0 +1,81 @@
+Chief Complaint
+
+Routine follow-up for untreated hyperlipidemia.
+
+Subjective
+
+Evan Bryant is a 35-year-old man presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 4 years and not currently managed with medication. He has not reported chest discomfort, exertional leg pain or intermittent claudication, or dizziness. He does report fatty-appearing skin deposits consistent with xanthomas and yellowish eyelid deposits consistent with xanthelasma.
+
+Recent lipid results show total cholesterol 313 mg/dL, LDL cholesterol 207 mg/dL, HDL cholesterol 40 mg/dL, and triglycerides 329 mg/dL. These findings represent marked mixed dyslipidemia, with particularly elevated LDL cholesterol.
+
+His medical history also includes hypertension for approximately 1 year and non-alcoholic fatty liver disease for approximately 1 year. He does not smoke. Current weight is 76.0 kg at a height of 171 cm, with BMI 26.0 kg/m². No current lipid-lowering medication use is provided.
+
+Review of Systems
+
+Constitutional: No reported constitutional symptoms.
+
+Cardiovascular: Denies chest discomfort. No reported exertional leg pain.
+
+Neurologic: Denies dizziness.
+
+Skin: Reports xanthomas and xanthelasma.
+
+Respiratory, gastrointestinal, genitourinary, and musculoskeletal: No additional concerns reported today.
+
+Objective
+
+Vital Signs:
+Blood pressure 136/84 mmHg
+Pulse 76 bpm
+Respiratory rate 18/min
+Temperature 36.8°C
+Oxygen saturation 97% on room air
+Height 171 cm
+Weight 76.0 kg
+BMI 26.0 kg/m²
+
+Physical Examination:
+General: Alert adult male presenting for routine follow-up, without documented acute cardiopulmonary symptoms.
+Eyes/Skin: Xanthelasma reported and visible fatty skin deposits consistent with xanthomas.
+Cardiovascular: No chest discomfort reported during the visit.
+Neurologic: No dizziness reported.
+Additional examination findings are not documented in the supplied encounter information.
+
+Laboratory Review
+
+Total cholesterol: 313 mg/dL
+LDL cholesterol: 207 mg/dL
+HDL cholesterol: 40 mg/dL
+Triglycerides: 329 mg/dL
+
+Assessment
+
+1. Hyperlipidemia, unspecified, with marked mixed dyslipidemia
+
+Four-year history of untreated hyperlipidemia with total cholesterol 313 mg/dL, LDL 207 mg/dL, triglycerides 329 mg/dL, and HDL 40 mg/dL. The LDL level is substantially elevated and, together with xanthomas and xanthelasma at a young age, raises concern for a possible inherited lipid disorder. He has no reported anginal symptoms, claudication, or dizziness at this time. Tobacco use is not a contributing factor. Mild excess weight and hypertension increase his overall cardiovascular risk.
+
+2. Hypertension
+
+Blood pressure today is 136/84 mmHg in the setting of a reported 1-year history of hypertension. Continued outpatient monitoring and lifestyle modification are appropriate.
+
+3. Non-alcoholic fatty liver disease
+
+Reported duration approximately 1 year. Coexisting dyslipidemia and mild excess weight are relevant metabolic risk factors. Lipid treatment should not be deferred solely because of the history of fatty liver disease; baseline hepatic assessment should be considered before and during therapy.
+
+4. Overweight
+
+BMI 26.0 kg/m². Weight reduction, dietary quality, and regular physical activity may improve lipid levels, blood pressure, and fatty liver disease.
+
+Plan
+
+1. Discussed the significance of the lipid profile, particularly the LDL cholesterol of 207 mg/dL and the presence of xanthomas and xanthelasma. Recommended initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after shared decision-making and review of contraindications, potential adverse effects, and reproductive considerations as applicable. The patient is not documented as currently taking lipid-lowering therapy.
+
+2. Recommend a fasting lipid panel to confirm the degree of dyslipidemia and establish a treatment baseline. Consider ApoB and lipoprotein(a) testing to further characterize cardiovascular risk. Because of the markedly elevated LDL cholesterol and cutaneous lipid deposits at age 35, obtain a detailed family history of premature cardiovascular disease and severe hypercholesterolemia and consider referral for lipid specialist evaluation if the elevation persists or an inherited disorder is suspected.
+
+3. Recommend a heart-healthy eating pattern emphasizing vegetables, fruits, legumes, whole grains, fish, and unsaturated fats while reducing saturated fat, trans fat, refined carbohydrates, and excess dietary sugar. Encourage regular aerobic and resistance exercise as tolerated, with gradual weight reduction toward a healthier weight.
+
+4. Recommend review of hepatic status in the context of known non-alcoholic fatty liver disease before or shortly after starting lipid therapy, with monitoring guided by symptoms and treatment response. Advise the patient to report significant muscle pain, weakness, dark urine, or other concerning adverse effects if statin therapy is started.
+
+5. Continue home blood pressure monitoring if available, limit dietary sodium, maintain regular activity, and reassess blood pressure at follow-up. No change to antihypertensive therapy is documented today.
+
+6. Return after initiation of therapy and repeat lipid assessment, approximately 6–12 weeks, to review adherence, tolerance, lipid response, and next steps. Seek urgent care for new chest discomfort, significant shortness of breath, focal neurologic symptoms, or acute limb symptoms.

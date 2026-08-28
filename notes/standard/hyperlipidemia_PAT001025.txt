@@ -1,0 +1,37 @@
+Chief Complaint
+
+Initial consultation for untreated hyperlipidemia.
+
+Subjective
+
+Jacob Long is a 36-year-old man presenting for evaluation and management of hyperlipidemia, present for approximately 9 years and not currently under active treatment. Available lipid results show total cholesterol 343 mg/dL, LDL cholesterol 239 mg/dL, HDL cholesterol 38 mg/dL, and triglycerides 330 mg/dL.
+
+He denies chest discomfort, exertional leg pain or claudication, dizziness, xanthomas, and xanthelasma. He has a documented history of coronary artery disease for approximately 1 year and non-alcoholic fatty liver disease for approximately 8 years. He does not smoke. No current lipid-lowering medication regimen is provided.
+
+Objective
+
+Vital signs: Blood pressure 122/75 mmHg, pulse 78 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 99% on room air.
+
+Height 190 cm, weight 76.2 kg, BMI 21.1 kg/m².
+
+Laboratory results: Total cholesterol 343 mg/dL. LDL cholesterol 239 mg/dL. HDL cholesterol 38 mg/dL. Triglycerides 330 mg/dL.
+
+No active cardiovascular or cutaneous symptoms reported today.
+
+Assessment
+
+Severe mixed dyslipidemia with markedly elevated LDL cholesterol and elevated triglycerides, untreated for approximately 9 years. The LDL level is substantially elevated and, in the setting of documented coronary artery disease at a young age, places him at very high risk for recurrent or progressive atherosclerotic cardiovascular disease. HDL is low.
+
+Coronary artery disease, documented for approximately 1 year, currently without reported chest discomfort, exertional claudication, or dizziness.
+
+Non-alcoholic fatty liver disease, present for approximately 8 years. Lipid-lowering therapy remains clinically important; fatty liver disease is not by itself a reason to avoid statin therapy.
+
+Plan
+
+Discussed the significance of the lipid results and the increased cardiovascular risk associated with markedly elevated LDL cholesterol and established coronary artery disease. Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, unless contraindicated after medication and allergy reconciliation. The patient should review treatment selection and dosing with the prescribing clinician.
+
+Recommend a fasting lipid panel after treatment initiation to assess response, along with appropriate liver chemistry monitoring given the history of non-alcoholic fatty liver disease. Consider assessment for secondary contributors to dyslipidemia and measurement of additional risk markers, including lipoprotein(a) or apolipoprotein B, when clinically appropriate. Given the severity of LDL elevation and premature coronary artery disease, evaluation for a possible inherited lipid disorder and consideration of additional therapy, such as ezetimibe or a PCSK9 inhibitor, may be appropriate if LDL remains above goal despite maximally tolerated statin therapy.
+
+Counseled regarding a heart-healthy eating pattern emphasizing vegetables, fruits, legumes, whole grains, fish, and unsaturated fats while limiting saturated and trans fats, refined carbohydrates, and excess alcohol. Encourage regular aerobic physical activity as tolerated and continued avoidance of tobacco.
+
+Recommend coordinated cardiovascular follow-up because of the history of coronary artery disease and markedly uncontrolled lipids. Seek emergency care for new or persistent chest discomfort, shortness of breath, syncope, or other acute cardiovascular symptoms.

@@ -1,0 +1,27 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Christina Pierce is a 34-year-old woman presenting for follow-up of hyperlipidemia, present for approximately 11 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain or claudication, dizziness, xanthomas, and xanthelasma. Coronary artery disease is documented with a duration of approximately 1 year. She does not smoke. Current weight is 77.5 kg at 179 cm, with BMI 24.2 kg/m².
+
+Objective
+
+Vital signs: BP 125/78 mmHg, pulse 79 bpm, respiratory rate 18/min, temperature 36.8°C, oxygen saturation 99% on room air.
+
+Lipid panel: total cholesterol 363 mg/dL, LDL cholesterol 277 mg/dL, HDL cholesterol 38 mg/dL, triglycerides 239 mg/dL.
+
+Assessment
+
+Severe hyperlipidemia with markedly elevated LDL cholesterol and concomitant hypertriglyceridemia. The LDL level of 277 mg/dL is substantially above the threshold warranting pharmacologic therapy, particularly in the setting of documented coronary artery disease. HDL is below the optimal range. She is currently asymptomatic from a cardiovascular standpoint, with normal blood pressure, BMI in the normal range, and no tobacco use. Long duration of untreated disease raises concern for a significant primary lipid disorder; secondary contributors should also be evaluated.
+
+Plan
+
+Discussed the substantially increased atherosclerotic cardiovascular risk associated with the current lipid profile and the importance of sustained LDL reduction. Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, unless contraindicated, with treatment selection after discussion of risks, benefits, reproductive considerations, and patient preference.
+
+Recommend a fasting lipid panel after initiation or adjustment of therapy to assess response and adherence. If LDL reduction is inadequate, recommend intensification of therapy and consideration of adjunctive ezetimibe; referral for advanced lipid management and consideration of PCSK9-directed therapy may be appropriate given the markedly elevated LDL and documented coronary artery disease.
+
+Recommend evaluation for secondary causes of dyslipidemia and consideration of ApoB and lipoprotein(a) measurement for risk characterization. Reinforced a heart-healthy dietary pattern emphasizing reduced saturated and trans fats, increased soluble fiber, and avoidance of excess refined carbohydrates; continue regular aerobic and resistance exercise. Continue tobacco avoidance.
+
+Follow up after treatment initiation and repeat lipid assessment to review response, tolerability, and need for additional LDL-lowering therapy.

@@ -1,0 +1,61 @@
+Chief Complaint
+Initial consultation for longstanding elevated cholesterol.
+
+History of Present Illness
+Justin Richardson is a 95-year-old man presenting for initial outpatient evaluation of hyperlipidemia, present for approximately 37 years and not currently under active treatment. Recent lipid results show total cholesterol 364 mg/dL, LDL cholesterol 266 mg/dL, HDL cholesterol 45 mg/dL, and triglycerides 265 mg/dL. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He does not smoke.
+
+His medical history is also notable for obesity for approximately 76 years, hypertension for 21 years, and non-alcoholic fatty liver disease for 17 years. No lipid-lowering medications were provided in the current history.
+
+Past Medical History
+Hyperlipidemia for approximately 37 years.
+Hypertension for approximately 21 years.
+Obesity for approximately 76 years.
+Non-alcoholic fatty liver disease for approximately 17 years.
+
+Social History
+No tobacco use reported.
+
+Medications
+No current medications provided.
+
+Allergies
+No allergy information provided.
+
+Review of Systems
+Cardiovascular: Denies chest discomfort.
+Vascular: Denies intermittent claudication.
+Neurologic: Denies dizziness.
+Skin: Denies xanthomas and xanthelasma.
+
+Objective
+Height 166 cm. Weight 104.2 kg. BMI 37.8 kg/m².
+Blood pressure 145/86 mmHg. Pulse 78 bpm. Respiratory rate 18/min. Temperature 36.8°C. Oxygen saturation 97% on room air.
+
+Laboratory Data
+Total cholesterol: 364 mg/dL.
+LDL cholesterol: 266 mg/dL.
+HDL cholesterol: 45 mg/dL.
+Triglycerides: 265 mg/dL.
+
+Physical Examination
+No examination findings beyond the documented vital signs and reported absence of xanthomas or xanthelasma were provided.
+
+Assessment
+Longstanding untreated hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. The lipid pattern is consistent with significant mixed dyslipidemia, with LDL 266 mg/dL and triglycerides 265 mg/dL. He currently reports no anginal symptoms, claudication, dizziness, or cutaneous lipid deposits. His advanced age, hypertension, obesity, and prolonged exposure to elevated lipids increase overall cardiovascular risk, although treatment decisions should be individualized according to functional status, goals of care, anticipated benefit, and patient preference.
+
+Hypertension with current blood pressure 145/86 mmHg.
+
+Obesity, BMI 37.8 kg/m², longstanding.
+
+Non-alcoholic fatty liver disease, longstanding, relevant to medication selection and monitoring but not an automatic contraindication to statin therapy.
+
+Plan
+Discussed the substantially elevated LDL cholesterol and the potential cardiovascular benefit of lipid-lowering therapy. Recommend shared decision-making regarding initiation of a statin, considering the patient’s age, overall health, preferences, and treatment goals. If therapy is accepted, use a tolerable regimen with monitoring for adverse effects and adjustment as clinically indicated.
+
+Recommend confirmation with a fasting lipid panel if the available results were not fasting, along with assessment for potentially reversible contributors to dyslipidemia and review of liver status before and after treatment as clinically appropriate. Consider ApoB and lipoprotein(a) measurement if the results would meaningfully affect management.
+
+Counseled regarding reduction of saturated and trans fats, emphasis on vegetables, fiber, and unsaturated fats, avoidance of excess refined carbohydrates, and activity appropriate to mobility and cardiovascular tolerance. Weight management should be gradual and individualized.
+
+Continue monitoring blood pressure and address hypertension within the patient’s overall goals of care.
+
+Follow up after discussion of treatment preferences and review of any additional baseline evaluation, with repeat lipid assessment after a treatment decision or medication change.

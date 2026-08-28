@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Adrian Wells is an 82-year-old man with a 25-year history of type 2 diabetes mellitus, presenting for routine outpatient follow-up and review of glycemic control. Current diabetes management is not established in the available history. Recent HbA1c is 9.1% and fasting glucose is 206 mg/dL, consistent with suboptimal glycemic control.
+
+He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, and recurrent infections. He reports numbness in the hands or feet without associated tingling. No acute diabetic symptoms are reported.
+
+Relevant comorbidities include obesity of 21 years’ duration, dyslipidemia diagnosed approximately 1 year ago, and longstanding anxiety. He currently smokes. No medication regimen is provided.
+
+Objective
+
+Vital signs: Blood pressure 123/80 mmHg, pulse 82 beats/min, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 95%.
+
+Height 174 cm, weight 101.4 kg, BMI 33.5 kg/m². Well-defined physical examination findings beyond the recorded vital signs and anthropometrics are not provided.
+
+Laboratory data: HbA1c 9.1%. Fasting plasma glucose 206 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus with inadequate glycemic control based on HbA1c of 9.1% and fasting glucose of 206 mg/dL. The patient is clinically without symptomatic hyperglycemia, but the degree and duration of elevation increase risk for microvascular and macrovascular complications.
+
+Numbness of the hands or feet in the setting of longstanding diabetes raises concern for possible peripheral sensory involvement; further clinical assessment is appropriate. No wounds or recurrent infections are reported.
+
+Obesity, BMI 33.5 kg/m².
+
+Dyslipidemia, approximately 1 year in duration.
+
+Active tobacco use.
+
+Longstanding anxiety.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the importance of re-establishing an active diabetes treatment plan. Review dietary intake, carbohydrate portions, meal timing, physical activity, home glucose monitoring, and barriers to adherence. Given his age and comorbidities, treatment goals should be individualized with emphasis on improving control while avoiding hypoglycemia.
+
+Recommend prompt medication reconciliation and initiation or adjustment of glucose-lowering therapy based on renal function, nutritional status, hypoglycemia risk, and patient preferences. Metformin or other appropriate agents may be considered if clinically suitable; medication selection should follow review of kidney function and contraindications. Avoid assuming any current therapy until confirmed.
+
+Recommend assessment of renal status with serum creatinine/eGFR and urine albumin-to-creatinine ratio, fasting lipid profile, and review of diabetes-related monitoring. Recommend a comprehensive foot examination, including skin inspection, pulses, and protective sensation, given the reported numbness. Counsel on daily foot inspection, appropriate footwear, and prompt evaluation of any skin breakdown. Recommend routine dilated retinal evaluation if not recently completed.
+
+Encouraged gradual nutrition and activity changes appropriate for his age and functional status, with weight management as a treatment goal. Strongly advised smoking cessation and offered discussion of cessation support. Continue addressing anxiety as part of overall diabetes self-management.
+
+Arrange close outpatient follow-up after medication and renal assessment to review home glucose data, tolerance of therapy, and progress toward individualized glycemic targets.

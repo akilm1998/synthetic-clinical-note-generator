@@ -1,0 +1,55 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Logan Stewart is an 84-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus, diagnosed approximately 24 years ago. Current laboratory testing shows poor glycemic control with HbA1c 9.6% and fasting glucose 231 mg/dL. He reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. He also denies numbness or tingling of the hands or feet.
+
+He is not a smoker. Weight is 74.8 kg at 180 cm, with BMI 23.1 kg/m². No diabetes treatment regimen or medication use is provided for review today. He has a 12-year history of depression.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Eyes: Denies blurred vision.
+
+Endocrine: Denies increased thirst, frequent urination, and increased hunger.
+
+Skin: Denies slow-healing wounds.
+
+Infectious: Denies frequent infections.
+
+Neurologic: Denies numbness or tingling of the hands or feet.
+
+Psychiatric: History of depression for 12 years.
+
+Objective
+
+Vital Signs: Blood pressure 138/77 mmHg. Pulse 71 bpm. Respiratory rate 18/min. Temperature 36.9°C. Oxygen saturation 97%.
+
+Anthropometrics: Height 180 cm. Weight 74.8 kg. BMI 23.1 kg/m².
+
+Laboratory Results: HbA1c 9.6%. Fasting glucose 231 mg/dL.
+
+Physical Examination: No abnormal physical examination findings are documented in the supplied clinical information. There are no reported diabetic foot wounds or sensory symptoms.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, longstanding for approximately 24 years, currently inadequately controlled based on HbA1c 9.6% and fasting glucose 231 mg/dL. Despite the degree of hyperglycemia, he reports no current osmotic, constitutional, visual, infectious, or neuropathic symptoms. Given his age and long disease duration, treatment should be intensified carefully with attention to hypoglycemia risk, functional status, nutritional intake, renal function, and individual glycemic goals.
+
+Depression, longstanding for 12 years. No acute psychiatric symptoms are reported today.
+
+Plan
+
+Discussed that current glucose values indicate significant hyperglycemia and that active diabetes management is warranted even in the absence of symptoms.
+
+Review and reconcile all current medications, including any diabetes therapy, at the next medication review; no specific regimen is documented today. Consider initiation or adjustment of glucose-lowering therapy based on renal function, comorbidities, nutritional status, ability to self-manage, and individualized goals for an 84-year-old patient. Avoid overly aggressive treatment and monitor closely for hypoglycemia if therapy is started or intensified.
+
+Provide individualized counseling regarding consistent carbohydrate intake, avoidance of sugar-sweetened beverages, regular meals, hydration, and physical activity appropriate to his abilities and safety. His BMI is normal at 23.1 kg/m²; weight loss is not a treatment goal.
+
+Recommend assessment of renal and cardiovascular risk with serum creatinine/eGFR, urine albumin-to-creatinine ratio, and fasting lipid profile if not recently obtained. Recommend routine diabetic foot examination, including skin integrity, pulses, and sensation, and review of retinal screening status.
+
+Continue to monitor for polyuria, polydipsia, visual changes, weakness, confusion, vomiting, or other symptoms of marked hyperglycemia and seek urgent care if severe symptoms develop.
+
+Follow up after medication and complication-risk review, with repeat HbA1c at an appropriate interval to assess response to management.

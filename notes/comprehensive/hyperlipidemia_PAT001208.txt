@@ -1,0 +1,57 @@
+Chief Complaint
+
+Annual review with focus on longstanding untreated hyperlipidemia.
+
+Subjective
+
+Bella Dean is a 64-year-old woman presenting for comprehensive annual review. She has a 33-year history of hyperlipidemia that is currently not being actively managed. Recent lipid results show markedly elevated total cholesterol and LDL cholesterol with concomitant hypertriglyceridemia. She denies chest discomfort, exertional or intermittent claudication, dizziness, xanthomas, and xanthelasma.
+
+She has type 2 diabetes mellitus of 18 years’ duration, obesity present for approximately 45 years, and non-alcoholic fatty liver disease for 11 years. Current weight is 115.2 kg at a height of 171 cm, with BMI 39.4 kg/m². She continues to smoke. No medication list, allergy history, family history, or prior lipid-lowering treatment is provided.
+
+Review of systems: Cardiovascular review is negative for chest discomfort. Peripheral vascular review is negative for exertional leg pain or intermittent claudication. Neurologic review is negative for dizziness. Dermatologic review is negative for fatty skin deposits or eyelid deposits. No additional symptoms are reported in the supplied history.
+
+Objective
+
+Vital signs: Blood pressure 127/82 mmHg, pulse 76 beats/min, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 95%.
+
+Height 171 cm. Weight 115.2 kg. BMI 39.4 kg/m².
+
+Laboratory results:
+Total cholesterol 375 mg/dL.
+LDL cholesterol 262 mg/dL.
+HDL cholesterol 47 mg/dL.
+Triglycerides 329 mg/dL.
+
+No xanthomas or xanthelasma are reported. No cardiovascular or neurologic symptoms are reported at this visit. Physical examination findings beyond the supplied vital signs and symptom review are not documented.
+
+Assessment
+
+Severe longstanding hyperlipidemia with a mixed lipid pattern, characterized by LDL cholesterol 262 mg/dL, total cholesterol 375 mg/dL, and triglycerides 329 mg/dL. The LDL level is substantially above the threshold at which pharmacologic treatment is generally indicated regardless of calculated short-term risk. The duration of approximately 33 years raises concern for a possible inherited contribution, although this cannot be established from the available information.
+
+Her overall atherosclerotic cardiovascular risk is markedly increased by age, active tobacco use, longstanding type 2 diabetes mellitus, severe obesity, and the degree and duration of LDL elevation. She currently reports no anginal symptoms, claudication, or dizziness.
+
+Type 2 diabetes mellitus, present for 18 years, increasing cardiovascular risk.
+
+Severe obesity with BMI 39.4 kg/m².
+
+Non-alcoholic fatty liver disease of 11 years’ duration. This is not, by itself, a contraindication to statin therapy, but liver status should be considered when selecting and monitoring treatment.
+
+Tobacco use, ongoing.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and the need for active lipid-lowering therapy. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after review of medication history, contraindications, and baseline liver status. The patient should not be considered adequately treated with lifestyle measures alone given the LDL level and her multiple cardiovascular risk factors.
+
+Recommend repeat fasting lipid panel after treatment initiation and dose stabilization to assess adherence and response. If LDL reduction is inadequate or the treatment target is not achieved, recommend intensification to the maximally tolerated statin dose and consideration of add-on ezetimibe. Referral for specialist lipid evaluation and consideration of a PCSK9 inhibitor may be appropriate if severe LDL elevation persists despite maximally tolerated therapy.
+
+Recommend evaluation for secondary contributors to dyslipidemia, including thyroid dysfunction, glycemic control, renal disease, and medication or dietary contributors. Consider measurement of apolipoprotein B and lipoprotein(a) for risk refinement. Given the longstanding LDL elevation above 190 mg/dL, obtain a detailed family history of premature atherosclerotic cardiovascular disease and consider assessment for an inherited lipid disorder. First-degree relatives may benefit from lipid screening if clinically appropriate.
+
+Counseled regarding a Mediterranean-style eating pattern with reduction of saturated and trans fats, refined carbohydrates, and excess alcohol; increased soluble fiber and unsaturated fats; portion control; and gradual weight reduction. Recommend progressive physical activity as tolerated, with an initial goal of regular moderate-intensity activity and incorporation of resistance exercise when safe.
+
+Strongly advised complete smoking cessation. Offer behavioral counseling and evidence-based pharmacologic cessation support after review of preferences and contraindications.
+
+Continue coordinated management of diabetes, obesity, and non-alcoholic fatty liver disease. Recommend review of diabetes control and current preventive treatment with the primary care or diabetes clinician. Cardiovascular risk reduction should include optimization of blood pressure, glycemic control, weight, tobacco cessation, and lipid therapy.
+
+For preventive care, review age-appropriate cancer screening, immunizations including influenza, COVID-19, pneumococcal, shingles, and Tdap vaccination, osteoporosis risk assessment, and routine diabetic eye, foot, and kidney surveillance according to current guidelines.
+
+Recommend follow-up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, repeat lipid results, and liver-related monitoring. Earlier assessment is advised if chest discomfort, exertional dyspnea, new neurologic symptoms, or exertional leg pain develops.

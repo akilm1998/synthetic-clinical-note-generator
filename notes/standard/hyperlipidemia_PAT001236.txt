@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Caleb Freeman is a 32-year-old male presenting for follow-up of hyperlipidemia, present for approximately 12 years and currently without active lipid-lowering management. He denies chest discomfort, intermittent leg pain with walking, dizziness, xanthomas, or xanthelasma. He does not smoke.
+
+Relevant comorbidities include coronary artery disease diagnosed 1 year ago, hypertension diagnosed 2 years ago, and longstanding obesity for approximately 14 years. Current weight is 109.7 kg with BMI 37.5 kg/m².
+
+Objective
+
+Vital Signs: Blood pressure 133/82 mmHg, pulse 80 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 96%.
+
+Height 171 cm. Weight 109.7 kg. BMI 37.5 kg/m².
+
+Recent lipid panel:
+Total cholesterol 287 mg/dL
+LDL cholesterol 190 mg/dL
+HDL cholesterol 42 mg/dL
+Triglycerides 273 mg/dL
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. Given LDL of 190 mg/dL, young age, obesity, and history of coronary artery disease, cardiovascular risk is significantly elevated. No reported ischemic or peripheral vascular symptoms today. HDL is 42 mg/dL.
+
+Coronary artery disease, diagnosed 1 year ago, without reported chest discomfort or exertional claudication at this visit.
+
+Hypertension, currently measured at 133/82 mmHg.
+
+Obesity with BMI 37.5 kg/m².
+
+Plan
+
+Discussed the importance of active lipid management, particularly in the setting of coronary artery disease and LDL cholesterol of 190 mg/dL. Recommend initiation of high-intensity statin therapy after review of contraindications, potential adverse effects, and patient preferences. If LDL reduction is inadequate or statin therapy is not tolerated, consider addition of nonstatin therapy such as ezetimibe.
+
+Recommend a heart-healthy diet emphasizing reduced saturated and trans fat intake, increased fiber, avoidance of sugar-sweetened foods and beverages, and portion control. Encourage gradual increase in regular physical activity as tolerated and continued weight reduction efforts.
+
+Recommend repeat fasting lipid panel after treatment is initiated to assess response, with consideration of ApoB and lipoprotein(a) testing for further risk assessment. Review for secondary contributors to dyslipidemia as clinically appropriate.
+
+Continue monitoring blood pressure and cardiovascular symptoms. Seek urgent evaluation for new or persistent chest pain, shortness of breath, or exertional symptoms.
+
+Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, and lipid response.

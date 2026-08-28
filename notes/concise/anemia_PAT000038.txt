@@ -1,0 +1,26 @@
+Chief Complaint
+Annual review and follow-up of chronic anemia.
+
+Subjective
+Adrian Wells is a 95-year-old man presenting for comprehensive annual review. He has a 21-year history of anemia in the setting of longstanding inflammatory bowel disease (38 years) and malignancy (34 years). He reports headache and appears pale. He denies fatigue, weakness, dizziness, dyspnea, palpitations, and reduced exercise tolerance. He does not smoke.
+
+Objective
+Height 163 cm; weight 70.1 kg; BMI 26.4 kg/m². BP 135/77 mmHg, pulse 84 bpm, respiratory rate 19/min, temperature 36.9°C, oxygen saturation 98%.
+
+Laboratory results: hemoglobin 9.4 g/dL, hematocrit 27.8%, RBC 3.05 million/µL, MCV 91 fL. Serum iron 23 µg/dL, ferritin 194 ng/mL, TIBC 233 µg/dL, transferrin saturation 9.9%.
+
+Assessment
+1. Chronic normocytic anemia, most consistent with anemia of chronic inflammation in the context of longstanding inflammatory bowel disease and malignancy. Low serum iron and transferrin saturation with ferritin 194 ng/mL support impaired iron availability; concomitant iron deficiency should also be considered. Currently hemodynamically stable without cardiopulmonary symptoms, although headache and pallor are present. The condition has not been actively managed.
+
+2. Inflammatory bowel disease, longstanding. Chronic inflammatory burden may be contributing to anemia; current disease activity is not described.
+
+3. Malignancy, longstanding. Ongoing chronic disease burden may contribute to anemia. No additional oncologic details provided.
+
+4. Preventive health review in a very elderly adult.
+
+Plan
+Obtain updated CBC with reticulocyte count and peripheral smear, renal function, vitamin B12, folate, and inflammatory markers to further characterize the anemia. Review for occult blood loss and assess inflammatory bowel disease and malignancy activity as clinically appropriate. Consider iron replacement, including intravenous iron if oral therapy is ineffective or poorly tolerated, based on overall goals of care and clinician assessment. Consider hematology and relevant specialty input if anemia worsens, symptoms develop, or the etiology remains uncertain.
+
+Continue monitoring for dyspnea, chest discomfort, palpitations, dizziness, worsening headache, or functional decline; seek urgent assessment for significant symptom progression.
+
+Review immunization status, fall-risk prevention, functional status, and individualized age-appropriate preventive care and cancer-related goals during the annual visit.

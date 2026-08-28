@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for hypertension.
+
+Subjective
+
+Ian Lawson is a 90-year-old man seen for routine follow-up of long-standing essential hypertension, present for approximately 43 years and not currently actively managed. He reports intermittent dizziness, palpitations, and fatigue. He denies headache, blurred vision, chest pain, shortness of breath, or epistaxis. No smoking history. Weight is 76.6 kg at 173 cm, with BMI 25.6 kg/m².
+
+He also has hyperlipidemia of approximately 56 years’ duration. No antihypertensive or lipid-lowering medication regimen is provided in the current record.
+
+Objective
+
+Vital signs: Blood pressure 163/96 mmHg, pulse 68 bpm, respiratory rate 20/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Laboratory data: Sodium 146 mmol/L. Potassium 5.1 mmol/L.
+
+Assessment
+
+1. Essential hypertension, long-standing and currently above goal at 163/96 mmHg. The patient has associated dizziness, palpitations, and fatigue but no reported chest pain, dyspnea, visual disturbance, severe headache, or epistaxis to suggest an acute hypertensive emergency. Given his age and dizziness, blood pressure reduction should be gradual with attention to orthostatic symptoms and fall risk.
+
+2. Mild hyperkalemia, potassium 5.1 mmol/L. This is clinically relevant when selecting antihypertensive therapy, particularly agents that may further increase potassium.
+
+3. Hyperlipidemia, longstanding, approximately 56 years’ duration.
+
+Plan
+
+Discussed the significance of persistently elevated blood pressure and the need for active treatment. Recommend confirming blood pressure with repeat seated measurements and, if feasible, home readings; assess for orthostatic change because of reported dizziness. Recommend initiation of a low-dose antihypertensive regimen with cautious titration and close reassessment, taking the potassium level into account. An ACE inhibitor or ARB should not be started without reassessing potassium and renal function.
+
+Recommend repeat serum electrolytes with renal function testing before finalizing therapy and after any medication initiation or dose adjustment. Obtain an ECG to evaluate palpitations and assess for hypertensive cardiac effects. Urinalysis and lipid profile are also appropriate for cardiovascular and renal risk assessment.
+
+Counseled on limiting dietary sodium, maintaining regular activity as tolerated, and avoiding rapid position changes. Reviewed urgent evaluation precautions for severe or new headache, chest pain, shortness of breath, focal neurologic symptoms, marked weakness, or persistent palpitations. Close outpatient follow-up recommended for blood pressure review and treatment adjustment.

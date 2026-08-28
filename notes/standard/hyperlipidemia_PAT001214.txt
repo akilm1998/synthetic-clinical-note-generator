@@ -1,0 +1,30 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Patrick Harper is a 69-year-old man seen for routine follow-up of longstanding hyperlipidemia, present for approximately 30 years and currently without active lipid-lowering management. Recent lipid results remain markedly elevated: total cholesterol 338 mg/dL, LDL cholesterol 252 mg/dL, HDL cholesterol 37 mg/dL, and triglycerides 246 mg/dL.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. He reports fatty deposits involving the skin and eyelids, consistent with xanthomas and xanthelasma. He does not smoke. Relevant comorbidities include chronic kidney disease of approximately 15 years’ duration and non-alcoholic fatty liver disease of approximately 17 years’ duration.
+
+Objective
+Vital signs: blood pressure 139/80 mmHg, pulse 72 bpm, respiratory rate 15/min, temperature 37.0°C, oxygen saturation 98% on room air.
+
+Height 169 cm, weight 83.1 kg, BMI 29.1 kg/m².
+
+Laboratory results: total cholesterol 338 mg/dL, LDL cholesterol 252 mg/dL, HDL cholesterol 37 mg/dL, triglycerides 246 mg/dL.
+
+Xanthomas and xanthelasma reported. No chest discomfort, claudication, or dizziness reported.
+
+Assessment
+Severe longstanding hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, currently not receiving documented lipid-lowering treatment. The presence of xanthomas and xanthelasma supports a prolonged burden of dyslipidemia. His age, low HDL, overweight status, chronic kidney disease, and fatty liver disease further increase cardiovascular risk, although he currently reports no ischemic or claudication symptoms.
+
+Plan
+Discussed the significant cardiovascular risk associated with an LDL cholesterol of 252 mg/dL and the importance of initiating active treatment. Recommend starting a high-intensity statin, such as atorvastatin or rosuvastatin, after reviewing renal and hepatic status and discussing potential adverse effects and patient preferences.
+
+Recommend a fasting lipid panel after treatment initiation to assess response and adherence. If LDL reduction remains inadequate or statin therapy is not tolerated, consider addition of ezetimibe and further risk-based therapy.
+
+Review renal function and liver status before and during treatment given the history of chronic kidney disease and non-alcoholic fatty liver disease. Consider evaluation for secondary contributors to severe dyslipidemia and measurement of additional cardiovascular risk markers such as lipoprotein(a) or apolipoprotein B when clinically appropriate.
+
+Counseled on reducing saturated and trans fats, limiting refined carbohydrates and excess alcohol, increasing dietary fiber, pursuing gradual weight reduction, and engaging in regular physical activity as tolerated. Continue tobacco avoidance. Monitor for new chest discomfort, exertional leg pain, or other cardiovascular symptoms and seek urgent evaluation if these occur.
+
+Return after initiation or adjustment of therapy to review tolerance and repeat lipid results.

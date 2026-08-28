@@ -1,0 +1,69 @@
+Chief Complaint
+
+Routine follow-up of longstanding anemia.
+
+Subjective
+
+Evan Bryant is a 61-year-old man, height 168 cm, weight 74.2 kg, BMI 26.3 kg/m², presenting for outpatient follow-up of anemia present for approximately 14 years. He has not been experiencing fatigue, generalized weakness, reduced exercise tolerance, dizziness, headache, dyspnea, palpitations, or other cardiopulmonary symptoms. He does not report noticing pallor.
+
+His relevant chronic conditions include inflammatory bowel disease of approximately 37 years’ duration and chronic infection of approximately 29 years’ duration, both of which may contribute to chronic inflammatory anemia. He currently smokes. No anemia-directed treatment regimen is documented.
+
+Review of Systems
+
+Constitutional: Negative for fatigue, weakness, and reduced exercise tolerance.
+
+Cardiopulmonary: Negative for shortness of breath, palpitations, and dizziness.
+
+Neurologic: Negative for headache.
+
+Hematologic: No pallor reported.
+
+Objective
+
+Vital Signs: Blood pressure 126/82 mmHg, pulse 85 bpm, respiratory rate 18/min, temperature 37.0°C, oxygen saturation 98%.
+
+General: Patient is clinically stable by vital signs and reports no anemia-related functional limitation.
+
+Cardiovascular: Examination is consistent with a normal cardiovascular examination; pulse is regular at 85 bpm without tachycardia.
+
+Respiratory: Normal respiratory examination with oxygen saturation of 98% on room air.
+
+Skin: No pallor reported or observed.
+
+Laboratory Data:
+Hemoglobin 9.6 g/dL
+Hematocrit 28.6%
+Red blood cell count 3.29 million/µL
+MCV 87 fL
+Serum iron 31 µg/dL
+Ferritin 221 ng/mL
+TIBC 199 µg/dL
+Transferrin saturation 15.6%
+
+Assessment
+
+1. Anemia consistent with chronic disease/chronic inflammation
+
+Longstanding anemia over approximately 14 years, currently clinically compensated and without reported fatigue, dyspnea, dizziness, palpitations, headache, or reduced exercise tolerance. The anemia is normocytic, with hemoglobin 9.6 g/dL, hematocrit 28.6%, and RBC count 3.29 million/µL. Low serum iron and transferrin saturation with reduced TIBC and ferritin of 221 ng/mL are most consistent with iron-restricted erythropoiesis in the setting of chronic inflammation rather than isolated absolute iron deficiency. His longstanding inflammatory bowel disease and chronic infection are important potential drivers. There is no evidence from the supplied vital signs or symptom history of acute hemodynamic compromise.
+
+2. Inflammatory bowel disease
+
+Longstanding disease, approximately 37 years’ duration, representing a significant chronic inflammatory comorbidity and possible contributor to the anemia. Disease activity and any associated blood loss or nutritional deficiency should be reassessed clinically.
+
+3. Chronic infection
+
+Chronic infection of approximately 29 years’ duration may also be contributing to persistent inflammatory anemia. Ongoing inflammatory burden should be considered when interpreting iron indices and determining treatment response.
+
+4. Tobacco use
+
+Patient continues to smoke. Smoking cessation is advisable, particularly in the context of chronic inflammatory disease and long-term cardiopulmonary risk.
+
+Plan
+
+Continue outpatient evaluation and management of the anemia in conjunction with assessment of the underlying inflammatory conditions. Obtain or review a repeat complete blood count with reticulocyte count and peripheral smear to characterize erythropoietic response and confirm stability. Recommended additional evaluation includes vitamin B12, folate, and renal function testing, along with inflammatory markers when clinically appropriate.
+
+The current iron profile supports inflammation-associated iron restriction. Oral or intravenous iron should not be initiated automatically solely on the basis of the low serum iron; the decision should be guided by the overall clinical context, repeat iron indices, inflammatory disease activity, and assessment for ongoing gastrointestinal blood loss or malabsorption. If anemia persists or worsens despite addressing inflammatory drivers, consideration may be given to specialist-directed therapy, including an erythropoiesis-stimulating approach when clinically appropriate.
+
+Reassess control of the inflammatory bowel disease and chronic infection, including whether either condition is currently active and whether treatment optimization is needed. Smoking cessation counseling provided; cessation is encouraged.
+
+Monitor for development of fatigue, weakness, dyspnea, palpitations, dizziness, headache, reduced exercise tolerance, or visible pallor. Arrange follow-up after reassessment of the anemia and underlying inflammatory conditions, with earlier evaluation for new or progressive symptoms.

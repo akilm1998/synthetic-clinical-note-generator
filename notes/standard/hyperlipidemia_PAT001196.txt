@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Noah Hamilton is a 59-year-old man presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 24 years and currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain consistent with claudication, dizziness, xanthomas, or xanthelasma. He continues to smoke. Relevant comorbidities include non-alcoholic fatty liver disease for approximately 24 years and chronic kidney disease for approximately 13 years. No medication regimen is provided.
+
+Objective
+
+Vital signs: Blood pressure 131/87 mmHg, pulse 77 bpm, respiratory rate 14/min, temperature 36.6°C, oxygen saturation 97%.
+
+Height 181 cm; weight 78.3 kg; BMI 23.9 kg/m².
+
+Recent lipid profile:
+Total cholesterol 304 mg/dL
+LDL cholesterol 216 mg/dL
+HDL cholesterol 38 mg/dL
+Triglycerides 249 mg/dL
+
+No clinical evidence of ischemic symptoms or lipid-related cutaneous manifestations is reported.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol, elevated triglycerides, and low HDL cholesterol. The degree and long duration of dyslipidemia confer substantial atherosclerotic cardiovascular risk, further increased by active tobacco use and chronic kidney disease. He is currently not receiving documented lipid-lowering therapy. Non-alcoholic fatty liver disease is also noted and should be considered when selecting and monitoring therapy, although it is not generally a contraindication to statin treatment in the absence of active hepatic injury.
+
+Plan
+
+Discussed the significance of the lipid abnormalities and the importance of cardiovascular risk reduction, including smoking cessation, regular physical activity as tolerated, and a diet emphasizing vegetables, whole grains, legumes, fish, and unsaturated fats while limiting saturated and trans fats, refined carbohydrates, and excess alcohol.
+
+Recommend initiation of guideline-directed lipid-lowering therapy, with a high-intensity statin considered appropriate given the LDL cholesterol of 216 mg/dL and overall risk profile. Review potential benefits, adverse effects, medication interactions, and patient preferences before prescribing. If LDL reduction is inadequate or statin therapy is not tolerated, addition of ezetimibe or other nonstatin therapy may be considered.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider evaluation for secondary contributors to dyslipidemia and review of renal and hepatic function before and during therapy, particularly in the setting of chronic kidney disease and non-alcoholic fatty liver disease. Consider one-time lipoprotein(a) or apolipoprotein B measurement and further cardiovascular risk assessment if clinically useful.
+
+Strongly encouraged complete tobacco cessation; offer evidence-based cessation support at follow-up. Continue monitoring for development of exertional chest discomfort, claudication, or other cardiovascular symptoms and seek urgent care for acute chest pain or equivalent symptoms. Follow up after initiation or adjustment of therapy to review tolerance, adherence, and lipid response.

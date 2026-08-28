@@ -1,0 +1,43 @@
+Chief Complaint
+
+Medication review and follow-up of anemia.
+
+Subjective
+
+Violet Murphy is a 95-year-old woman, 167 cm tall and 59.4 kg (BMI 21.3 kg/m²), seen for outpatient review of anemia management. She has a 2-year history of anemia in the setting of longstanding inflammatory bowel disease, reported duration 65 years. The anemia is currently not under active treatment. No anemia-directed medication regimen is documented for review; therefore, adherence and medication tolerance cannot be assessed today.
+
+She denies fatigue, weakness, dizziness, headache, shortness of breath, palpitations, reduced exercise tolerance, and awareness of pallor. She continues to smoke. No medication-related adverse effects are reported.
+
+Objective
+
+Vital signs: BP 134/77 mmHg, pulse 85 bpm, respiratory rate 21/min, temperature 37.0°C, oxygen saturation 95%.
+
+Laboratory results:
+Hemoglobin 9.3 g/dL
+Hematocrit 28.6%
+RBC count 3.18 million/µL
+MCV 90 fL
+Serum iron 22 µg/dL
+Ferritin 289 ng/mL
+TIBC 221 µg/dL
+Transferrin saturation 10.0%
+
+Assessment
+
+Anemia consistent with chronic inflammation associated with longstanding inflammatory bowel disease. This is a moderate, normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC, a pattern supporting impaired iron availability in chronic inflammation rather than isolated uncomplicated iron deficiency. She is currently asymptomatic and hemodynamically stable, without reported cardiopulmonary symptoms. Her advanced age increases the importance of monitoring for symptomatic decline and treatment complications.
+
+Medication review: No active anemia treatment is documented. There is consequently no current oral or intravenous iron, erythropoiesis-stimulating agent, or other anemia-directed therapy for effectiveness, adherence, or tolerance assessment.
+
+Plan
+
+Discussed the laboratory pattern and likely contribution of chronic inflammatory disease to reduced iron availability.
+
+Recommend coordination with her clinician managing the inflammatory bowel disease to assess current inflammatory activity and whether improved disease control may support correction of the anemia.
+
+Recommend repeat CBC with reticulocyte count and consideration of peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and guide treatment. Iron studies should be followed if iron therapy is considered.
+
+Given the low transferrin saturation despite elevated ferritin, iron replacement may be considered based on clinical assessment and inflammatory bowel disease status. The choice between oral and intravenous iron should account for tolerability, absorption, and disease activity. An erythropoiesis-stimulating agent would not be initiated without an appropriate indication and evaluation for contributing causes, including renal disease.
+
+No medication adherence or tolerance intervention is required today because no active anemia regimen is documented. Review all medications at the next visit and reassess whether anemia-directed treatment has been initiated.
+
+Advise prompt evaluation for new or worsening shortness of breath, chest discomfort, palpitations, dizziness, syncope, bleeding, marked weakness, or reduced functional capacity. Arrange outpatient reassessment after recommended laboratory monitoring.

@@ -1,0 +1,33 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Adrian Wells is a 49-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 8 years and not currently under active treatment. He denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. He has known coronary artery disease, diagnosed approximately 3 years ago. He does not smoke. Current weight is 82.0 kg at 179 cm, with BMI 25.6 kg/m².
+
+Recent lipid results were reviewed: total cholesterol 328 mg/dL, LDL cholesterol 218 mg/dL, HDL cholesterol 34 mg/dL, and triglycerides 379 mg/dL.
+
+Objective
+
+Vital signs: blood pressure 120/79 mmHg, pulse 74 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 97%.
+
+Patient is alert and in no acute distress. No additional examination findings provided.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, along with low HDL cholesterol. Given the LDL level and coexisting coronary artery disease, he is at high risk for recurrent atherosclerotic cardiovascular events. Lipid disorder has been untreated or inadequately addressed for several years.
+
+Coronary artery disease, present for approximately 3 years, currently without reported chest discomfort or other ischemic symptoms.
+
+Plan
+
+Discussed the significance of the lipid abnormalities and the need for prompt, intensive risk-factor management in the setting of coronary artery disease.
+
+Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after medication reconciliation and review of contraindications. If LDL reduction remains inadequate or statin therapy is not tolerated, consider addition of ezetimibe and further lipid-lowering therapy as clinically indicated.
+
+Recommend a heart-healthy dietary pattern emphasizing reduction of saturated and trans fats, refined carbohydrates, and excess dietary cholesterol, with increased soluble fiber, vegetables, legumes, and fish. Encourage regular aerobic activity as tolerated and maintenance of current healthy weight. Continue avoidance of tobacco.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response, with consideration of additional risk assessment such as apolipoprotein B or lipoprotein(a) measurement if it will assist management. Evaluate for secondary contributors to dyslipidemia as clinically appropriate.
+
+Reviewed symptoms requiring urgent evaluation, including new or worsening chest discomfort, dyspnea, diaphoresis, syncope, or exertional symptoms. Follow up after lipid therapy is initiated and repeat testing is completed.

@@ -1,0 +1,29 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Sarah Griffin is a 37-year-old woman presenting for routine follow-up of type 2 diabetes mellitus, diagnosed approximately 4 years ago. She reports no increased thirst, polyuria, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. Diabetes is currently not actively managed. No diabetes medication regimen is documented.
+
+She has a 4-year history of dyslipidemia. She does not smoke.
+
+Objective
+Height 165 cm; weight 74.6 kg; BMI 27.4 kg/m².
+Blood pressure 121/80 mmHg, pulse 68 bpm, respiratory rate 15/min, temperature 36.9°C, oxygen saturation 98%.
+Hemoglobin A1c 9.3%.
+Fasting glucose 201 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without reported complications, currently poorly controlled based on HbA1c 9.3% and fasting glucose 201 mg/dL. She is asymptomatic despite significant hyperglycemia. No neuropathic or infectious symptoms are reported. BMI is in the overweight range.
+
+Dyslipidemia, present for approximately 4 years.
+
+Plan
+Discussed that current glycemic indices are substantially above the usual treatment target and require active management.
+
+Recommend initiation of structured diabetes therapy, including consideration of metformin as first-line pharmacologic treatment if renal function is appropriate. Given the degree of hyperglycemia, consider escalation to combination therapy if adequate improvement is not achieved or if clinically indicated.
+
+Counseled regarding reduction of refined carbohydrates and sugar-sweetened beverages, portion control, weight reduction, and regular aerobic and resistance exercise as tolerated. Encourage home glucose monitoring with review of fasting and postprandial values at follow-up.
+
+Recommend assessment of renal function and urine albumin-to-creatinine ratio before and during therapy, along with a fasting lipid profile for cardiometabolic risk assessment. Recommend routine comprehensive foot examination and dilated retinal examination for diabetes-related complications.
+
+Follow up after initiation of active treatment and review of home glucose data and updated laboratory evaluation.

@@ -1,0 +1,37 @@
+Chief Complaint
+
+Annual review with follow-up of chronic anemia.
+
+Subjective
+
+Kayla Pierce is a 90-year-old woman presenting for comprehensive annual review and reassessment of longstanding anemia, reported for approximately 28 years. She denies fatigue, weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or other current anemia-related symptoms. No pallor is reported.
+
+Relevant chronic conditions include inflammatory bowel disease for 36 years, rheumatoid arthritis for 22 years, and malignancy for 11 years. She does not smoke. No medication regimen is provided for review today.
+
+Objective
+
+Height 163 cm; weight 60.6 kg; BMI 22.8 kg/m².
+
+Blood pressure 136/80 mmHg, pulse 80 bpm, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 98%.
+
+Laboratory results: hemoglobin 9.1 g/dL, hematocrit 28.1%, RBC count 3.12 million/µL, MCV 90 fL, serum iron 25 µg/dL, ferritin 412 ng/mL, TIBC 231 µg/dL, transferrin saturation 10.8%.
+
+Assessment
+
+Chronic normocytic anemia with hemoglobin 9.1 g/dL and hematocrit 28.1%. The low serum iron and transferrin saturation with elevated ferritin and reduced TIBC are most consistent with anemia of chronic inflammation/chronic disease, in the setting of longstanding inflammatory bowel disease, rheumatoid arthritis, and malignancy. The degree of anemia is clinically significant but currently without reported cardiopulmonary or constitutional symptoms. There is no laboratory evidence provided to establish isolated absolute iron deficiency; functional iron restriction remains possible.
+
+The patient is hemodynamically stable at this visit with normal pulse and oxygen saturation. Chronic inflammatory and malignancy-related contributors should be reassessed, along with renal, nutritional, hematologic, and occult blood loss contributors as clinically appropriate.
+
+Annual preventive health review in a 90-year-old should remain individualized to functional status, goals of care, life expectancy, and the burden of her chronic illnesses.
+
+Plan
+
+Recommend repeat CBC with reticulocyte count and peripheral blood smear to confirm stability and characterize marrow response. Recommend renal function testing, vitamin B12, folate, and inflammatory markers as part of evaluation for potentially reversible contributors. Consider reassessment of iron indices and evaluation for gastrointestinal blood loss or active inflammatory bowel disease if clinically indicated.
+
+Review current inflammatory bowel disease, rheumatoid arthritis, and malignancy activity with the physicians managing those conditions, as improved control of chronic inflammation may improve anemia. Hematology consultation should be considered if the anemia worsens, the reticulocyte response is inadequate, other cytopenias develop, or the etiology remains uncertain.
+
+Iron replacement should not be initiated empirically based on ferritin alone; treatment decisions should account for the low transferrin saturation, gastrointestinal disease, inflammatory burden, renal function, and overall goals of care. Erythropoiesis-stimulating therapy or intravenous iron would require specialist-directed assessment and confirmation of an appropriate indication.
+
+No urgent transfusion indication is apparent from the current stable vital signs and absence of symptoms, but urgent reassessment is warranted for new dyspnea, chest discomfort, syncope, palpitations, marked weakness, bleeding, or rapidly worsening exercise tolerance.
+
+Continue individualized annual preventive care, including vaccination review, fall-risk and functional assessment, bone health review, medication reconciliation, and discussion of health-care goals and advance care planning. Follow up after repeat laboratory evaluation or sooner if symptoms develop.

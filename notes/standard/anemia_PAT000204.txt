@@ -1,0 +1,39 @@
+Chief Complaint
+
+Medication review and follow-up of longstanding anemia.
+
+Subjective
+
+Gavin Franklin is a 75-year-old man, nonsmoker, with a 23-year history of anemia in the setting of chronic kidney disease, inflammatory bowel disease for 22 years, and chronic infection for 4 years. He presents for outpatient medication review. He denies fatigue, weakness, dizziness, headache, shortness of breath, palpitations, reduced exercise tolerance, and visible pallor.
+
+No established anemia-directed medication regimen is identified for review today; therefore, treatment effectiveness, adherence, and medication tolerance cannot be meaningfully assessed. He reports no current anemia-related functional limitation.
+
+Objective
+
+Height 167 cm, weight 67.5 kg, BMI 24.2 kg/m².
+
+Blood pressure 132/80 mmHg, pulse 81 bpm, respiratory rate 21/min, temperature 36.9°C, oxygen saturation 97%.
+
+Recent laboratory results:
+Hemoglobin 9.4 g/dL
+Hematocrit 28.8%
+RBC count 3.31 million/µL
+MCV 87 fL
+Serum iron 40 µg/dL
+Ferritin 384 ng/mL
+TIBC 190 µg/dL
+Transferrin saturation 21.1%
+
+Assessment
+
+Longstanding normocytic anemia with hemoglobin 9.4 g/dL and hematocrit 28.8%. The low serum iron with elevated ferritin and reduced TIBC is most consistent with anemia of chronic inflammation/chronic disease rather than isolated absolute iron deficiency. Chronic kidney disease, inflammatory bowel disease, and chronic infection are relevant contributors. He is currently asymptomatic and hemodynamically stable, without tachycardia or hypoxemia.
+
+Plan
+
+Review and reconcile all prescribed, over-the-counter, and supplement medications at the next medication reconciliation, with specific attention to any iron therapy or agents that may affect gastrointestinal blood loss or absorption. If iron supplementation is initiated, assess adherence, gastrointestinal tolerance, and laboratory response rather than treating the ferritin level alone.
+
+Obtain or trend a complete blood count with reticulocyte count and peripheral smear, along with vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and assess reversible contributors. Continue evaluation and management of the underlying chronic kidney disease, inflammatory bowel disease, and chronic infection with the appropriate treating clinicians.
+
+Consider hematology or nephrology-directed anemia therapy, including an erythropoiesis-stimulating agent or intravenous iron, only after review of renal function, inflammatory activity, iron availability, and overall clinical context. No empiric escalation of anemia medication is recommended based on the available information alone.
+
+Follow up after repeat laboratory assessment or sooner for new dyspnea, chest discomfort, palpitations, dizziness, worsening weakness, or reduced exercise tolerance.

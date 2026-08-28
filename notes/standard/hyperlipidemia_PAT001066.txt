@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Rebecca Burke is a 48-year-old woman presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 12 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. She is a nonsmoker.
+
+Relevant comorbidities include coronary artery disease of approximately 3 years’ duration and hypertension of approximately 6 years’ duration. No medication regimen is provided for review today.
+
+Objective
+
+Height 153 cm, weight 69.1 kg, BMI 29.5 kg/m². Blood pressure 139/83 mmHg, pulse 74 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Recent lipid panel shows total cholesterol 306 mg/dL, LDL cholesterol 205 mg/dL, HDL cholesterol 50 mg/dL, and triglycerides 254 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding and not currently under active pharmacologic management. The degree of LDL elevation, in conjunction with known coronary artery disease, places her at substantially increased cardiovascular risk despite the absence of current anginal or claudication symptoms.
+
+Coronary artery disease, longstanding by history, without reported chest discomfort or other ischemic symptoms today.
+
+Hypertension with blood pressure 139/83 mmHg at this visit.
+
+Overweight, with BMI 29.5 kg/m².
+
+Plan
+
+Discussed the significance of the lipid results, particularly LDL cholesterol of 205 mg/dL in the setting of coronary artery disease. Strongly recommend initiation of guideline-directed high-intensity lipid-lowering therapy, such as a high-intensity statin, after review of treatment preferences, contraindications, and potential adverse effects. If LDL reduction remains inadequate or statin therapy is not tolerated, addition of nonstatin therapy such as ezetimibe may be considered.
+
+Recommend a heart-healthy eating pattern emphasizing reduced saturated and trans fats, increased soluble fiber, and limitation of refined carbohydrates and excess dietary sugars given the elevated triglycerides. Encourage regular physical activity as tolerated, weight reduction, and continued tobacco avoidance.
+
+Recommend repeat fasting lipid panel after initiation or adjustment of therapy to assess response. Consider evaluation for secondary contributors to dyslipidemia and measurement of additional cardiovascular risk markers as clinically appropriate. Given known coronary artery disease, continue risk-factor optimization and advise prompt evaluation for new chest discomfort, dyspnea, or exertional leg symptoms.
+
+Continue monitoring blood pressure and address hypertension as part of overall cardiovascular risk reduction. Follow up after treatment initiation and repeat lipid assessment to reassess control and management.

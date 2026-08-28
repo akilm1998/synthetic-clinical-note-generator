@@ -1,0 +1,44 @@
+Chief Complaint
+Routine follow-up for anemia.
+
+Subjective
+Ellie Wood is a 44-year-old woman presenting for routine outpatient follow-up of anemia present for approximately 3 years. She reports no current fatigue, weakness, dizziness, headache, palpitations, shortness of breath, reduced exercise tolerance, or other constitutional symptoms. She does not report noticing pallor. Anemia has not been actively managed to date.
+
+Relevant comorbidities include rheumatoid arthritis for 2 years, heart failure for 1 year, and type 2 diabetes mellitus for 10 years. She does not smoke. Current weight is 66.9 kg and height is 158 cm, with BMI 26.8 kg/m².
+
+Objective
+Vital signs: BP 123/76 mmHg, pulse 92 bpm, respiratory rate 25/min, temperature 36.7°C, oxygen saturation 97%.
+
+Laboratory results:
+Hemoglobin 9.4 g/dL
+Hematocrit 28.5%
+RBC 3.48 million/µL
+MCV 82 fL
+Serum iron 48 µg/dL
+Ferritin 473 ng/mL
+TIBC 218 µg/dL
+Transferrin saturation 22.0%
+
+Assessment
+Anemia, most consistent with anemia of chronic inflammation in the setting of rheumatoid arthritis and other chronic comorbidity. The anemia is normocytic with reduced serum iron and TIBC and elevated ferritin, a pattern supporting impaired iron availability related to inflammation rather than uncomplicated iron deficiency. Hemoglobin is reduced at 9.4 g/dL. She is currently clinically stable and denies anemia-related symptoms, although the respiratory rate is mildly elevated at 25/min with normal oxygen saturation.
+
+Rheumatoid arthritis, chronic, with potential contribution to inflammatory anemia.
+
+Heart failure, diagnosed approximately 1 year ago; clinically stable by available history, without reported dyspnea or exercise intolerance.
+
+Type 2 diabetes mellitus, longstanding, diagnosed approximately 10 years ago.
+
+Overweight by BMI. Nonsmoker.
+
+Plan
+Obtain updated CBC with reticulocyte count and peripheral blood smear to assess persistence and marrow response.
+
+Consider serum vitamin B12, folate, renal function testing, and inflammatory markers as part of the anemia evaluation and to identify additional reversible contributors.
+
+Continue evaluation and management of the underlying inflammatory disease in coordination with the treating clinician, as control of chronic inflammation may improve anemia.
+
+Do not initiate empiric iron supplementation solely on the basis of the low serum iron given the elevated ferritin and low TIBC; reassess iron indices with the repeat evaluation and consider oral or intravenous iron only if subsequent findings support a role for iron replacement.
+
+Review for clinical evidence of bleeding or other contributors at follow-up. Consider hematology consultation if anemia persists, worsens, becomes symptomatic, or remains unexplained after initial evaluation.
+
+Continue routine management of heart failure and diabetes mellitus. Advise prompt assessment for new or worsening dyspnea, chest pain, palpitations, syncope, marked weakness, or reduced exercise tolerance.

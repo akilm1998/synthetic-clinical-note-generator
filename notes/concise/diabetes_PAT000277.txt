@@ -1,0 +1,14 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Sean Palmer is a 48-year-old man with an 18-year history of type 2 diabetes, currently not actively managed. Recent HbA1c is 9.4% and fasting glucose is 223 mg/dL. Denies increased thirst, urinary frequency, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. Reports numbness in the hands or feet without tingling. He smokes. History also includes chronic kidney disease for approximately 1 year and non-alcoholic fatty liver disease for 20 years.
+
+Objective
+Height 163 cm; weight 69.3 kg; BMI 26.1 kg/m². BP 133/83 mmHg, pulse 78 bpm, respirations 16/min, temperature 36.8°C, oxygen saturation 97%. HbA1c 9.4%. Fasting glucose 223 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without complications, currently poorly controlled based on elevated HbA1c and fasting glucose. Intermittent peripheral numbness reported. Chronic kidney disease and non-alcoholic fatty liver disease noted. Tobacco use.
+
+Plan
+Discussed importance of re-engaging in diabetes care, nutrition changes, regular physical activity, home glucose monitoring, and avoidance of tobacco. Review treatment options and initiate an individualized diabetes medication plan after consideration of renal and hepatic comorbidities. Recommend urine albumin-to-creatinine ratio, serum creatinine/eGFR, fasting lipid profile, and routine diabetic foot and eye assessments. Counsel on daily foot checks and prompt evaluation of wounds or progressive sensory symptoms. Follow up after treatment initiation to reassess glucose control.

@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Alice Freeman is a 39-year-old woman presenting for follow-up of hyperlipidemia, present for approximately 3 years and currently without documented lipid-lowering management. She has associated hypertension for 3 years, type 2 diabetes mellitus for 7 years, and obesity for 13 years. Current weight is 92.2 kg at 152 cm, with BMI 39.9 kg/m². She reports ongoing tobacco use.
+
+She denies chest discomfort, exertional leg pain consistent with intermittent claudication, dizziness, xanthomas, and xanthelasma. No interval cardiovascular symptoms are reported. The available lipid profile demonstrates marked elevation of total cholesterol and LDL cholesterol with elevated triglycerides and low HDL cholesterol.
+
+Objective
+
+Vital signs: Blood pressure 135/85 mmHg, pulse 86 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Height 152 cm. Weight 92.2 kg. BMI 39.9 kg/m².
+
+Laboratory results: Total cholesterol 294 mg/dL, LDL cholesterol 190 mg/dL, HDL cholesterol 37 mg/dL, triglycerides 335 mg/dL.
+
+Review of the provided symptom profile is negative for chest discomfort, intermittent claudication, dizziness, xanthomas, and xanthelasma.
+
+Assessment
+
+Hyperlipidemia with severe LDL cholesterol elevation and concomitant hypertriglyceridemia and low HDL cholesterol. The LDL of 190 mg/dL represents a markedly elevated atherogenic cholesterol burden, and the triglyceride level of 335 mg/dL is consistent with a mixed dyslipidemic pattern. Lipid control is currently inadequate in the setting of untreated or otherwise undocumented therapy.
+
+Her overall cardiovascular risk is amplified by type 2 diabetes mellitus, hypertension, obesity, and active tobacco use. She has no reported anginal symptoms, claudication, or dizziness, and no xanthomas or xanthelasma are reported. The degree of LDL elevation warrants pharmacologic treatment independent of short-term risk estimation. Secondary contributors, including glycemic control, dietary factors, thyroid disease, renal disease, hepatic disease, and medication-related causes, should be considered clinically.
+
+Plan
+
+Recommend initiation of high-intensity statin therapy after shared decision-making, with treatment directed toward a substantial reduction in LDL cholesterol. The specific agent and dose should be selected after medication reconciliation and review of contraindications. If LDL reduction is inadequate or statin intolerance develops, addition of ezetimibe and consideration of specialist-directed therapy may be appropriate.
+
+Recommend a fasting lipid panel after treatment initiation or adjustment to assess response and adherence. Consider ApoB and lipoprotein(a) measurement for further atherogenic risk characterization. Coronary artery calcium imaging is not required to justify treatment given the LDL level of 190 mg/dL, but may be discussed selectively if treatment decisions remain uncertain.
+
+Counseled regarding a heart-healthy eating pattern emphasizing reduction of saturated and trans fats, refined carbohydrates, and excess caloric intake; increased soluble fiber and unsaturated fats; weight reduction; and regular physical activity as tolerated. Because triglycerides are significantly elevated, particular attention should be given to limiting added sugars and refined starches and avoiding excess alcohol if applicable.
+
+Strongly advised tobacco cessation and offered discussion of evidence-based cessation support. Blood pressure and diabetes management should be optimized in coordination with her primary care clinician, as both materially affect cardiovascular risk. Continue monitoring for chest discomfort, exertional leg pain, or other symptoms concerning for atherosclerotic cardiovascular disease, with urgent evaluation if such symptoms occur.
+
+Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, and repeat lipid results.

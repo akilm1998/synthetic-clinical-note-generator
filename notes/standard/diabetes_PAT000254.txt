@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+James Carter is a 98-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 24 years ago. Glycemic control is currently suboptimal, with most recent HbA1c 9.3% and fasting glucose 223 mg/dL. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections.
+
+He reports numbness and tingling in the hands and feet. No additional characterization of the sensory symptoms is provided today. He continues to smoke. Relevant comorbidities include dyslipidemia of 9 years’ duration, chronic kidney disease of 52 years’ duration, and anxiety of 13 years’ duration. Current medication use is not documented.
+
+Objective
+
+Vital signs: Blood pressure 143/79 mmHg, pulse 77 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 170 cm; weight 75.1 kg; BMI 26.0 kg/m².
+
+Laboratory results: HbA1c 9.3%. Fasting glucose 223 mg/dL.
+
+No additional physical examination findings are documented.
+
+Assessment
+
+Type 2 diabetes mellitus without documented acute metabolic symptoms; glycemic control is above goal based on HbA1c 9.3% and fasting glucose 223 mg/dL. The absence of polyuria, polydipsia, weight loss, or recurrent infection does not exclude clinically important chronic hyperglycemia. Numbness and tingling of the hands and feet raise concern for peripheral sensory involvement and warrant focused assessment.
+
+Chronic kidney disease, longstanding; renal function data are not provided. This is clinically important for selection and dosing of glucose-lowering therapy.
+
+Dyslipidemia, longstanding.
+
+Anxiety, longstanding.
+
+Active tobacco use.
+
+Plan
+
+Review and reconcile all current medications, including any diabetes therapies, renal-dose adjustments, lipid-lowering treatment, and over-the-counter agents. Given advanced age and chronic kidney disease, treatment intensification should be individualized, prioritizing avoidance of hypoglycemia and excessive treatment burden while addressing the marked hyperglycemia.
+
+Reinforce a practical nutrition plan with attention to portion control, consistent carbohydrate intake, and avoidance of sugar-sweetened beverages. Encourage physical activity appropriate to his functional status and safety.
+
+Recommend assessment of renal function and urinary albumin excretion before selecting or adjusting glucose-lowering therapy, with medication dosing guided by kidney function. Repeat HbA1c after an appropriate interval to assess response.
+
+Perform a focused lower-extremity and foot examination at follow-up, including skin inspection, pulses, and sensory testing. Counsel regarding daily foot inspection, proper footwear, and prompt evaluation of any skin breakdown or nonhealing wound.
+
+Address tobacco cessation using an approach appropriate to his preferences and overall health. Continue monitoring blood pressure and cardiovascular risk factors, including dyslipidemia.
+
+Return for closer diabetes follow-up after medication reconciliation and review of renal status, or sooner for worsening weakness, confusion, vomiting, inability to maintain oral intake, marked urinary frequency, or other acute concerns.

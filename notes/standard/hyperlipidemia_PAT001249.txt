@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Joshua Ward is an 85-year-old man seen for follow-up of longstanding hyperlipidemia, present for approximately 13 years and not currently under active treatment. He denies chest discomfort, dizziness, or exertional leg pain/claudication. He reports fatty skin deposits consistent with xanthomas; no xanthelasma is reported.
+
+He continues to smoke. Comorbidities include coronary artery disease for approximately 7 years, obesity for 16 years, and non-alcoholic fatty liver disease for 23 years. No medication regimen was provided for review.
+
+Objective
+
+Vital signs: Blood pressure 134/76 mmHg, pulse 85 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 96% on room air.
+
+Height 176 cm, weight 99.1 kg, BMI 32.0 kg/m².
+
+Recent lipid panel: total cholesterol 282 mg/dL, LDL cholesterol 194 mg/dL, HDL cholesterol 39 mg/dL, triglycerides 243 mg/dL.
+
+Xanthomas reported. No other examination findings provided.
+
+Assessment
+
+Hyperlipidemia with marked elevation of LDL cholesterol and elevated triglycerides, untreated over a prolonged period. The low HDL and ongoing tobacco use further increase cardiovascular risk. Known coronary artery disease makes aggressive risk-factor modification particularly important. No current anginal or claudication symptoms reported.
+
+Obesity, BMI 32.0 kg/m², contributing to cardiometabolic risk and likely worsening dyslipidemia and fatty liver disease.
+
+Non-alcoholic fatty liver disease, longstanding. Lipid-lowering therapy is not contraindicated solely on the basis of this diagnosis, but liver status should be considered when initiating treatment.
+
+Tobacco use, ongoing.
+
+Plan
+
+Discussed the substantially elevated LDL cholesterol of 194 mg/dL and the importance of lipid lowering in the setting of established coronary artery disease. Recommend shared decision-making regarding initiation of a statin, with consideration of a moderate- to high-intensity regimen appropriate for his age, comorbidities, functional status, and tolerance. Review for prior statin intolerance, potential drug interactions, and patient preferences before prescribing.
+
+Recommend a repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider baseline hepatic and metabolic safety testing as clinically appropriate; no additional laboratory results are available today. If LDL remains above goal despite maximally tolerated statin therapy, addition of ezetimibe may be considered.
+
+Counseled on a heart-healthy diet emphasizing reduced saturated and trans fats, avoidance of excess refined carbohydrates, weight reduction, and regular activity as tolerated. Given triglycerides of 243 mg/dL, focus initially on dietary modification, weight management, and LDL-directed therapy.
+
+Strongly advised smoking cessation and offered cessation support. Reviewed the need to seek urgent care for new or worsening chest discomfort, dyspnea, syncope, or exertional leg symptoms.
+
+Continue management of coronary artery disease, obesity, and non-alcoholic fatty liver disease with coordinated cardiovascular risk reduction. Follow up after lipid reassessment to review response and finalize long-term therapy.

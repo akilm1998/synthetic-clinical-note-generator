@@ -1,0 +1,27 @@
+Chief Complaint
+Initial consultation for chronic kidney disease.
+
+Subjective
+Teresa Cunningham is a 37-year-old woman, height 170 cm, weight 67.6 kg, BMI 23.4 kg/m², presenting for evaluation of chronic kidney disease reportedly present for 11 years. She has a 6-year history of hypertension. She denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, and shortness of breath. Nonsmoker. No current medication regimen is provided.
+
+Objective
+Vital signs: BP 155/94 mmHg, pulse 71 bpm, respirations 15/min, temperature 36.6°C, oxygen saturation 98% on room air.
+
+Laboratory data:
+Creatinine 2.83 mg/dL
+BUN 88 mg/dL
+eGFR 15 mL/min/1.73 m²
+
+Assessment
+Chronic kidney disease with significant reduction in kidney function and marked azotemia, reportedly longstanding for 11 years. Currently without reported uremic or fluid-overload symptoms. Etiology is not established from the available history. Hypertension is above goal and likely contributes to ongoing renal risk.
+
+Plan
+Arrange prompt nephrology consultation for comprehensive CKD evaluation and management, including discussion of renal replacement planning if clinically indicated.
+
+Recommend serum electrolytes, CBC, urine albumin-to-creatinine ratio, intact parathyroid hormone, and renal ultrasound.
+
+Address blood pressure promptly with medication reconciliation and initiation or adjustment of kidney-appropriate antihypertensive therapy; encourage home BP monitoring.
+
+Avoid NSAIDs and other potentially nephrotoxic agents; review all prescription, over-the-counter, and herbal medications before use. Counsel on appropriate hydration, sodium restriction, and prompt evaluation for nausea, vomiting, worsening fatigue, confusion, edema, reduced urine output, or shortness of breath.
+
+Close outpatient follow-up after recommended testing and nephrology evaluation.

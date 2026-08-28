@@ -1,0 +1,14 @@
+Chief Complaint
+Medication review for longstanding hypertension.
+
+Subjective
+Madelyn Stewart is a 91-year-old woman with a 26-year history of essential hypertension, chronic kidney disease for 11 years, hyperlipidemia for 16 years, and type 2 diabetes mellitus for 38 years. She presents for review of blood pressure treatment effectiveness, adherence, and tolerance. Current antihypertensive regimen requires confirmation before assessing response or making adjustments. She reports palpitations but denies headache, dizziness, blurred vision, chest pain, shortness of breath, fatigue, or epistaxis. Nonsmoker.
+
+Objective
+Blood pressure 160/94 mmHg; pulse 71 bpm; respirations 20/min; temperature 36.8°C; oxygen saturation 96%. Height 167 cm, weight 76.7 kg, BMI 27.5 kg/m². Serum sodium 139 mmol/L and potassium 4.7 mmol/L.
+
+Assessment
+Essential hypertension, longstanding, with currently elevated office blood pressure. No symptoms suggestive of hypertensive emergency. Effectiveness, adherence, and tolerance of antihypertensive therapy cannot be determined until the current medication regimen is confirmed. Chronic kidney disease and diabetes mellitus increase the importance of careful blood pressure management. Palpitations without associated chest pain, dyspnea, or syncope.
+
+Plan
+Confirm all current prescription and over-the-counter medications, dosing, adherence, and adverse effects. Recheck blood pressure with proper technique and obtain home readings if feasible. Review sodium intake and medication adherence. If persistent elevation is confirmed, initiate or adjust antihypertensive therapy cautiously given age, chronic kidney disease, and diabetes, with monitoring of renal function and electrolytes. Obtain an ECG for evaluation of palpitations. Seek urgent care for chest pain, severe headache, shortness of breath, neurologic symptoms, or markedly worsening blood pressure.

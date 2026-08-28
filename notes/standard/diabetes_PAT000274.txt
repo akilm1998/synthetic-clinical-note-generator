@@ -1,0 +1,45 @@
+Chief Complaint
+
+Annual review of diabetes and chronic medical conditions.
+
+Subjective
+
+Anna Cook is a 65-year-old woman presenting for comprehensive annual review. She has a 26-year history of type 2 diabetes mellitus and is currently not receiving active disease management. Recent glycemic indices are elevated, with HbA1c 9.8% and fasting glucose 227 mg/dL.
+
+She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. She reports numbness and tingling in the hands and feet. No smoking history; she does not smoke.
+
+Relevant chronic conditions include obesity of 41 years’ duration, non-alcoholic fatty liver disease of 18 years’ duration, and chronic kidney disease of 18 years’ duration. Medication use, allergies, and prior preventive screening history are not documented in the information provided.
+
+Objective
+
+Height 179 cm. Weight 105.1 kg. BMI 32.8 kg/m².
+
+Blood pressure 133/84 mmHg. Pulse 80 bpm. Respiratory rate 17/min. Temperature 36.7°C. Oxygen saturation 96%.
+
+Available laboratory results: HbA1c 9.8%; fasting glucose 227 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented acute complication, currently markedly above glycemic goal based on HbA1c and fasting glucose. The patient is asymptomatic from hyperglycemia but reports distal numbness and tingling in both hands and feet, concerning for possible peripheral neuropathic symptoms. A focused neurologic and foot examination is indicated to further characterize these symptoms.
+
+Obesity, BMI 32.8 kg/m², contributing to insulin resistance and overall cardiometabolic risk.
+
+Chronic kidney disease, longstanding. Current renal function and albuminuria status are not provided; these will be important in selecting and dosing diabetes therapy.
+
+Non-alcoholic fatty liver disease, longstanding, in the setting of obesity and poorly controlled diabetes.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the need for active diabetes treatment. Review current medication history and initiate or intensify glucose-lowering therapy based on renal function, comorbidities, tolerability, cost, and patient preferences. Avoid assuming preserved renal function until creatinine and estimated GFR are reviewed.
+
+Obtain updated serum creatinine/eGFR and urine albumin-to-creatinine ratio to assess kidney involvement and guide medication selection. Obtain a fasting lipid profile and review overall cardiovascular risk. Repeat HbA1c after an appropriate treatment interval to assess response.
+
+Provide individualized counseling regarding carbohydrate quality and portion control, weight reduction, regular physical activity as tolerated, and avoidance of sugar-sweetened beverages. Set realistic, gradual weight-loss goals.
+
+Perform comprehensive diabetic foot examination, including skin inspection, pulses, and monofilament or other sensory testing, given reported numbness and tingling. Counsel on daily foot inspection, appropriate footwear, and prompt evaluation of wounds or infection. Recommend a dilated retinal examination because of longstanding diabetes and suboptimal glycemic control.
+
+Continue monitoring blood pressure and renal status. Review management of non-alcoholic fatty liver disease through weight reduction and improved glycemic control; assess liver-related laboratory monitoring as clinically appropriate.
+
+Review age-appropriate preventive care, including immunizations and recommended breast, colorectal, cervical, and bone health screening based on prior results and screening history. Reinforce avoidance of tobacco; she remains a nonsmoker.
+
+Arrange close outpatient follow-up after laboratory assessment and treatment planning, rather than routine annual follow-up alone, given the degree of hyperglycemia and longstanding diabetes.

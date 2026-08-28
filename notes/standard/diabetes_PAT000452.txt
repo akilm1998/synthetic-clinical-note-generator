@@ -1,0 +1,41 @@
+Chief Complaint
+
+Medication review and follow-up of type 2 diabetes mellitus.
+
+Subjective
+
+Teresa Cunningham is a 56-year-old woman with a 14-year history of type 2 diabetes mellitus, obesity for approximately 12 years, and chronic kidney disease for approximately 9 years. She presents for outpatient review of diabetes treatment effectiveness, adherence, and tolerance.
+
+Current diabetes medication regimen is not listed for reconciliation today, and no medication adverse effects are reported. Glycemic control is currently suboptimal based on recent laboratory results. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. She does not smoke.
+
+Objective
+
+Vital signs: Blood pressure 125/84 mmHg, pulse 76 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 97% on room air.
+
+Height 164 cm; weight 100.6 kg; BMI 37.4 kg/m².
+
+Laboratory results: Hemoglobin A1c 9.9%. Fasting glucose 243 mg/dL.
+
+No additional examination findings are documented today.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, currently poorly controlled based on HbA1c of 9.9% and fasting glucose of 243 mg/dL. She is asymptomatic despite significant hyperglycemia. The current medication regimen, adherence, and treatment tolerance require clarification because no active diabetes medications are listed for review.
+
+Chronic kidney disease, duration approximately 9 years. Renal function parameters are not provided; this is clinically important when selecting and dosing diabetes therapy.
+
+Obesity, BMI 37.4 kg/m², longstanding and contributing to insulin resistance.
+
+Plan
+
+Review and reconcile all prescription, over-the-counter, and supplement use at the next medication contact. Confirm whether she is taking any glucose-lowering therapy, how consistently it is taken, access or cost barriers, and any adverse effects or intolerance. Avoid assuming treatment effectiveness until the active regimen and adherence are confirmed.
+
+Given the degree of hyperglycemia, recommend prompt initiation or intensification of pharmacologic therapy rather than lifestyle treatment alone. Metformin may be considered if renal function permits and if there are no contraindications. Obtain or review serum creatinine and estimated glomerular filtration rate before starting or adjusting metformin or other renally cleared medications. Consider additional glucose-lowering therapy based on renal function, weight goals, treatment preferences, cost, and response.
+
+Recommend nutrition counseling focused on portion control, reduction of refined carbohydrates and sugar-sweetened beverages, and a sustainable calorie-reduced eating pattern. Encourage gradual increase in physical activity as tolerated, with an initial goal of regular walking and avoidance of prolonged inactivity.
+
+Recommend home glucose monitoring with fasting and occasional postprandial readings if a glucose-lowering medication is initiated or adjusted, and review readings at follow-up. Educate regarding symptoms of marked hyperglycemia and hypoglycemia and when to seek urgent care.
+
+Recommend urine albumin-to-creatinine ratio, serum creatinine, and estimated glomerular filtration rate for diabetes and kidney disease management, along with a fasting lipid profile as clinically appropriate. Continue routine diabetes complication surveillance, including foot assessment and retinal evaluation.
+
+Follow up promptly after medication reconciliation and review of renal function to finalize therapy, with repeat HbA1c assessment after an appropriate treatment interval.

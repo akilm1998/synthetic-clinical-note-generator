@@ -1,0 +1,73 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia and review of lipid results.
+
+History of Present Illness
+
+Derek Black is a 44-year-old man presenting for outpatient follow-up of longstanding hyperlipidemia, present for approximately 12 years and currently without active lipid-lowering management. Recent lipid testing shows total cholesterol 352 mg/dL, LDL cholesterol 259 mg/dL, HDL cholesterol 42 mg/dL, and triglycerides 255 mg/dL. These values represent marked elevation of atherogenic cholesterol with concomitant hypertriglyceridemia.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. He reports no xanthomas or xanthelasma. There is no reported lipid-related symptom progression since the prior assessment.
+
+Relevant cardiovascular risk factors include active tobacco smoking, type 2 diabetes mellitus for approximately 8 years, overweight status with BMI 27.2 kg/m², and severe untreated lipid elevation. No medication regimen is provided for review today.
+
+Review of Systems
+
+Constitutional: No concerns reported today.
+
+Cardiovascular: Denies chest discomfort.
+
+Peripheral vascular: Denies intermittent claudication or leg pain with walking.
+
+Neurologic: Denies dizziness.
+
+Skin: Denies xanthomas or xanthelasma.
+
+Objective
+
+Vital Signs: Blood pressure 120/81 mmHg, pulse 74 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 97%.
+
+Height 187 cm. Weight 95.1 kg. BMI 27.2 kg/m².
+
+Laboratory Results:
+Total cholesterol: 352 mg/dL
+LDL cholesterol: 259 mg/dL
+HDL cholesterol: 42 mg/dL
+Triglycerides: 255 mg/dL
+
+Assessment
+
+1. Hyperlipidemia, unspecified
+
+Severe, currently untreated dyslipidemia with LDL cholesterol 259 mg/dL and total cholesterol 352 mg/dL. Triglycerides are also elevated at 255 mg/dL, while HDL cholesterol is 42 mg/dL. The degree and longstanding nature of LDL elevation substantially increase lifetime atherosclerotic cardiovascular risk, even in the absence of current chest discomfort, claudication, or dizziness. Given the LDL level above 190 mg/dL, treatment is indicated independent of short-term risk calculation. The severity also warrants assessment for secondary contributors and consideration of a possible inherited lipid disorder, without assigning a specific diagnosis at this visit.
+
+2. Type 2 diabetes mellitus, approximately 8-year duration
+
+Diabetes is an important additional cardiovascular risk factor in the setting of markedly elevated LDL cholesterol. No diabetes medications or glycemic laboratory results are provided for review today.
+
+3. Tobacco use
+
+Active smoking further increases cardiovascular risk and compounds the risk associated with diabetes and severe hyperlipidemia.
+
+4. Overweight
+
+BMI is 27.2 kg/m². Weight reduction, dietary modification, and regular physical activity may improve overall cardiometabolic risk and triglyceride levels.
+
+Plan
+
+1. Discussed the lipid results in detail, including the marked elevation in LDL cholesterol and the associated long-term cardiovascular risk. Strongly recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after shared decision-making and medication reconciliation. He should not begin or stop prescription therapy without confirming the regimen with his treating clinician.
+
+2. Recommend a repeat fasting lipid panel after treatment initiation or adjustment to assess response and adherence. Consider assessment for secondary causes of severe dyslipidemia, including thyroid, renal, hepatic, and glycemic contributors, using clinically appropriate laboratory testing. ApoB and lipoprotein(a) may be considered for additional risk characterization. Coronary artery calcium scanning is not required to establish the need for lipid-lowering therapy at this LDL level.
+
+3. Counsel on a heart-healthy eating pattern emphasizing vegetables, fruits, legumes, whole grains, fish, and unsaturated fats, with reduction of saturated fats, trans fats, processed foods, and excess refined carbohydrates. Limit alcohol if applicable, particularly given the elevated triglycerides.
+
+4. Encourage regular aerobic and resistance exercise as tolerated, with a goal of at least 150 minutes of moderate activity weekly and gradual weight reduction if feasible.
+
+5. Strongly advise smoking cessation. Discussed that stopping tobacco is one of the most important modifiable measures for reducing cardiovascular risk. Medication and behavioral cessation support can be offered based on his preferences.
+
+6. Continue diabetes follow-up with attention to glycemic control and comprehensive cardiovascular risk reduction. Coordination of lipid and diabetes management is recommended.
+
+7. Review for development of chest discomfort, exertional leg pain, neurologic symptoms, or other possible vascular symptoms. Seek urgent evaluation for new chest pain, shortness of breath, focal neurologic deficits, or other acute concerning symptoms.
+
+Follow-up
+
+Follow up after lipid-lowering therapy is initiated or adjusted to review tolerance, adherence, repeat lipid results, and ongoing cardiovascular risk reduction.

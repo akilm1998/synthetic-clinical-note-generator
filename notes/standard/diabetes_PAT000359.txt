@@ -1,0 +1,39 @@
+Chief Complaint
+
+Medication review and follow-up of type 2 diabetes mellitus.
+
+Subjective
+
+Gavin Holland is a 53-year-old male presenting for outpatient review of diabetes treatment effectiveness, adherence, and tolerance. Type 2 diabetes was diagnosed approximately 1 year ago and is not currently under active management. No established diabetes medication regimen is identified for review today; therefore, medication adherence and treatment tolerance cannot be meaningfully assessed against a current regimen.
+
+He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. No smoking history. Comorbid anxiety has been present for approximately 22 years.
+
+Objective
+
+Height 185 cm; weight 73.6 kg; BMI 21.5 kg/m².
+
+Blood pressure 122/80 mmHg, pulse 68 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 99%.
+
+Hemoglobin A1c 9.2%. Fasting glucose 214 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, diagnosed approximately 1 year ago, currently inadequately controlled based on HbA1c 9.2% and fasting glucose 214 mg/dL. Despite significant hyperglycemia, he reports no classic hyperglycemic symptoms, constitutional symptoms, neuropathic symptoms, or evidence of recurrent infection. He has a normal BMI of 21.5 kg/m², so management should focus on confirming the treatment history and evaluating for factors contributing to poor glycemic control rather than assuming obesity-related disease.
+
+No current diabetes medication regimen is available for effectiveness or tolerability review. There is no reported clinical evidence of neuropathy, wound complication, or other diabetes-related complication at this encounter.
+
+Anxiety, longstanding, approximately 22 years; relevant to medication counseling, adherence, and lifestyle planning.
+
+Plan
+
+Discussed that the current HbA1c and fasting glucose indicate persistent hyperglycemia requiring active treatment and close follow-up, even in the absence of symptoms.
+
+Perform a complete medication reconciliation and clarify any prior or current use of diabetes therapies, including adherence, barriers to use, adverse effects, and patient preferences. If not contraindicated after review of renal function and other relevant factors, initiate evidence-based pharmacologic therapy, commonly metformin, with gradual dose escalation as tolerated. If glycemic response remains inadequate or if initial therapy is unsuitable, consider addition of another agent based on comorbidities, renal function, cost, and treatment preferences.
+
+Recommend diabetes self-management education, nutrition counseling focused on consistent carbohydrate intake, and regular physical activity as tolerated. Review home glucose monitoring technique and establish individualized glucose targets.
+
+Recommend assessment of serum creatinine/eGFR, urine albumin-to-creatinine ratio, and fasting lipid profile to evaluate diabetes-related risk and guide medication selection and cardiovascular risk reduction. Recommend routine retinal evaluation and comprehensive foot examination, including sensation and pulses, as part of diabetes complication screening.
+
+Counseled regarding symptoms requiring prompt medical attention, including marked thirst or urination, vomiting, abdominal pain, confusion, severe weakness, or inability to maintain hydration.
+
+Follow up after medication reconciliation and initiation or adjustment of therapy, with repeat glycemic assessment in approximately 3 months. Continue to consider the impact of longstanding anxiety on adherence and self-management.

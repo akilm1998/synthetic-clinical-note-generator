@@ -1,0 +1,18 @@
+Chief Complaint
+Initial evaluation of hypertension.
+
+Subjective
+Hunter Ford is a 61-year-old man presenting for initial outpatient consultation regarding a 6-year history of hypertension that has not been under active treatment. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis. History is also notable for coronary artery disease diagnosed approximately 1 year ago. He currently smokes. No antihypertensive medication regimen is reported.
+
+Objective
+Blood pressure 164/91 mmHg, pulse 77 bpm, respiratory rate 16/min, temperature 36.6°C, oxygen saturation 96% on room air. Height 184 cm, weight 90.7 kg, BMI 26.8 kg/m². Serum sodium 144 mmol/L and potassium 3.6 mmol/L. No acute cardiopulmonary or neurologic symptoms reported today.
+
+Assessment
+Essential hypertension, persistently elevated and untreated, without reported symptoms suggestive of acute end-organ injury. Coronary artery disease is an important cardiovascular comorbidity. Current tobacco use. BMI 26.8 kg/m².
+
+Plan
+Discussed cardiovascular risks of untreated hypertension, particularly in the setting of coronary artery disease. Recommend initiation of antihypertensive therapy after medication review and shared decision-making, with selection guided by coronary disease history and assessment of renal function. Recommend home blood pressure monitoring and maintenance of a written log.
+
+Obtain baseline renal function, urinalysis, lipid profile, and ECG as appropriate for cardiovascular risk assessment and treatment planning. Counsel on reducing dietary sodium, regular physical activity as tolerated, weight maintenance, limiting alcohol, and smoking cessation.
+
+Seek urgent care for chest pain, new shortness of breath, neurologic deficits, severe headache, or markedly worsening blood pressure. Follow up in 2–4 weeks for blood pressure reassessment and treatment adjustment.

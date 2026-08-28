@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Julia Holland is a 48-year-old woman presenting for routine follow-up of hyperlipidemia, present for approximately 16 years and currently without active lipid-lowering management. She denies chest discomfort, intermittent claudication, dizziness, xanthomas, or xanthelasma. She does not smoke.
+
+Relevant comorbidities include hypertension for 15 years, non-alcoholic fatty liver disease for 4 years, and coronary artery disease diagnosed approximately 1 year ago. No medication regimen was provided for review.
+
+Objective
+
+Height 159 cm; weight 70.3 kg; BMI 27.8 kg/m².
+
+Blood pressure 139/87 mmHg, pulse 78 bpm, respiratory rate 16/min, temperature 36.6°C, oxygen saturation 99% on room air.
+
+Lipid profile: total cholesterol 301 mg/dL, LDL-C 192 mg/dL, HDL-C 46 mg/dL, triglycerides 316 mg/dL.
+
+Assessment
+
+Hyperlipidemia with marked elevation of LDL-C and moderate hypertriglyceridemia. The lipid profile is substantially above goal, particularly in the setting of established coronary artery disease, hypertension, overweight status, and fatty liver disease. She is currently asymptomatic from a cardiovascular standpoint, without reported claudication or cutaneous lipid deposits.
+
+Coronary artery disease, diagnosed approximately 1 year ago, increases her cardiovascular risk and supports management as a secondary-prevention patient.
+
+Hypertension with mildly elevated office blood pressure today.
+
+Non-alcoholic fatty liver disease. This is relevant to lipid management but is not, by itself, a contraindication to statin therapy.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL-C and triglycerides and the need for prompt, sustained lipid-lowering therapy in the context of coronary artery disease. Recommend initiation of guideline-directed high-intensity statin therapy, with treatment selection and dosing finalized after medication reconciliation and shared decision-making. If LDL-C remains above goal despite maximally tolerated statin therapy, recommend consideration of adjunctive ezetimibe and further lipid-specialist-directed therapy as appropriate.
+
+Recommend a heart-healthy, Mediterranean-style eating pattern emphasizing vegetables, whole grains, legumes, fish, and unsaturated fats while reducing saturated fats, trans fats, refined carbohydrates, and alcohol. Encourage gradual weight reduction and regular aerobic physical activity as tolerated.
+
+Recommend a fasting lipid panel after therapy is initiated or adjusted to assess response, with consideration of ApoB and lipoprotein(a) measurement for further risk characterization. Recommend monitoring hepatic safety clinically in view of non-alcoholic fatty liver disease.
+
+Continue cardiovascular risk-factor management, including blood pressure control and avoidance of tobacco exposure. Reviewed the importance of seeking urgent evaluation for new or worsening chest discomfort, dyspnea, or exertional leg symptoms.
+
+Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, and repeat lipid results.

@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia and cardiovascular risk assessment.
+
+Subjective
+
+Caleb Freeman is a 46-year-old man presenting for follow-up of hyperlipidemia, present for approximately 4 years and not currently under active lipid-lowering management. Recent lipid results show total cholesterol 322 mg/dL, LDL cholesterol 222 mg/dL, HDL cholesterol 34 mg/dL, and triglycerides 331 mg/dL.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He continues to smoke. Relevant comorbidities include type 2 diabetes mellitus for 14 years, chronic kidney disease for 5 years, and coronary artery disease diagnosed approximately 1 year ago. He has no reported obesity; current BMI is 22.8 kg/m².
+
+Medication use, allergies, dietary pattern, exercise pattern, and family history were not provided for review today.
+
+Objective
+
+Vital Signs: Blood pressure 133/89 mmHg, pulse 81 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Anthropometrics: Height 173 cm, weight 68.2 kg, BMI 22.8 kg/m².
+
+Laboratory Data:
+Total cholesterol: 322 mg/dL
+LDL cholesterol: 222 mg/dL
+HDL cholesterol: 34 mg/dL
+Triglycerides: 331 mg/dL
+
+Review of systems is negative for chest discomfort, intermittent claudication, dizziness, xanthomas, and xanthelasma. No lipid-associated cutaneous symptoms are reported.
+
+Assessment
+
+Hyperlipidemia with marked elevation of LDL cholesterol and concomitant hypertriglyceridemia and low HDL cholesterol. The current lipid profile represents severe atherogenic dyslipidemia. His cardiovascular risk is particularly high in the setting of established coronary artery disease, longstanding type 2 diabetes mellitus, chronic kidney disease, and active tobacco use. The absence of current chest discomfort or claudication does not lessen the need for aggressive secondary prevention.
+
+There are no reported xanthomas or xanthelasma. No lipid-related neurologic or peripheral vascular symptoms are reported.
+
+Plan
+
+Discussed the significance of the current lipid profile and the need for active lipid-lowering therapy as part of secondary prevention in the setting of coronary artery disease. A high-intensity statin should be initiated or confirmed after medication reconciliation and assessment of prior tolerance. If LDL cholesterol remains above the individualized secondary-prevention goal despite maximally tolerated statin therapy, addition of ezetimibe and, if needed, consideration of a PCSK9 inhibitor would be appropriate.
+
+Recommend repeat fasting lipid panel after initiation or adjustment of therapy to assess response, along with appropriate safety monitoring. Consider measurement of apolipoprotein B and lipoprotein(a) for further risk characterization. Evaluation for secondary contributors to the mixed dyslipidemia should include review of glycemic control, renal disease status, diet, alcohol exposure, and other relevant metabolic factors.
+
+Counseled regarding a Mediterranean-style eating pattern with reduction of saturated and trans fats, refined carbohydrates, and excess dietary sugars; increased soluble fiber; and regular aerobic and resistance activity as tolerated. Smoking cessation was strongly advised given established coronary artery disease and the additional risk associated with diabetes, chronic kidney disease, and low HDL cholesterol.
+
+Continue coordinated management of coronary artery disease, diabetes mellitus, and chronic kidney disease. Advise urgent evaluation for new or persistent chest discomfort, dyspnea, syncope, or exertional leg pain. Follow up after medication reconciliation and repeat lipid assessment to review treatment response and intensify therapy as indicated.

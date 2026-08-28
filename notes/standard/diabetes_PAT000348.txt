@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Ashton Murray is a 92-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 15 years ago. Current diabetes control is poor, with recent HbA1c of 9.7% and fasting glucose of 222 mg/dL. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. He reports tingling in the hands or feet. No medication regimen was provided for review.
+
+Relevant comorbidities include chronic kidney disease reported for 52 years, obstructive sleep apnea reported for 36 years, and obesity for 41 years. He continues to smoke. Weight is 110.5 kg with BMI 32.3 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 146/86 mmHg, pulse 80 bpm, respiratory rate 22/min, temperature 36.8°C, oxygen saturation 95%.
+
+Height 185 cm; weight 110.5 kg; BMI 32.3 kg/m².
+
+Available laboratory results: HbA1c 9.7%. Fasting glucose 222 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, currently inadequately controlled based on HbA1c and fasting glucose. He has no reported osmotic or constitutional symptoms, wounds, or visual complaints. Tingling of the hands or feet is concerning for possible early peripheral neuropathic symptoms, although no established diabetic complication is documented.
+
+Obesity, BMI 32.3 kg/m².
+
+Chronic kidney disease, longstanding by history; renal function should be considered carefully when selecting and dosing diabetes therapy.
+
+Obstructive sleep apnea, longstanding by history.
+
+Tobacco use.
+
+Blood pressure is elevated today at 146/86 mmHg and warrants continued monitoring, particularly in the setting of diabetes and chronic kidney disease.
+
+Plan
+
+Discussed that current glycemic control is above goal and that treatment needs to be actively addressed. Review and reconcile all current medications at the next medication-focused visit; initiate or adjust glucose-lowering therapy based on renal function, overall goals of care, hypoglycemia risk, and the patient’s advanced age. Avoid overly aggressive glucose lowering and prioritize prevention of symptomatic hyperglycemia and hypoglycemia.
+
+Recommend dietary counseling focused on reducing concentrated carbohydrates and portion sizes, maintaining regular balanced meals, and gradual activity as safely tolerated. Encourage weight reduction appropriate to functional status.
+
+Obtain or review serum creatinine with estimated glomerular filtration rate and urine albumin-to-creatinine ratio before selecting or adjusting therapy. Recommend fasting lipid profile and continued periodic HbA1c monitoring to assess response.
+
+Perform routine diabetic foot assessment, with particular attention to sensation and skin integrity given reported tingling. Recommend a dilated eye examination and reinforce prompt evaluation for new visual changes or nonhealing wounds.
+
+Counseled regarding smoking cessation and avoidance of tobacco. Continue monitoring blood pressure; reassess at follow-up and consider management in the context of chronic kidney disease and individualized goals.
+
+Follow up after medication and renal function review to update the diabetes treatment plan, sooner for marked thirst, frequent urination, weakness, confusion, symptomatic hypoglycemia, or other acute concerns.

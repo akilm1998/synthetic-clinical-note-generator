@@ -1,0 +1,35 @@
+Chief Complaint
+
+Annual review and follow-up of anemia.
+
+Subjective
+
+Pamela Donovan is a 76-year-old woman presenting for comprehensive annual review. She has a 3-year history of anemia in the setting of a chronic infection present for approximately 14 years. She reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other anemia-related symptoms. She does not smoke.
+
+The anemia has not previously been actively managed. No current medications, allergies, or additional medical history were provided for review.
+
+Objective
+
+Height 156 cm, weight 56.7 kg, BMI 23.3 kg/m².
+
+Blood pressure 132/81 mmHg, pulse 76 bpm, respiratory rate 21/min, temperature 36.7°C, oxygen saturation 98%.
+
+Recent laboratory results: hemoglobin 9.2 g/dL, hematocrit 27.9%, RBC count 3.28 million/µL, MCV 85 fL, serum iron 34 µg/dL, ferritin 166 ng/mL, TIBC 267 µg/dL, and transferrin saturation 12.7%.
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation in the setting of longstanding chronic infection. The anemia is moderate by hemoglobin level, normocytic, with low serum iron and transferrin saturation and a ferritin that is not low, supporting impaired iron availability associated with chronic inflammation rather than uncomplicated iron deficiency. She is currently asymptomatic and hemodynamically stable based on the provided vital signs.
+
+Chronic infection, longstanding, requiring continued clinical monitoring and review of current disease control.
+
+Preventive health and chronic disease review completed as part of annual visit.
+
+Plan
+
+Obtain follow-up CBC with differential, reticulocyte count, and peripheral smear to assess persistence and marrow response. Repeat iron studies as clinically indicated and check vitamin B12, folate, renal function, and inflammatory markers to evaluate other potentially contributing factors. Review for evidence of blood loss, nutritional deficiency, or worsening chronic infection, including gastrointestinal blood loss if clinically indicated.
+
+Discuss results and anemia management with the clinician managing the chronic infection, with emphasis on improving control of the underlying inflammatory condition. Consider oral or intravenous iron only after clinical review of the iron studies and underlying cause; avoid assuming benefit from iron supplementation when ferritin is preserved. Erythropoiesis-stimulating therapy is not indicated without further evaluation and a clear underlying indication.
+
+Arrange outpatient reassessment after repeat testing, sooner for new fatigue, weakness, dizziness, exertional breathlessness, chest discomfort, palpitations, bleeding, or rapidly declining functional status.
+
+Continue routine age-appropriate preventive care, including review of immunizations, cancer screening status, fall-risk and bone-health assessment, nutrition, physical activity, and advance care planning at future visits.

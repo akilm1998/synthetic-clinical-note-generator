@@ -1,0 +1,20 @@
+Chief Complaint
+Routine follow-up for chronic kidney disease.
+
+Subjective
+Patrick Bell is a 48-year-old man with approximately 5 years of chronic kidney disease, type 2 diabetes mellitus for 14 years, and coronary artery disease for 3 years. He reports no current fatigue, pruritus, muscle cramps, nausea, edema, change in urination, sleep disturbance, or shortness of breath. He does not smoke. CKD is not currently under active management.
+
+Objective
+Height 167 cm; weight 74.7 kg; BMI 26.8 kg/m².
+BP 137/88 mmHg, pulse 79 bpm, respirations 16/min, temperature 36.9°C, SpO2 97%.
+Recent creatinine 4.5 mg/dL, BUN 81 mg/dL, eGFR 11 mL/min/1.73 m².
+
+Assessment
+Chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine. Currently without reported uremic or fluid-overload symptoms. Major risk factors include longstanding type 2 diabetes and coronary artery disease. Requires prompt renal evaluation and active management.
+
+Plan
+Arrange urgent nephrology referral for comprehensive CKD evaluation and discussion of renal replacement planning as clinically indicated.
+Obtain updated serum electrolytes, CBC, urine albumin-to-creatinine ratio, and renal ultrasound as part of evaluation.
+Review diabetes and blood pressure control; avoid NSAIDs and other potential nephrotoxins.
+Educated regarding urgent evaluation for new shortness of breath, edema, markedly decreased urination, persistent vomiting, confusion, or chest pain.
+Follow up promptly after nephrology evaluation and repeat laboratory testing.

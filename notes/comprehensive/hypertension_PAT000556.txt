@@ -1,0 +1,59 @@
+Chief Complaint
+
+Routine follow-up for hypertension.
+
+Subjective
+
+Owen Myers is a 79-year-old man presenting for routine outpatient follow-up of longstanding hypertension, present for approximately 34 years. His hypertension has not been actively managed recently. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, and epistaxis. He has no current symptoms suggestive of hypertensive emergency.
+
+He has a history of coronary artery disease for approximately 28 years and hyperlipidemia for approximately 30 years. He continues to smoke. Current weight is 87.7 kg at a height of 183 cm, with BMI 26.2 kg/m². No current antihypertensive or lipid-lowering medication regimen is provided for review.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Eyes: Denies blurred vision.
+
+Cardiovascular: Denies chest pain and palpitations.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Denies headache and dizziness.
+
+鼻/ENT: Denies epistaxis.
+
+Objective
+
+Vital Signs: Blood pressure 157/92 mmHg. Pulse 77 bpm. Respiratory rate 20/min. Temperature 36.7°C. Oxygen saturation 97%.
+
+Height 183 cm. Weight 87.7 kg. BMI 26.2 kg/m².
+
+Laboratory Data: Serum sodium 136 mmol/L. Serum potassium 4.1 mmol/L.
+
+Physical Examination: Patient is clinically asymptomatic by history at today’s visit. Cardiopulmonary and neurologic examination findings are not otherwise documented in the supplied encounter data.
+
+Assessment
+
+Essential hypertension, longstanding for approximately 34 years, with currently elevated office blood pressure of 157/92 mmHg and no reported symptoms of acute end-organ injury. Given the prolonged history, current lack of active management, advanced age, and established coronary artery disease, blood pressure control requires prompt outpatient reassessment and treatment planning while avoiding excessive or overly rapid lowering.
+
+Coronary artery disease, longstanding. He denies current chest pain, dyspnea, or palpitations. Hypertension and ongoing tobacco use increase cardiovascular risk.
+
+Hyperlipidemia, longstanding for approximately 30 years. No lipid values or current lipid-lowering therapy are provided.
+
+Current tobacco use, an important modifiable cardiovascular risk factor.
+
+Serum electrolytes are within an acceptable range, with sodium 136 mmol/L and potassium 4.1 mmol/L.
+
+Plan
+
+Discussed the significance of the persistently elevated blood pressure and the increased cardiovascular risk associated with longstanding hypertension, coronary artery disease, hyperlipidemia, and continued smoking. Recommend confirming the blood pressure pattern with properly performed repeat office measurements and home blood pressure monitoring, including a written log of readings, pulse, and symptoms.
+
+Recommend prompt initiation or re-initiation of an individualized antihypertensive regimen through the treating clinician, with consideration of age, coronary artery disease, orthostatic symptoms, renal function, and overall tolerance. Medication selection and dosing should be reviewed carefully before treatment is started or adjusted. Reassess blood pressure and treatment response shortly after therapy is initiated or modified.
+
+Recommend evaluation for hypertension-related cardiovascular and renal effects, including an ECG, urinalysis, renal function assessment, and repeat serum electrolytes as clinically appropriate. Recommend lipid profile assessment and review of cardiovascular risk-reduction therapy in the setting of established coronary artery disease and longstanding hyperlipidemia.
+
+Counseled regarding smoking cessation and avoidance of excess dietary sodium. Encourage a heart-healthy eating pattern, regular activity appropriate to functional status, moderation of alcohol if used, and maintenance of current healthy weight.
+
+Continue monitoring for chest pain, shortness of breath, new neurologic symptoms, severe headache, visual changes, or markedly elevated blood pressure. Seek emergency care for such symptoms or other evidence of acute cardiovascular or neurologic deterioration.
+
+Follow up in the near term for blood pressure review, medication planning, and reassessment of cardiovascular risk.

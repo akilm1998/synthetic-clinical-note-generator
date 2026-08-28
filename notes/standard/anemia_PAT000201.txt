@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia; intermittent headache.
+
+Subjective
+
+Nora Kelly is a 52-year-old woman presenting for routine follow-up of anemia present for approximately 7 years. She reports headache but denies fatigue, generalized weakness, dizziness, dyspnea, palpitations, reduced exercise tolerance, or subjective pallor. She has not been receiving active anemia-directed management.
+
+Her history is notable for inflammatory bowel disease of approximately 30 years’ duration and rheumatoid arthritis for 8 years, both relevant chronic inflammatory conditions. She currently smokes. No medication regimen is provided for review.
+
+Objective
+
+Height 173 cm; weight 71.8 kg; BMI 24.0 kg/m².
+
+Blood pressure 126/77 mmHg, pulse 79 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 97% on room air.
+
+Laboratory data show hemoglobin 8.8 g/dL, hematocrit 27.2%, RBC count 3.36 million/µL, and MCV 81 fL. Serum iron is low at 21 µg/dL, with ferritin 371 ng/mL, TIBC 267 µg/dL, and transferrin saturation 7.9%.
+
+Assessment
+
+Chronic anemia consistent with anemia of chronic inflammation in the setting of longstanding inflammatory bowel disease and rheumatoid arthritis. The anemia is clinically significant but currently without reported cardiopulmonary or exertional symptoms and with stable vital signs. The low serum iron and markedly reduced transferrin saturation with elevated ferritin and relatively low TIBC support inflammation-associated iron restriction; concomitant absolute iron deficiency cannot be excluded, particularly given the history of inflammatory bowel disease. MCV is at the lower end of normal. Headache may be associated with anemia but is nonspecific.
+
+Plan
+
+Obtain a repeat CBC with reticulocyte count and peripheral blood smear to reassess severity and marrow response. Recommend vitamin B12, folate, renal function testing, and inflammatory markers as part of the anemia evaluation.
+
+Recommend assessment of inflammatory bowel disease and rheumatoid arthritis activity, as improved control of the underlying inflammatory conditions is central to management of anemia of inflammation. Review for potential gastrointestinal blood loss and malabsorption in the context of inflammatory bowel disease.
+
+Discuss iron replacement based on the complete evaluation and clinical activity of the bowel disease; intravenous iron may be appropriate if oral iron is poorly tolerated, ineffective, or malabsorption is suspected. Consider hematology consultation if anemia persists, worsens, or remains unexplained. Erythropoiesis-stimulating therapy would require individualized consideration after evaluation of the underlying causes and renal function.
+
+Counseled regarding smoking cessation. Seek urgent evaluation for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, or marked weakness. Follow up after repeat laboratory assessment to update treatment planning.

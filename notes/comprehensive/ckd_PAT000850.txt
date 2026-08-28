@@ -1,0 +1,99 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Victor Pierce is an 84-year-old man, 170 cm tall and 65 kg, with a BMI of 22.5 kg/m², presenting for outpatient follow-up of chronic kidney disease present for approximately 34 years. His renal disease has not been under active management. He reports persistent fatigue. He denies pruritus, muscle cramps, nausea, peripheral edema, change in urination frequency, sleep disturbance, or shortness of breath.
+
+He has a 41-year history of type 2 diabetes mellitus, anemia of chronic disease for 23 years, and gout for 18 years. He continues to smoke. No current medication regimen was provided for review.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms reported.
+
+Cardiopulmonary: Denies shortness of breath. No peripheral swelling reported.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies a change in urination frequency.
+
+Skin: Denies pruritus.
+
+Musculoskeletal: Denies muscle cramps.
+
+Sleep: Denies sleep disturbance.
+
+Objective
+
+Height: 170 cm
+Weight: 65.0 kg
+BMI: 22.5 kg/m²
+
+Blood pressure: 146/91 mmHg
+Pulse: 84 bpm
+Respiratory rate: 16/min
+Temperature: 36.7°C
+Oxygen saturation: 97%
+
+Laboratory data:
+Serum creatinine: 6.0 mg/dL
+Estimated GFR: 5 mL/min/1.73 m²
+BUN: 72 mg/dL
+
+Physical Examination
+
+Vital signs as above. No peripheral edema, respiratory symptoms, or other examination findings were provided for this encounter. The patient is not reporting current nausea, pruritus, muscle cramps, urinary change, or dyspnea.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function
+
+Longstanding chronic kidney disease of approximately 34 years with creatinine 6.0 mg/dL, BUN 72 mg/dL, and estimated GFR 5 mL/min/1.73 m². He currently reports fatigue but no nausea, pruritus, muscle cramps, sleep disturbance, edema, change in urination, or shortness of breath. Despite limited uremic or volume-overload symptoms at present, these laboratory values represent severe renal impairment and require prompt specialist assessment. There is no evidence from the provided history of an acute symptomatic complication, but the risk for electrolyte, acid-base, volume, mineral-bone, and uremic complications is substantial.
+
+2. Type 2 diabetes mellitus, longstanding
+
+Diabetes has been present for approximately 41 years and is a major contributor to chronic kidney disease risk. Current glycemic control data and treatment regimen were not provided. Management should be coordinated carefully with renal function, given the potential for medication accumulation and hypoglycemia with markedly reduced kidney function.
+
+3. Anemia of chronic disease
+
+History of anemia of chronic disease for 23 years. Fatigue may be multifactorial and may relate to anemia and advanced renal impairment. No current hemoglobin value or anemia treatment was provided.
+
+4. Elevated blood pressure
+
+Blood pressure today is 146/91 mmHg. This is above the usual target range for a patient with significant chronic kidney disease, although a diagnosis of hypertension and current antihypertensive treatment were not provided. Blood pressure should be reassessed with attention to volume status and renal-protective therapy when clinically appropriate.
+
+5. Gout
+
+Longstanding gout for approximately 18 years. Medication use and recent flare history were not provided. Renal function should be considered when selecting or dosing any urate-lowering or flare therapy.
+
+6. Active tobacco use
+
+Smoking is an ongoing modifiable cardiovascular and renal risk factor in this elderly patient with diabetes and advanced chronic kidney disease.
+
+Plan
+
+Chronic kidney disease:
+Prompt nephrology referral is recommended because of the creatinine of 6.0 mg/dL and estimated GFR of 5 mL/min/1.73 m². Nephrology evaluation should address renal replacement planning, including whether dialysis education and access planning are appropriate, while considering symptoms, functional status, electrolyte and acid-base status, nutritional status, and overall goals of care. Dialysis should not be initiated solely from a single laboratory value, but the current renal function warrants urgent comprehensive assessment.
+
+Recommend updated serum electrolytes and renal function testing, complete blood count, urine albumin-to-creatinine ratio, and intact parathyroid hormone level. Renal ultrasound is also appropriate to assess renal structure and exclude potentially reversible obstruction or other structural disease. Medication reconciliation is essential, with avoidance of nephrotoxic agents and renal dosing of all prescriptions. Avoid nonsteroidal anti-inflammatory drugs unless specifically directed by a treating specialist. Review diet, sodium intake, hydration, and potassium and phosphorus intake after laboratory assessment rather than instituting empiric restrictions without current electrolyte data.
+
+He should seek urgent or emergency evaluation for new or worsening shortness of breath, chest pain, marked swelling, confusion, persistent vomiting, inability to maintain oral intake, profound weakness, or a major decrease in urine output.
+
+Diabetes mellitus:
+Obtain updated diabetes control assessment and review the complete medication list. Any antihyperglycemic regimen should be adjusted for markedly reduced kidney function, with attention to hypoglycemia risk. Continue individualized diabetes management in coordination with renal care.
+
+Anemia:
+Obtain a current complete blood count and evaluate fatigue in the context of chronic kidney disease and longstanding anemia. Further treatment, including consideration of iron status and erythropoiesis-stimulating therapy, should be based on current laboratory findings and specialist assessment.
+
+Blood pressure:
+Repeat blood pressure measurements and review home readings if available. Reinforce sodium moderation and reassess volume status. Antihypertensive therapy should be selected and dosed with consideration of renal function, potassium level, and albuminuria once those data are available.
+
+Gout:
+Review recent gout activity and current therapy. Avoid empiric medication changes until the medication list and renal dosing requirements are clarified.
+
+Tobacco use:
+Counseled regarding smoking cessation and the increased cardiovascular and renal risks associated with continued smoking. Offer cessation support and pharmacologic options after medication reconciliation.
+
+Follow-up:
+Arrange prompt follow-up after renal evaluation and updated laboratory testing. Given the degree of renal impairment, routine follow-up alone is not sufficient without expedited assessment.

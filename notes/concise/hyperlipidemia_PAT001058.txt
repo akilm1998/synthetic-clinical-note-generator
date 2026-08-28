@@ -1,0 +1,33 @@
+Chief Complaint
+
+New patient evaluation of elevated cholesterol.
+
+Subjective
+
+Sydney Fuller is a 92-year-old woman, 165 cm and 56.4 kg (BMI 20.7), presenting for initial outpatient consultation regarding hyperlipidemia, untreated for approximately 43 years. Recent lipid panel shows total cholesterol 315 mg/dL, LDL-C 218 mg/dL, HDL-C 48 mg/dL, and triglycerides 243 mg/dL. She reports xanthomas and xanthelasma. She denies chest discomfort, exertional leg pain, or dizziness. She does not smoke.
+
+Medical history is significant for type 2 diabetes mellitus for 60 years, hypertension for 23 years, and chronic kidney disease for 14 years. Current medications and allergies were not provided.
+
+Objective
+
+Vital signs: BP 149/87 mmHg, pulse 72 bpm, respirations 17/min, temperature 36.7°C, oxygen saturation 98% on room air. Weight is 56.4 kg; BMI 20.7 kg/m².
+
+Available laboratory results: total cholesterol 315 mg/dL, LDL-C 218 mg/dL, HDL-C 48 mg/dL, triglycerides 243 mg/dL. Reported xanthomas and xanthelasma. No other examination findings provided.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and moderate hypertriglyceridemia, currently untreated. The presence of xanthomas/xanthelasma and longstanding elevation is concerning for clinically significant dyslipidemia. She has substantial cardiovascular risk related to advanced age, diabetes, hypertension, and chronic kidney disease, although she currently reports no anginal or claudication symptoms.
+
+Type 2 diabetes mellitus, longstanding.
+
+Hypertension with elevated office blood pressure today.
+
+Chronic kidney disease, longstanding.
+
+Plan
+
+Discussed cardiovascular risk reduction and the potential benefits and risks of lipid-lowering therapy in the context of age, diabetes, hypertension, kidney disease, functional status, and patient preferences. Recommend consideration of initiating a statin at a cautious dose with monitoring for adverse effects; treatment intensity should be individualized. If LDL reduction is inadequate or statin therapy is not tolerated, additional therapy such as ezetimibe may be considered.
+
+Recommend heart-healthy dietary pattern with limitation of saturated and trans fats and refined carbohydrates, while maintaining adequate nutrition and avoiding unintended weight loss. Encourage activity as safely tolerated.
+
+Recommend repeat fasting lipid panel and assessment of renal and hepatic function before and after initiating therapy, with evaluation for potentially reversible contributors to dyslipidemia as clinically appropriate. Continue coordinated management of diabetes, blood pressure, and chronic kidney disease. Reassess lipid response and tolerance after treatment is initiated.

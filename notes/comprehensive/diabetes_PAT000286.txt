@@ -1,0 +1,57 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Michael Brooks is a 51-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus, diagnosed approximately 7 years ago. Glycemic management has not been actively addressed recently. Most recent laboratory values show HbA1c 9.4% and fasting glucose 206 mg/dL, consistent with substantially above-target glycemia.
+
+He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling in the hands or feet. He reports no smoking. Weight is 82.6 kg at a height of 184 cm, with BMI 24.4 kg/m².
+
+Relevant comorbidities include chronic kidney disease of approximately 5 years’ duration and dyslipidemia of approximately 13 years’ duration. No current medication regimen is provided for review.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Eyes: Denies blurred vision.
+
+Endocrine: Denies polydipsia, polyuria, and polyphagia.
+
+Skin: Denies slow-healing wounds or frequent infections.
+
+Neurologic: Denies numbness or tingling of the hands or feet.
+
+Other systems: No additional symptoms are reported in the available interval history.
+
+Objective
+
+Vital Signs: Blood pressure 135/82 mmHg, pulse 72 beats/min, respiratory rate 18/min, temperature 36.8°C, oxygen saturation 98%.
+
+Anthropometrics: Height 184 cm, weight 82.6 kg, BMI 24.4 kg/m².
+
+Physical Examination: The available examination data include the above vital signs and anthropometric measurements. No specific abnormal findings are documented on the supplied examination. There are no reported symptoms suggestive of acute metabolic decompensation, active infection, or clinically apparent peripheral neuropathy.
+
+Laboratory Data: HbA1c 9.4%. Fasting glucose 206 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, diagnosed approximately 7 years ago, with currently poor glycemic control. HbA1c of 9.4% and fasting glucose of 206 mg/dL indicate persistent hyperglycemia despite the absence of reported osmotic, constitutional, visual, infectious, or neuropathic symptoms. The absence of symptoms does not lessen the risk of microvascular and macrovascular complications.
+
+Chronic kidney disease, present for approximately 5 years. The available data do not include renal function measurements; renal status is clinically important in determining safe and appropriate glucose-lowering therapy.
+
+Dyslipidemia, present for approximately 13 years, increasing overall cardiovascular risk in the setting of diabetes.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the importance of active diabetes management, even in the absence of symptoms. Review dietary pattern, carbohydrate intake, meal regularity, physical activity, home glucose monitoring, and barriers to treatment at the next medication-focused discussion.
+
+Recommend obtaining updated renal assessment with serum creatinine and estimated glomerular filtration rate, along with urine albumin-to-creatinine ratio, before selecting or adjusting glucose-lowering therapy because of the history of chronic kidney disease. A fasting lipid profile is also appropriate for cardiovascular risk assessment and dyslipidemia management.
+
+Recommend initiation of evidence-based pharmacologic therapy for type 2 diabetes after review of renal function, medication history, contraindications, and patient preferences. Metformin may be considered if renal function permits; additional agents with cardiovascular or renal benefit may be appropriate depending on kidney function and overall risk profile. No medication is documented as currently active, so no existing regimen is assumed.
+
+Advise structured home glucose monitoring with documentation of fasting and, when clinically useful, postprandial values. Counsel regarding recognition of symptomatic hyperglycemia and symptoms requiring prompt evaluation, including vomiting, abdominal pain, marked weakness, confusion, inability to maintain hydration, or rapidly worsening polyuria and polydipsia.
+
+Recommend routine diabetes complication surveillance, including comprehensive foot examination with assessment of skin integrity, pulses, and protective sensation, and retinal evaluation. Continue monitoring blood pressure and address dyslipidemia as part of comprehensive cardiovascular risk reduction.
+
+Reinforce regular physical activity and maintenance of current healthy-range BMI, while avoiding excessive caloric restriction or unintentional weight loss. Arrange close outpatient follow-up after updated laboratory evaluation to review glycemic data, renal function, cardiovascular risk, and treatment response.

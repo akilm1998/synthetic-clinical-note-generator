@@ -1,0 +1,65 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Sadie Hunter is a 52-year-old woman presenting for routine outpatient follow-up of anemia present for approximately 10 years. Her history is also notable for malignancy of approximately 12 years’ duration. The anemia has not been actively managed to date.
+
+She currently denies fatigue, generalized weakness, reduced exercise tolerance, dizziness, headache, shortness of breath, palpitations, or awareness of pallor. No interval anemia-related complaints are reported. She is a current smoker. No anemia-directed medications are documented.
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, or reduced exercise tolerance.
+
+Cardiovascular: Denies palpitations.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Denies dizziness or headache.
+
+Hematologic: Denies noticing pallor.
+
+Objective
+
+Vital Signs: Blood pressure 123/82 mmHg, pulse 83 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 152 cm, weight 63.3 kg, BMI 27.4 kg/m².
+
+General: No pallor noted. No tachycardia.
+
+Cardiovascular: Regular rate with normal cardiovascular examination.
+
+Respiratory: Normal respiratory examination.
+
+Laboratory data:
+Hemoglobin 8.5 g/dL
+Hematocrit 25.2%
+RBC count 3.0 million/µL
+MCV 84 fL
+Serum iron 30 µg/dL
+Ferritin 440 ng/mL
+TIBC 203 µg/dL
+Transferrin saturation 14.8%
+
+Assessment
+
+Chronic anemia, most consistent with anemia of chronic disease/inflammation in the setting of longstanding malignancy. The anemia is normocytic with reduced serum iron, reduced TIBC, elevated ferritin, and low transferrin saturation, a pattern supporting impaired iron availability associated with chronic inflammation rather than uncomplicated absolute iron deficiency. Hemoglobin is significantly reduced at 8.5 g/dL, with corresponding low hematocrit and RBC count, although she is currently hemodynamically stable and denies cardiopulmonary or constitutional symptoms.
+
+The chronicity of approximately 10 years and underlying malignancy warrant reassessment of the current inflammatory and hematologic contributors. Other potentially reversible contributors, including renal disease, vitamin B12 or folate deficiency, reticulocyte response abnormalities, and additional hematologic processes, should be evaluated before selecting therapy. No evidence of symptomatic tachycardia or hypoxemia is present today.
+
+Tobacco use.
+
+Overweight by BMI at 27.4 kg/m².
+
+Plan
+
+Obtain an updated complete blood count with differential and reticulocyte count to assess current severity and marrow response. Recommend peripheral blood smear, vitamin B12, folate, and renal function testing as part of the anemia evaluation. Inflammatory markers may help correlate the anemia with ongoing inflammatory or malignant disease activity.
+
+Recommend coordination with the clinician managing her malignancy regarding the chronic anemia and assessment of whether the underlying disease remains an active contributor. Hematology consultation should be considered given the prolonged duration and hemoglobin of 8.5 g/dL.
+
+Oral iron should not be started empirically based on the elevated ferritin and low TIBC; iron replacement decisions should be guided by the complete clinical evaluation and underlying disease status. If anemia remains attributable to chronic disease after evaluation, treatment options may include intravenous iron or an erythropoiesis-stimulating agent in an appropriate clinical setting, particularly if related to renal disease or malignancy-directed therapy.
+
+Reviewed symptoms requiring urgent evaluation, including new or worsening shortness of breath, chest discomfort, syncope, sustained palpitations, marked weakness, or evidence of bleeding.
+
+Counseled regarding smoking cessation and the importance of ongoing follow-up for her chronic anemia and malignancy history. Reassess after updated evaluation and review of interval hemoglobin trend.

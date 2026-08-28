@@ -1,0 +1,33 @@
+Chief Complaint
+
+Initial consultation for evaluation of anemia.
+
+Subjective
+
+Isabella Parker is a 35-year-old woman presenting for initial outpatient evaluation of anemia, present for approximately 10 years. She reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other anemia-related symptoms. She denies noticing pallor. She does not smoke.
+
+Relevant medical history includes inflammatory bowel disease for 13 years, rheumatoid arthritis for 2 years, and malignancy diagnosed approximately 1 year ago. The anemia has not previously been actively managed based on the available history. Medication use, allergies, and prior treatment details are not provided.
+
+Objective
+
+Height is 150 cm, weight 53.6 kg, and BMI 23.8 kg/m². Blood pressure is 125/79 mmHg, pulse 82 beats/min, respiratory rate 16/min, temperature 36.9°C, and oxygen saturation 97% on room air.
+
+Patient is clinically stable without reported pallor. Cardiovascular examination is normal, with no tachycardia. Respiratory examination is normal.
+
+Laboratory results show hemoglobin 9.5 g/dL, hematocrit 28.6%, RBC count 3.33 million/µL, and MCV 86 fL. Serum iron is low at 30 µg/dL, ferritin is 199 ng/mL, TIBC is 234 µg/dL, and transferrin saturation is reduced at 12.8%.
+
+Assessment
+
+Anemia most consistent with anemia of chronic disease/chronic inflammation. The anemia is moderate and normocytic, with low serum iron and transferrin saturation, elevated or preserved ferritin, and low TIBC, a pattern supportive of inflammation-associated iron restriction rather than uncomplicated absolute iron deficiency. Her longstanding inflammatory bowel disease and rheumatoid arthritis are relevant contributors, and the history of malignancy may also contribute. She is currently hemodynamically stable and asymptomatic, without evidence of cardiopulmonary compromise based on the available evaluation.
+
+The reduced transferrin saturation raises the possibility of concomitant iron-restricted erythropoiesis or mixed anemia; this should be clarified before initiating iron replacement. Other potentially reversible contributors, including vitamin deficiency, renal impairment, ongoing inflammation, and less common hematologic causes, should be assessed.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral blood smear to further characterize the anemia and assess marrow response. Recommend serum vitamin B12, folate, renal function testing, and inflammatory markers as part of the initial evaluation.
+
+Review the activity and current management of the inflammatory bowel disease, rheumatoid arthritis, and malignancy with the relevant treating clinicians, as control of the underlying inflammatory process is central to improving the anemia. Review for gastrointestinal blood loss or impaired iron absorption in the context of inflammatory bowel disease.
+
+Do not begin empiric iron therapy solely on the current results without clarifying whether there is concurrent absolute iron deficiency, particularly given the ferritin level and chronic inflammatory conditions. If iron-restricted erythropoiesis is confirmed, consider oral or intravenous iron based on gastrointestinal tolerance, absorption, disease activity, and follow-up laboratory findings. Hematology consultation should be considered if the anemia worsens, remains unexplained, or does not improve with treatment of underlying causes.
+
+Monitor for development of fatigue, weakness, dizziness, exertional dyspnea, palpitations, chest discomfort, or visible bleeding. Arrange outpatient follow-up after the recommended evaluation to review results and establish an active management plan.

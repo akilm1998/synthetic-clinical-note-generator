@@ -1,0 +1,16 @@
+Chief Complaint
+Medication review for hyperlipidemia.
+
+Subjective
+Violet Murphy is an 84-year-old woman with a 9-year history of hyperlipidemia and hypertension for 34 years. She is not currently managing her lipid disorder with medication. She denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. She does not smoke. Medication adherence and treatment tolerance cannot be assessed because no lipid-lowering regimen is currently in use.
+
+Objective
+Height 173 cm, weight 84.7 kg, BMI 28.3 kg/m². BP 144/85 mmHg, pulse 69 bpm, respirations 17/min, temperature 36.6°C, oxygen saturation 97%.
+
+Total cholesterol 324 mg/dL, LDL-C 227 mg/dL, HDL-C 48 mg/dL, triglycerides 244 mg/dL.
+
+Assessment
+Hyperlipidemia with markedly elevated LDL-C and elevated triglycerides, currently untreated. No reported cardiovascular or cutaneous symptoms. Hypertension with mildly elevated office blood pressure.
+
+Plan
+Discussed significant cardiovascular risk associated with the lipid profile and benefits versus risks of pharmacologic therapy at her age. Recommend initiation of a moderate- to high-intensity statin after shared decision-making, with medication reconciliation and review of potential adverse effects. Encourage heart-healthy, low-saturated-fat diet, weight reduction, and regular physical activity as tolerated. Review adherence and tolerance at follow-up and repeat a fasting lipid panel after treatment initiation to assess response. Continue monitoring blood pressure.

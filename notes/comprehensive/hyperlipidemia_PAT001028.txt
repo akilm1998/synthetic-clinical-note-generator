@@ -1,0 +1,53 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+
+Ruby Marshall is a 50-year-old woman presenting for routine outpatient follow-up of hyperlipidemia present for approximately 20 years. Her dyslipidemia has not been under active lipid-lowering management. Most recent lipid results show total cholesterol 308 mg/dL, LDL cholesterol 205 mg/dL, HDL cholesterol 37 mg/dL, and triglycerides 329 mg/dL.
+
+She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She reports xanthelasma but no xanthomas. She has known coronary artery disease of approximately 4 years’ duration, hypertension for 11 years, and obesity for 14 years. She currently smokes. No medication regimen is provided for review.
+
+Objective
+
+Vital Signs: Blood pressure 136/84 mmHg, pulse 86 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 97%.
+
+Height 172 cm. Weight 100.9 kg. BMI 34.1 kg/m².
+
+Laboratory Data:
+Total cholesterol 308 mg/dL
+LDL cholesterol 205 mg/dL
+HDL cholesterol 37 mg/dL
+Triglycerides 329 mg/dL
+
+Physical Examination:
+Eyes: Xanthelasma present.
+Cardiopulmonary: No cardiopulmonary symptoms reported today. No respiratory distress is suggested by the recorded respiratory rate and oxygen saturation.
+Extremities: No intermittent claudication reported. No xanthomas reported.
+The remainder of the examination is directed toward cardiovascular risk assessment and is without additional findings provided for this visit.
+
+Assessment
+
+1. Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding and currently without active lipid-lowering treatment. The LDL of 205 mg/dL represents severe elevation, with additional low HDL of 37 mg/dL and triglycerides of 329 mg/dL, consistent with mixed dyslipidemia. Xanthelasma supports a prolonged burden of lipid elevation.
+
+2. Coronary artery disease, present for approximately 4 years, substantially increasing her cardiovascular risk despite the absence of current chest discomfort or claudication. Given established coronary disease and LDL above 190 mg/dL, aggressive LDL reduction is indicated.
+
+3. Hypertension, longstanding, with current blood pressure 136/84 mmHg.
+
+4. Obesity, BMI 34.1 kg/m².
+
+5. Active tobacco use, an important modifiable cardiovascular risk factor.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL and triglycerides in the setting of known coronary artery disease. Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after reviewing contraindications, potential adverse effects, pregnancy considerations if applicable, and patient preferences. Because no current medication list is available, medication reconciliation should be completed before prescribing.
+
+Recommend a heart-healthy eating pattern emphasizing vegetables, fruits, legumes, whole grains, fish, and unsaturated fats while reducing saturated fat, trans fat, refined carbohydrates, and added sugars. Encourage gradual, sustainable weight reduction and increased physical activity as tolerated, with consideration of her coronary artery disease.
+
+Recommend smoking cessation counseling and support at this visit, including discussion of behavioral strategies and pharmacologic cessation options when appropriate.
+
+Recommend repeat fasting lipid panel after initiation or adjustment of therapy to assess response and adherence. Consider evaluation for secondary contributors to dyslipidemia and measurement of ApoB and lipoprotein(a) as clinically appropriate. If LDL remains substantially above goal despite maximally tolerated statin therapy, consider addition of ezetimibe and further lipid-lowering therapy based on response and cardiovascular risk.
+
+Continue close monitoring of blood pressure and overall cardiovascular risk. She should seek urgent evaluation for new or worsening chest discomfort, dyspnea, syncope, or exertional leg symptoms.
+
+Follow up after lipid-lowering therapy is initiated and repeat lipid testing is obtained to reassess treatment response and tolerability.

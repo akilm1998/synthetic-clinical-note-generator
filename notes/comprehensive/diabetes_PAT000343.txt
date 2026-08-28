@@ -1,0 +1,79 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Veronica Davidson is a 72-year-old woman presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 23 years ago. Current diabetes control is poor, with recent HbA1c 9.4% and fasting glucose 229 mg/dL. She reports increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, and recurrent infections are all absent. She does report tingling in the hands or feet without associated numbness.
+
+Her diabetes has not been actively managed recently. No current diabetes medication regimen is provided. She has a longstanding history of hypertension for 23 years, depression for 6 years, and obesity for approximately 51 years. She continues to smoke. No medication allergies, prior diabetes complications, or other treatment history are provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Endocrine: Denies increased thirst, frequent urination, or increased hunger.
+
+Eyes: Denies blurred vision.
+
+Skin: Denies slow-healing wounds.
+
+Infectious: Denies frequent infections.
+
+Neurologic: Reports tingling in the hands or feet. Denies numbness in the hands or feet.
+
+Cardiovascular, respiratory, gastrointestinal, genitourinary, musculoskeletal, and psychiatric review is otherwise not contributory to today’s diabetes-focused follow-up.
+
+Objective
+
+Vital Signs: Blood pressure 142/85 mmHg. Pulse 83 bpm. Respiratory rate 19/min. Temperature 36.9°C. Oxygen saturation 97%.
+
+Anthropometrics: Height 154 cm. Weight 73.8 kg. BMI 31.1 kg/m².
+
+Laboratory Data: HbA1c 9.4%. Fasting glucose 229 mg/dL.
+
+Physical Examination
+
+General: Older adult woman seen for outpatient follow-up; no acute vital-sign abnormality noted.
+
+Cardiovascular: Pulse 83 bpm and blood pressure as above.
+
+Respiratory: Respiratory rate 19/min with oxygen saturation 97% on the recorded measurement.
+
+Neurologic: Reports distal tingling involving the hands or feet. No subjective numbness reported.
+
+Extremities and skin: No slow-healing wounds reported. A complete foot and peripheral vascular examination should be performed at follow-up assessment.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complications, currently substantially above goal based on HbA1c 9.4% and fasting glucose 229 mg/dL. The prolonged 23-year duration of diabetes, obesity, limited current disease management, and reported distal tingling increase concern for evolving microvascular complications, although no definite complication is established from the information available. She currently denies polyuria, polydipsia, polyphagia, blurred vision, weight loss, fatigue, recurrent infections, or slow-healing wounds.
+
+2. Paresthesia of the hands or feet in the setting of longstanding diabetes. This may represent early diabetic peripheral neuropathic symptoms, but a focused sensory and vascular foot examination is needed before attributing the symptom definitively to diabetes.
+
+3. Hypertension, longstanding, with blood pressure 142/85 mmHg today. This is above the usual treatment goal for a patient with diabetes and contributes to overall cardiovascular and renal risk.
+
+4. Obesity, BMI 31.1 kg/m², longstanding. Excess adiposity is an important contributor to insulin resistance and difficulty achieving glycemic control.
+
+5. Depression, longstanding for approximately 6 years. Mood symptoms and their effect on adherence, diet, activity, and self-care should be reviewed as part of diabetes management.
+
+6. Current tobacco use. Smoking increases cardiovascular, renal, and peripheral vascular risk in the setting of diabetes and hypertension.
+
+Plan
+
+1. Diabetes mellitus: Discussed that the current HbA1c and fasting glucose indicate inadequate glycemic control and warrant active treatment rather than observation alone. Review and reconcile all current medications, adherence, dietary pattern, glucose-monitoring practices, and barriers to care at the next medication-focused discussion. Initiation or intensification of glucose-lowering therapy should be considered based on renal function, comorbidities, cost, tolerability, and patient preference. Avoid making a specific medication selection until renal function and the complete medication history are reviewed.
+
+Recommend home glucose monitoring with documentation of fasting and, when appropriate, postprandial values. Reinforced reduction of concentrated carbohydrates and sugar-sweetened beverages, portion control, regular meals, and gradual physical activity as tolerated. Given her age and longstanding diabetes, glycemic goals should be individualized while avoiding symptomatic hypoglycemia.
+
+Obtain or review urine albumin-to-creatinine ratio, serum creatinine with estimated glomerular filtration rate, and fasting lipid profile as part of complication and cardiovascular risk assessment. Repeat HbA1c after an appropriate treatment interval to assess response.
+
+2. Neurologic and foot risk: Perform a complete diabetic foot examination, including skin inspection, pedal pulses, monofilament sensation, and assessment for deformity or pressure injury. Counsel her to inspect her feet daily, avoid walking barefoot, and promptly report wounds, color changes, or progressive sensory symptoms. Consider further evaluation of persistent or progressive paresthesias after examination and medication review.
+
+3. Hypertension: Reassess blood pressure with repeat measurements and review current antihypertensive therapy if applicable. Emphasize dietary sodium reduction, weight management, smoking cessation, and adherence to prescribed therapy. Renal assessment and urine albumin testing will help guide cardiovascular and kidney-protective treatment decisions.
+
+4. Obesity: Encourage a modest, sustainable weight reduction through calorie awareness, increased vegetables and fiber, limiting refined carbohydrates, and low-impact activity such as walking if physically safe. Weight management should be integrated with diabetes and blood pressure treatment rather than approached separately.
+
+5. Depression: Screen current mood, anhedonia, sleep, appetite, and medication adherence at follow-up. Continue to assess whether depressive symptoms are interfering with diabetes self-management and address safety concerns if clinically indicated.
+
+6. Tobacco use: Strongly advised smoking cessation. Discuss readiness to quit and offer counseling and evidence-based cessation support at the next visit. Smoking cessation is particularly important given her diabetes, hypertension, age, and elevated cardiovascular risk.
+
+7. Follow-up: Arrange close outpatient follow-up to review medication reconciliation, home glucose readings, renal and urine testing, foot examination findings, blood pressure response, and progress with lifestyle changes. Earlier evaluation is appropriate for marked hyperglycemic symptoms, vomiting, confusion, dehydration, chest pain, new focal neurologic symptoms, or a nonhealing foot wound.

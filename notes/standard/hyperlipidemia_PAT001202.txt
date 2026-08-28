@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Hazel Fisher is an 81-year-old woman seen for routine outpatient follow-up of longstanding hyperlipidemia, present for approximately 46 years. Her dyslipidemia has not been actively treated recently. She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She has xanthelasma but no reported xanthomas.
+
+She does not smoke. She also has a 19-year history of type 2 diabetes mellitus. No current lipid-lowering medications were provided.
+
+Objective
+
+Vital Signs: Blood pressure 137/76 mmHg, pulse 73 bpm, respiratory rate 18/min, temperature 37.0°C, oxygen saturation 95%.
+
+Height 163 cm, weight 59.8 kg, BMI 22.5 kg/m².
+
+Laboratory Results: Total cholesterol 354 mg/dL, LDL cholesterol 252 mg/dL, HDL cholesterol 45 mg/dL, triglycerides 285 mg/dL.
+
+Visible xanthelasma is reported. No additional examination findings provided.
+
+Assessment
+
+Hyperlipidemia, longstanding and currently untreated, with markedly elevated LDL cholesterol and elevated triglycerides. The lipid pattern represents substantial atherosclerotic cardiovascular risk, particularly in the setting of advanced age and longstanding type 2 diabetes mellitus. She currently reports no chest discomfort, claudication, or dizziness.
+
+Type 2 diabetes mellitus, present for 19 years. Current glycemic control is not assessed in the information available for this visit.
+
+Plan
+
+Discussed the severity of the lipid elevation and the potential benefits and risks of pharmacologic therapy. Recommend shared decision-making regarding initiation of a statin, with consideration of a moderate- to high-intensity regimen appropriate for her age, overall health, and preferences. If LDL cholesterol remains significantly elevated or statin therapy is not tolerated, addition of ezetimibe may be considered.
+
+Recommend a heart-healthy dietary pattern emphasizing reduced saturated and trans fat intake, increased soluble fiber, and avoidance of excess refined carbohydrates to address both LDL cholesterol and triglycerides. Encourage regular physical activity as tolerated.
+
+Recommend repeat fasting lipid testing after treatment is initiated or adjusted to assess response. Consider evaluation for secondary contributors to severe dyslipidemia and measurement of additional risk markers such as apolipoprotein B or lipoprotein(a) if results would help guide treatment decisions. Coronary artery calcium imaging may be considered only if treatment decisions remain uncertain after clinical discussion.
+
+Continue routine diabetes follow-up and coordinate lipid management with overall cardiovascular risk reduction. Return for follow-up after treatment discussion and updated lipid assessment, or sooner for new chest discomfort, exertional leg pain, or other concerning cardiovascular symptoms.

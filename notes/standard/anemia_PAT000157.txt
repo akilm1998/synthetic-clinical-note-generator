@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for longstanding anemia.
+
+Subjective
+
+Daniel Hayes is a 75-year-old man presenting for routine outpatient follow-up of anemia present for approximately 44 months. He reports no current fatigue, weakness, dizziness, headache, shortness of breath, palpitations, or reduced exercise tolerance. Pallor remains noted. Anemia has not been actively managed to date. He has a history of heart failure for 3 years. He is a current smoker. No medication use or treatment regimen is provided for review.
+
+Objective
+
+Height 190 cm; weight 76.9 kg; BMI 21.3 kg/m².
+
+Blood pressure 138/80 mmHg, pulse 82 bpm, respiratory rate 23/min, temperature 37.0°C, oxygen saturation 97%.
+
+General: Pallor noted. Patient is not reporting acute cardiopulmonary symptoms.
+
+Cardiovascular: Normal cardiovascular examination documented.
+
+Respiratory: Normal respiratory examination documented.
+
+Laboratory data: Hemoglobin 9.6 g/dL, hematocrit 29.0%, RBC count 3.22 million/µL, MCV 90 fL. Serum iron 33 µg/dL, ferritin 454 ng/mL, TIBC 226 µg/dL, transferrin saturation 14.6%.
+
+Assessment
+
+Anemia of chronic disease/inflammation. Longstanding normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and low TIBC, a pattern most consistent with impaired iron availability associated with chronic inflammation or other chronic disease rather than uncomplicated iron deficiency. He is currently clinically stable without reported fatigue, dyspnea, dizziness, palpitations, or reduced exercise tolerance, although pallor is present. No tachycardia or hypoxemia is evident. The anemia remains insufficiently evaluated and managed.
+
+Heart failure, reported duration 3 years. No current shortness of breath or palpitations; oxygen saturation is 97%, with normal cardiovascular and respiratory examinations today.
+
+Tobacco use. Ongoing smoking may adversely affect cardiovascular and overall health.
+
+Plan
+
+Review the anemia with attention to trends in hemoglobin and hematocrit. Recommend repeat CBC with reticulocyte count and peripheral smear, along with renal function testing, vitamin B12, folate, and inflammatory markers to clarify the cause and assess for contributing chronic disease. The existing iron profile should be interpreted in the context of the overall evaluation; avoid assuming isolated iron deficiency based on the low serum iron alone.
+
+Assess for clinically apparent blood loss and other contributors to anemia, particularly given his age and the chronicity of the abnormality. Consider further gastrointestinal evaluation if clinically indicated after review of history and examination.
+
+Coordinate anemia management with evaluation of his chronic heart failure and other potential inflammatory or systemic contributors. Consider hematology consultation if the anemia worsens, fails to respond to treatment of an identified underlying cause, or remains unexplained. Discuss treatment options, including iron replacement or an erythropoiesis-stimulating agent, only after the underlying cause and renal/inflammatory status are clarified.
+
+Advise smoking cessation and reinforce prompt evaluation for new or worsening shortness of breath, chest discomfort, palpitations, dizziness, syncope, marked weakness, or bleeding.
+
+Follow-up after the recommended evaluation to review results and establish an active management plan.

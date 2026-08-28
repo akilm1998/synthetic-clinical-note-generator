@@ -1,0 +1,83 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Brooklyn Barnes is a 41-year-old woman, 156 cm tall and 50.9 kg (BMI 20.9 kg/m²), with a 12-year history of chronic kidney disease, 8-year history of type 2 diabetes mellitus, coronary artery disease diagnosed 1 year ago, and secondary hyperparathyroidism diagnosed 1 year ago. She does not smoke.
+
+She reports persistent fatigue. She denies pruritus, muscle cramps, nausea, peripheral edema, change in urinary frequency, sleep disturbance, and shortness of breath. No symptoms suggestive of acute fluid overload or overt uremic gastrointestinal or neurologic manifestations are reported.
+
+This encounter is focused on medication effectiveness, adherence, and treatment tolerance. No active medication regimen is identified in the available medication history; therefore, effectiveness, adherence, and adverse effects of specific therapies cannot be established. In particular, there is no documented current renal-protective, diuretic, phosphate-binding, anemia-directed, or mineral-bone disorder regimen to assess.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms reported.
+
+Cardiovascular: No peripheral edema reported.
+
+Respiratory: No shortness of breath reported.
+
+Gastrointestinal: No nausea reported.
+
+Genitourinary: No change in urinary frequency reported.
+
+Skin: No pruritus reported.
+
+Musculoskeletal: No muscle cramps reported.
+
+Neurologic: No sleep disturbance reported. No other neurologic symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 136/83 mmHg, pulse 80 beats/min, respiratory rate 16/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 156 cm, weight 50.9 kg, BMI 20.9 kg/m².
+
+Laboratory Data: Serum creatinine 4.83 mg/dL. Estimated glomerular filtration rate 7 mL/min/1.73 m². BUN 73 mg/dL.
+
+Physical Examination: Hemodynamically stable by recorded vital signs with normal respiratory rate and oxygen saturation. No peripheral edema is reported. The available examination data do not document additional abnormal findings.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function
+
+Twelve-year history of chronic kidney disease in the setting of longstanding type 2 diabetes mellitus and coronary artery disease. Current creatinine is 4.83 mg/dL, BUN 73 mg/dL, and eGFR 7 mL/min/1.73 m². These values indicate severe loss of kidney function requiring immediate nephrology-level assessment and preparation for renal replacement therapy, although she currently reports no nausea, pruritus, cramps, sleep disturbance, change in urination, edema, or dyspnea. Fatigue may be related to advanced kidney dysfunction, but anemia and other metabolic contributors have not been evaluated in the available data.
+
+The condition appears inadequately managed, and the absence of a documented medication regimen prevents assessment of renal-protective therapy, blood pressure control strategy, volume management, mineral-bone disease treatment, or anemia management.
+
+2. Medication review and treatment monitoring
+
+No specific current medications are documented for review. Consequently, medication effectiveness, adherence, and tolerance cannot be confirmed. This is clinically important given the degree of renal impairment, because medications may require renal dose adjustment and some agents may increase the risk of accumulation, electrolyte disturbance, hypotension, or further renal injury.
+
+Medication reconciliation should include all prescription medications, over-the-counter products, supplements, and nonsteroidal anti-inflammatory drug use. Any existing medications should be reviewed for renal dosing and safety before continuation or escalation.
+
+3. Type 2 diabetes mellitus, duration 8 years
+
+Longstanding diabetes is a major risk factor for progression of chronic kidney disease. Current glycemic control data are not provided. Diabetes management should be coordinated with renal function and should avoid agents that are contraindicated or unsafe at the current level of kidney function.
+
+4. Secondary hyperparathyroidism, duration 1 year
+
+This is a recognized complication of advanced chronic kidney disease. No current phosphate binder, vitamin D analog, calcium-based therapy, or other mineral-bone disorder medication is documented, and no calcium, phosphate, or parathyroid hormone results are available for treatment assessment.
+
+5. Coronary artery disease, duration 1 year
+
+Coronary artery disease increases cardiovascular risk in the setting of advanced chronic kidney disease. Blood pressure today is 136/83 mmHg. Cardiovascular medications and antiplatelet or lipid-lowering therapy are not documented and should be verified during reconciliation rather than assumed.
+
+Plan
+
+Chronic kidney disease: Arrange urgent nephrology evaluation for comprehensive assessment of advanced renal dysfunction and renal replacement therapy planning. Dialysis indications should be assessed clinically and with current metabolic studies; the present absence of nausea, dyspnea, edema, or other reported uremic symptoms does not eliminate the need for prompt evaluation. Discuss modality education and access planning as appropriate after nephrology assessment.
+
+Obtain updated serum electrolytes, bicarbonate, calcium, phosphorus, complete blood count, albumin, iron indices, and intact parathyroid hormone as clinically appropriate. Obtain urine albumin-to-creatinine ratio to characterize proteinuria and renal risk. Renal ultrasound may be considered if structural assessment has not been performed or if the etiology remains uncertain.
+
+Avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic over-the-counter products. Any medication requiring renal clearance should be reviewed for dose adjustment. She should seek urgent medical attention for new or worsening shortness of breath, chest pain, persistent vomiting, confusion, marked weakness, new edema, or substantially reduced urine output.
+
+Medication review: Complete medication reconciliation at the next contact, including prescription medications, over-the-counter agents, supplements, and adherence patterns. Do not initiate or intensify renal medications without confirming current renal function, electrolyte status, blood pressure, and the complete medication list. Assess tolerance and adherence directly once the active regimen is confirmed.
+
+Diabetes mellitus: Coordinate diabetes management with nephrology and primary care/endocrinology, with selection and dosing of glucose-lowering therapy based on the current eGFR. Avoid hypoglycemia, particularly if oral intake declines or kidney function worsens.
+
+Secondary hyperparathyroidism: Review current treatment, if any, after obtaining calcium, phosphorus, and intact parathyroid hormone levels. Nephrology should guide phosphate management and the choice of calcium-based or non-calcium-based therapy.
+
+Coronary artery disease: Verify the complete cardiovascular medication regimen and adherence. Review blood pressure management and cardiovascular risk-reduction therapy in the context of severe kidney impairment and medication safety.
+
+Follow-up: Prompt nephrology follow-up is recommended because of the eGFR of 7 mL/min/1.73 m² and BUN of 73 mg/dL. Reassess symptoms, volume status, medication use, adherence, and treatment tolerance at that visit.

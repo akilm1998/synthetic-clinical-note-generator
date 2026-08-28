@@ -1,0 +1,59 @@
+Chief Complaint
+
+Medication review and follow-up of longstanding anemia.
+
+Subjective
+
+Brooklyn Barnes is a 92-year-old woman, 151 cm tall and weighing 55.2 kg (BMI 24.2 kg/m²), presenting for outpatient review of anemia treatment effectiveness, adherence, and tolerance. She has a 40-year history of anemia in the setting of rheumatoid arthritis diagnosed 46 years ago. No anemia-directed medication or supplementation is documented for review today; therefore, treatment adherence and medication tolerance cannot be assessed, and there is no current regimen to evaluate for effectiveness.
+
+She denies fatigue, generalized weakness, reduced exercise tolerance, dizziness, shortness of breath, palpitations, or symptomatic tachycardia. She reports headache. Pallor is present. She smokes. No medication-related adverse effects are reported.
+
+Review of Systems
+
+Constitutional: Positive for pallor. Denies fatigue, weakness, and reduced exercise tolerance.
+Neurologic: Positive for headache. Denies dizziness.
+Cardiopulmonary: Denies shortness of breath and palpitations.
+Hematologic: Known longstanding anemia.
+Musculoskeletal: History of rheumatoid arthritis.
+Other systems: No additional symptoms reported today.
+
+Objective
+
+Vital Signs: Blood pressure 139/76 mmHg, pulse 88 bpm, respiratory rate 21/min, temperature 37.0°C, oxygen saturation 95%.
+
+General: Pallor noted.
+Cardiovascular: Normal cardiovascular examination; pulse 88 bpm.
+Respiratory: Normal respiratory examination; respiratory rate mildly increased at 21/min with oxygen saturation 95%.
+Anthropometrics: Height 151 cm, weight 55.2 kg, BMI 24.2 kg/m².
+
+Laboratory Results:
+Hemoglobin 9.4 g/dL
+Hematocrit 28.3%
+RBC count 3.01 million/µL
+MCV 94 fL
+Serum iron 24 µg/dL
+Ferritin 264 ng/mL
+TIBC 227 µg/dL
+Transferrin saturation 10.6%
+
+Assessment
+
+Longstanding normocytic anemia with hemoglobin 9.4 g/dL, hematocrit 28.3%, and RBC count 3.01 million/µL. The low serum iron and transferrin saturation with elevated ferritin and reduced TIBC are most consistent with anemia associated with chronic inflammation, particularly in the setting of longstanding rheumatoid arthritis, with possible functional iron restriction. There are no reported cardiopulmonary symptoms or hemodynamic instability, although pallor and headache are present.
+
+Anemia treatment is not currently documented, so medication effectiveness, adherence, and tolerance cannot be meaningfully assessed today. The patient is not reporting adverse effects from anemia therapy. Given her advanced age and prolonged course, treatment decisions should be individualized according to symptoms, underlying inflammatory activity, renal function, nutritional status, and overall goals of care.
+
+Tobacco use.
+
+Plan
+
+Review and reconcile all current prescription, over-the-counter, and supplement use at the next medication review, with particular attention to whether she is taking oral iron or any other anemia-directed therapy. Avoid initiating empiric iron solely on the basis of the low serum iron, as the ferritin and TIBC pattern supports inflammation-related iron sequestration rather than straightforward absolute iron deficiency.
+
+Recommend repeat CBC with reticulocyte count and peripheral blood smear to reassess the anemia, along with renal function testing, vitamin B12, folate, and inflammatory markers. These results would help confirm the contributing factors and identify potentially reversible causes.
+
+Continue evaluation and management of rheumatoid arthritis and other sources of chronic inflammation. If anemia remains clinically significant or worsens, consider coordination with hematology and/or rheumatology regarding suitability for intravenous iron or an erythropoiesis-stimulating agent after review of renal function, inflammatory disease activity, risks, and treatment goals.
+
+Monitor for worsening fatigue, weakness, exertional intolerance, dizziness, shortness of breath, palpitations, chest discomfort, or increasing headache. Seek urgent evaluation for new significant dyspnea, chest pain, syncope, confusion, or rapid clinical deterioration.
+
+Counseled regarding smoking cessation, particularly given age and the potential impact of tobacco use on cardiopulmonary reserve.
+
+Follow up after medication reconciliation and recommended laboratory reassessment, or sooner if symptoms develop.

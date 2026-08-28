@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Ariana Lawson is a 39-year-old woman presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 8 years ago. Current disease control is suboptimal, with no established active management reported. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. She does report numbness and tingling involving the hands and feet.
+
+Her medical history is also notable for hypertension of approximately 9 years’ duration, dyslipidemia for 2 years, and obesity for approximately 1 year. She continues to smoke. No medication regimen, allergies, or prior diabetes-related treatment details are provided.
+
+Objective
+
+Vital signs: Blood pressure 128/88 mmHg, pulse 83 beats/min, respiratory rate 20/min, temperature 36.6°C, oxygen saturation 95%.
+
+Height 172 cm, weight 110.1 kg, BMI 37.2 kg/m².
+
+Laboratory results: Hemoglobin A1c 9.6%. Fasting glucose 222 mg/dL.
+
+No additional examination findings documented.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, currently poorly controlled based on HbA1c of 9.6% and fasting glucose of 222 mg/dL. She is not reporting osmotic or constitutional symptoms, but does report numbness and tingling in the hands and feet, concerning for possible diabetes-related peripheral nerve involvement and requiring focused evaluation.
+
+Obesity, BMI 37.2 kg/m², contributing to insulin resistance and difficulty achieving glycemic control.
+
+Dyslipidemia, duration approximately 2 years.
+
+Hypertension, duration approximately 9 years; current blood pressure is 128/88 mmHg.
+
+Active tobacco use, increasing overall cardiovascular risk.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the need to begin structured diabetes management. Recommend initiation of glucose-lowering pharmacotherapy, commonly metformin if renal function and other contraindications permit, with treatment selection and titration based on a complete medication and renal assessment. Given the degree of hyperglycemia, consider additional therapy if glycemic targets are not promptly achieved.
+
+Counseled regarding reduction of refined carbohydrates and sugary beverages, portion control, increased dietary fiber, and gradual progression toward regular physical activity as tolerated. Weight reduction was recommended as an important component of diabetes and cardiovascular risk management.
+
+Recommend monitoring home blood glucose with instruction on appropriate timing and recording of values once a treatment plan is established. Repeat HbA1c after an appropriate interval to assess response.
+
+Recommend evaluation of renal status with serum creatinine/eGFR and urine albumin-to-creatinine ratio, along with fasting lipid assessment for cardiovascular risk stratification. Recommend comprehensive diabetic foot examination, including sensory testing and pulse assessment, at follow-up. Advise prompt evaluation for any foot wound, infection, or progressive sensory loss. Recommend routine dilated retinal examination.
+
+Discussed smoking cessation and offered counseling/support as part of cardiovascular risk reduction.
+
+Blood pressure is acceptable today but remains borderline elevated diastolically; continue routine monitoring and reinforce dietary sodium reduction, weight management, physical activity, and smoking cessation.
+
+Follow up after initiation of a diabetes management plan to review glucose readings, treatment tolerance, neuropathic symptoms, and laboratory evaluation.

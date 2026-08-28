@@ -1,0 +1,9 @@
+Chief Complaint: Routine follow-up for hyperlipidemia.
+
+Subjective: Sean Palmer is a 73-year-old man seen for follow-up of longstanding hyperlipidemia, present for approximately 32 years and currently untreated. Recent lipid results show markedly elevated cholesterol and triglycerides. He denies chest discomfort, exertional leg pain, or dizziness. Reports xanthelasma. He continues to smoke. Comorbid type 2 diabetes mellitus for 18 years and hypertension for 37 years.
+
+Objective: Height 165 cm, weight 77.6 kg, BMI 28.5 kg/m². BP 146/88 mmHg, pulse 75 bpm, respirations 16/min, temperature 36.8°C, oxygen saturation 97%. Lipid panel: total cholesterol 334 mg/dL, LDL-C 230 mg/dL, HDL-C 42 mg/dL, triglycerides 312 mg/dL. Xanthelasma present.
+
+Assessment: Severe, poorly controlled hyperlipidemia with markedly elevated LDL-C and hypertriglyceridemia, in the setting of advanced age, diabetes, hypertension, overweight status, and active tobacco use. No current symptoms suggestive of angina or claudication.
+
+Plan: Discussed substantially increased cardiovascular risk and importance of active lipid management. Recommend initiation of high-intensity statin therapy after shared decision-making, with consideration of additional lipid-lowering therapy if LDL remains significantly elevated. Repeat fasting lipid panel after treatment initiation and assess for secondary contributors to dyslipidemia. Counsel regarding reduced saturated and trans fat intake, increased dietary fiber, regular physical activity as tolerated, and weight reduction. Strongly advised smoking cessation. Continue close outpatient follow-up for lipid response and overall cardiovascular risk-factor management.

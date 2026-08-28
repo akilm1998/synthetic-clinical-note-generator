@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up of anemia.
+
+Subjective
+
+Elijah Stone is a 48-year-old man presenting for routine outpatient follow-up of anemia first identified approximately 2 years ago. He reports no current fatigue, weakness, dizziness, headache, shortness of breath, palpitations, reduced exercise tolerance, or other exercise-related limitation. He does not report pallor. No interval anemia-related concerns are described.
+
+Relevant chronic conditions include inflammatory bowel disease for 19 years, rheumatoid arthritis for 5 years, and type 2 diabetes mellitus for 2 years. He currently smokes. There is no documented active treatment plan for the anemia at this visit.
+
+Objective
+
+Height 183 cm; weight 93.4 kg; BMI 27.9 kg/m².
+
+Blood pressure 128/79 mmHg, pulse 80 bpm, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 96%.
+
+Laboratory results:
+Hemoglobin 9.7 g/dL
+Hematocrit 29.8%
+RBC count 3.31 million/µL
+MCV 90 fL
+Serum iron 22 µg/dL
+Ferritin 452 ng/mL
+TIBC 236 µg/dL
+Transferrin saturation 9.3%
+
+Assessment
+
+Anemia of chronic inflammation, currently clinically stable without reported cardiopulmonary or constitutional symptoms. Laboratory pattern demonstrates moderate normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC, consistent with iron-restricted erythropoiesis in the setting of chronic inflammatory disease. His longstanding inflammatory bowel disease and rheumatoid arthritis are relevant potential contributors. No tachycardia or hypoxemia is present today.
+
+Plan
+
+Discussed the laboratory pattern and likely relationship to chronic inflammatory conditions. Recommend repeat CBC with reticulocyte count and peripheral smear to assess persistence and marrow response. Recommend evaluation of vitamin B12, folate, renal function, and inflammatory markers as clinically indicated to assess for additional contributors.
+
+Recommend review and optimization of inflammatory bowel disease and rheumatoid arthritis control with the clinicians managing those conditions. Iron replacement should be considered based on the overall evaluation and gastrointestinal disease activity; intravenous iron may be preferable if oral absorption or tolerance is a concern. Avoid empiric treatment decisions without further assessment of the anemia and underlying inflammation.
+
+Continue monitoring for fatigue, weakness, dizziness, dyspnea, palpitations, headache, pallor, or reduced exercise tolerance. Smoking cessation was encouraged as part of overall health maintenance. Follow up after repeat evaluation, or sooner for new or worsening symptoms.

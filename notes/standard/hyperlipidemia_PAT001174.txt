@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Alan Wheeler is a 74-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 6 years and currently without active lipid-lowering management. Recent lipid results remain markedly elevated, with total cholesterol 360 mg/dL, LDL cholesterol 269 mg/dL, HDL cholesterol 40 mg/dL, and triglycerides 255 mg/dL.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. Xanthomas and xanthelasma are present. He does not smoke. Relevant comorbidities include chronic kidney disease of approximately 33 years’ duration and non-alcoholic fatty liver disease of approximately 23 years’ duration.
+
+Objective
+
+Vital signs: BP 146/88 mmHg, pulse 73 bpm, respiratory rate 17/min, temperature 36.8°C, oxygen saturation 96%.
+
+Height 175 cm; weight 66.2 kg; BMI 21.6 kg/m².
+
+Lipid panel: total cholesterol 360 mg/dL, LDL cholesterol 269 mg/dL, HDL cholesterol 40 mg/dL, triglycerides 255 mg/dL.
+
+Xanthomas and xanthelasma noted by history. No reported cardiovascular or claudication symptoms.
+
+Assessment
+
+Hyperlipidemia, unspecified, with severe elevation of total and LDL cholesterol and concurrent hypertriglyceridemia. The presence of xanthomas and xanthelasma suggests longstanding lipid excess. Although he has no current chest discomfort, claudication, or dizziness, his age, markedly elevated LDL cholesterol, chronic kidney disease, and elevated blood pressure increase his overall cardiovascular risk. Lipid disorder is currently untreated.
+
+Chronic kidney disease, longstanding. This is an important consideration when selecting and monitoring lipid-lowering therapy.
+
+Non-alcoholic fatty liver disease, longstanding. The diagnosis does not preclude statin therapy, but hepatic monitoring is appropriate.
+
+Elevated office blood pressure reading at today’s visit; requires reassessment.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and the benefits and risks of initiating lipid-lowering therapy. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after shared decision-making and review of renal and hepatic considerations. If LDL reduction is inadequate or therapy is not tolerated, consider addition of ezetimibe.
+
+Recommend dietary reduction of saturated and trans fats and refined carbohydrates, with emphasis on a heart-healthy diet. Continue regular physical activity as tolerated. He should continue to avoid tobacco.
+
+Repeat a fasting lipid panel after initiation or adjustment of therapy to assess response. Consider ApoB and lipoprotein(a) measurement for further risk assessment. Monitor renal and hepatic status in the context of chronic kidney disease and fatty liver disease.
+
+Reassess blood pressure at subsequent visits and address persistent elevation as clinically indicated.
+
+Return for follow-up after repeat lipid testing or sooner for new chest discomfort, exertional leg pain, dizziness, or other concerning cardiovascular symptoms.

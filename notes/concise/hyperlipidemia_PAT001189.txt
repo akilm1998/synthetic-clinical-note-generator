@@ -1,0 +1,18 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Emily Cooper is a 32-year-old woman with a 9-year history of hyperlipidemia, currently not under active management. She denies chest discomfort, exertional leg pain, or dizziness. Xanthelasma is present. She does not smoke. Comorbid coronary artery disease and type 2 diabetes mellitus, each reported for approximately 1 year. No current lipid-lowering regimen is provided.
+
+Objective
+Height 160 cm, weight 54.5 kg, BMI 21.3 kg/m². BP 123/79 mmHg, pulse 74 bpm, respirations 16/min, temperature 37.0°C, oxygen saturation 97%.
+
+Lipid profile: total cholesterol 322 mg/dL, LDL-C 210 mg/dL, HDL-C 41 mg/dL, triglycerides 355 mg/dL.
+
+Assessment
+Severe mixed dyslipidemia with markedly elevated LDL-C and triglycerides, present for approximately 9 years and currently untreated. Xanthelasma supports longstanding lipid deposition. Coronary artery disease and type 2 diabetes mellitus substantially increase cardiovascular risk despite young age and normal BMI. No current ischemic or claudication symptoms reported.
+
+Plan
+Recommend prompt initiation of high-intensity lipid-lowering therapy, with treatment selection individualized after review of contraindications, pregnancy potential, and patient preferences. Repeat a fasting lipid panel after therapy initiation to assess response and adherence.
+
+Evaluate for secondary contributors to dyslipidemia and consider ApoB and lipoprotein(a) measurement. Given LDL-C greater than 190 mg/dL and longstanding disease, assess for possible familial hypercholesterolemia and consider lipid specialist referral. Reinforce a diet low in saturated and trans fats, regular aerobic activity, and continued tobacco avoidance. Continue risk-factor management for coronary artery disease and diabetes mellitus. Follow up after treatment initiation with interval lipid assessment.

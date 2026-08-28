@@ -1,0 +1,43 @@
+Chief Complaint
+
+Medication review and management of elevated cholesterol.
+
+Subjective
+
+Brandon Cox is a 51-year-old male presenting for review of untreated hyperlipidemia identified approximately 1 year ago. Medication reconciliation does not identify a current lipid-lowering agent; therefore, medication adherence and treatment tolerance cannot be assessed for an active regimen. He denies chest discomfort, intermittent claudication, dizziness, xanthomas, and xanthelasma. No medication-related adverse effects are reported.
+
+Relevant cardiovascular history includes coronary artery disease of approximately 6 years’ duration. He currently smokes. Dietary pattern, exercise habits, family history, allergies, and additional medication history are not provided in this encounter.
+
+Objective
+
+Height 161 cm. Weight 67.1 kg. BMI 25.9 kg/m².
+
+Blood pressure 119/77 mmHg. Pulse 80 bpm. Respiratory rate 17/min. Temperature 37.0°C. Oxygen saturation 99%.
+
+Laboratory results:
+Total cholesterol 279 mg/dL.
+LDL cholesterol 195 mg/dL.
+HDL cholesterol 37 mg/dL.
+Triglycerides 234 mg/dL.
+
+No xanthomas or xanthelasma are reported. No additional physical examination findings are provided.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol, low HDL cholesterol, and moderately elevated triglycerides. The lipid pattern is consistent with mixed dyslipidemia. In the setting of established coronary artery disease and ongoing tobacco use, the degree of LDL elevation represents a substantial modifiable cardiovascular risk. The condition has been identified for approximately 1 year and is not currently receiving documented pharmacologic management.
+
+Coronary artery disease, longstanding, approximately 6 years’ duration. He reports no current anginal or claudication symptoms.
+
+Tobacco use, which materially increases overall atherosclerotic cardiovascular risk.
+
+Plan
+
+Recommend initiation of high-intensity statin therapy for secondary cardiovascular prevention, provided there is no contraindication or prior intolerance. Discussed the expected benefit of substantial LDL reduction and the importance of consistent daily adherence. Medication risks and potential adverse effects, including myalgias and clinically significant hepatic intolerance, should be reviewed before prescribing. He should promptly report unexplained muscle pain, weakness, or dark urine after treatment begins.
+
+Obtain a repeat fasting lipid panel after an appropriate interval on therapy to assess adherence and treatment response. If LDL cholesterol remains above the desired range despite confirmed adherence and maximally tolerated statin therapy, consider addition of ezetimibe and further risk-based lipid management. ApoB and lipoprotein(a) measurement may provide additional risk characterization if clinically useful.
+
+Counseled regarding reduction of saturated and trans fats, increased intake of vegetables, fruits, legumes, whole grains, and fiber, avoidance of excess refined carbohydrates, weight maintenance, and regular aerobic physical activity as tolerated. BMI is 25.9 kg/m².
+
+Strongly advised smoking cessation; cessation support and pharmacologic options should be offered according to readiness and preference.
+
+Continue routine coronary artery disease care. Seek urgent evaluation for new or progressive chest discomfort, dyspnea, syncope, or exertional leg pain. Reassess medication adherence, tolerance, and lipid response at follow-up after therapy initiation.

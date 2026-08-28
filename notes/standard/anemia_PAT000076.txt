@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Hailey Johnston is a 33-year-old woman presenting for routine outpatient follow-up of anemia present for approximately 5 years. She reports no current fatigue, weakness, dizziness, headache, palpitations, shortness of breath, or reduced exercise tolerance. She does not report pallor. No interval anemia-related concerns are noted.
+
+Relevant comorbidities include rheumatoid arthritis for 3 years, heart failure for 1 year, and malignancy for 1 year. She does not smoke. No current anemia-directed medications are documented.
+
+Objective
+
+Height 165 cm; weight 61.3 kg; BMI 22.5 kg/m².
+
+Blood pressure 122/75 mmHg, pulse 90 bpm, respiratory rate 22/min, temperature 36.6°C, oxygen saturation 99%.
+
+Laboratory results:
+Hemoglobin 8.7 g/dL
+Hematocrit 26.1%
+RBC count 3.18 million/µL
+MCV 82 fL
+Serum iron 43 µg/dL
+Ferritin 337 ng/mL
+TIBC 223 µg/dL
+Transferrin saturation 19.3%
+
+No pallor, tachycardia-related symptoms, or cardiopulmonary symptoms are reported today.
+
+Assessment
+
+Chronic anemia consistent with anemia of chronic inflammation/disease. Hemoglobin and hematocrit remain significantly reduced, with a normocytic profile, low serum iron and TIBC, and elevated ferritin, supporting impaired iron utilization in the setting of chronic disease rather than isolated absolute iron deficiency. Rheumatoid arthritis, malignancy, and heart failure may each contribute. She is currently clinically stable and denies symptoms attributable to anemia, with normal oxygen saturation and blood pressure.
+
+Plan
+
+Review the anemia and laboratory pattern with the patient, including the likely contribution of her chronic inflammatory and systemic conditions.
+
+Recommend repeat CBC with reticulocyte count and peripheral smear to reassess severity and marrow response. Consider vitamin B12, folate, renal function testing, and inflammatory markers as part of the evaluation for contributing factors. Further assessment of iron status should be guided by the clinical course and repeat results.
+
+Coordinate ongoing management of rheumatoid arthritis, malignancy, and heart failure with the clinicians involved in those conditions, as control of underlying disease is central to management of anemia of chronic disease. Consider hematology consultation if anemia persists, worsens, becomes symptomatic, or the results are not consistent with chronic inflammation.
+
+No empiric oral or intravenous iron, erythropoietin-stimulating therapy, or transfusion is initiated today based on the information available and current lack of symptoms. Counsel her to seek urgent care for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, marked weakness, or bleeding.
+
+Continue outpatient follow-up after reassessment of the anemia and sooner for any new symptoms.

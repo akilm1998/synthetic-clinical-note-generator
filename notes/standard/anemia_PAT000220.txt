@@ -1,0 +1,45 @@
+Chief Complaint
+
+Initial evaluation of anemia.
+
+Subjective
+
+Evelyn Hayes is a 45-year-old woman presenting for initial outpatient consultation regarding anemia present for approximately 5 years. She currently denies fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other reported anemia-related symptoms. She has a history of malignancy for approximately 2 years and chronic infection for approximately 4 years. She currently smokes. No medication use, allergies, prior procedures, or additional social or family history are provided.
+
+Objective
+
+Height 160 cm; weight 70.7 kg; BMI 27.6 kg/m².
+
+Blood pressure 128/82 mmHg, pulse 83 bpm, respiratory rate 22/min, temperature 37.0°C, oxygen saturation 97%.
+
+Laboratory data: hemoglobin 9.4 g/dL, hematocrit 28.3%, RBC count 3.41 million/µL, MCV 83 fL, serum iron 34 µg/dL, ferritin 402 ng/mL, TIBC 244 µg/dL, transferrin saturation 13.9%.
+
+Assessment
+
+Anemia consistent with anemia of chronic disease/inflammation. The anemia is normocytic with low serum iron, low TIBC, elevated ferritin, and reduced transferrin saturation, a pattern supporting impaired iron availability in the setting of chronic inflammation. Her known chronic infection and malignancy are likely relevant contributors. A concurrent component of absolute iron deficiency cannot be excluded based on the reduced transferrin saturation, although the elevated ferritin argues against uncomplicated iron deficiency alone.
+
+She is currently clinically stable and denies cardiopulmonary or constitutional symptoms attributable to anemia. No tachycardia or hypoxemia is present on today’s vital signs. Respiratory rate is mildly increased at 22/min despite normal oxygen saturation and absence of reported dyspnea.
+
+Chronic infection, approximately 4 years, requiring ongoing assessment for inflammatory activity and adequacy of disease control.
+
+Malignancy, approximately 2 years, potentially contributing to chronic inflammation and anemia. Details regarding current disease status and treatment are not provided.
+
+Tobacco use, which may further affect overall cardiopulmonary risk and chronic disease burden.
+
+Overweight by BMI, 27.6 kg/m².
+
+Plan
+
+Obtain a complete blood count with reticulocyte count and peripheral blood smear to further characterize the anemia and assess marrow response.
+
+Recommend serum vitamin B12, folate, and renal function testing, as well as inflammatory markers, to evaluate other reversible or contributory causes.
+
+Review the activity and treatment status of the chronic infection and malignancy with the appropriate treating clinicians, as control of the underlying conditions is central to management of inflammation-associated anemia.
+
+Assess for occult blood loss and other sources of iron deficiency if clinically indicated, particularly if the anemia worsens, becomes microcytic, or fails to improve with treatment of the underlying inflammatory conditions.
+
+Do not start empiric iron replacement solely on the basis of the low serum iron without further assessment, given the elevated ferritin and low TIBC. Iron therapy, including oral or intravenous replacement, should be guided by the broader evaluation and clinical context.
+
+Consider hematology involvement if the anemia progresses, reticulocyte response is inadequate, the diagnosis remains uncertain, or anemia persists despite management of the underlying conditions. An erythropoiesis-stimulating agent would require careful consideration of the malignancy history and overall risk profile and is not initiated based on the information available today.
+
+Counseled regarding smoking cessation and the importance of follow-up for the chronic infection and malignancy. Return for review of the recommended evaluation and sooner for new shortness of breath, chest pain, palpitations, syncope, bleeding, or marked weakness.

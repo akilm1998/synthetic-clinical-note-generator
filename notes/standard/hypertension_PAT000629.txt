@@ -1,0 +1,47 @@
+Chief Complaint
+
+Initial outpatient consultation for elevated blood pressure.
+
+Subjective
+
+Caroline Rivera is an 87-year-old woman presenting for initial evaluation and management of longstanding hypertension, reportedly present for approximately 49 years and currently without active treatment. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis. No acute hypertensive symptoms are reported today.
+
+Her medical history is notable for chronic kidney disease of approximately 45 years’ duration and hyperlipidemia of approximately 10 years’ duration. She currently smokes. Medication use, allergies, and additional social or family history are not provided.
+
+Objective
+
+Vital signs: Blood pressure 177/101 mmHg, pulse 72 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 98% on room air.
+
+Height 158 cm, weight 73.1 kg, BMI 29.3 kg/m².
+
+Available laboratory data: sodium 146 mmol/L and potassium 4.3 mmol/L.
+
+She is asymptomatic from a cardiopulmonary and neurologic standpoint by history. No additional examination findings are documented for this encounter.
+
+Assessment
+
+Longstanding essential hypertension with markedly elevated office blood pressure at 177/101 mmHg. She has no reported symptoms to suggest an acute hypertensive emergency at this time; however, the degree of elevation in an 87-year-old woman with chronic kidney disease warrants prompt confirmation, assessment for target-organ involvement, and initiation of a structured treatment plan. Her hypertension has not been actively managed, increasing concern for cumulative cardiovascular and renal risk.
+
+Chronic kidney disease, longstanding. Renal function and albuminuria assessment are important before selecting and titrating antihypertensive therapy.
+
+Hyperlipidemia, longstanding.
+
+Current tobacco use.
+
+Overweight status with BMI 29.3 kg/m².
+
+Plan
+
+Repeat blood pressure measurement after seated rest using an appropriately sized cuff and obtain home blood pressure readings if feasible. Confirm persistent hypertension with careful office and/or home measurements while avoiding overly rapid reduction given her advanced age and chronicity of disease.
+
+Because of the markedly elevated reading and prolonged absence of treatment, arrange prompt follow-up to initiate antihypertensive therapy, with selection and dosing individualized to her kidney function, orthostatic symptoms, electrolytes, and overall tolerance. Review adherence and adverse effects at each visit. Avoid empiric escalation without assessment of renal function and volume status.
+
+Recommend renal function assessment, including serum creatinine/eGFR, and urinalysis with urine albumin assessment as clinically appropriate. Current potassium is 4.3 mmol/L; sodium is mildly elevated at 146 mmol/L. Repeat electrolytes after initiation or adjustment of therapy, particularly if a renin-angiotensin system blocker or diuretic is used.
+
+Recommend baseline ECG and lipid profile as part of cardiovascular risk assessment. Review the need for lipid-lowering therapy in the context of her age, hyperlipidemia, smoking status, chronic kidney disease, and overall goals of care.
+
+Counsel regarding reduction of dietary sodium, avoidance of excess alcohol if applicable, gradual physical activity as tolerated, weight management, and smoking cessation. Encourage adequate but not excessive hydration, with individualized guidance in the setting of chronic kidney disease.
+
+Provide emergency precautions: immediate emergency evaluation for new severe headache, chest pain, shortness of breath, neurologic deficits, confusion, visual loss, or recurrent nosebleed associated with markedly elevated blood pressure.
+
+Follow up promptly for blood pressure reassessment and treatment planning, with continued monitoring of renal function, electrolytes, and symptoms.

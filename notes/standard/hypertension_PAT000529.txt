@@ -1,0 +1,51 @@
+Chief Complaint
+
+Initial consultation for longstanding high blood pressure.
+
+Subjective
+
+Noah Hamilton is a 36-year-old man presenting for an initial outpatient evaluation of hypertension, present for approximately 10 years and not currently under active management. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis. No acute hypertensive symptoms are reported.
+
+His medical history is also notable for type 2 diabetes mellitus for approximately 4 years, hyperlipidemia for approximately 5 years, and chronic kidney disease for approximately 1 year. Current medications, allergies, family history, and additional social history were not provided. He reports no smoking.
+
+Objective
+
+Blood pressure: 167/94 mmHg
+Pulse: 72 bpm
+Respiratory rate: 16/min
+Temperature: 36.9°C
+Oxygen saturation: 99%
+
+Height: 162 cm
+Weight: 72.4 kg
+BMI: 27.6 kg/m²
+
+Serum electrolytes: Sodium 141 mmol/L, potassium 4.9 mmol/L.
+
+Patient is asymptomatic at today’s visit based on the reported review of symptoms. No additional physical examination findings were provided.
+
+Assessment
+
+Essential hypertension, longstanding and currently untreated or not actively managed, with a markedly elevated office blood pressure of 167/94 mmHg. There are no reported symptoms suggestive of an acute hypertensive emergency today. His diabetes mellitus and chronic kidney disease increase his cardiovascular and renal risk and make consistent blood pressure control particularly important. Potassium is high-normal at 4.9 mmol/L, which should be considered when selecting and monitoring therapy.
+
+Type 2 diabetes mellitus, duration approximately 4 years.
+
+Chronic kidney disease, duration approximately 1 year.
+
+Hyperlipidemia, duration approximately 5 years.
+
+BMI 27.6 kg/m², in the overweight range.
+
+Plan
+
+Discussed the importance of treating his persistently elevated blood pressure and reducing long-term cardiovascular and kidney risk. Repeat blood pressure measurement will be obtained using appropriate technique, with confirmation by home blood pressure monitoring if feasible. He should keep a log of home readings and bring it to follow-up.
+
+Recommend initiation of antihypertensive therapy after review of current medication history and renal function. An agent with renal and diabetic benefit, such as an ACE inhibitor or angiotensin receptor blocker, may be appropriate if clinically suitable; renal function and potassium should be checked before and shortly after initiation or dose adjustment. Additional therapy may be required if blood pressure remains above goal.
+
+Recommend renal function testing, urine albumin assessment, urinalysis, fasting lipid evaluation, and ECG as part of cardiovascular and hypertension assessment. These are recommendations and were not performed or available at this visit.
+
+Counseled on reducing dietary sodium, following a heart-healthy eating pattern, increasing regular physical activity as tolerated, pursuing gradual weight reduction, and limiting alcohol intake. Continue avoidance of tobacco.
+
+Given the concurrent diabetes, chronic kidney disease, and hyperlipidemia, coordinate ongoing risk-factor management and review the need for appropriate lipid-lowering and diabetic preventive therapy at follow-up.
+
+Seek emergency care immediately for chest pain, shortness of breath, neurologic deficits, severe headache, confusion, or vision loss. Arrange close outpatient follow-up after repeat blood pressure assessment and laboratory review.

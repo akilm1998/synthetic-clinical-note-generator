@@ -1,0 +1,97 @@
+Chief Complaint
+
+Initial consultation for chronic kidney disease and fatigue.
+
+History of Present Illness
+
+Richard Lawson is a 44-year-old man presenting for initial outpatient evaluation of chronic kidney disease, reportedly present for approximately 13 years. Current laboratory data demonstrate serum creatinine 4.42 mg/dL, BUN 80 mg/dL, and estimated GFR 12 mL/min/1.73 m², consistent with markedly reduced kidney function. The condition has not been under active management. He reports fatigue but denies pruritus, muscle cramps, nausea, peripheral edema, increased or decreased urinary frequency, sleep disturbance, and shortness of breath.
+
+He also has a history of secondary hyperparathyroidism for approximately 1 year. No medication regimen is provided. He is an active smoker. There is no reported current chest pain, dyspnea, or gastrointestinal symptom burden in the supplied history.
+
+Past Medical History
+
+Chronic kidney disease, present for approximately 13 years.
+
+Secondary hyperparathyroidism, present for approximately 1 year.
+
+Medications
+
+No current medications were provided.
+
+Allergies
+
+No allergies were provided.
+
+Social History
+
+Active tobacco use. Height is 165 cm and weight is 80.0 kg, with BMI 29.4 kg/m².
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms provided.
+
+Skin: Denies pruritus.
+
+Respiratory: Denies shortness of breath.
+
+Cardiovascular: Denies peripheral edema.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies reported change in urinary frequency.
+
+Musculoskeletal: Denies muscle cramps.
+
+Neurologic/Sleep: Denies sleep disturbance.
+
+Objective
+
+Vital Signs: Blood pressure 140/82 mmHg, pulse 77 beats/min, respiratory rate 18/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 165 cm, weight 80.0 kg, BMI 29.4 kg/m².
+
+Laboratory Data: Serum creatinine 4.42 mg/dL. BUN 80 mg/dL. Estimated GFR 12 mL/min/1.73 m².
+
+Physical Examination
+
+The available examination data include stable vital signs and normal oxygen saturation. The patient reports no peripheral edema or shortness of breath. No additional examination findings are provided in the current encounter data.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced kidney function
+
+Longstanding chronic kidney disease, present for approximately 13 years, with current creatinine 4.42 mg/dL, BUN 80 mg/dL, and eGFR 12 mL/min/1.73 m². The degree of renal impairment is substantial and warrants prompt nephrology-directed evaluation, even though he currently lacks nausea, pruritus, edema, dyspnea, urinary frequency changes, or other overt volume-overload symptoms. Fatigue may be related to advanced chronic kidney dysfunction, although anemia and other metabolic complications also require evaluation.
+
+The condition has not been actively managed, and the absence of a documented treatment regimen increases concern for unaddressed complications, including electrolyte or acid-base abnormalities, anemia, mineral and bone disorder, hypertension, and progressive uremic symptoms.
+
+2. Secondary hyperparathyroidism
+
+Secondary hyperparathyroidism has been present for approximately 1 year in the setting of longstanding chronic kidney disease. Further characterization of mineral metabolism is indicated before treatment decisions are made.
+
+3. Hypertension or elevated blood pressure in the setting of chronic kidney disease
+
+Blood pressure today is 140/82 mmHg. This is above the preferred range for many patients with significant chronic kidney disease and should be confirmed with serial measurements. No antihypertensive medications were provided, so no assumptions are made regarding current therapy.
+
+4. Tobacco use
+
+Active smoking is an important modifiable cardiovascular and renal risk factor. Smoking cessation should be addressed as part of renal and cardiovascular risk reduction.
+
+5. Overweight status
+
+BMI is 29.4 kg/m². Weight management, dietary counseling, and avoidance of excessive sodium intake are appropriate in the context of chronic kidney disease and elevated blood pressure.
+
+Plan
+
+Arrange prompt nephrology consultation for comprehensive evaluation of markedly reduced kidney function and to establish ongoing renal care. The consultation should address evaluation for complications of advanced chronic kidney disease, renal replacement therapy education and planning when clinically appropriate, and determination of the underlying etiology if not previously established.
+
+Obtain a complete metabolic assessment, including serum electrolytes and bicarbonate, calcium, phosphorus, and repeat renal function testing. Obtain complete blood count to evaluate fatigue and assess for anemia. Check intact parathyroid hormone and other relevant mineral-bone parameters. Obtain urinalysis and urine albumin-to-creatinine ratio for proteinuria assessment. Renal ultrasound is reasonable if prior structural evaluation is not available or if clinically indicated.
+
+Review all prescription, over-the-counter, and supplemental medications at follow-up with particular attention to renal dosing and avoidance of nephrotoxic agents, especially nonsteroidal anti-inflammatory drugs. Medication decisions should be individualized after review of blood pressure, potassium, volume status, urine albumin excretion, and the complete metabolic profile.
+
+Recommend a kidney-conscious diet emphasizing sodium restriction and avoidance of excessive dietary protein or phosphorus as advised by nephrology or a renal dietitian. Maintain appropriate hydration without excessive fluid intake, particularly if urine output or volume status changes.
+
+Monitor for urgent symptoms, including new or worsening shortness of breath, progressive swelling, persistent nausea or vomiting, confusion, marked weakness, chest pain, or significant change in urine output; these symptoms require immediate medical assessment.
+
+Counseled regarding smoking cessation and reduction of cardiovascular risk. Continue blood pressure monitoring and arrange close primary care follow-up while nephrology care is being established.
+
+Follow-up after completion of the recommended evaluation, or sooner for any worsening symptoms.

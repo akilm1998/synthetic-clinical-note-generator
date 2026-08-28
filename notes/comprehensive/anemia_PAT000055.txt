@@ -1,0 +1,51 @@
+Chief Complaint
+
+Routine follow-up of anemia.
+
+Subjective
+
+Bruce McKenzie is an 87-year-old man presenting for routine outpatient follow-up of anemia present for approximately 56 months. He reports headache and appears pale. He denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. No interval change in functional symptoms is reported.
+
+Relevant chronic conditions include chronic infection of approximately 7 years’ duration, rheumatoid arthritis for approximately 4 years, and heart failure for approximately 4 years. He does not smoke. No current anemia-directed treatment is documented.
+
+Review of systems is otherwise negative for the constitutional, cardiopulmonary, and neurologic symptoms specifically assessed above. No fever is reported.
+
+Objective
+
+Vital Signs: Blood pressure 130/75 mmHg, pulse 88 bpm, respiratory rate 25/min, temperature 36.8°C, oxygen saturation 95%.
+
+Height 174 cm. Weight 88.4 kg. BMI 29.2 kg/m².
+
+General: Elderly man in no acute distress at rest. Pallor is present.
+
+Cardiovascular: No tachycardia by measured pulse. Cardiovascular examination is otherwise without abnormality.
+
+Respiratory: Respiratory examination is without abnormality on routine examination; respiratory rate is mildly elevated at 25/min with oxygen saturation 95%.
+
+Laboratory data:
+Hemoglobin 9.5 g/dL
+Hematocrit 28.3%
+RBC count 3.01 million/µL
+MCV 94 fL
+Serum iron 24 µg/dL
+Ferritin 500 ng/mL
+TIBC 245 µg/dL
+Transferrin saturation 9.8%
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation/disease. The anemia is moderate by laboratory values and normocytic, with low serum iron and transferrin saturation, elevated ferritin, and relatively low TIBC. This pattern is more consistent with iron-restricted erythropoiesis in the setting of chronic inflammation than with uncomplicated absolute iron deficiency. His chronic infection and rheumatoid arthritis are likely contributing factors. Heart failure and advanced age may also reduce physiologic reserve.
+
+He is currently clinically stable without reported dyspnea, palpitations, dizziness, weakness, or reduced exercise tolerance. Headache and pallor may be related to the anemia, although the headache is nonspecific. Respiratory rate is elevated at 25/min despite normal temperature and oxygen saturation and should be reassessed, particularly given his history of heart failure.
+
+Plan
+
+Review the anemia and laboratory pattern with the patient. No anemia-directed medication regimen is currently documented.
+
+Recommend repeat complete blood count with reticulocyte count to assess persistence and marrow response, along with peripheral blood smear, vitamin B12, folate, renal function testing, and inflammatory markers. Reassess iron studies in clinical context rather than initiating empiric oral iron solely on the basis of the low serum iron, given the elevated ferritin and low TIBC. Consider evaluation for occult blood loss if clinically indicated, particularly if the anemia worsens or indices change.
+
+Address potentially reversible contributors by optimizing management of the chronic infection and rheumatoid arthritis in coordination with the clinicians managing those conditions. Renal function should be reviewed because chronic kidney disease may contribute to anemia and would affect treatment decisions. If anemia persists, worsens, or remains unexplained after initial evaluation, consider hematology consultation and discussion of iron replacement or erythropoiesis-stimulating therapy based on the underlying cause and overall goals of care.
+
+Recheck respiratory rate and assess for any evolving cardiopulmonary symptoms given the history of heart failure. Seek urgent evaluation for new or worsening shortness of breath, chest discomfort, fainting, sustained palpitations, acute weakness, confusion, or evidence of bleeding.
+
+Continue outpatient follow-up after updated evaluation, with earlier reassessment for worsening symptoms.

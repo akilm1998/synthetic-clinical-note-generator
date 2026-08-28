@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for hypertension.
+
+Subjective
+
+Logan Stewart is an 85-year-old man with a 43-year history of essential hypertension and type 2 diabetes mellitus diagnosed 11 years ago. Hypertension has not been actively managed. He reports intermittent palpitations but denies headache, dizziness, blurred vision, chest pain, shortness of breath, fatigue, or epistaxis. No symptoms suggestive of acute hypertensive emergency are reported today. He continues to smoke.
+
+Objective
+
+Height 179 cm, weight 69.8 kg, BMI 21.8 kg/m². Blood pressure 160/95 mmHg. Pulse 82 bpm. Respiratory rate 18/min. Temperature 36.7°C. Oxygen saturation 97% on room air.
+
+Serum electrolytes: sodium 145 mmol/L and potassium 4.4 mmol/L. No additional examination findings are documented for this encounter.
+
+Assessment
+
+Essential hypertension with persistently elevated office blood pressure and inadequate disease control after a prolonged duration of illness. He is currently asymptomatic from a hypertensive standpoint, without reported chest pain, dyspnea, neurologic symptoms, visual disturbance, or epistaxis. Palpitations warrant further assessment, particularly given his age and longstanding hypertension.
+
+Type 2 diabetes mellitus, reported duration 11 years, increasing overall cardiovascular and renal risk.
+
+Active tobacco use.
+
+Plan
+
+Discussed the importance of active blood pressure management and cardiovascular risk reduction. Recommend repeat seated and standing blood pressure measurements and home blood pressure monitoring to assess the pattern of hypertension and identify possible orthostatic change before and after treatment initiation.
+
+Recommend initiating antihypertensive therapy with cautious titration appropriate for advanced age, comorbid diabetes, and fall-risk considerations. Selection of an agent such as an ACE inhibitor or angiotensin receptor blocker, a calcium-channel blocker, or a thiazide-type diuretic should be guided by renal function, urine albumin assessment, volume status, and tolerance. Renal function and electrolytes should be reassessed after therapy is started or adjusted; current sodium and potassium are within an acceptable range for treatment consideration.
+
+Recommend ECG evaluation for palpitations and assessment for hypertensive cardiac effects. A lipid profile and urinalysis, including assessment for renal involvement, are appropriate for cardiovascular risk stratification and diabetes-associated end-organ assessment.
+
+Counseled on reducing dietary sodium, maintaining regular activity as tolerated, limiting alcohol if applicable, and smoking cessation. Reviewed symptoms requiring urgent evaluation, including new chest pain, shortness of breath, severe headache, focal neurologic deficit, acute visual change, or persistent worsening palpitations. Close outpatient follow-up is recommended for blood pressure reassessment and medication titration.

@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Julia Holland is an 85-year-old woman presenting for routine follow-up of longstanding hyperlipidemia, present for approximately 27 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She reports fatty skin deposits consistent with xanthomas. No xanthelasma is reported.
+
+Her most recent lipid results show markedly elevated total cholesterol at 347 mg/dL, LDL cholesterol at 258 mg/dL, HDL cholesterol at 41 mg/dL, and triglycerides at 241 mg/dL. She has a 47-year history of type 2 diabetes mellitus and continues to smoke. Current weight is 69.2 kg at a height of 158 cm, with BMI 27.7 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 130/80 mmHg, pulse 78 bpm, respiratory rate 16/min, temperature 36.6°C, oxygen saturation 96% on room air.
+
+General: Well-appearing older woman in no acute distress.
+
+Focused history is notable for reported xanthomas. No reported chest discomfort, claudication, or dizziness. Laboratory data reviewed: total cholesterol 347 mg/dL, LDL cholesterol 258 mg/dL, HDL cholesterol 41 mg/dL, triglycerides 241 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding and presently untreated. Reported xanthomas may reflect prolonged lipid elevation. Although she denies current ischemic or claudication symptoms, her age, active tobacco use, and longstanding type 2 diabetes substantially increase her cardiovascular risk. The potential benefit of treatment should be balanced with overall health status, goals of care, medication preferences, and risk of adverse effects.
+
+Type 2 diabetes mellitus, longstanding, noted as an important cardiovascular risk comorbidity.
+
+Tobacco use, ongoing.
+
+Plan
+
+Discussed the significant elevation in cholesterol, particularly LDL cholesterol, and the associated cardiovascular risk. Reviewed lifestyle measures including reducing saturated and trans fats, limiting refined carbohydrates, increasing fiber-rich foods, maintaining regular activity as tolerated, and avoiding tobacco. Encouraged smoking cessation and offered support with cessation planning.
+
+Recommend shared decision-making regarding initiation of lipid-lowering therapy, most commonly a statin, considering her age, diabetes history, smoking status, markedly elevated LDL level, xanthomas, functional status, and treatment goals. If therapy is accepted, begin cautiously with monitoring for tolerance and adjust intensity as appropriate; non-statin therapy can be considered if LDL reduction is inadequate or statin therapy is not tolerated.
+
+Recommend confirmation with a fasting lipid panel and evaluation for potentially reversible contributors to severe dyslipidemia, including thyroid, renal, and hepatic abnormalities, before or around treatment initiation. Consider measurement of apolipoprotein B and lipoprotein(a) for additional risk assessment if results would influence management. Coronary artery calcium imaging is not required before treatment but may be discussed if treatment decisions remain uncertain.
+
+Continue follow-up in the outpatient setting to review treatment preferences, repeat lipid results, and tolerance or response to any therapy initiated. Advise urgent evaluation for new chest discomfort, shortness of breath, focal neurologic symptoms, or exertional leg pain.

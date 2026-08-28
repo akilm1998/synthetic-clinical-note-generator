@@ -1,0 +1,19 @@
+Chief Complaint
+Medication review for chronic anemia.
+
+Subjective
+88-year-old man, Elliot Chandler, presents for outpatient review of longstanding anemia, reported for approximately 30 years. He denies fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, shortness of breath, palpitations, or other anemia-related symptoms. No smoking history. Comorbid heart failure for 43 years and malignancy for 16 years. No anemia-directed medication is documented for review today; adherence and treatment tolerance cannot be assessed.
+
+Objective
+Height 163 cm, weight 75.7 kg, BMI 28.5 kg/m².
+BP 131/75 mmHg, pulse 87 bpm, respirations 27/min, temperature 36.9°C, oxygen saturation 97%.
+Hemoglobin 9.1 g/dL, hematocrit 27.3%, RBC 2.97 million/µL, MCV 92 fL. Serum iron 24 µg/dL, ferritin 395 ng/mL, TIBC 195 µg/dL, transferrin saturation 12.3%.
+
+Assessment
+Chronic normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and low TIBC, consistent with anemia of chronic inflammation/chronic disease. Likely influenced by longstanding malignancy and heart failure. Patient is currently asymptomatic, without documented anemia-directed treatment for effectiveness or tolerance review. Tachypnea noted with preserved oxygen saturation and no reported dyspnea.
+
+Plan
+Review and reconcile all current medications, including any iron or erythropoiesis-stimulating therapy, at the next medication review; assess adherence, adverse effects, and treatment goals.
+Recommend evaluation with CBC, reticulocyte count, peripheral smear, renal function, vitamin B12, folate, and inflammatory markers if not recently assessed.
+Discuss anemia management with the clinicians managing his malignancy and heart failure; consider iron replacement or erythropoiesis-stimulating therapy only after confirming the underlying cause and treatment appropriateness.
+Monitor for worsening fatigue, weakness, dyspnea, chest discomfort, palpitations, dizziness, or reduced exercise tolerance. Seek urgent care for new or worsening breathing difficulty, chest pain, syncope, or marked weakness.

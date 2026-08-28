@@ -1,0 +1,97 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Caroline Rivera is an 89-year-old woman presenting for routine outpatient follow-up of type 2 diabetes mellitus, diagnosed approximately 34 years ago. Current glycemic control is above goal, with recent hemoglobin A1c of 9.1% and fasting glucose of 193 mg/dL. She denies increased thirst, frequent urination, increased hunger, blurred vision, fatigue, or unintentional weight loss. She also denies slow-healing wounds or recurrent infections.
+
+She denies numbness or tingling in the hands or feet. No diabetes-related symptoms are reported today. Her diabetes has not been actively managed recently. No current diabetes medications are provided for review.
+
+She has a longstanding history of hypertension, approximately 52 years, as well as anxiety for 15 years and obstructive sleep apnea for 14 years. She does not smoke. Weight is 67.9 kg at 170 cm, with BMI 23.5 kg/m².
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Endocrine: Denies increased thirst, increased urination, or increased hunger.
+
+Eyes: Denies blurred vision.
+
+Neurologic: Denies numbness or tingling of the hands or feet.
+
+Skin: Denies slow-healing wounds.
+
+Infectious: Denies frequent infections.
+
+No additional acute concerns reported today.
+
+Objective
+
+Vital Signs: Blood pressure 147/89 mmHg, pulse 71 bpm, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 96%.
+
+Height: 170 cm.
+
+Weight: 67.9 kg.
+
+BMI: 23.5 kg/m².
+
+Laboratory Results: Hemoglobin A1c 9.1%. Fasting glucose 193 mg/dL.
+
+Physical Examination
+
+General: Outpatient follow-up examination performed; no acute diabetes-related symptoms reported.
+
+Cardiovascular: Pulse 71 bpm.
+
+Respiratory: Respiratory rate 20/min with oxygen saturation 96%.
+
+Neurologic: No reported distal numbness or tingling.
+
+Skin: No reported slow-healing wounds.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complications
+
+Longstanding type 2 diabetes mellitus of approximately 34 years’ duration with inadequate current glycemic control, reflected by HbA1c 9.1% and fasting glucose 193 mg/dL. She is not reporting symptomatic hyperglycemia, neuropathic symptoms, recurrent infections, or wound-healing problems. Her normal BMI does not lessen the need for active treatment, particularly given her age and duration of disease. No specific diabetes medication regimen is documented today.
+
+2. Hypertension
+
+Chronic hypertension with blood pressure of 147/89 mmHg today. This is mildly elevated in the office. No antihypertensive regimen is provided for review.
+
+3. Anxiety
+
+Longstanding anxiety, approximately 15 years. No acute anxiety-related concern reported today, and no medication information is available.
+
+4. Obstructive sleep apnea
+
+History of obstructive sleep apnea for approximately 14 years. No current treatment details are provided.
+
+Plan
+
+1. Diabetes
+
+Discussed that the current HbA1c and fasting glucose indicate suboptimal glycemic control despite the absence of overt symptoms. Reviewed the importance of regular meals, limiting concentrated sweets and refined carbohydrates, maintaining adequate hydration, and continuing safe physical activity as tolerated.
+
+Recommend medication reconciliation with the patient and family/caregiver, followed by initiation or adjustment of diabetes therapy using a regimen appropriate for an 89-year-old patient. Treatment should prioritize avoidance of hypoglycemia, preservation of function, and simplicity of administration. Renal function should be reviewed before selecting or dosing medications. Avoid overly aggressive glucose lowering given advanced age and the potential consequences of hypoglycemia.
+
+Recommend monitoring home glucose levels if feasible, particularly when medication therapy is started or changed, with attention to symptoms of hypoglycemia and hyperglycemia. Review sick-day precautions and when to seek urgent care, including persistent vomiting, inability to maintain hydration, confusion, severe weakness, or markedly elevated glucose readings.
+
+Recommend urine albumin-to-creatinine ratio, serum creatinine with estimated glomerular filtration rate, and fasting lipid profile as part of diabetes risk assessment if not recently completed. Recommend routine diabetic foot examination and retinal evaluation; no neuropathic symptoms or foot wounds are reported today.
+
+2. Hypertension
+
+Repeat blood pressure measurement at follow-up and review home readings if available. Reinforce a lower-sodium eating pattern and regular activity as tolerated. Review current antihypertensive medications during medication reconciliation and adjust treatment based on repeated readings, overall cardiovascular risk, renal function, fall risk, and tolerability.
+
+3. Anxiety
+
+Continue routine assessment of anxiety symptoms, sleep, appetite, and functional impact. Review current treatment and medication use at the next visit.
+
+4. Obstructive sleep apnea
+
+Review current sleep-related symptoms and adherence to any existing positive airway pressure or other treatment during medication and equipment reconciliation. Emphasize attention to daytime somnolence and fall risk.
+
+Follow-up
+
+Return for diabetes and blood pressure follow-up after medication reconciliation and review of recommended laboratory testing. Earlier evaluation is appropriate for symptomatic hyperglycemia, hypoglycemia, new visual changes, foot wounds, confusion, or acute functional decline.

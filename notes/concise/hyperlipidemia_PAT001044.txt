@@ -1,0 +1,16 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Eliana Matthews is a 48-year-old woman here for follow-up of hyperlipidemia, present for approximately 14 years and currently untreated. She denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. She does not smoke. Weight is stable at 60.9 kg; BMI 23.8 kg/m². History is also notable for non-alcoholic fatty liver disease for 8 years.
+
+Objective
+Vital signs: BP 121/78 mmHg, pulse 72 bpm, respirations 16/min, temperature 36.7°C, oxygen saturation 98% on room air. Height 160 cm, weight 60.9 kg.
+
+Recent lipid panel: total cholesterol 295 mg/dL, LDL-C 207 mg/dL, HDL-C 35 mg/dL, triglycerides 264 mg/dL.
+
+Assessment
+Hyperlipidemia with markedly elevated LDL and elevated triglycerides, not at treatment goal and currently untreated. No reported cardiovascular or cutaneous symptoms. Non-alcoholic fatty liver disease, chronic.
+
+Plan
+Discussed the substantially increased long-term cardiovascular risk associated with LDL-C greater than 190 mg/dL. Recommend initiation of a high-intensity statin after shared decision-making; reviewed expected benefits and potential adverse effects. Continue a heart-healthy diet low in saturated and trans fats, regular aerobic activity, and avoidance of excess refined carbohydrates. Confirm liver enzyme status and evaluate for secondary contributors before or at treatment initiation as clinically appropriate. Repeat fasting lipid panel after starting therapy to assess response and adherence. Follow up in approximately 6–12 weeks, sooner for medication concerns or new cardiovascular symptoms.

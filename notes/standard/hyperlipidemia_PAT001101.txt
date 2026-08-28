@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia and cardiovascular risk-factor management.
+
+Subjective
+
+Joel Pierce is a 51-year-old male presenting for routine outpatient follow-up. He has a 21-year history of hyperlipidemia that is currently not being actively managed. Recent lipid results show markedly elevated cholesterol levels with a mixed pattern: total cholesterol 357 mg/dL, LDL cholesterol 264 mg/dL, HDL cholesterol 37 mg/dL, and triglycerides 282 mg/dL.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He does not smoke. Relevant comorbidities include hypertension for approximately 9 years and non-alcoholic fatty liver disease for approximately 15 years. No current lipid-lowering medication regimen is provided.
+
+Objective
+
+Vital signs: Blood pressure 144/86 mmHg, pulse 73 bpm, respiratory rate 16/min, temperature 36.6°C, oxygen saturation 99% on room air.
+
+Height 186 cm, weight 98.9 kg, BMI 28.6 kg/m².
+
+Laboratory data:
+Total cholesterol 357 mg/dL
+LDL cholesterol 264 mg/dL
+HDL cholesterol 37 mg/dL
+Triglycerides 282 mg/dL
+
+Assessment
+
+1. Hyperlipidemia, unspecified
+
+Longstanding, substantially uncontrolled dyslipidemia with markedly elevated LDL cholesterol and elevated triglycerides, accompanied by low HDL cholesterol. He is currently asymptomatic without reported chest discomfort, claudication, or dizziness. His hypertension, overweight status, and chronic non-alcoholic fatty liver disease increase his overall cardiometabolic risk. No xanthomas or xanthelasma are reported.
+
+2. Hypertension
+
+Blood pressure is elevated today at 144/86 mmHg in the setting of a reported 9-year history of hypertension. Ongoing outpatient monitoring and risk-factor modification are indicated.
+
+3. Non-alcoholic fatty liver disease
+
+Chronic history of approximately 15 years. This is relevant to selection and monitoring of lipid-lowering therapy and reinforces the need for weight and dietary management.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and overall cardiovascular risk. Recommend initiation of evidence-based lipid-lowering therapy after shared decision-making, with a high-intensity statin generally appropriate for this degree of LDL elevation unless contraindicated or not tolerated. Review medication risks, benefits, potential adverse effects, and adherence expectations before prescribing.
+
+Recommend a heart-healthy, Mediterranean-style eating pattern emphasizing vegetables, fruits, whole grains, legumes, fish, and lean proteins while reducing saturated fat, trans fat, refined carbohydrates, and excess dietary cholesterol. Encourage regular aerobic and resistance activity as tolerated, gradual weight reduction, and avoidance of tobacco exposure. His current BMI is 28.6 kg/m².
+
+Recommend confirmation with a fasting lipid panel and evaluation for potentially reversible secondary contributors before or shortly after treatment initiation, including appropriate assessment of liver and metabolic status given his history of non-alcoholic fatty liver disease. Consider ApoB and lipoprotein(a) measurement to further characterize long-term cardiovascular risk. Coronary artery calcium imaging may be considered if treatment decisions remain uncertain after risk discussion.
+
+Recommend home blood pressure monitoring and review of readings at follow-up. Continue lifestyle measures addressing sodium intake, weight, physical activity, and dietary quality.
+
+Follow up after lipid evaluation and treatment discussion to assess adherence, tolerance, blood pressure trend, and response to therapy.

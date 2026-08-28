@@ -1,0 +1,46 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Jane Watson is a 64-year-old woman, height 153 cm, weight 51.3 kg, BMI 21.9 kg/m², with a 32-year history of chronic kidney disease. Relevant comorbidities include hypertension for 9 years, anemia of chronic disease for 16 years, and secondary hyperparathyroidism for 1 year. She does not smoke.
+
+She denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, or shortness of breath. The encounter is focused on medication effectiveness, adherence, and tolerance. No active medication regimen is identified for review today; therefore, medication-specific effectiveness, adherence, and adverse effects cannot be assessed. She reports no current uremic or volume-overload symptoms.
+
+Objective
+
+Vital signs: Blood pressure 151/89 mmHg, pulse 83 bpm, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 97%.
+
+Laboratory data:
+Serum creatinine 3.98 mg/dL.
+Estimated GFR 12 mL/min/1.73 m².
+BUN 86 mg/dL.
+
+No additional examination findings are documented.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function, reflected by creatinine 3.98 mg/dL, eGFR 12 mL/min/1.73 m², and BUN 86 mg/dL. She is currently without reported uremic or fluid-overload symptoms. Given the longstanding disease and current laboratory values, this requires prompt specialist assessment and active renal management.
+
+Hypertension, currently above goal at 151/89 mmHg. The absence of an identified antihypertensive regimen prevents assessment of treatment effectiveness or adherence.
+
+Anemia of chronic disease, longstanding. No current hemoglobin value is available in the provided data.
+
+Secondary hyperparathyroidism, present for approximately 1 year. No current calcium, phosphorus, or parathyroid hormone values are provided.
+
+Medication review: No current medications are identified. Renal dosing, adherence, therapeutic response, and medication tolerance should be specifically confirmed at the next medication reconciliation.
+
+Plan
+
+Recommend prompt nephrology evaluation given the substantially reduced eGFR and elevated BUN. Discuss renal replacement planning and conservative management options as clinically appropriate, without waiting for development of symptoms.
+
+Perform comprehensive medication reconciliation, including prescription, over-the-counter, and herbal products. Avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic agents unless specifically directed by a treating clinician. Any medications should be reviewed for renal dosing and interactions.
+
+Reassess blood pressure and establish or optimize an individualized antihypertensive regimen through the treating clinician. Encourage adherence once a regimen is confirmed and review tolerance at follow-up.
+
+Recommend serum electrolytes, bicarbonate, calcium, phosphorus, CBC, and intact parathyroid hormone assessment to guide management of advanced kidney disease, anemia, and secondary hyperparathyroidism. Recommend urine albumin-to-creatinine ratio and renal ultrasound as part of renal evaluation if not recently completed.
+
+Counsel regarding urgent evaluation for new shortness of breath, progressive edema, persistent nausea or vomiting, confusion, marked reduction in urine output, chest pain, or severe weakness.
+
+Follow up promptly after medication reconciliation and renal evaluation.

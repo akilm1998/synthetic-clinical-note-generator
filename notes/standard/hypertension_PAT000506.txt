@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for hypertension.
+
+Subjective
+
+Maria Armstrong is a 98-year-old woman presenting for outpatient follow-up of longstanding hypertension, present for approximately 41 years. Blood pressure has not been actively managed. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis.
+
+Relevant comorbidities include chronic kidney disease of approximately 53 years’ duration and coronary artery disease of approximately 45 years’ duration. She does not smoke. Height is 163 cm and weight is 56.9 kg, with BMI 21.4 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 177/106 mmHg; pulse 78 bpm; respiratory rate 18/min; temperature 36.9°C; oxygen saturation 97%.
+
+Serum electrolytes: sodium 137 mmol/L, potassium 4.4 mmol/L.
+
+Assessment
+
+1. Essential hypertension, longstanding and currently markedly elevated at 177/106 mmHg. She is asymptomatic today without reported features of acute end-organ symptoms. Given her age and history of chronic kidney disease and coronary artery disease, this requires prompt reassessment and active outpatient management.
+
+2. Chronic kidney disease, longstanding. Current sodium and potassium are within the provided reference ranges; additional renal function information is not available in today’s data.
+
+3. Coronary artery disease, longstanding. No current chest pain, dyspnea, or palpitations reported.
+
+Plan
+
+1. Repeat blood pressure after a period of seated rest using an appropriately sized cuff and confirm the reading manually if possible. Assess for orthostatic symptoms and measurements given her advanced age.
+
+2. Discuss initiation of antihypertensive therapy with careful titration, taking into account her chronic kidney disease, coronary artery disease, age, fall risk, and potential for orthostatic hypotension. Medication selection and dosing should be guided by renal function, blood pressure response, and tolerance.
+
+3. Recommend prompt reassessment of renal function and electrolytes before and after starting or adjusting therapy. Urinalysis, ECG, and lipid profile are reasonable components of cardiovascular and hypertension evaluation.
+
+4. Review dietary sodium intake, hydration, physical activity as tolerated, and avoidance of excess alcohol. She is a nonsmoker.
+
+5. Advise immediate emergency evaluation for new severe headache, chest pain, shortness of breath, neurologic changes, acute visual symptoms, or epistaxis, or for persistently severe blood pressure elevation accompanied by symptoms.
+
+6. Arrange close blood pressure follow-up rather than routine long-interval monitoring, with home readings if feasible and safe.

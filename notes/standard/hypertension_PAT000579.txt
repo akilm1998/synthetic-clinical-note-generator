@@ -1,0 +1,61 @@
+Chief Complaint
+
+Initial consultation for elevated blood pressure.
+
+History of Present Illness
+
+Ashton Murray is a 62-year-old man presenting for initial outpatient evaluation of hypertension, present for approximately 10 years and currently without active management. Blood pressure today is 158/100 mmHg. He reports intermittent dizziness, palpitations, and fatigue. He denies headache, blurred vision, chest pain, shortness of breath, or epistaxis. He does not smoke. His medical history is also notable for chronic kidney disease of approximately 21 years’ duration and hyperlipidemia of approximately 27 years’ duration. No current antihypertensive regimen is provided.
+
+Past Medical History
+
+Essential hypertension, approximately 10 years.
+Chronic kidney disease, approximately 21 years.
+Hyperlipidemia, approximately 27 years.
+
+Social History
+
+Never smoker. Additional lifestyle factors, including dietary sodium intake, physical activity, and alcohol use, should be reviewed as part of cardiovascular risk assessment.
+
+Medications
+
+No current medications documented.
+
+Allergies
+
+Not documented.
+
+Review of Systems
+
+Positive for dizziness, palpitations, and fatigue. Negative for headache, visual blurring, chest pain, dyspnea, and nosebleeds.
+
+Objective
+
+Vital signs: Blood pressure 158/100 mmHg. Pulse 72 beats/minute. Respiratory rate 15/minute. Temperature 36.8°C. Oxygen saturation 99% on room air.
+
+Height 161 cm. Weight 70.0 kg. BMI 27.0 kg/m².
+
+Laboratory data: Sodium 137 mmol/L. Potassium 4.8 mmol/L.
+
+Physical examination findings supplied for this encounter are limited to the above vital signs and laboratory data. He is not described as having acute cardiopulmonary or neurologic symptoms at the time of evaluation.
+
+Assessment
+
+Persistent essential hypertension with markedly elevated office blood pressure in a patient whose hypertension has been untreated for approximately 10 years. The presence of chronic kidney disease substantially increases cardiovascular and renal risk and makes confirmation of renal function and careful selection of therapy important. Current sodium and potassium are within the provided reference context, although the potassium of 4.8 mmol/L warrants consideration when selecting and monitoring renin-angiotensin system therapy.
+
+Intermittent dizziness, palpitations, and fatigue may occur in the setting of uncontrolled blood pressure but are nonspecific. He currently denies symptoms suggestive of hypertensive emergency, including chest pain, dyspnea, severe headache, visual disturbance, or epistaxis.
+
+Hyperlipidemia, longstanding, with additional cardiovascular risk related to age, overweight status, hypertension, and chronic kidney disease.
+
+Plan
+
+Repeat blood pressure measurement after appropriate seated rest and arrange home blood pressure monitoring with a written log to assess persistence and degree of elevation. Review technique, including a properly sized cuff and measurements taken at consistent times.
+
+Given the degree and duration of blood pressure elevation and the history of chronic kidney disease, initiate a structured treatment discussion promptly rather than continuing observation alone. Medication selection should be guided by current renal function, urine protein assessment, potassium level, comorbidities, and tolerance. Any antihypertensive therapy affecting renal perfusion or potassium should be followed with repeat renal function and electrolyte testing after initiation or dose adjustment.
+
+Obtain clinically appropriate baseline evaluation, including serum creatinine with estimated renal function, urine albumin or protein assessment, urinalysis, fasting lipid profile, and electrocardiogram. Review prior renal and lipid records if available. Assess for target-organ involvement and cardiovascular risk during follow-up.
+
+Counseled regarding reduction of dietary sodium, regular physical activity as tolerated, weight control, moderation of alcohol if applicable, and adherence to a consistent blood pressure monitoring and treatment plan.
+
+Discussed urgent evaluation for chest pain, shortness of breath, new neurologic symptoms, severe headache, acute visual change, confusion, or substantially worsening blood pressure readings.
+
+Follow-up should be arranged promptly for blood pressure reassessment, review of home readings and recommended testing, and establishment of an ongoing hypertension management regimen.

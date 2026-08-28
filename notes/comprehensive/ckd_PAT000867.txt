@@ -1,0 +1,73 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+History of Present Illness
+
+Nathan Jenkins is a 44-year-old man, height 190 cm, weight 101.8 kg, BMI 28.2 kg/m², presenting for routine outpatient follow-up of chronic kidney disease diagnosed approximately 6 years ago. His course is complicated by 9 years of type 2 diabetes mellitus, coronary artery disease diagnosed 1 year ago, and secondary hyperparathyroidism diagnosed 1 year ago. Current laboratory data demonstrate creatinine 5.86 mg/dL, BUN 76 mg/dL, and estimated GFR 8 mL/min/1.73 m², indicating severe reduction in kidney filtration and requiring prompt reassessment of renal care needs.
+
+He reports persistent fatigue. He denies pruritus, nausea, muscle cramps, sleep disturbance, peripheral edema, change in urinary frequency, or shortness of breath. There is no reported interval symptom suggestive of acute volume overload or overt uremic gastrointestinal symptoms. His chronic kidney disease has not been under active treatment or structured management, and no current medication regimen is provided for review.
+
+He continues to smoke. The quantity and duration of tobacco use are not documented. No medication allergies, prior procedures, hospitalizations, or family history are provided.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms reported.
+
+Eyes: No visual complaints reported.
+
+ENT: No symptoms reported.
+
+Cardiovascular: History of coronary artery disease. No chest pain, palpitations, or peripheral edema reported.
+
+Respiratory: No shortness of breath reported.
+
+Gastrointestinal: No nausea reported. No other gastrointestinal symptoms reported.
+
+Genitourinary: No change in urinary frequency reported.
+
+Musculoskeletal: No muscle cramps reported.
+
+Skin: No pruritus reported.
+
+Neurologic: No neurologic symptoms or sleep disturbance reported.
+
+Endocrine: History of type 2 diabetes mellitus and secondary hyperparathyroidism.
+
+Hematologic: No bleeding symptoms reported.
+
+Psychiatric: No psychiatric symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 134/84 mmHg, pulse 84 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 98%.
+
+Anthropometrics: Height 190 cm, weight 101.8 kg, BMI 28.2 kg/m².
+
+Laboratory Data: Serum creatinine 5.86 mg/dL. BUN 76 mg/dL. Estimated GFR 8 mL/min/1.73 m².
+
+Physical examination is notable from the available encounter data for stable vital signs and absence of reported peripheral edema or respiratory distress. No additional examination findings are documented.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function, present for approximately 6 years, in the setting of longstanding type 2 diabetes mellitus and hypertension risk. Creatinine is 5.86 mg/dL, BUN 76 mg/dL, and estimated GFR 8 mL/min/1.73 m². Although he currently reports only fatigue and denies pruritus, nausea, muscle cramps, sleep disturbance, edema, urinary frequency changes, or dyspnea, these values represent advanced renal impairment with substantial risk for metabolic complications and progression to kidney failure. The lack of active disease management is concerning.
+
+Type 2 diabetes mellitus of 9 years’ duration, a likely contributor to chronic kidney disease. Current glycemic control data are not provided.
+
+Secondary hyperparathyroidism, diagnosed 1 year ago, occurring in the context of chronic kidney disease. No calcium, phosphate, or intact parathyroid hormone results are available in the provided data.
+
+Coronary artery disease, diagnosed 1 year ago. He is currently hemodynamically stable by the available vital signs and reports no chest pain or dyspnea.
+
+Tobacco use, ongoing. Continued smoking increases cardiovascular and renal risk.
+
+Plan
+
+The degree of renal dysfunction warrants prompt nephrology evaluation rather than routine surveillance alone. Recommend expedited assessment to clarify current renal trajectory, evaluate for complications of advanced chronic kidney disease, and discuss kidney replacement therapy planning if clinically indicated. He should seek emergency care for new or worsening shortness of breath, chest pain, confusion, persistent vomiting, marked weakness, rapidly increasing swelling, or a substantial change in urine output.
+
+Recommend repeat renal function and serum electrolyte assessment, along with urine albumin-to-creatinine ratio, complete blood count, and intact parathyroid hormone measurement. Renal ultrasound is also clinically appropriate to assess kidney structure and exclude a reversible obstructive process. These studies should be coordinated promptly with nephrology.
+
+Review and optimize management of diabetes, blood pressure, coronary artery disease, and cardiovascular risk in a kidney-conscious manner. Medication reconciliation is essential before initiating or adjusting therapy; no current medications are documented. Avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic over-the-counter agents unless specifically directed by a treating clinician. Any medication dosing should be adjusted for the degree of renal impairment.
+
+Counsel regarding sodium moderation, avoidance of excessive dietary protein supplements, maintenance of appropriate hydration without forced fluid intake, and monitoring for edema, dyspnea, nausea, pruritus, cramps, sleep disturbance, and urinary changes. Strongly recommend smoking cessation and offer structured cessation support.
+
+Continue close outpatient follow-up after expedited renal evaluation, with reassessment of symptoms, laboratory results, blood pressure, volume status, diabetes management, and secondary hyperparathyroidism.

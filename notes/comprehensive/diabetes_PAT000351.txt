@@ -1,0 +1,59 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Marcus Cross is a 66-year-old man presenting for routine outpatient follow-up of approximately 20 years of type 2 diabetes mellitus. Current glycemic control is poor, with recent hemoglobin A1c of 9.6% and fasting glucose of 227 mg/dL. He reports tingling in the hands or feet but denies numbness. He denies increased thirst, frequent urination, increased hunger, blurred vision, fatigue, unintentional weight loss, slow-healing wounds, or recurrent infections.
+
+He has longstanding obesity, present for approximately 31 years, with current weight 108.7 kg, height 176 cm, and BMI 35.1 kg/m². He continues to smoke. No current diabetes medications or other medication regimen are provided for review.
+
+Review of Systems
+
+Constitutional: Denies fatigue or unintentional weight loss.
+
+Eyes: Denies blurred vision.
+
+Endocrine: Denies polydipsia, polyuria, or polyphagia.
+
+Neurologic: Reports tingling involving the hands or feet. Denies numbness.
+
+Skin: Denies slow-healing wounds.
+
+Infectious: Denies frequent infections.
+
+No additional symptoms are reported in the available interval history.
+
+Objective
+
+Vital Signs: Blood pressure 132/79 mmHg, pulse 81 beats/min, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 176 cm; weight 108.7 kg; BMI 35.1 kg/m².
+
+General: Obese older adult male presenting for ambulatory follow-up.
+
+Laboratory Data:
+Hemoglobin A1c: 9.6%.
+Fasting plasma glucose: 227 mg/dL.
+
+Physical examination is notable for obesity and reported distal tingling. No diabetic wounds or other diabetes-related physical findings are reported in the available examination data.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complication, with suboptimal glycemic control. Hemoglobin A1c of 9.6% and fasting glucose of 227 mg/dL indicate clinically significant hyperglycemia despite the absence of osmotic or constitutional symptoms. The approximately 20-year disease duration and distal tingling raise concern for possible early peripheral neuropathic symptoms, although neuropathy is not formally established on the information available. There is no reported weight loss, recurrent infection, visual disturbance, or impaired wound healing.
+
+Obesity, BMI 35.1 kg/m², longstanding.
+
+Current tobacco use, which increases cardiovascular and microvascular risk in the setting of diabetes.
+
+Plan
+
+Discussed the significance of the elevated A1c and fasting glucose and the importance of active diabetes management. Establish or intensify a structured diabetes treatment regimen; medication selection should account for renal function, cardiovascular risk, contraindications, cost, and patient preference. Metformin would generally be considered if renal function permits, with additional therapy likely warranted given the degree of hyperglycemia. Insulin therapy may be considered if glycemic control cannot be promptly improved or if symptoms of marked hyperglycemia develop.
+
+Recommend home glucose monitoring with fasting and, when clinically appropriate, postprandial measurements; review glucose data at the next visit. Counsel regarding consistent carbohydrate intake, avoidance of sugar-sweetened beverages, portion control, and gradual progression toward regular physical activity as tolerated.
+
+Recommend assessment of renal function and urine albumin-to-creatinine ratio before finalizing medication therapy, along with fasting lipid evaluation for cardiovascular risk assessment. Recommend comprehensive diabetic foot examination, including skin integrity, pulses, and protective sensation, given the reported distal tingling. Recommend dilated retinal evaluation as part of routine diabetes complication surveillance.
+
+Discussed weight reduction as an important component of glycemic management. Smoking cessation counseling provided, including the increased vascular risk associated with continued tobacco use.
+
+Reassess glycemic response and treatment tolerance after initiation or adjustment of therapy, with repeat A1c at an appropriate interval. Advise earlier evaluation for progressive numbness, foot wounds, visual changes, polyuria, polydipsia, vomiting, or unexplained weight loss.

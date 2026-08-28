@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Sean Palmer is a 42-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 13 years ago. He reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling in the hands or feet. Current diabetes control is suboptimal, with no established glucose-lowering treatment regimen documented.
+
+He also has an approximately 8-year history of dyslipidemia. He does not smoke. No medication use, allergies, or interval complications are documented.
+
+Objective
+
+Vital signs: Blood pressure 123/75 mmHg, pulse 76 beats/min, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 171 cm, weight 76.9 kg, BMI 26.3 kg/m².
+
+Laboratory data: Hemoglobin A1c 9.7%. Fasting glucose 225 mg/dL.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complications, with marked hyperglycemia. Glycemic indices are substantially above goal despite the absence of polyuria, polydipsia, visual symptoms, constitutional symptoms, or peripheral sensory complaints. Given the 13-year duration and current degree of hyperglycemia, treatment intensification is indicated rather than continued observation alone.
+
+2. Dyslipidemia, present for approximately 8 years. No lipid values or current lipid-lowering therapy are provided.
+
+3. Overweight, BMI 26.3 kg/m².
+
+4. Tobacco use: none reported.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the importance of active diabetes management. Recommend prompt initiation or re-establishment of an evidence-based glucose-lowering regimen after medication reconciliation and review of contraindications; pharmacologic therapy should not be deferred given the degree of hyperglycemia. Review home glucose monitoring, hypoglycemia precautions if therapy capable of causing hypoglycemia is prescribed, nutrition, portion control, regular physical activity, and weight reduction.
+
+Recommend repeat HbA1c and fasting glucose to assess response to therapy, along with urine albumin-to-creatinine ratio, serum creatinine/eGFR, and fasting lipid profile for diabetes risk stratification and evaluation of end-organ status. Recommend routine diabetic retinal evaluation and comprehensive foot examination, including assessment of protective sensation and peripheral pulses. Continue cardiovascular risk-factor modification, including dietary management, physical activity, and formal assessment of dyslipidemia treatment needs.
+
+Follow up after treatment initiation and review of glucose data and laboratory testing to reassess glycemic control and modify management.

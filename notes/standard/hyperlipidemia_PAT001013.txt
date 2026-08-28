@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+William Turner is an 84-year-old man seen for follow-up of longstanding hyperlipidemia, present for approximately 44 years and not currently actively managed. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He does not smoke.
+
+Relevant comorbidities include coronary artery disease for 32 years, hypertension for 37 years, and longstanding obesity. No lipid-lowering medications are documented for today’s visit.
+
+Objective
+
+Vital Signs: Blood pressure 158/85 mmHg, pulse 78 bpm, respiratory rate 21/min, temperature 37.0°C, oxygen saturation 95%.
+
+Height 174 cm; weight 116.9 kg; BMI 38.6 kg/m².
+
+Recent lipid panel:
+Total cholesterol 344 mg/dL
+LDL cholesterol 247 mg/dL
+HDL cholesterol 39 mg/dL
+Triglycerides 289 mg/dL
+
+Assessment
+
+Hyperlipidemia, unspecified. Markedly elevated total cholesterol and LDL cholesterol with low HDL and elevated triglycerides. Lipid control is currently inadequate in the setting of established coronary artery disease, hypertension, and obesity. Patient denies current cardiovascular or peripheral vascular symptoms.
+
+Plan
+
+Discussed the significance of the lipid results and the increased cardiovascular risk associated with persistent severe dyslipidemia and known coronary artery disease.
+
+Recommend initiation of evidence-based lipid-lowering therapy, with selection based on shared decision-making, medication history, potential interactions, and tolerance. Given the degree of LDL elevation and coronary artery disease, a high-intensity statin would generally be appropriate; consider addition of nonstatin therapy if treatment goals are not achieved or if statin intolerance develops.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider baseline safety laboratory assessment as clinically appropriate before pharmacologic therapy.
+
+Counseled on reducing saturated and trans fats, limiting refined carbohydrates, increasing dietary fiber, pursuing gradual weight reduction, and engaging in physical activity as tolerated. Continue tobacco avoidance.
+
+Advised to seek urgent evaluation for new or worsening chest discomfort, significant shortness of breath, dizziness, or exertional leg pain. Continue routine follow-up for lipid management and cardiovascular risk reduction.

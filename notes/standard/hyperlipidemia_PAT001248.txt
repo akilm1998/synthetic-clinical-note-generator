@@ -1,0 +1,33 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Pamela Donovan is a 48-year-old woman presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 5 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. She does not smoke.
+
+Her medical history is also significant for type 2 diabetes mellitus for 10 years and chronic kidney disease for 7 years. No medication regimen is provided for review today.
+
+Objective
+
+Height 167 cm, weight 79.8 kg, BMI 28.6 kg/m². Blood pressure 129/85 mmHg, pulse 69 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 99% on room air.
+
+Recent lipid panel: total cholesterol 349 mg/dL, LDL cholesterol 253 mg/dL, HDL cholesterol 49 mg/dL, and triglycerides 237 mg/dL. No xanthomas or xanthelasma are reported. No cardiovascular or neurologic symptoms are reported.
+
+Assessment
+
+Hyperlipidemia, unspecified, with markedly elevated LDL cholesterol and elevated triglycerides. The LDL level of 253 mg/dL represents severe untreated hypercholesterolemia and, in the setting of diabetes and chronic kidney disease, confers substantially increased long-term atherosclerotic cardiovascular risk despite the absence of current symptoms. HDL is 49 mg/dL. Overweight status may also contribute to cardiometabolic risk.
+
+Type 2 diabetes mellitus, 10-year duration, relevant to cardiovascular risk assessment.
+
+Chronic kidney disease, 7-year duration, relevant to lipid treatment selection and monitoring.
+
+Plan
+
+Discussed the significance of the lipid results and the importance of initiating evidence-based lipid-lowering therapy. Recommend prompt shared decision-making regarding a high-intensity statin, with treatment adjusted as needed for tolerance, kidney function, and response. If LDL reduction remains inadequate or a statin is not tolerated, addition of a non-statin agent such as ezetimibe and consideration of specialist-directed therapy may be appropriate.
+
+Counseled on a heart-healthy eating pattern emphasizing reduction of saturated and trans fats, refined carbohydrates, and excess dietary cholesterol; increased intake of vegetables, fruits, legumes, whole grains, and soluble fiber; and weight reduction through regular physical activity as tolerated. Continue avoidance of tobacco.
+
+Recommend confirmation of the fasting lipid profile if the current sample was not fasting and assessment for secondary contributors to severe dyslipidemia, with attention to diabetes control, kidney disease, thyroid function, liver status, and medication-related causes. Consider measurement of lipoprotein(a) or apolipoprotein B for additional risk stratification, particularly given the markedly elevated LDL level. Review the need for cardiovascular risk assessment based on the overall clinical picture.
+
+Patient advised to seek urgent evaluation for new chest pain, shortness of breath, focal neurologic symptoms, or exertional leg pain. Arrange close outpatient follow-up after treatment initiation to review tolerance, adherence, lipid response, and ongoing diabetes and chronic kidney disease management.

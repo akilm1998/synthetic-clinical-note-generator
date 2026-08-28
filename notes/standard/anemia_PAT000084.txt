@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Allison Hamilton is an 88-year-old woman presenting for outpatient follow-up of anemia present for approximately 14 years. She reports headache but denies fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. Pallor has been noted. She is not currently receiving active anemia-directed management.
+
+Relevant chronic conditions include chronic infection of 56 years’ duration, malignancy present for 5 years, and rheumatoid arthritis present for 17 years. She reports current tobacco use. Height is 156 cm and weight is 71.1 kg, with BMI 29.2 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 135/81 mmHg, pulse 86 bpm, respiratory rate 20/min, temperature 37.0°C, oxygen saturation 95%.
+
+General: Alert, without reported acute cardiopulmonary symptoms. Pallor present.
+
+Cardiovascular: Normal cardiovascular examination; no tachycardia.
+
+Respiratory: Normal respiratory examination.
+
+Laboratory results: Hemoglobin 9.4 g/dL, hematocrit 29.1%, RBC count 3.64 million/µL, MCV 80 fL, serum iron 21 µg/dL, ferritin 267 ng/mL, TIBC 191 µg/dL, and transferrin saturation 11%.
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding. Hemoglobin and hematocrit remain reduced with low serum iron, low TIBC, and ferritin in the normal-to-elevated range, a pattern compatible with impaired iron availability associated with chronic inflammation. Her chronic infection, rheumatoid arthritis, and malignancy are relevant contributors. The MCV is at the lower end of normal, and the low transferrin saturation also warrants consideration of concurrent iron-restricted erythropoiesis. She is clinically stable without reported dyspnea, palpitations, dizziness, or reduced exercise tolerance, though headache and pallor persist.
+
+Tobacco use. Current smoking may adversely affect overall health and chronic disease control.
+
+Overweight by BMI, with BMI 29.2 kg/m².
+
+Plan
+
+Obtain an updated complete blood count with reticulocyte count and peripheral smear to reassess the anemia and marrow response. Recommend serum vitamin B12, folate, renal function testing, and inflammatory markers as clinically appropriate. Review for evidence of ongoing blood loss and reassess nutritional intake and chronic disease activity.
+
+Given the low transferrin saturation despite ferritin of 267 ng/mL, distinguish functional iron restriction from coexisting iron deficiency before initiating iron therapy. Consider oral or intravenous iron only after clinical review of the complete evaluation and tolerance, with treatment directed by the underlying chronic inflammatory conditions. If anemia worsens, becomes symptomatic, or remains unexplained, recommend hematology consultation.
+
+Continue monitoring for worsening fatigue, weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or other signs of symptomatic anemia. Encourage smoking cessation and continued follow-up for her chronic infection, rheumatoid arthritis, and malignancy. Reassess after repeat laboratory evaluation.

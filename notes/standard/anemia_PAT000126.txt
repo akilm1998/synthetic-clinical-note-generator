@@ -1,0 +1,27 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Autumn West is a 44-year-old woman presenting for routine follow-up of anemia in the setting of 12-year history of rheumatoid arthritis. She reports headache but denies fatigue, generalized weakness, dizziness, dyspnea, palpitations, reduced exercise tolerance, or perceived pallor. No acute cardiopulmonary symptoms are reported. Her anemia has not been actively managed. She is a current smoker.
+
+Objective
+
+Height 164 cm, weight 58.9 kg, BMI 21.9 kg/m². Blood pressure 123/75 mmHg, pulse 89 bpm, respiratory rate 20/min, temperature 36.7°C, oxygen saturation 97%.
+
+Laboratory results: hemoglobin 9.2 g/dL, hematocrit 27.2%, RBC count 3.36 million/µL, MCV 81 fL, serum iron 28 µg/dL, ferritin 500 ng/mL, TIBC 209 µg/dL, and transferrin saturation 13.4%.
+
+Assessment
+
+Anemia consistent with chronic inflammation in the context of longstanding rheumatoid arthritis. Hemoglobin and hematocrit are reduced, with a low-normal MCV, low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC. This pattern supports inflammation-associated iron sequestration and may warrant evaluation for a concurrent iron-restricted component. She is currently hemodynamically stable and reports headache without other clinically significant anemia-related symptoms.
+
+Plan
+
+Obtain repeat complete blood count with reticulocyte count and peripheral smear to assess persistence and marrow response. Recommend serum vitamin B12, folate, renal function testing, and inflammatory markers as part of the evaluation for reversible or contributory causes.
+
+Review rheumatoid arthritis activity and inflammatory disease control, as ongoing inflammation may be contributing to the anemia. Consider rheumatology coordination if inflammatory disease remains active.
+
+Review iron studies in clinical context before initiating supplementation; elevated ferritin with low TIBC favors functional iron restriction rather than uncomplicated iron deficiency. Consider oral or intravenous iron only if subsequent evaluation supports benefit. Erythropoiesis-stimulating therapy is not indicated for initiation without further evaluation and an appropriate underlying indication.
+
+Counseled regarding smoking cessation. Monitor for worsening fatigue, dyspnea, palpitations, dizziness, chest discomfort, or other signs of symptomatic anemia. Follow up after the recommended evaluation to reassess hemoglobin and management.

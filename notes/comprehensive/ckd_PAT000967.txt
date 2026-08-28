@@ -1,0 +1,67 @@
+Chief Complaint
+
+Initial consultation for chronic kidney disease.
+
+Subjective
+
+Julian Holland is a 47-year-old man, height 185 cm, weight 89.7 kg, BMI 26.2 kg/m², presenting for initial outpatient evaluation of chronic kidney disease. He reports a 15-year history of chronic kidney disease and a 13-year history of hypertension. He also has anemia attributed to chronic disease, present for approximately 4 years. His kidney disease has not been under active management.
+
+He reports fatigue. He denies pruritus, muscle cramps, nausea, peripheral edema, changes in urination frequency, sleep disturbance, and shortness of breath. He does not smoke. No current medication list, allergy history, prior renal imaging, or prior nephrology treatment details are provided for review today.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms reported.
+
+Respiratory: Denies shortness of breath.
+
+Cardiovascular: Denies peripheral edema.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urinary frequency.
+
+Musculoskeletal: Denies muscle cramps.
+
+Skin: Denies pruritus.
+
+Neurologic/Sleep: Denies sleep disturbance.
+
+Objective
+
+Vital Signs:
+Blood pressure 152/97 mmHg
+Pulse 74 beats/min
+Respiratory rate 18/min
+Temperature 36.7°C
+Oxygen saturation 98%
+
+Laboratory Data:
+Serum creatinine 3.88 mg/dL
+BUN 94 mg/dL
+Estimated GFR 13 mL/min/1.73 m²
+
+Physical examination findings available from this encounter are limited to the documented vital signs and symptom review. He is not reporting dyspnea or peripheral swelling. No additional examination findings are provided.
+
+Assessment
+
+1. Chronic kidney disease, longstanding, with markedly reduced renal function. Creatinine is 3.88 mg/dL, BUN 94 mg/dL, and estimated GFR 13 mL/min/1.73 m². The duration of approximately 15 years and associated chronic anemia support longstanding renal disease. He currently reports fatigue but no nausea, pruritus, muscle cramps, sleep disturbance, urinary change, edema, or shortness of breath. The high BUN and degree of renal impairment warrant prompt nephrology involvement and assessment for complications and renal replacement planning, even in the absence of prominent uremic or volume-overload symptoms.
+
+2. Hypertension, present for approximately 13 years, currently above goal at 152/97 mmHg. Uncontrolled hypertension is both a likely contributor to ongoing renal injury and a modifiable risk factor for progression.
+
+3. Anemia of chronic disease, present for approximately 4 years, likely associated with chronic kidney disease. Current hemoglobin data are not provided; characterization and treatment status require review.
+
+4. Fatigue, likely multifactorial, with advanced renal impairment and known chronic anemia as important considerations.
+
+Plan
+
+Arrange prompt nephrology consultation for comprehensive CKD management, evaluation of renal complications, and discussion of future renal replacement options if clinically indicated. Given the markedly reduced estimated GFR and elevated BUN, he should seek urgent medical attention for new or worsening nausea, vomiting, confusion, marked somnolence, progressive weakness, chest pain, shortness of breath, rapidly increasing swelling, or substantially decreased urine output.
+
+Obtain or review a complete serum electrolytes and renal function panel, CBC, urine albumin-to-creatinine ratio, intact parathyroid hormone level, and renal ultrasound as part of the initial CKD evaluation. These studies will help assess electrolyte and acid-base complications, anemia, proteinuria, mineral-bone disorder, and structural kidney disease.
+
+Perform medication reconciliation at the earliest opportunity. Avoid NSAIDs and other potentially nephrotoxic over-the-counter medications unless specifically approved by a clinician. All future medications should be reviewed for renal dosing. Maintain appropriate hydration without excessive fluid intake; sodium restriction and individualized dietary counseling are recommended.
+
+Reassess blood pressure promptly with home readings if available. Hypertension requires active treatment and careful selection or adjustment of therapy in the context of substantially impaired renal function; treatment decisions should be made after medication reconciliation, review of potassium and other electrolytes, and assessment of volume status.
+
+Review the history and management of his chronic anemia and obtain current blood counts and iron-related studies as clinically appropriate before considering therapy. Do not initiate erythropoiesis-stimulating therapy or phosphate/mineral-bone medications without laboratory assessment and specialist guidance.
+
+Follow up closely after the recommended testing and nephrology evaluation, with earlier reassessment for any change in symptoms.

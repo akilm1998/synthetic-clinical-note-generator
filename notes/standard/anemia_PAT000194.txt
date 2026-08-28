@@ -1,0 +1,33 @@
+Chief Complaint
+
+Medication review and follow-up of chronic anemia.
+
+Subjective
+
+Justin Richardson is an 86-year-old man presenting for outpatient review of longstanding anemia, reported duration approximately 29 years. He denies fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, shortness of breath, palpitations, or other anemia-related symptoms. Anemia has not been under active treatment. No anemia-directed medication regimen is documented for assessment of effectiveness, adherence, or tolerance.
+
+Relevant comorbidities include chronic infection for approximately 32 years and malignancy for approximately 9 years. He currently smokes. Height is 186 cm, weight 84.4 kg, BMI 24.4 kg/m².
+
+Objective
+
+Vital signs: BP 138/76 mmHg, pulse 83 bpm, respiratory rate 22/min, temperature 36.8°C, oxygen saturation 95%.
+
+Laboratory results: Hemoglobin 9.3 g/dL, hematocrit 27.7%, RBC 3.04 million/µL, MCV 91 fL. Serum iron 50 µg/dL, ferritin 494 ng/mL, TIBC 208 µg/dL, transferrin saturation 24%.
+
+Assessment
+
+Chronic normocytic anemia with hemoglobin 9.3 g/dL. The low serum iron and TIBC with elevated ferritin are most consistent with anemia related to chronic inflammation, in the setting of longstanding chronic infection and malignancy. There is no current report of symptomatic anemia or hemodynamic instability. The prolonged duration supports a chronic process. Iron deficiency is not clearly demonstrated by the available iron profile, and empiric iron therapy should be avoided until the overall etiology is clarified.
+
+Medication review: No active anemia-directed therapy is identified, so treatment effectiveness, adherence, and tolerance cannot currently be assessed.
+
+Plan
+
+Continue clinical monitoring for fatigue, weakness, dizziness, dyspnea, palpitations, headache, pallor, or declining exercise tolerance.
+
+Obtain or review a complete blood count with reticulocyte count and peripheral smear, along with vitamin B12, folate, renal function, and inflammatory markers, to further characterize the anemia and assess for contributing factors.
+
+Continue evaluation and management of the underlying chronic infection and malignancy as clinically appropriate, as these are likely contributors to the inflammatory anemia.
+
+Reconcile all current medications at the next visit and determine whether anemia-directed treatment is indicated. Do not initiate routine oral or intravenous iron solely on the current results given the elevated ferritin and low TIBC.
+
+Seek urgent evaluation for new or worsening shortness of breath, chest discomfort, syncope, sustained palpitations, or marked weakness.

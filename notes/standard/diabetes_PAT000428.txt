@@ -1,0 +1,47 @@
+Chief Complaint
+
+Initial consultation for management of type 2 diabetes mellitus.
+
+Subjective
+
+Hunter Ford is a 47-year-old man presenting to establish outpatient care for type 2 diabetes mellitus diagnosed approximately 5 years ago. Diabetes has not been actively managed. Recent laboratory testing shows HbA1c 9.3% and fasting glucose 191 mg/dL. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+Relevant comorbidities include nonalcoholic fatty liver disease, present for approximately 9 years, and obstructive sleep apnea, present for approximately 8 years. He does not smoke. No current diabetes medications are provided.
+
+Objective
+
+Vital signs: Blood pressure 120/76 mmHg, pulse 68 bpm, respiratory rate 16/min, temperature 37.0°C, oxygen saturation 98% on room air.
+
+Height 178 cm. Weight 84.9 kg. BMI 26.8 kg/m².
+
+Laboratory results:
+HbA1c 9.3%.
+Fasting glucose 191 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, diagnosed approximately 5 years ago, currently with significant hyperglycemia based on HbA1c 9.3% and fasting glucose 191 mg/dL. Although he denies classic hyperglycemic symptoms and symptoms of neuropathy or infection, glycemic control is above goal and requires active treatment.
+
+Nonalcoholic fatty liver disease, longstanding. This increases the importance of weight management, glycemic control, and cardiovascular risk reduction.
+
+Obstructive sleep apnea, longstanding.
+
+BMI 26.8 kg/m², in the overweight range.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose, including the risk of future microvascular and cardiovascular complications despite the absence of current symptoms.
+
+Recommend initiation of active diabetes therapy, with metformin generally appropriate as first-line treatment if renal function permits. Obtain serum creatinine and estimated glomerular filtration rate before or at initiation to confirm safe use. Depending on response, tolerance, comorbid risk, and renal function, consider additional agents such as an SGLT2 inhibitor or other guideline-directed therapy.
+
+Recommend home glucose monitoring, particularly fasting glucose and occasional postprandial readings, with review of values at follow-up. Provide education regarding symptoms of marked hyperglycemia and hypoglycemia.
+
+Counseled regarding reduction of refined carbohydrates and sugar-sweetened beverages, portion control, increased vegetables and fiber, and regular physical activity. Encourage gradual weight reduction or weight maintenance with attention to the associated fatty liver disease.
+
+Recommend repeat HbA1c after approximately 3 months of active treatment to assess response. Obtain urine albumin-to-creatinine ratio, fasting lipid profile, serum creatinine, and estimated glomerular filtration rate as part of diabetes risk assessment. Recommend routine dilated retinal examination and comprehensive diabetic foot examination, including sensation and pulses. Continue monitoring for neuropathy, skin breakdown, visual changes, polyuria, polydipsia, and recurrent infections.
+
+Blood pressure is currently at goal. Continue cardiovascular risk assessment, including lipid management after fasting lipid results are available.
+
+Reinforce adherence to management of obstructive sleep apnea and review current sleep-related treatment at a subsequent visit.
+
+Follow up after initiation of the treatment plan and review of glucose readings and recommended laboratory evaluation; sooner for symptomatic hyperglycemia or other concerns.

@@ -1,0 +1,18 @@
+Chief Complaint
+Routine follow-up for chronic anemia.
+
+Subjective
+Abigail Reed is a 55-year-old woman with a 23-year history of anemia and chronic kidney disease for approximately 13 years, presenting for routine follow-up. She reports headache but denies fatigue, weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or awareness of pallor. Her anemia has not been under active management. She is a current smoker. Height is 172 cm and weight is 87.9 kg, with BMI 29.7 kg/m².
+
+Objective
+Vital signs: BP 136/89 mmHg, pulse 82 bpm, respiratory rate 17/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Laboratory results: Hemoglobin 9.4 g/dL, hematocrit 28.8%, RBC count 3.2 million/µL, MCV 90 fL. Serum iron 43 µg/dL, ferritin 171 ng/mL, TIBC 244 µg/dL, transferrin saturation 17.6%.
+
+Assessment
+Chronic normocytic anemia, most consistent with anemia of chronic inflammation in the setting of longstanding chronic kidney disease. Hemoglobin and hematocrit are reduced, with normal MCV. Low serum iron and transferrin saturation with preserved ferritin support impaired iron availability rather than isolated absolute iron depletion, although concurrent iron deficiency cannot be excluded based on the available data. She is currently minimally symptomatic aside from headache, with stable vital signs and no reported cardiopulmonary symptoms.
+
+Plan
+Discussed the laboratory pattern and likely contribution of chronic kidney disease and chronic inflammation. Recommend reassessment with repeat CBC, reticulocyte count, peripheral blood smear, renal function testing, inflammatory markers, vitamin B12, and folate levels. Consider evaluation for coexisting iron deficiency or occult blood loss if clinically indicated, particularly given the low transferrin saturation.
+
+Management should be coordinated with renal function and the underlying chronic disease. Review indications for oral or intravenous iron based on the complete iron profile and renal assessment; consideration of an erythropoiesis-stimulating agent should be guided by kidney function, anemia severity, symptoms, and specialist assessment rather than initiated empirically. Encourage smoking cessation as part of overall health optimization. Return for review of updated laboratory evaluation or sooner for new dyspnea, chest discomfort, palpitations, dizziness, worsening weakness, or other symptomatic decline.

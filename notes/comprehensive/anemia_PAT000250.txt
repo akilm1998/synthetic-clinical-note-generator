@@ -1,0 +1,29 @@
+Chief Complaint
+
+Urgent follow-up for anemia.
+
+Subjective
+
+Maria Armstrong is a 48-year-old woman presenting for focused follow-up of anemia identified approximately 4 years ago. She has not been receiving active management for the anemia. Relevant comorbidities include chronic kidney disease of 7 years’ duration and heart failure of 3 years’ duration. She reports no current fatigue, generalized weakness, dizziness, headache, pallor, reduced exercise tolerance, dyspnea, palpitations, or other cardiopulmonary symptoms. She is a current smoker. Height is 168 cm, weight 75.6 kg, BMI 26.8 kg/m².
+
+Objective
+
+Vital Signs: Blood pressure 140/86 mmHg, pulse 93 bpm, respiratory rate 21/min, temperature 36.8°C, oxygen saturation 98%.
+
+Laboratory Data: Hemoglobin 9.1 g/dL, hematocrit 27.6%, RBC 3.17 million/µL, MCV 87 fL, serum iron 36 µg/dL, ferritin 152 ng/mL, TIBC 222 µg/dL, transferrin saturation 16.2%.
+
+Physical Examination: Cardiovascular examination is without an abnormal finding provided; respiratory examination is without an abnormal finding provided. No pallor, tachycardia, or other examination abnormality is reported.
+
+Assessment
+
+Anemia consistent with anemia of chronic disease/inflammation, with likely contribution from chronic kidney disease. The anemia is moderate and normocytic, with low serum iron and transferrin saturation, reduced TIBC, and ferritin that is not low, a pattern favoring impaired iron availability in the setting of chronic disease rather than uncomplicated absolute iron deficiency. Her chronic kidney disease may contribute through reduced erythropoietic drive. She is currently clinically stable and denies symptoms suggestive of tissue hypoxia, although the hemoglobin level warrants structured evaluation and management. Heart failure is an important comorbidity when assessing tolerance of anemia and selecting therapy. Current smoking and mildly elevated blood pressure are additional cardiovascular considerations.
+
+Plan
+
+Obtain/repeat a complete blood count with reticulocyte count and peripheral blood smear to characterize marrow response and confirm persistence of the anemia. Recommend vitamin B12, folate, renal function testing, and inflammatory markers as clinically appropriate to exclude additional reversible contributors.
+
+Review the degree and trajectory of renal dysfunction and coordinate anemia management with the clinician managing her chronic kidney disease. Consider iron replacement only after assessment of overall iron status and clinical context; intravenous iron or an erythropoiesis-stimulating agent should be considered only if indicated by the renal and inflammatory evaluation and after discussion of risks, including cardiovascular and thrombotic risk. No treatment regimen is being assumed at this visit.
+
+Monitor for new fatigue, weakness, dizziness, dyspnea, palpitations, chest discomfort, syncope, or reduced exercise tolerance. Urgent evaluation is warranted for significant cardiopulmonary symptoms, syncope, or evidence of bleeding.
+
+Counseled regarding smoking cessation and the importance of ongoing cardiovascular and renal risk-factor management. Continue close outpatient follow-up after the recommended evaluation to reassess hemoglobin, symptoms, and treatment needs.

@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Joshua Ward is a 79-year-old man presenting for routine outpatient follow-up of longstanding hyperlipidemia, present for approximately 13 years and not currently under active management. He denies chest discomfort, exertional calf pain or other intermittent claudication, dizziness, xanthomas, and xanthelasma. He reports no tobacco use. Relevant comorbidities include chronic kidney disease of approximately 34 years’ duration and non-alcoholic fatty liver disease of approximately 37 years’ duration.
+
+Objective
+
+Vital signs: Blood pressure 145/84 mmHg, pulse 70 bpm, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 182 cm; weight 94.1 kg; BMI 28.4 kg/m².
+
+Laboratory results: Total cholesterol 322 mg/dL, LDL cholesterol 220 mg/dL, HDL cholesterol 39 mg/dL, triglycerides 316 mg/dL.
+
+No xanthomas or xanthelasma are reported. No other examination findings are provided.
+
+Assessment
+
+Hyperlipidemia, longstanding and substantially uncontrolled. Current results demonstrate marked elevation of total cholesterol and LDL cholesterol with concomitant hypertriglyceridemia and low HDL cholesterol. The LDL level of 220 mg/dL places him at high atherosclerotic cardiovascular risk, particularly in the context of advanced age and chronic kidney disease. He currently reports no anginal symptoms, claudication, or dizziness. Non-alcoholic fatty liver disease is noted and should be considered when selecting and monitoring lipid-lowering therapy, although it is not by itself a contraindication to statin therapy.
+
+Chronic kidney disease, longstanding. This increases overall cardiovascular risk and is relevant to medication selection and safety monitoring. No kidney function results are provided today.
+
+Non-alcoholic fatty liver disease, longstanding. This is clinically relevant to metabolic risk assessment and monitoring during lipid treatment.
+
+Overweight, BMI 28.4 kg/m².
+
+Elevated blood pressure reading at today’s visit, 145/84 mmHg. Further longitudinal assessment is appropriate; no diagnosis of hypertension is assigned here.
+
+Plan
+
+Discussed the significant cardiovascular risk associated with the current lipid profile and the importance of active treatment. Recommend shared decision-making regarding initiation of guideline-directed statin therapy, with consideration of his age, chronic kidney disease, liver history, overall goals of care, and potential for drug interactions. If LDL reduction is inadequate or statin therapy is not tolerated, addition of nonstatin therapy such as ezetimibe may be considered.
+
+Recommend a heart-healthy eating pattern emphasizing reduction of saturated and trans fats, refined carbohydrates, and excess dietary sugars; increased intake of vegetables, fiber, and unsaturated fats; regular physical activity as tolerated; and gradual weight reduction. He should continue to avoid tobacco.
+
+Recommend confirmation with a fasting lipid panel if the current specimen was not fasting and assessment for secondary contributors to severe dyslipidemia, with medication safety monitoring guided by his chronic kidney disease and non-alcoholic fatty liver disease. Consider additional cardiovascular risk refinement, including lipoprotein(a), apolipoprotein B, or coronary artery calcium assessment, if results would change treatment decisions.
+
+Monitor blood pressure at subsequent visits and encourage home readings if feasible. Return for reassessment of lipid management and treatment tolerance after therapy is discussed or initiated. Advise prompt evaluation for new chest discomfort, exertional leg pain, dyspnea, or other symptoms concerning for vascular disease.

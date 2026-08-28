@@ -1,0 +1,62 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Penelope Long is a 72-year-old woman presenting for routine outpatient follow-up of chronic kidney disease, reported duration approximately 8 years. She reports no current fatigue, pruritus, muscle cramps, nausea, peripheral edema, change in urination frequency, sleep disturbance, or shortness of breath. No uremic or fluid-overload symptoms are elicited today.
+
+She has a 28-year history of hypertension and a 2-year history of hyperlipidemia. She continues to smoke. Current weight is 52.7 kg at 158 cm, with BMI 21.1 kg/m². No medication regimen is provided for review today.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+Respiratory: Denies shortness of breath.
+Cardiovascular: Denies peripheral edema.
+Gastrointestinal: Denies nausea.
+Genitourinary: Denies change in urination frequency.
+Musculoskeletal: Denies muscle cramps.
+Skin: Denies pruritus.
+Psychiatric/Sleep: Denies sleep disturbance.
+All other systems reviewed are negative based on the symptoms provided.
+
+Objective
+
+Vital Signs: Blood pressure 165/91 mmHg, pulse 75 bpm, respiratory rate 15/min, temperature 36.8°C, oxygen saturation 99%.
+
+Anthropometrics: Height 158 cm, weight 52.7 kg, BMI 21.1 kg/m².
+
+Laboratory Results:
+Serum creatinine: 6.0 mg/dL.
+Estimated GFR: 6 mL/min/1.73 m².
+BUN: 60 mg/dL.
+
+Physical Examination:
+General: Patient presents for outpatient follow-up without reported acute distress.
+Cardiopulmonary and extremity examination findings are not documented in the supplied encounter data. No peripheral edema or respiratory symptoms are reported.
+
+Assessment
+
+Chronic kidney disease with markedly reduced estimated renal function and significantly elevated creatinine and BUN. Although she denies fatigue, pruritus, nausea, muscle cramps, urinary changes, edema, sleep disturbance, and shortness of breath, the current renal indices require prompt specialist assessment and active management. The duration of disease is approximately 8 years.
+
+Hypertension, longstanding for 28 years, currently above goal at 165/91 mmHg and an important risk factor for progression of renal disease.
+
+Hyperlipidemia, duration approximately 2 years.
+
+Current tobacco use, which increases cardiovascular and renal risk.
+
+Plan
+
+Discussed the significance of the creatinine of 6.0 mg/dL, BUN of 60 mg/dL, and eGFR of 6 mL/min/1.73 m², even in the absence of symptoms. Recommend urgent nephrology evaluation for comprehensive CKD management, assessment for complications, and discussion of renal replacement planning as clinically appropriate.
+
+Recommend prompt review of blood pressure management and home blood pressure monitoring. Medication reconciliation and selection of kidney-appropriate antihypertensive therapy should be completed urgently; no current medication regimen is documented today.
+
+Recommend serum electrolytes, bicarbonate, CBC, urine albumin-to-creatinine ratio, intact parathyroid hormone, and renal ultrasound as part of evaluation and complication assessment if not recently completed. These should be coordinated promptly with nephrology or the treating clinician.
+
+Avoid NSAIDs and other potentially nephrotoxic medications unless specifically directed by a clinician. Review all over-the-counter medications and supplements before use. Encourage appropriate hydration without excessive fluid intake; individualized dietary counseling for advanced CKD is recommended.
+
+Counseled regarding smoking cessation and cardiovascular risk reduction. Continue follow-up for hypertension and hyperlipidemia.
+
+Seek emergency care immediately for new or worsening shortness of breath, chest pain, confusion, marked weakness, persistent nausea or vomiting, rapidly worsening swelling, substantially decreased urination, or other acute deterioration.
+
+Return for close primary care follow-up after urgent renal evaluation, or sooner for any new symptoms.

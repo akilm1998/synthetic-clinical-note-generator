@@ -1,0 +1,20 @@
+Chief Complaint
+Routine follow-up for chronic anemia.
+
+Subjective
+Natalie Ross is a 41-year-old woman presenting for follow-up of anemia present for approximately 10 years. She denies fatigue, weakness, dizziness, headache, dyspnea, palpitations, reduced exercise tolerance, and reported pallor. Relevant comorbidities include inflammatory bowel disease for 17 years, chronic infection for 7 years, and chronic kidney disease for 1 year. She currently smokes. Anemia has not been under active management.
+
+Objective
+Height 176 cm, weight 66.9 kg, BMI 21.6 kg/m².
+BP 123/85 mmHg, pulse 82 bpm, respiratory rate 18/min, temperature 36.7°C, oxygen saturation 98%.
+Hemoglobin 8.2 g/dL, hematocrit 24.6%, RBC 2.96 million/µL, MCV 83 fL. Serum iron 21 µg/dL, ferritin 450 ng/mL, TIBC 235 µg/dL, transferrin saturation 8.9%.
+
+Assessment
+Chronic significant anemia with normocytic indices and marked reduction in serum iron and transferrin saturation, with elevated ferritin and low TIBC. Pattern is most consistent with anemia of chronic inflammation in the setting of longstanding inflammatory bowel disease, chronic infection, and chronic kidney disease. Concomitant functional iron restriction is likely. She is currently clinically stable and asymptomatic by history, without tachycardia or hypoxemia.
+
+Plan
+Obtain CBC with reticulocyte count and peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia.
+Reassess inflammatory bowel disease and chronic infection activity, including potential ongoing blood loss or impaired iron absorption.
+Discuss iron replacement strategy based on disease activity and response; intravenous iron may be appropriate given low transferrin saturation with elevated ferritin and underlying inflammatory disease.
+If anemia persists or worsens, consider evaluation for erythropoiesis-stimulating therapy in the context of chronic kidney disease and specialist hematology/nephrology input.
+Advise prompt evaluation for new dyspnea, chest pain, palpitations, dizziness, syncope, or bleeding. Encourage smoking cessation.

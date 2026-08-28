@@ -1,0 +1,30 @@
+Chief Complaint
+Medication review for hypertension.
+
+Subjective
+Patrick Harper is a 52-year-old man, height 162 cm, weight 69.8 kg, BMI 26.6 kg/m², presenting for review of hypertension management. Hypertension has been present for approximately 4 years and has not been actively managed. He is not reporting an active antihypertensive regimen; therefore, medication effectiveness, adherence, and treatment tolerance cannot be assessed for current therapy.
+
+He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, and epistaxis. He does not smoke. Relevant comorbidities include chronic kidney disease for 4 years, hyperlipidemia for 17 years, and coronary artery disease for 3 years.
+
+Objective
+Vital signs: Blood pressure 155/91 mmHg, pulse 72 bpm, respiratory rate 18/min, temperature 37.0°C, oxygen saturation 99% on room air.
+
+Serum electrolytes: sodium 140 mmol/L, potassium 3.7 mmol/L.
+
+Assessment
+Essential hypertension with persistently elevated office blood pressure, currently without an active treatment regimen. He is asymptomatic today, with no reported features suggesting acute hypertensive end-organ injury. Given coexisting chronic kidney disease and coronary artery disease, untreated hypertension represents an important modifiable cardiovascular and renal risk.
+
+Hyperlipidemia, longstanding.
+
+Chronic kidney disease, duration 4 years.
+
+Coronary artery disease, duration 3 years.
+
+Plan
+Discussed the importance of initiating and maintaining consistent blood pressure therapy. Review and reconcile all prescription, over-the-counter, and supplement use before selecting a regimen. An ACE inhibitor or angiotensin receptor blocker would be reasonable to consider in the setting of chronic kidney disease and coronary artery disease, provided renal function and potassium are acceptable; current potassium is 3.7 mmol/L. A calcium-channel blocker or thiazide-type diuretic may also be considered based on the complete clinical profile and subsequent blood pressure response.
+
+Recommend home blood pressure monitoring with a validated upper-arm cuff and documentation of readings for medication titration. Reinforce sodium reduction, regular physical activity as tolerated, weight control, and moderation of alcohol intake.
+
+Recommend assessment of renal function and urinary protein/albumin as clinically appropriate before and after initiation or adjustment of renin-angiotensin system therapy. Continue cardiovascular risk-factor management, including review of lipid-lowering therapy and adherence given established coronary artery disease and longstanding hyperlipidemia.
+
+Follow up promptly for medication initiation and blood pressure reassessment. Seek urgent care for chest pain, dyspnea, neurologic symptoms, severe headache, or markedly elevated blood pressure with symptoms.

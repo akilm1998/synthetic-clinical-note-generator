@@ -1,0 +1,35 @@
+Chief Complaint
+
+Initial consultation for type 2 diabetes mellitus.
+
+Subjective
+
+Shannon Douglas is an 83-year-old woman with a 16-year history of type 2 diabetes, currently without active diabetes-directed management. She denies polydipsia, polyuria, polyphagia, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling in the extremities. Nonsmoker. Weight 61.6 kg, height 156 cm, BMI 25.3 kg/m².
+
+Relevant comorbidities include hypertension for 14 years and chronic kidney disease for 15 years. No medication regimen, allergies, family history, or prior diabetes complications are provided.
+
+Objective
+
+Vital signs: BP 155/92 mmHg, pulse 69 bpm, respiratory rate 15/min, temperature 36.9°C, oxygen saturation 97% on room air.
+
+Laboratory data: HbA1c 9.5%; fasting glucose 230 mg/dL.
+
+General: No acute symptoms reported. Further examination findings are not documented.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complications, poorly controlled. HbA1c 9.5% and fasting glucose 230 mg/dL indicate significant persistent hyperglycemia despite absence of reported osmotic or constitutional symptoms. Long disease duration and advanced age increase risk for microvascular and macrovascular complications.
+
+2. Chronic kidney disease, longstanding. Renal function will need to guide selection and dosing of glucose-lowering therapy; diabetic kidney involvement is not established from the available information.
+
+3. Hypertension, suboptimally controlled today at 155/92 mmHg.
+
+Plan
+
+Discussed the importance of establishing active diabetes management, nutrition modification, and regular physical activity appropriate for age and functional status. Avoid concentrated sugars and excessive refined carbohydrates; emphasize balanced meals and hydration.
+
+Obtain serum creatinine/eGFR and urine albumin-to-creatinine ratio before finalizing pharmacologic therapy. Initiate individualized glucose-lowering treatment with renal dosing considerations; metformin may be considered if renal function permits, with additional therapy based on glycemic response and treatment goals. Given age and chronic kidney disease, avoid overly aggressive glucose lowering and individualize the HbA1c target.
+
+Recommend home glucose monitoring during treatment initiation and review of readings at follow-up. Arrange routine dilated retinal examination and comprehensive foot assessment, including sensory and vascular evaluation. Obtain fasting lipid profile for cardiovascular risk assessment.
+
+Reassess blood pressure and coordinate management of hypertension and chronic kidney disease with primary care/nephrology as clinically appropriate. Close outpatient follow-up is recommended after initiation of therapy and review of renal studies.

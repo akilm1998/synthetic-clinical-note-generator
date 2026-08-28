@@ -1,0 +1,99 @@
+Chief Complaint
+
+Annual review and follow-up of longstanding chronic kidney disease.
+
+Subjective
+
+Teresa Cunningham is a 71-year-old woman, 172 cm tall and 77.8 kg, with BMI 26.3 kg/m² and a 29-year history of chronic kidney disease. She presents for comprehensive annual review. Current symptoms include fatigue. She denies pruritus, muscle cramps, nausea, peripheral edema, changes in urination frequency, sleep disturbance, and shortness of breath.
+
+Her kidney disease is currently not under active management based on the available history. Most recent reported renal indices are creatinine 4.88 mg/dL, BUN 61 mg/dL, and eGFR 9 mL/min/1.73 m². She has also had secondary hyperparathyroidism for approximately 12 years. No current medication list, allergies, prior renal imaging, dialysis history, or specialist recommendations were provided.
+
+She continues to smoke. Duration and quantity of tobacco use were not documented. No additional social, family, surgical, or hospitalization history was provided for review today.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No fever or other constitutional symptoms reported.
+
+Skin: Denies pruritus.
+
+Cardiovascular: Denies peripheral edema. No other cardiovascular symptoms reported.
+
+Respiratory: Denies shortness of breath.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urination frequency. No other urinary symptoms reported.
+
+Musculoskeletal: Denies muscle cramps.
+
+Neurologic: No sleep disturbance reported. No other neurologic symptoms reported.
+
+Psychiatric: No concerns reported.
+
+Objective
+
+Vital Signs: Blood pressure 141/85 mmHg, pulse 75/min, respiratory rate 14/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 172 cm, weight 77.8 kg, BMI 26.3 kg/m².
+
+Physical Examination: Patient is an older woman presenting for outpatient follow-up, without reported respiratory distress. No peripheral edema is reported or apparent on today’s review. Respiratory rate and oxygen saturation are normal. Further examination is directed toward renal, cardiovascular, skin, neurologic, and volume-status assessment.
+
+Laboratory Data: Serum creatinine 4.88 mg/dL. BUN 61 mg/dL. Estimated GFR 9 mL/min/1.73 m².
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function
+
+Longstanding chronic kidney disease of 29 years’ duration with creatinine 4.88 mg/dL, BUN 61 mg/dL, and eGFR 9 mL/min/1.73 m². She reports fatigue but currently has no nausea, pruritus, muscle cramps, sleep disturbance, edema, change in urination, or shortness of breath. There is no reported evidence today of overt fluid overload or symptomatic uremia, although the degree of renal impairment places her at high risk for complications and requires prompt, structured renal care. Medication management and renal replacement planning are not documented.
+
+2. Secondary hyperparathyroidism
+
+Present for approximately 12 years in the setting of chronic kidney disease. Current parathyroid hormone, calcium, phosphorus, and vitamin D values are not available in the provided information.
+
+3. Elevated blood pressure reading
+
+Blood pressure today is 141/85 mmHg. In the setting of significant chronic kidney disease, blood pressure control should be reassessed carefully, with attention to volume status and kidney-protective treatment options. Current antihypertensive therapy is not documented.
+
+4. Tobacco use
+
+Current smoker. Tobacco exposure increases cardiovascular and renal risk. Smoking cessation counseling is indicated.
+
+5. Preventive health and annual review
+
+At age 71, preventive care should be individualized according to overall health, prior screening history, and preferences. Chronic kidney disease and tobacco use increase cardiovascular risk and make vaccination and cancer prevention particularly important.
+
+Plan
+
+1. Chronic kidney disease
+
+Arrange prompt nephrology evaluation for comprehensive management of advanced renal dysfunction and discussion of renal replacement options, including dialysis education and, if appropriate, transplant evaluation. This should not be deferred given the eGFR of 9 mL/min/1.73 m², even in the absence of prominent uremic symptoms.
+
+Obtain updated renal and complication assessment as clinically appropriate, including serum electrolytes, bicarbonate, calcium, phosphorus, albumin, intact parathyroid hormone, complete blood count, urinalysis, and urine albumin-to-creatinine ratio. A renal ultrasound is also reasonable if not previously completed or if the etiology and structural status of the kidneys remain unclear.
+
+Review all prescription medications, over-the-counter drugs, and supplements at the next contact; avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic agents. Any medication dosing should be adjusted for renal function. Encourage avoidance of dehydration and prompt evaluation for vomiting, diarrhea, or acute illness.
+
+Discuss warning symptoms requiring urgent assessment, including worsening shortness of breath, new swelling, markedly reduced urine output, persistent nausea or vomiting, confusion, chest pain, severe weakness, or palpitations.
+
+2. Secondary hyperparathyroidism
+
+Coordinate evaluation with nephrology. Check intact parathyroid hormone, calcium, phosphorus, alkaline phosphatase, and vitamin D as part of CKD-mineral and bone disorder assessment. Treatment should be guided by these results and specialist recommendations; no specific phosphate binder, vitamin D preparation, or other therapy is assumed at this visit.
+
+3. Blood pressure
+
+Repeat blood pressure measurements and review home readings if available. Confirm current medication use before making changes. Reinforce a renal-appropriate, lower-sodium eating pattern and avoidance of excess processed foods. Antihypertensive therapy should be selected and titrated in coordination with renal function and nephrology input.
+
+4. Fatigue
+
+Fatigue may be related to advanced kidney disease, anemia, sleep, mood, or other medical contributors. Include CBC and metabolic assessment in the renal workup. Advise the patient to report worsening fatigue, weakness, dizziness, bleeding, or new exertional symptoms.
+
+5. Tobacco use
+
+Provide clear smoking-cessation counseling and assess readiness to quit, daily cigarette use, prior quit attempts, and interest in pharmacologic or behavioral support. Encourage cessation at every visit.
+
+6. Preventive care
+
+Review immunization status and recommend age- and risk-appropriate influenza, COVID-19, pneumococcal, shingles, and Tdap vaccination as indicated. Review breast, colorectal, and lung cancer screening history; given current smoking, assess eligibility for annual low-dose CT screening based on age and cumulative tobacco exposure. Continue cardiovascular risk assessment and encourage regular physical activity appropriate to functional status, balanced nutrition, and maintenance of a healthy weight.
+
+Follow-up
+
+Arrange expedited follow-up after renal evaluation and laboratory assessment, with routine primary care follow-up for blood pressure, smoking cessation, preventive care, and coordination of chronic kidney disease management. Seek urgent care for the warning symptoms reviewed above.

@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Charles Bennett is a 57-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus, diagnosed approximately 10 years ago. He is not currently following a structured diabetes treatment plan. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the extremities.
+
+He has a 14-year history of hypertension and a 28-year history of non-alcoholic fatty liver disease. He does not smoke. No medication regimen is provided for review today.
+
+Objective
+
+Vital signs: Blood pressure 143/84 mmHg, pulse 72 bpm, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 98%.
+
+Height 183 cm. Weight 90.8 kg. BMI 27.1 kg/m².
+
+Laboratory results: Hemoglobin A1c 9.9%. Fasting glucose 245 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, currently markedly above glycemic goal based on HbA1c of 9.9% and fasting glucose of 245 mg/dL. Despite significant hyperglycemia, he is presently without polyuria, polydipsia, weight loss, visual symptoms, neuropathic symptoms, or reported infectious or wound complications. Diabetes has been present for approximately 10 years and requires active treatment intensification and complication surveillance.
+
+Hypertension with mildly elevated office blood pressure at 143/84 mmHg.
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Overweight, BMI 27.1 kg/m².
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the importance of consistent diabetes management to reduce microvascular and cardiovascular risk.
+
+Recommend initiation or re-initiation of evidence-based glucose-lowering pharmacotherapy, with medication selection guided by renal function, hepatic status, comorbidities, contraindications, cost, and patient preference. Metformin would be a reasonable consideration if renal and hepatic assessment permit. If glycemic control remains substantially above goal, additional therapy should be considered promptly.
+
+Counseled regarding reduction of concentrated carbohydrates and sugary beverages, portion control, increased dietary fiber, and regular physical activity as tolerated. Encourage gradual weight reduction and avoidance of alcohol excess given the history of non-alcoholic fatty liver disease.
+
+Recommend assessment of serum creatinine/eGFR and urine albumin-to-creatinine ratio for diabetic kidney screening, along with a fasting lipid profile for cardiovascular risk assessment. Recommend routine dilated retinal examination and comprehensive diabetic foot examination; no complications are reported today.
+
+Continue monitoring blood pressure and address antihypertensive management as clinically indicated, with emphasis on dietary sodium reduction, physical activity, and weight management.
+
+Return for close diabetes follow-up after treatment initiation or adjustment, with repeat HbA1c at an appropriate interval to assess response.

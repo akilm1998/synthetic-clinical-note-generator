@@ -1,0 +1,59 @@
+Chief Complaint
+
+Annual review and reassessment of longstanding anemia.
+
+Subjective
+
+Nathan Jenkins is an 87-year-old man presenting for comprehensive annual review. He has a 44-year history of anemia in the setting of longstanding rheumatoid arthritis and malignancy, both reported for approximately 45 and 40 years respectively. He also has type 2 diabetes mellitus diagnosed approximately 2 years ago. His anemia has not been actively managed.
+
+He currently denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, headache, reduced exercise tolerance, or pallor. No anemia-related functional limitation is reported. He is a current smoker.
+
+Objective
+
+Height 160 cm; weight 74.2 kg; BMI 29.0 kg/m².
+
+Blood pressure 131/75 mmHg, pulse 83 bpm, respiratory rate 20/min, temperature 36.8°C, oxygen saturation 95%.
+
+Laboratory results:
+Hemoglobin 8.3 g/dL
+Hematocrit 24.3%
+RBC count 2.76 million/µL
+MCV 88 fL
+Serum iron 40 µg/dL
+Ferritin 291 ng/mL
+TIBC 258 µg/dL
+Transferrin saturation 15.5%
+
+Assessment
+
+1. Longstanding normocytic anemia, most consistent with anemia of chronic inflammation/chronic disease. Hemoglobin and hematocrit are substantially reduced, with a normocytic profile. Low serum iron and transferrin saturation in the presence of elevated ferritin and relatively low TIBC support impaired iron utilization associated with chronic inflammatory disease rather than uncomplicated iron deficiency. His rheumatoid arthritis and history of malignancy are important potential contributors. Despite the absence of reported symptoms, the degree of anemia warrants active evaluation and management rather than continued observation alone.
+
+2. Rheumatoid arthritis, longstanding, approximately 45 years. Chronic inflammatory activity may be contributing to the anemia. Current disease activity and treatment status were not provided.
+
+3. History of malignancy, approximately 40 years. The relationship of the malignancy and any ongoing disease activity to the anemia should be clarified clinically.
+
+4. Type 2 diabetes mellitus, approximately 2 years. Requires continued chronic disease surveillance and attention to renal function as a potentially reversible contributor to anemia.
+
+5. Tobacco use. Continued smoking increases cardiopulmonary and overall health risk.
+
+6. Overweight by BMI, 29.0 kg/m².
+
+7. Preventive health review in an 87-year-old man, with screening and immunization decisions to be individualized according to functional status, life expectancy, prior screening, and patient preferences.
+
+Plan
+
+Anemia: Repeat complete blood count with reticulocyte count and peripheral smear to confirm persistence and assess marrow response. Obtain vitamin B12, folate, renal function testing, and inflammatory markers as clinically appropriate. Review for occult blood loss, nutritional contributors, chronic kidney disease, and any evidence of active or recurrent malignancy. Reassess rheumatoid arthritis activity and coordinate management with the clinicians caring for his chronic inflammatory disease and malignancy history.
+
+Given the hemoglobin of 8.3 g/dL, arrange timely outpatient follow-up to review results and determine treatment. Iron replacement should not be initiated reflexively without clarifying the relative contributions of inflammation and true iron deficiency; oral or intravenous iron and an erythropoiesis-stimulating approach may be considered only after the underlying cause, renal status, inflammatory burden, and overall goals of care are reviewed. Advise urgent evaluation for new chest pain, shortness of breath at rest, syncope, palpitations, significant bleeding, or rapidly worsening weakness.
+
+Rheumatoid arthritis and malignancy history: Review current disease status, prior treatment history, and available specialist follow-up. Persistent inflammation or active malignancy would affect anemia management.
+
+Type 2 diabetes mellitus: Continue routine diabetes monitoring, including renal assessment, and reinforce nutrition, physical activity as tolerated, foot care, and individualized glycemic goals appropriate for advanced age and comorbidity burden.
+
+Tobacco use: Counsel regarding smoking cessation and offer evidence-based cessation support.
+
+Preventive care: Review immunization status, including influenza, COVID-19, pneumococcal, shingles, and tetanus vaccination as appropriate. Discuss fall-risk reduction, bone health, vision and hearing care, nutrition, and advance care planning. Consider age- and preference-appropriate cancer screening after review of prior screening history and overall health goals.
+
+Follow-up
+
+Follow up promptly after recommended anemia evaluation to review results and establish an active management plan. Continue routine annual chronic disease review, with earlier assessment for any new anemia or cardiopulmonary symptoms.

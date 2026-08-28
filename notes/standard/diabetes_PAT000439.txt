@@ -1,0 +1,47 @@
+Chief Complaint
+
+Initial consultation for management of type 2 diabetes mellitus.
+
+Subjective
+
+Leo Davidson is an 85-year-old man presenting for initial outpatient evaluation of type 2 diabetes mellitus, diagnosed approximately 8 years ago. Current glycemic control is poor, with hemoglobin A1c 9.8% and fasting glucose 256 mg/dL. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+He has longstanding hypertension of approximately 54 years, obesity for approximately 28 years, and obstructive sleep apnea for approximately 27 years. He does not smoke. Current weight is 106.3 kg at a height of 180 cm, with BMI 32.8 kg/m². No diabetes medication regimen is provided for review.
+
+Objective
+
+Vital signs: blood pressure 147/82 mmHg, pulse 77 bpm, respiratory rate 18/min, temperature 36.8°C, oxygen saturation 95%.
+
+General: Older adult male presenting for outpatient consultation. No acute symptoms reported.
+
+Anthropometrics: Height 180 cm; weight 106.3 kg; BMI 32.8 kg/m², consistent with obesity.
+
+Laboratory results: Hemoglobin A1c 9.8%. Fasting glucose 256 mg/dL.
+
+No focal neurologic, skin, vascular, or retinal examination findings are provided today.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, diagnosed approximately 8 years ago, currently markedly above individualized glycemic goals based on HbA1c 9.8% and fasting glucose 256 mg/dL. Although he denies classic hyperglycemic symptoms, the degree of biochemical hyperglycemia warrants prompt treatment intensification and assessment for chronic microvascular and macrovascular risk.
+
+Obesity, BMI 32.8 kg/m², contributing to insulin resistance.
+
+Longstanding hypertension with mildly elevated office blood pressure at 147/82 mmHg.
+
+Obstructive sleep apnea, longstanding.
+
+Plan
+
+Discussed that the current glucose values indicate inadequate diabetes control despite the absence of reported symptoms. Treatment goals should be individualized in the context of advanced age, comorbidities, functional status, and risk of hypoglycemia.
+
+Obtain a complete medication reconciliation and review adherence, dietary pattern, prior diabetes therapies, and history of hypoglycemia before selecting a regimen. Pharmacologic therapy should be initiated or intensified promptly rather than relying on lifestyle measures alone. Metformin may be considered if renal function and overall tolerability permit, with cautious dosing given age. Additional agents should be selected based on renal function, cardiovascular and renal risk, hypoglycemia risk, cost, and treatment preferences. Avoid therapies with substantial hypoglycemia risk unless there is a compelling indication and reliable glucose monitoring.
+
+Recommend home glucose monitoring, particularly fasting and periodically after meals during treatment adjustment. Review recognition and treatment of hypoglycemia, sick-day precautions, hydration, and indications to seek urgent care for persistent marked hyperglycemia or symptoms of dehydration.
+
+Recommend nutrition counseling focused on reducing concentrated carbohydrates and refined sugars, portion control, increased dietary fiber, and a sustainable calorie deficit. Encourage physical activity appropriate to mobility and fall risk, with gradual progression as tolerated.
+
+Evaluate for diabetes complications with urine albumin-to-creatinine ratio, serum creatinine with estimated glomerular filtration rate, fasting lipid profile, comprehensive foot examination including skin integrity, pulses and protective sensation, and dilated retinal examination. These evaluations are particularly important given the duration of diabetes and current hyperglycemia.
+
+Continue close monitoring of blood pressure and review antihypertensive therapy once the medication list is available. Reinforce weight management. Review current management of obstructive sleep apnea and encourage ongoing use of prescribed therapy if applicable.
+
+Return for diabetes follow-up after medication reconciliation and recommended renal and complication assessment, with repeat HbA1c after an appropriate interval to assess response.

@@ -1,0 +1,35 @@
+Chief Complaint
+
+Initial consultation for chronic anemia.
+
+Subjective
+
+George Cunningham is a 55-year-old man, height 164 cm, weight 64.6 kg, BMI 24.0 kg/m², presenting for evaluation of anemia present for approximately 21 years. He has a chronic infection reported for 19 years. Anemia has not previously been actively managed. He currently denies fatigue, weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or noted pallor. Current smoker. No medication history provided.
+
+Objective
+
+Vital signs: BP 121/81 mmHg, pulse 80/min, respirations 20/min, temperature 37.0°C, oxygen saturation 96% on room air.
+
+Laboratory data:
+Hemoglobin 8.0 g/dL
+Hematocrit 24.5%
+RBC 2.72 million/µL
+MCV 90 fL
+Serum iron 32 µg/dL
+Ferritin 186 ng/mL
+TIBC 215 µg/dL
+Transferrin saturation 14.9%
+
+Assessment
+
+Chronic, significant normocytic anemia with low serum iron and transferrin saturation, preserved ferritin, and reduced TIBC. Pattern is most consistent with anemia of chronic inflammation associated with his longstanding chronic infection. He is currently hemodynamically stable and reports no cardiopulmonary or constitutional symptoms.
+
+Plan
+
+Obtain CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and assess contributing factors.
+
+Coordinate evaluation and treatment of the chronic infection with the appropriate treating clinician. Consider hematology referral given hemoglobin of 8.0 g/dL and the prolonged, untreated course.
+
+Do not initiate empiric iron replacement without further evaluation of iron availability and the underlying inflammatory process; consider oral or intravenous iron or an erythropoiesis-stimulating agent only if clinically indicated after reassessment.
+
+Advise prompt medical attention for new dyspnea, chest pain, palpitations, syncope, worsening weakness, or bleeding.

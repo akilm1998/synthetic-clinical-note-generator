@@ -1,0 +1,62 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Penelope Long is a 74-year-old woman, 165 cm, 55 kg, BMI 20.2 kg/m², with a 32-year history of chronic kidney disease and 24-year history of secondary hyperparathyroidism. She presents for review of treatment effectiveness, adherence, and tolerance. Her current medication regimen was not provided for review; medication reconciliation should be completed before making treatment changes.
+
+She reports fatigue. She denies pruritus, muscle cramps, nausea, peripheral edema, change in urination frequency, sleep disturbance, or shortness of breath. No medication-related adverse effects are reported in the available history. She continues to smoke.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No other constitutional symptoms reported.
+Respiratory: Denies shortness of breath.
+Cardiovascular: Denies peripheral edema.
+Gastrointestinal: Denies nausea.
+Genitourinary: Denies change in urinary frequency.
+Musculoskeletal: Denies muscle cramps.
+Skin: Denies pruritus.
+Sleep: Denies sleep disturbance.
+Neurologic: No additional symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 142/85 mmHg, pulse 79 bpm, respiratory rate 18/min, temperature 37.0°C, oxygen saturation 98%.
+
+Anthropometrics: Height 165 cm; weight 55.0 kg; BMI 20.2 kg/m².
+
+Laboratory Data:
+Serum creatinine 3.05 mg/dL.
+Estimated GFR 19 mL/min/1.73 m².
+BUN 74 mg/dL.
+
+Physical Examination
+
+General: Evaluation focused on the documented symptoms and vital signs; patient is not described as having acute respiratory distress.
+Cardiovascular: Blood pressure mildly elevated. No peripheral edema reported.
+Respiratory: Respiratory rate and oxygen saturation are within acceptable range; no shortness of breath reported.
+Skin: No pruritus reported.
+Neurologic: No muscle cramps or sleep disturbance reported. No asterixis documented.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal filtration, longstanding for approximately 32 years. Current creatinine is 3.05 mg/dL, eGFR 19 mL/min/1.73 m², and BUN 74 mg/dL. Fatigue may be related to advanced chronic kidney dysfunction, although the available data do not establish a specific cause. She currently denies symptoms suggesting overt fluid overload or prominent uremic manifestations, including edema, dyspnea, nausea, pruritus, cramps, or urinary frequency change.
+
+Medication effectiveness and adherence cannot be adequately assessed until the complete medication list, dosing schedule, actual use, and recent changes are confirmed. Given the degree of renal impairment, all medications require review for renal dosing, nephrotoxicity, and tolerability. Blood pressure is above usual kidney-protective targets and warrants confirmation with repeat measurements and review of any antihypertensive therapy actually being taken.
+
+Secondary hyperparathyroidism, longstanding for approximately 24 years, requires continued biochemical assessment and treatment review in the context of chronic kidney disease.
+
+Tobacco use, ongoing. Smoking cessation would reduce cardiovascular and renal risk.
+
+Plan
+
+Complete medication reconciliation, including prescription medications, over-the-counter agents, supplements, dosing schedule, adherence, perceived benefit, and adverse effects. Do not initiate or adjust therapy until the actual regimen is confirmed. Review specifically for nephrotoxic agents and avoid nonsteroidal anti-inflammatory drugs unless specifically directed by a treating clinician. Ensure all medications are dosed appropriately for the current renal function.
+
+Monitor blood pressure and reassess adherence to any prescribed antihypertensive regimen. A reading of 142/85 mmHg is mildly elevated; treatment decisions should be based on confirmed home or office readings, overall tolerance, and the verified medication list.
+
+Obtain or review a urine albumin-to-creatinine ratio, serum electrolytes, complete blood count, and intact parathyroid hormone level to further characterize kidney disease complications and guide medication decisions. Consider renal ultrasound if not previously evaluated or if clinically indicated.
+
+Continue surveillance for fluid retention, worsening dyspnea, declining urine output, nausea, pruritus, confusion, progressive weakness, or other symptoms of worsening kidney dysfunction. Seek urgent evaluation for severe shortness of breath, chest pain, confusion, or inability to maintain oral intake.
+
+Discuss smoking cessation and avoidance of dehydration and nonprescribed nephrotoxic medications. Arrange close outpatient follow-up after medication reconciliation and repeat kidney-related evaluation.

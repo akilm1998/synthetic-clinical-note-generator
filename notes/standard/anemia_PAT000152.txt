@@ -1,0 +1,29 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Bob Hill is a 71-year-old man presenting for outpatient follow-up of anemia present for approximately 3 years. He reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other cardiopulmonary complaints. No symptomatic change is reported since the last review.
+
+Relevant chronic conditions include rheumatoid arthritis for 19 years, inflammatory bowel disease for 9 years, and malignancy for 15 years. He continues to smoke. Current anemia-directed medication use is not documented.
+
+Objective
+
+Height 162 cm, weight 70.9 kg, BMI 27.0 kg/m². Blood pressure 128/80 mmHg, pulse 85 bpm, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 96% on room air.
+
+Patient is not reported to have pallor. Cardiovascular examination is normal without tachycardia. Respiratory examination is normal.
+
+Laboratory results: hemoglobin 8.8 g/dL, hematocrit 26.0%, RBC count 3.13 million/µL, MCV 83 fL, serum iron 39 µg/dL, ferritin 400 ng/mL, TIBC 195 µg/dL, and transferrin saturation 20%.
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation/chronic disease in the setting of longstanding rheumatoid arthritis, inflammatory bowel disease, and malignancy. The anemia is normocytic with low serum iron, elevated ferritin, and low TIBC, supporting impaired iron availability associated with chronic inflammation. Hemoglobin remains significantly reduced, although the patient currently denies fatigue, dyspnea, dizziness, palpitations, or reduced exercise tolerance. No evidence of hemodynamic instability is present today.
+
+Plan
+
+Review the anemia and laboratory pattern with the patient. Recommend further outpatient evaluation with repeat CBC, reticulocyte count, peripheral blood smear, vitamin B12, folate, renal function testing, and inflammatory markers to clarify contributors and assess marrow response. Consider evaluation for occult blood loss or active gastrointestinal inflammation if clinically indicated, particularly given the history of inflammatory bowel disease.
+
+Coordinate management with the clinicians managing his rheumatoid arthritis, inflammatory bowel disease, and malignancy, as control of the underlying chronic conditions is important for improving anemia. Review whether oral or intravenous iron or an erythropoietin-stimulating agent is appropriate after the additional evaluation and in the context of his overall comorbidities; no current anemia treatment regimen is documented.
+
+Counseled regarding smoking cessation. He should seek urgent care for new or worsening shortness of breath, chest pain, syncope, palpitations, significant bleeding, or marked functional decline. Continue routine outpatient follow-up to reassess symptoms and hemoglobin response.

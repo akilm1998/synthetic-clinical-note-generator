@@ -1,0 +1,33 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Lydia Ford is a 98-year-old woman, 158 cm tall and weighing 60.2 kg (BMI 24.1 kg/m²), presenting for routine outpatient follow-up of longstanding anemia, present for approximately 34 years. She reports no current fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or subjective pallor. She does not smoke.
+
+Her medical history is notable for a chronic infection of approximately 36 years’ duration, type 2 diabetes mellitus for 50 years, and heart failure for 27 years. The anemia has not been under active treatment. No current medication regimen is provided.
+
+Objective
+
+Vital signs: Blood pressure 132/77 mmHg, pulse 85 bpm, respiratory rate 26/min, temperature 37.0°C, oxygen saturation 95%.
+
+Laboratory results: Hemoglobin 9.6 g/dL, hematocrit 28.4%, RBC count 3.3 million/µL, MCV 86 fL. Serum iron 27 µg/dL, ferritin 428 ng/mL, TIBC 233 µg/dL, and transferrin saturation 11.6%.
+
+Assessment
+
+Chronic normocytic anemia with hemoglobin 9.6 g/dL and hematocrit 28.4%. The low serum iron and transferrin saturation with elevated ferritin and reduced TIBC are most consistent with anemia associated with chronic inflammation, particularly in the setting of longstanding chronic infection and multiple chronic comorbidities. The prolonged duration and absence of reported anemia-related symptoms suggest clinical stability, although the respiratory rate is elevated at 26/min and oxygen saturation is 95%, warranting continued clinical observation given her heart failure history.
+
+Type 2 diabetes mellitus, longstanding.
+
+Heart failure, longstanding, without reported current dyspnea or palpitations.
+
+Plan
+
+Continue outpatient monitoring of the anemia and assess for interval change in symptoms, functional status, and cardiopulmonary tolerance.
+
+Recommend repeat complete blood count with reticulocyte count and peripheral blood smear to assess marrow response and confirm stability of the normocytic pattern. Consider vitamin B12, folate, renal function testing, and inflammatory markers as part of evaluation for reversible contributors and chronic disease burden.
+
+Given the iron profile, avoid assuming isolated iron deficiency; consider iron replacement only after clinical review of the complete picture and potential risks and benefits in the setting of chronic inflammation and heart failure. If hemoglobin declines, symptoms develop, or the anemia becomes less consistent with the current pattern, consider further evaluation and specialist input.
+
+Continue attention to management of chronic infection, diabetes, and heart failure, as each may contribute to ongoing inflammatory anemia and overall functional reserve. Advise prompt reassessment for new dyspnea, chest discomfort, palpitations, dizziness, weakness, bleeding, or reduced exercise tolerance.

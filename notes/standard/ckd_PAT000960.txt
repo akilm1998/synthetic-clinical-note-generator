@@ -1,0 +1,44 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Natalie Ross is a 93-year-old woman, 166 cm tall and weighing 58.7 kg (BMI 21.3 kg/m²), presenting for routine outpatient follow-up of chronic kidney disease. She reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, or shortness of breath. She does not smoke.
+
+Relevant comorbidities include type 2 diabetes mellitus for 17 years, secondary hyperparathyroidism for 19 years, and hyperlipidemia for 63 years. Her kidney disease has been present for approximately 3 years and is not currently under active management. No medication regimen is provided for review today.
+
+Objective
+
+Vital signs: Blood pressure 140/89 mmHg, pulse 71 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Laboratory data:
+Serum creatinine 3.77 mg/dL
+BUN 76 mg/dL
+Estimated GFR 17 mL/min/1.73 m²
+
+No edema or other fluid-overload symptoms are reported. No uremic symptoms are reported.
+
+Assessment
+
+Chronic kidney disease with markedly reduced kidney function, serum creatinine 3.77 mg/dL, BUN 76 mg/dL, and estimated GFR 17 mL/min/1.73 m². She is clinically stable by history without nausea, pruritus, muscle cramps, sleep disturbance, fatigue, dyspnea, edema, or reported change in urination. Given her advanced age, longstanding diabetes, hypertension-range blood pressure, secondary hyperparathyroidism, and hyperlipidemia, she remains at substantial risk for progression and CKD-related complications. Current disease-directed management appears limited and requires structured reassessment.
+
+Type 2 diabetes mellitus, longstanding.
+
+Secondary hyperparathyroidism associated with chronic kidney disease.
+
+Hyperlipidemia.
+
+Plan
+
+Obtain a complete medication reconciliation at the next clinical review and assess for renal dosing, nephrotoxic exposures, and therapies that may require adjustment in the setting of reduced kidney function.
+
+Recommend monitoring renal function and serum electrolytes, with repeat creatinine, BUN, and estimated GFR as clinically appropriate. Obtain urine albumin-to-creatinine ratio to further characterize kidney disease and guide risk assessment.
+
+Recommend complete blood count and intact parathyroid hormone assessment to evaluate for anemia and ongoing CKD-mineral and bone disorder. Consider renal ultrasound if not previously performed or if there is concern for structural disease or obstructive pathology.
+
+Optimize blood pressure and diabetes management with individualized targets appropriate for her age, comorbidities, functional status, and goals of care. Avoid NSAIDs and other potentially nephrotoxic medications when possible, and ensure all medications are appropriately renally dosed.
+
+Discuss nephrology involvement for comprehensive CKD management and counseling regarding prognosis and treatment options, incorporating the patient’s preferences and overall goals of care. Educate regarding prompt evaluation for new nausea, vomiting, progressive pruritus, confusion, weakness, reduced urine output, increasing edema, or shortness of breath.
+
+Continue outpatient follow-up with review of symptoms, blood pressure, renal indices, electrolyte status, anemia parameters, and secondary hyperparathyroidism management.

@@ -1,0 +1,73 @@
+Chief Complaint
+
+Initial consultation for markedly elevated cholesterol.
+
+Subjective
+
+Adam Ross is an 83-year-old man presenting for initial outpatient evaluation of longstanding hyperlipidemia. He reports a history of elevated cholesterol for approximately 20 years, currently without active treatment. Recent lipid results show total cholesterol 331 mg/dL, LDL cholesterol 231 mg/dL, HDL cholesterol 40 mg/dL, and triglycerides 299 mg/dL.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He is a nonsmoker. Weight is 80.9 kg at a height of 167 cm, with BMI 29.0 kg/m². His medical history is also notable for chronic kidney disease of approximately 25 years’ duration. No current medications, allergies, prior cardiovascular events, family history, or additional social history were provided.
+
+Review of Systems
+
+Constitutional: No specific constitutional symptoms reported.
+
+Cardiovascular: Denies chest discomfort. Denies intermittent claudication.
+
+Respiratory: No specific respiratory symptoms reported.
+
+Gastrointestinal: No specific gastrointestinal symptoms reported.
+
+Genitourinary: History of chronic kidney disease. No additional urinary symptoms reported.
+
+Neurologic: Denies dizziness.
+
+Musculoskeletal: Denies exertional leg pain.
+
+Skin: Denies xanthomas and xanthelasma.
+
+Endocrine: No additional endocrine symptoms reported.
+
+Hematologic/Lymphatic: No specific symptoms reported.
+
+Allergic/Immunologic: No specific symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 135/89 mmHg. Pulse 76 beats/minute. Respiratory rate 16/minute. Temperature 36.8°C. Oxygen saturation 96%.
+
+Anthropometrics: Height 167 cm. Weight 80.9 kg. BMI 29.0 kg/m².
+
+General: Outpatient evaluation performed with the patient clinically stable by the recorded vital signs.
+
+Cardiovascular: No chest discomfort reported. Pulse 76 beats/minute.
+
+Respiratory: Respiratory rate 16/minute and oxygen saturation 96%.
+
+Skin: No xanthomas or xanthelasma reported.
+
+Laboratory Data: Total cholesterol 331 mg/dL. LDL cholesterol 231 mg/dL. HDL cholesterol 40 mg/dL. Triglycerides 299 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. The LDL of 231 mg/dL is substantially above the usual treatment threshold for severe LDL elevation and, in the setting of approximately 20 years of untreated disease, represents a significant long-term atherosclerotic cardiovascular risk. The HDL is borderline low at 40 mg/dL, and triglycerides are moderately elevated at 299 mg/dL. He currently reports no chest discomfort, claudication, dizziness, xanthomas, or xanthelasma. Absence of symptoms does not exclude clinically important subclinical atherosclerotic disease.
+
+Chronic kidney disease, present for approximately 25 years. The available information does not include current kidney function measurements, which are important when selecting and dosing lipid-lowering therapy and when assessing overall cardiovascular risk.
+
+Overweight, with BMI 29.0 kg/m².
+
+Blood pressure is mildly elevated at 135/89 mmHg, though a single office reading is insufficient to establish a separate diagnosis.
+
+Plan
+
+Discussed the significance of the lipid results and the expected benefit of active LDL reduction, particularly given his age, prolonged duration of hyperlipidemia, and chronic kidney disease. Recommend shared decision-making regarding initiation of a statin, with consideration of a moderate- to high-intensity regimen appropriate for an older adult and adjusted for kidney function. Reasonable options include atorvastatin or appropriately dosed rosuvastatin. The patient should not be considered to be taking lipid-lowering medication until a prescription is accepted and started.
+
+Recommend confirming the lipid results with a fasting lipid panel if the available sample was not fasting. Recommend review for secondary contributors to dyslipidemia, including thyroid disease, liver disease, diet, alcohol exposure, and changes in kidney function. Baseline kidney and liver testing should be reviewed or obtained before treatment, with repeat lipid testing after initiation or dose adjustment to assess response and tolerability. Given the triglyceride level of 299 mg/dL, the initial priority is LDL reduction and lifestyle intervention; this level is not in the range typically associated with pancreatitis risk.
+
+Lifestyle counseling provided. Recommend reducing saturated and trans fats, limiting refined carbohydrates and added sugars, increasing vegetables, legumes, whole grains, and soluble fiber, and choosing fish and unsaturated fats when appropriate. Encourage gradual, regular physical activity as tolerated and safe in the context of his age and chronic kidney disease. Weight reduction toward a healthier range may improve triglycerides and overall cardiovascular risk. Continue avoidance of tobacco.
+
+Review for statin-associated muscle symptoms, gastrointestinal symptoms, or other adverse effects after treatment is initiated. If LDL reduction is inadequate or statin therapy is not tolerated, consider addition of ezetimibe and, depending on response, overall risk, kidney function, and treatment goals, further lipid-lowering therapy. A fibrate is not the first-line treatment for the current lipid pattern.
+
+Recommend obtaining a detailed medication, allergy, family cardiovascular history, and prior lipid-treatment history at follow-up to help distinguish primary from secondary causes and refine risk assessment. Consider one-time measurement of lipoprotein(a) or apolipoprotein B if it would assist risk stratification or treatment decisions. Coronary artery calcium imaging is not required before treating an LDL level of this magnitude but could be discussed only if treatment decisions remain uncertain after shared decision-making.
+
+Follow up after review of baseline testing and treatment preferences, with repeat lipid assessment after therapy is started. Earlier evaluation is advised for new chest discomfort, exertional leg pain, sudden neurologic symptoms, or other symptoms concerning for vascular disease.

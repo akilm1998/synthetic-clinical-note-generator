@@ -1,0 +1,28 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Richard Lawson is a 71-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus, diagnosed approximately 34 years ago. Diabetes is currently not actively managed. He reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. He does not smoke.
+
+He also has a 28-year history of hypertension. No interval cardiovascular or neurologic symptoms are reported.
+
+Objective
+Height 182 cm; weight 89.4 kg; BMI 27.0 kg/m².
+
+Blood pressure 144/89 mmHg, pulse 74 bpm, respiratory rate 15/min, temperature 36.6°C, oxygen saturation 97%.
+
+Hemoglobin A1c 9.4%. Fasting glucose 270 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without reported complications, currently markedly above glycemic goal based on HbA1c of 9.4% and fasting glucose of 270 mg/dL. Despite the absence of hyperglycemic, neuropathic, or infectious symptoms, his prolonged disease duration and current laboratory values indicate inadequate control.
+
+Hypertension with mildly elevated blood pressure today in the setting of longstanding disease.
+
+Plan
+Discussed the significance of the elevated HbA1c and fasting glucose and the importance of re-establishing an active diabetes management plan. Reviewed nutrition measures focused on reducing refined carbohydrates and sugary beverages, portion control, regular physical activity as tolerated, and weight maintenance.
+
+Recommend initiation or adjustment of glucose-lowering therapy after reviewing prior treatment history, renal function, contraindications, and patient preferences; metformin would be a reasonable first-line option if appropriate. Recommend home glucose monitoring with review of readings at follow-up.
+
+Recommend assessment of renal function and urine albumin-to-creatinine ratio, fasting lipid profile, and a comprehensive diabetic foot examination. Recommend routine dilated retinal examination given the 34-year duration of diabetes. Continue monitoring blood pressure and reinforce dietary sodium reduction and regular physical activity.
+
+Follow up promptly to establish treatment and review glucose readings; repeat HbA1c after an appropriate interval to assess response.

@@ -1,0 +1,14 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes.
+
+Subjective
+Martin Shaw is a 68-year-old man with a 14-year history of type 2 diabetes, obesity, chronic kidney disease, and anxiety. He reports no increased thirst, urinary frequency, increased hunger, weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling. He does not smoke. No current diabetes medications are documented.
+
+Objective
+Height 161 cm; weight 86.3 kg; BMI 33.3 kg/m². BP 130/87 mmHg, pulse 79 bpm, respirations 17/min, temperature 36.8°C, oxygen saturation 96% on room air. HbA1c 9.3%; fasting glucose 233 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without documented complications, poorly controlled based on elevated HbA1c and fasting glucose. Patient is currently asymptomatic but has longstanding disease and obesity. Chronic kidney disease is noted; renal function will be important in selecting therapy. Anxiety and longstanding obesity also noted.
+
+Plan
+Discussed need for active diabetes management and improved nutrition, weight reduction, and regular physical activity as tolerated. Recommend initiating or intensifying pharmacologic therapy after review of renal function and current medication history. Recommend renal assessment with serum creatinine/eGFR and urine albumin-to-creatinine ratio, fasting lipid profile, comprehensive foot examination, and diabetic eye screening. Review glucose monitoring and hypoglycemia precautions if medication requiring monitoring is started. Follow up promptly to establish treatment and reassess glycemic control.

@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Ivy Henderson is a 66-year-old woman presenting for follow-up of longstanding hyperlipidemia, present for approximately 32 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She reports fatty skin deposits consistent with xanthomas; no xanthelasma is reported.
+
+She has type 2 diabetes mellitus of 16 years’ duration and continues to smoke. No medication regimen or treatment adherence is provided.
+
+Objective
+
+Height 175 cm; weight 67.7 kg; BMI 22.1 kg/m².
+
+Blood pressure 132/80 mmHg, pulse 71 bpm, respiratory rate 15/min, temperature 36.8°C, oxygen saturation 99%.
+
+Recent lipid panel:
+Total cholesterol 291 mg/dL
+LDL cholesterol 191 mg/dL
+HDL cholesterol 39 mg/dL
+Triglycerides 307 mg/dL
+
+Xanthomas are reported. No chest discomfort, claudication, or dizziness reported.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, currently not receiving documented treatment. The lipid pattern is consistent with mixed dyslipidemia, with LDL 191 mg/dL and non-HDL cholesterol approximately 252 mg/dL. Low HDL and active tobacco use further increase atherosclerotic cardiovascular risk. Her 16-year history of type 2 diabetes is an additional major risk factor. Although she has no current cardiovascular prodromal symptoms, the presence of xanthomas and longstanding severe lipid elevation warrants prompt risk reduction and evaluation for secondary contributors.
+
+Plan
+
+Discuss initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after shared decision-making. Given the LDL level near 190 mg/dL, assess response and tolerability and consider addition of ezetimibe if adequate LDL reduction is not achieved. Triglyceride elevation should be reassessed after addressing LDL cholesterol, glycemic control, dietary factors, and alcohol exposure.
+
+Recommend a repeat fasting lipid panel after treatment initiation or adjustment to document response. Consider evaluation for secondary causes of dyslipidemia and measurement of ApoB and lipoprotein(a) to refine cardiovascular risk. Coronary artery calcium imaging may be considered if treatment decisions remain uncertain, although the current LDL level, diabetes, and smoking history already support pharmacologic risk reduction.
+
+Counseled regarding a diet emphasizing vegetables, legumes, whole grains, fiber, and unsaturated fats while minimizing saturated and trans fats and refined carbohydrates. Encourage regular physical activity as tolerated and continued weight maintenance. Strongly advised smoking cessation; offer evidence-based cessation support at follow-up.
+
+Coordinate ongoing diabetes management and reinforce the importance of comprehensive cardiovascular risk-factor control. Return for lipid and treatment-response review after initiation or adjustment of therapy, or sooner for new chest discomfort, exertional leg pain, or other concerning symptoms.

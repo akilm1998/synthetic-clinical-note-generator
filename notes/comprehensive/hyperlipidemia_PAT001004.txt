@@ -1,0 +1,63 @@
+Chief Complaint
+
+Medication review and management of elevated cholesterol.
+
+Subjective
+
+Ellie Wood is a 69-year-old woman with a 7-year history of hyperlipidemia, currently not receiving documented lipid-lowering therapy. She presents for review of treatment effectiveness, adherence, and tolerance. There is no active lipid-lowering regimen identified for assessment of response or adverse effects.
+
+She has known coronary artery disease for approximately 13 years and chronic kidney disease for approximately 18 years. She continues to smoke. Weight is 71.0 kg at 157 cm, with BMI 28.8 kg/m².
+
+She denies chest discomfort, intermittent claudication, dizziness, and fatty skin deposits. Xanthelasma is present. No medication-related symptoms are reported, although tolerance cannot be assessed in the absence of a documented current lipid-lowering medication.
+
+Review of Systems
+
+Cardiovascular: Denies chest discomfort and exertional leg pain suggestive of claudication.
+
+Neurologic: Denies dizziness.
+
+Skin: Denies xanthomas. Reports/presents with xanthelasma.
+
+Objective
+
+Vital Signs: Blood pressure 138/89 mmHg, pulse 76 beats/min, respiratory rate 18/min, temperature 36.8°C, oxygen saturation 98% on room air.
+
+Height: 157 cm.
+
+Weight: 71.0 kg.
+
+BMI: 28.8 kg/m².
+
+Physical Examination: Xanthelasma noted. No other examination findings are provided in the current record. Cardiopulmonary symptoms are not reported.
+
+Laboratory Results:
+Total cholesterol: 287 mg/dL
+LDL cholesterol: 194 mg/dL
+HDL cholesterol: 46 mg/dL
+Triglycerides: 237 mg/dL
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. The LDL of 194 mg/dL is substantially above goal, particularly in the setting of established coronary artery disease and chronic kidney disease. The lipid profile is consistent with significant atherogenic dyslipidemia. Xanthelasma provides additional clinical support for longstanding lipid elevation. Current treatment effectiveness cannot be demonstrated because no active lipid-lowering regimen is documented, and adherence and medication tolerance cannot be meaningfully assessed without an identified therapy.
+
+Coronary artery disease, longstanding, approximately 13 years. The patient currently denies chest discomfort or claudication, but her untreated or undertreated lipid burden places her at increased risk for recurrent atherosclerotic cardiovascular events.
+
+Chronic kidney disease, longstanding, approximately 18 years. Renal disease is an important cardiovascular risk enhancer and should be considered when selecting and dosing lipid-lowering therapy.
+
+Tobacco use. Ongoing smoking substantially increases cardiovascular risk and diminishes the benefit of lipid management.
+
+Overweight, BMI 28.8 kg/m².
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol in the context of known coronary artery disease and chronic kidney disease. Recommend initiation of guideline-directed high-intensity statin therapy, such as atorvastatin or rosuvastatin, after review of contraindications, potential drug interactions, renal considerations, and patient preferences. Given the degree of LDL elevation and established coronary disease, treatment should aim for a substantial LDL reduction. If the response is inadequate or statin therapy is not tolerated, addition of ezetimibe and consideration of specialist-directed nonstatin therapy would be appropriate.
+
+Review medication adherence at each visit, including whether the prescribed medication is taken consistently, barriers to obtaining or taking therapy, and any muscle symptoms, weakness, dark urine, or other adverse effects. No current lipid-lowering medication is available for effectiveness or tolerability assessment today.
+
+Recommend repeat fasting lipid testing after initiation or adjustment of therapy to assess response. Consider evaluation for secondary contributors to dyslipidemia, with attention to chronic kidney disease and other clinically relevant causes, before or during treatment. Further cardiovascular risk stratification, including consideration of ApoB or lipoprotein(a), may be reasonable if it will affect management; coronary calcium scoring is generally less useful for decision-making in a patient with established coronary artery disease.
+
+Counseled regarding a heart-healthy eating pattern emphasizing vegetables, fruits, whole grains, legumes, fish, and unsaturated fats while reducing saturated and trans fats, refined carbohydrates, and excess alcohol. Encourage gradual physical activity as tolerated and medically appropriate for her coronary disease and kidney disease. Weight reduction toward a healthier BMI may improve overall cardiovascular risk.
+
+Strongly advised smoking cessation and offered discussion of behavioral and pharmacologic cessation strategies.
+
+Continue cardiovascular risk-factor management in coordination with the clinicians managing her coronary artery disease and chronic kidney disease. Arrange follow-up after initiation or adjustment of lipid therapy to review adherence, adverse effects, and repeat lipid results.

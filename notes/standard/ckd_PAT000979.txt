@@ -1,0 +1,36 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Joel Pierce is a 67-year-old man, 179 cm tall and weighing 70.5 kg (BMI 22.0 kg/m²), presenting for outpatient follow-up of chronic kidney disease present for approximately 21 years. He reports ongoing fatigue. He denies pruritus, muscle cramps, nausea, peripheral edema, change in urination frequency, sleep disturbance, or shortness of breath. He does not smoke. His medical history is also notable for coronary artery disease of approximately 21 years’ duration. No current medication regimen was provided for review.
+
+Objective
+
+Vital signs: Blood pressure 145/83 mmHg, pulse 73 bpm, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 96% on room air.
+
+Recent laboratory results:
+Serum creatinine: 5.74 mg/dL
+BUN: 89 mg/dL
+Estimated GFR: 9 mL/min/1.73 m²
+
+No additional examination findings documented today.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function and elevated BUN and creatinine. The patient has persistent fatigue but no reported nausea, pruritus, muscle cramps, edema, dyspnea, urinary frequency change, or sleep disturbance. Blood pressure is mildly elevated. Given the degree of renal impairment and the longstanding, currently inadequately managed disease, he requires prompt reassessment and active renal care planning.
+
+2. Coronary artery disease, longstanding. This increases his overall cardiovascular risk in the setting of advanced chronic kidney disease.
+
+3. Fatigue, likely related to chronic medical illness and significant renal dysfunction. Anemia and other CKD-associated complications should be evaluated.
+
+Plan
+
+Arrange prompt nephrology evaluation for comprehensive management of advanced chronic kidney disease, assessment for complications, and discussion of renal replacement therapy planning if appropriate. This should not be deferred despite the absence of prominent uremic or fluid-overload symptoms.
+
+Obtain updated renal function and electrolyte testing, urine albumin-to-creatinine ratio, complete blood count, and intact parathyroid hormone level as part of CKD complication assessment. Consider renal ultrasound if not previously completed or if clinically indicated.
+
+Review blood pressure control and cardiovascular risk management, including a complete medication reconciliation before initiating or adjusting therapy. Avoid nephrotoxic medications and over-the-counter NSAIDs. Reinforce avoidance of dehydration and prompt reporting of reduced urine output, new swelling, worsening fatigue, nausea or vomiting, pruritus, confusion, chest pain, or shortness of breath.
+
+Continue routine primary care follow-up with close monitoring while nephrology evaluation is arranged.

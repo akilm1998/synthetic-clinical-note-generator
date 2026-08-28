@@ -1,0 +1,51 @@
+Chief Complaint
+
+Routine follow-up of longstanding anemia.
+
+Subjective
+
+Anthony Cooper is a 94-year-old man, height 181 cm, weight 72.7 kg, BMI 22.2 kg/m², presenting for routine outpatient follow-up of anemia present for approximately 20 years. He reports no current fatigue, generalized weakness, reduced exercise tolerance, dizziness, headache, dyspnea, palpitations, or other cardiopulmonary symptoms. He does not report pallor. No interval anemia-related functional decline is described.
+
+Relevant comorbidity includes rheumatoid arthritis diagnosed approximately 3 years ago. Smoking status: never smoker. No current anemia-directed medications or treatment regimen are provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, and reduced exercise tolerance.
+
+Neurologic: Denies dizziness and headache.
+
+Cardiopulmonary: Denies shortness of breath and palpitations.
+
+Hematologic: No pallor reported.
+
+Objective
+
+Vital Signs: Blood pressure 134/79 mmHg, pulse 83 bpm, respiratory rate 20/min, temperature 36.7°C, oxygen saturation 96%.
+
+General: No anemia-related distress reported.
+
+Cardiovascular: Regular pulse without tachycardia; cardiovascular examination is otherwise normal.
+
+Respiratory: Respiratory examination is normal. Oxygen saturation is maintained at 96% on room air.
+
+Skin: No pallor reported.
+
+Laboratory Data: Hemoglobin 9.6 g/dL, hematocrit 27.9%, RBC count 3.4 million/µL, MCV 82 fL. Serum iron 20 µg/dL, ferritin 476 ng/mL, TIBC 215 µg/dL, transferrin saturation 9.3%.
+
+Assessment
+
+Longstanding anemia with moderate reduction in hemoglobin and hematocrit, currently clinically compensated and without reported fatigue, dyspnea, dizziness, palpitations, or reduced exercise tolerance. The MCV is within the normocytic range. The combination of low serum iron, low TIBC, elevated ferritin, and markedly reduced transferrin saturation is most consistent with anemia associated with chronic inflammation, particularly in the setting of rheumatoid arthritis, with functional iron restriction. The low transferrin saturation also warrants consideration of a superimposed absolute iron deficiency or other source of iron loss; ferritin may be elevated as an acute-phase reactant and does not exclude concomitant iron deficiency.
+
+No evidence of hemodynamic instability or symptomatic tachycardia today. Rheumatoid arthritis may be contributing to ongoing inflammatory iron sequestration. Renal function and other potential contributors have not been characterized in the supplied data.
+
+Plan
+
+Continue clinical observation given the absence of current anemia-related symptoms or cardiopulmonary compromise.
+
+Obtain or review a repeat complete blood count with reticulocyte count and peripheral blood smear to assess marrow response and confirm stability of the anemia. Recommend evaluation of vitamin B12, folate, and renal function, along with inflammatory markers, as clinically appropriate.
+
+Reassess rheumatoid arthritis inflammatory activity and coordinate management with the clinician overseeing his rheumatologic care, as control of the underlying inflammatory process is central to treatment of anemia of inflammation.
+
+Because transferrin saturation is substantially reduced, clarify whether there is coexisting absolute iron deficiency. If supported by the broader clinical evaluation, iron replacement may be considered, with route determined by tolerance, absorption, comorbidity, and response. Empiric long-term iron therapy should be guided by repeat indices and clinical assessment rather than ferritin alone.
+
+Monitor hemoglobin and symptoms periodically. Escalate evaluation promptly for new fatigue, weakness, dyspnea, chest discomfort, palpitations, dizziness, bleeding, or decline in exercise tolerance. Consider hematology evaluation if the anemia worsens, becomes symptomatic, shows an inadequate reticulocyte response, or remains unexplained after assessment of inflammation, renal function, nutritional status, and possible blood loss.

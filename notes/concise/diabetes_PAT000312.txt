@@ -1,0 +1,18 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Paige Palmer is a 39-year-old woman with a 9-year history of type 2 diabetes, obesity, nonalcoholic fatty liver disease, and longstanding depression. She is not currently reporting increased thirst, polyuria, polyphagia, weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling. Diabetes control has not been adequately addressed. She smokes.
+
+Objective
+Height 165 cm; weight 102.9 kg; BMI 37.8 kg/m². BP 122/82 mmHg, pulse 82 bpm, respirations 17/min, temperature 37.0°C, oxygen saturation 97% on room air. HbA1c 9.1%; fasting glucose 215 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without complication, currently poorly controlled based on elevated HbA1c and fasting glucose, without reported hyperglycemic or neuropathic symptoms.
+Obesity, BMI 37.8 kg/m².
+Nonalcoholic fatty liver disease, 3-year history.
+Depression, longstanding.
+Tobacco use.
+
+Plan
+Discussed laboratory evidence of inadequate glycemic control and the risks of untreated diabetes. Recommend initiation of a structured diabetes treatment plan, including medication therapy such as metformin if no contraindication, along with dietary counseling, portion control, and gradual increase in physical activity. Encourage home glucose monitoring and review of readings at follow-up. Recommend urine albumin-to-creatinine ratio, renal function assessment, fasting lipid profile, comprehensive foot examination, and dilated retinal examination as part of diabetes care. Counsel regarding smoking cessation and weight reduction, with attention to dietary measures beneficial for fatty liver disease. Continue coordination of depression care and reassess mood and adherence barriers. Follow up after treatment initiation to review glucose control and tolerance.

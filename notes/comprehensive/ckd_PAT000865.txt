@@ -1,0 +1,61 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Michelle Cross is a 52-year-old woman, height 162 cm, weight 61.7 kg, BMI 23.5 kg/m², presenting for medication review in the setting of chronic kidney disease diagnosed approximately 7 years ago. Her documented comorbidities include hypertension of 10 years’ duration and hyperlipidemia of 20 years’ duration. She does not smoke.
+
+She reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination frequency, or shortness of breath. There are no reported uremic or fluid-overload symptoms at this visit.
+
+Medication effectiveness, adherence, and treatment tolerance were addressed. No specific current medication names, doses, adherence pattern, or adverse effects are documented for review today; therefore, therapeutic response and renal dosing cannot be reliably assessed. A complete medication reconciliation, including prescription, over-the-counter, and herbal agents, is particularly important given the degree of renal impairment.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+Respiratory: Denies shortness of breath.
+Cardiovascular: Denies peripheral swelling.
+Gastrointestinal: Denies nausea.
+Genitourinary: Denies change in urination frequency.
+Skin: Denies pruritus.
+Musculoskeletal: Denies muscle cramps.
+Neurologic: No sleep disturbance reported.
+Medication-related: No adverse effects reported.
+
+Objective
+
+Vital Signs: Blood pressure 160/93 mmHg; pulse 72 bpm; respiratory rate 18/min; temperature 36.7°C; oxygen saturation 98%.
+
+Anthropometrics: Height 162 cm; weight 61.7 kg; BMI 23.5 kg/m².
+
+Laboratory Data:
+Serum creatinine: 5.07 mg/dL.
+Estimated GFR: 7 mL/min/1.73 m².
+BUN: 86 mg/dL.
+
+Physical Examination:
+Patient-reported review is negative for edema, dyspnea, nausea, pruritus, muscle cramps, urinary frequency change, fatigue, and sleep disturbance. No additional examination findings are documented in the supplied encounter data.
+
+Assessment
+
+Chronic kidney disease with markedly reduced estimated GFR and substantial azotemia, present for approximately 7 years. Creatinine is 5.07 mg/dL, eGFR 7 mL/min/1.73 m², and BUN 86 mg/dL. Although she currently denies symptoms suggestive of uremia or volume overload, these laboratory findings represent advanced renal dysfunction requiring prompt specialist evaluation and active management planning. A formal disease stage is not assigned here.
+
+Hypertension, currently above goal at 160/93 mmHg. Poor blood-pressure control may accelerate renal disease progression and increases cardiovascular risk. The effectiveness and adherence of antihypertensive therapy cannot be determined without a documented medication regimen.
+
+Hyperlipidemia, longstanding, with current lipid-lowering treatment and response not documented.
+
+Medication review: A specific regimen is not provided, so medication efficacy, adherence, tolerability, drug interactions, and renal dose appropriateness remain to be established. Particular attention is warranted to avoid nephrotoxic or renally inappropriate medications.
+
+Plan
+
+1. Arrange prompt nephrology evaluation for advanced chronic kidney disease, assessment of uremic risk, and discussion of renal replacement therapy planning if clinically indicated. The absence of current symptoms does not lessen the significance of the laboratory abnormalities.
+
+2. Obtain/review a complete medication reconciliation, including all prescription medications, over-the-counter products, supplements, and herbal preparations. Assess adherence, therapeutic effectiveness, and adverse effects. Review all medications for renal dosing and avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic agents unless specifically directed by a treating clinician. Do not initiate or adjust medications without confirming the current regimen and relevant electrolyte and renal data.
+
+3. Reassess blood pressure promptly with confirmation of home or office measurements and review of antihypertensive adherence and tolerance. Optimize blood-pressure management using agents appropriate for her renal function after medication reconciliation and laboratory review.
+
+4. Recommend renal evaluation including serum electrolytes, complete blood count, urine albumin-to-creatinine ratio, renal ultrasound, and intact parathyroid hormone level. These studies would help characterize complications and guide treatment; no results from these evaluations are available in today’s data.
+
+5. Counsel regarding urgent evaluation for new or worsening shortness of breath, chest pain, progressive edema, markedly reduced or absent urine output, persistent nausea or vomiting, confusion, severe weakness, or other acute deterioration.
+
+6. Continue close outpatient follow-up after medication reconciliation and nephrology assessment.

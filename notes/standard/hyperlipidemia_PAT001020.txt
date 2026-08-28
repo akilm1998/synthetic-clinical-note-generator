@@ -1,0 +1,37 @@
+Chief Complaint
+
+Medication review for longstanding hyperlipidemia.
+
+Subjective
+
+Jason Coleman is a 93-year-old man presenting for review of untreated hyperlipidemia. He has had elevated lipids for approximately 50 years and is not currently under active lipid-lowering management. No lipid-lowering medication regimen is documented for review, and no medication-related adverse effects are reported.
+
+Recent lipid results show total cholesterol 361 mg/dL, LDL cholesterol 274 mg/dL, HDL cholesterol 32 mg/dL, and triglycerides 276 mg/dL. He has a 10-year history of coronary artery disease. He denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. He continues to smoke.
+
+Objective
+
+Vital signs: Blood pressure 130/79 mmHg, pulse 76 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 96%.
+
+Height 178 cm, weight 84.3 kg, BMI 26.6 kg/m².
+
+Laboratory results: Total cholesterol 361 mg/dL, LDL cholesterol 274 mg/dL, HDL cholesterol 32 mg/dL, triglycerides 276 mg/dL.
+
+Assessment
+
+Severe longstanding hyperlipidemia with markedly elevated LDL cholesterol, low HDL cholesterol, and elevated triglycerides. The degree of LDL elevation and coexisting coronary artery disease place him at very high cardiovascular risk. He is not receiving active lipid-lowering therapy, so medication effectiveness, adherence, and tolerance cannot currently be assessed.
+
+Coronary artery disease, present for approximately 10 years, without reported chest discomfort or other active ischemic symptoms today.
+
+Active tobacco use, which further increases cardiovascular risk.
+
+Plan
+
+Discussed the importance of lipid lowering for secondary prevention in the setting of coronary artery disease. Recommend shared decision-making regarding initiation of a maximally tolerated statin, with consideration of a cautious starting dose and gradual titration given his age. Review potential muscle, hepatic, and other adverse effects and assess tolerance at follow-up.
+
+If LDL cholesterol remains substantially elevated despite adherence to tolerated statin therapy, consider addition of ezetimibe and further risk-based treatment. Confirm medication adherence at each visit and reconcile all prescribed and over-the-counter medications.
+
+Recommend a heart-healthy diet emphasizing reduced saturated and trans fats, increased soluble fiber, and avoidance of tobacco. Encourage physical activity appropriate to his functional status and safety.
+
+Recommend repeat fasting lipid panel after treatment initiation or dose adjustment to assess response. Consider evaluation for secondary contributors to dyslipidemia before or during treatment as clinically appropriate.
+
+Strongly advised smoking cessation and offered ongoing support. Follow up after medication initiation or adjustment to review tolerance, adherence, and lipid response, with earlier evaluation for new chest discomfort, dyspnea, dizziness, or exertional leg symptoms.

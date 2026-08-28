@@ -1,0 +1,55 @@
+Chief Complaint
+
+Medication review and follow-up of longstanding type 2 diabetes mellitus.
+
+Subjective
+
+Stella Gray is an 88-year-old woman, 166 cm tall and weighing 61.7 kg, with a 49-year history of type 2 diabetes mellitus. She presents for review of glycemic control, treatment effectiveness, adherence, and treatment tolerance. No specific current diabetes medication regimen is identified in the supplied record; therefore, medication effectiveness, adherence, and adverse effects cannot be confirmed from the available medication information.
+
+Recent laboratory results show HbA1c 9.5% and fasting glucose 231 mg/dL, consistent with substantially above-goal glycemic control. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, and frequent infections. She reports tingling in the hands or feet. No numbness is reported.
+
+She does not smoke. Her documented comorbidity is obstructive sleep apnea, present for approximately 46 years. No other comorbidities are provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Endocrine: Denies increased thirst, frequent urination, and increased hunger.
+
+Eyes: Denies blurred vision.
+
+Neurologic: Reports tingling in the hands or feet. Denies numbness in the hands or feet.
+
+Skin/infectious: Denies slow-healing wounds and frequent infections.
+
+Objective
+
+Vital signs: Blood pressure 133/80 mmHg, pulse 68 beats/min, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 96%.
+
+Height 166 cm; weight 61.7 kg; BMI 22.4 kg/m².
+
+Laboratory data: HbA1c 9.5%. Fasting glucose 231 mg/dL.
+
+Physical examination: The supplied examination data are limited to the recorded vital signs and anthropometric measurements. No additional examination findings are documented.
+
+Assessment
+
+1. Longstanding type 2 diabetes mellitus without documented acute complication, with markedly suboptimal glycemic control. HbA1c is 9.5% and fasting glucose is 231 mg/dL. Despite the absence of polyuria, polydipsia, weight loss, or other overt hyperglycemic symptoms, these values indicate persistent hyperglycemia. Given her age, glycemic goals should be individualized, balancing symptomatic benefit and prevention of complications against the risk of treatment-related hypoglycemia.
+
+2. Distal tingling in the hands or feet. This may represent early peripheral sensory neuropathic symptoms, although a formal neurologic or foot examination is not documented today. The symptom warrants focused sensory, skin, vascular, and footwear assessment.
+
+3. Obstructive sleep apnea, longstanding. No treatment details are provided for review.
+
+Plan
+
+Medication review and glycemic management: Complete medication reconciliation, including all prescribed medications, over-the-counter agents, supplements, dosing, administration technique, and access or adherence barriers. Because no active diabetes regimen is specified, do not assume current use of metformin, insulin, or another glucose-lowering agent. Treatment should be initiated or intensified after reviewing renal function, nutritional status, functional status, hypoglycemia risk, and the patient’s goals of care. In an 88-year-old patient, avoid overly aggressive glucose lowering and prioritize a simple, tolerable regimen with clear sick-day and hypoglycemia instructions.
+
+If pharmacologic therapy is being considered, renal function should be reviewed before selecting or dosing therapy. A medication with low hypoglycemia risk is generally preferred; insulin or insulin secretagogues would require particular caution and reliable administration support. Any new or intensified therapy should be followed by assessment of tolerance, adherence, home glucose trends, and hypoglycemia symptoms.
+
+Glycemic monitoring: Review home glucose monitoring practices and obtain fasting and, when clinically useful, postprandial readings to guide therapy. Repeat HbA1c after an appropriate interval following treatment adjustment. Counsel regarding symptoms of significant hyperglycemia and hypoglycemia and when to seek urgent care.
+
+Complication surveillance: Recommend serum creatinine with estimated glomerular filtration rate and urine albumin-to-creatinine ratio to assess renal involvement before treatment decisions. Recommend fasting lipid evaluation as part of comprehensive diabetes risk assessment. Perform a detailed diabetic foot examination, including skin inspection, pulses, protective sensation, and evaluation of the reported tingling. Recommend appropriate retinal evaluation because of the prolonged diabetes duration and elevated HbA1c.
+
+Lifestyle and safety: Encourage a consistent, nutritionally adequate eating pattern and regular physical activity appropriate to her functional capacity and fall risk. Avoid unnecessary dietary restriction or weight loss given her normal BMI of 22.4 kg/m². Reinforce daily foot inspection, appropriate footwear, and prompt evaluation of any wound or skin breakdown.
+
+Follow-up: Arrange close follow-up after medication reconciliation and review of renal function and home glucose data to establish a safe, individualized treatment plan and assess adherence and tolerance.

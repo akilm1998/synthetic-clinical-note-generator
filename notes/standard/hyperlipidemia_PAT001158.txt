@@ -1,0 +1,29 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Andrew Morris is a 96-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 63 years and currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. No interval cardiovascular symptoms are reported.
+
+Relevant comorbidities include coronary artery disease for 7 years, chronic kidney disease for 31 years, and non-alcoholic fatty liver disease for 69 years. He continues to smoke. Weight is 79.8 kg at 165 cm, with BMI 29.3 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 147/77 mmHg, pulse 78 bpm, respiratory rate 14/min, temperature 36.8°C, oxygen saturation 96%.
+
+Recent lipid panel: total cholesterol 359 mg/dL, LDL cholesterol 263 mg/dL, HDL cholesterol 45 mg/dL, triglycerides 255 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, currently not under active management. The lipid profile represents substantial atherogenic risk in the setting of known coronary artery disease, chronic kidney disease, advanced age, ongoing tobacco use, and overweight status. He is presently free of reported anginal, claudication, or other related symptoms.
+
+Plan
+
+Discussed the significance of the markedly elevated cholesterol, particularly the LDL cholesterol of 263 mg/dL, and the increased risk associated with established coronary artery disease. Recommend shared decision-making regarding initiation of lipid-lowering therapy, with consideration of a statin-based regimen and additional therapy if needed to achieve meaningful LDL reduction. Treatment selection should account for his age, chronic kidney disease, non-alcoholic fatty liver disease, overall goals of care, and tolerance.
+
+Recommend a heart-healthy eating pattern emphasizing reduction of saturated and trans fats, increased fiber, and avoidance of excess refined carbohydrates; encourage activity appropriate to his functional capacity and fall-risk considerations. Smoking cessation was strongly encouraged.
+
+Recommend repeat fasting lipid testing after treatment or lifestyle changes to assess response. Consider evaluation for contributing secondary factors and additional risk stratification, including apolipoprotein B or lipoprotein(a), if it would change management. Continue monitoring blood pressure, which is elevated today at 147/77 mmHg, without assigning a new hypertension diagnosis based on this single reading.
+
+Return for follow-up after lipid-management discussion and repeat lipid assessment, or sooner for chest discomfort, new exertional leg pain, dyspnea, dizziness, or other concerning symptoms.

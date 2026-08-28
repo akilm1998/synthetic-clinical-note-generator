@@ -1,0 +1,39 @@
+Chief Complaint
+
+Medication review and follow-up of type 2 diabetes mellitus.
+
+Subjective
+
+Diana Prince is a 36-year-old woman with approximately one year of type 2 diabetes mellitus and chronic kidney disease who presents for outpatient medication review. She reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling. No diabetes medication use was reported for review today, and she does not describe a current therapeutic regimen or medication-related adverse effects. Adherence cannot be meaningfully assessed without an active medication regimen to review.
+
+She does not smoke. Current weight is 78.3 kg at a height of 166 cm, with BMI 28.4 kg/m².
+
+Objective
+
+Vital signs: blood pressure 134/90 mmHg, pulse 70 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 99% on room air.
+
+Laboratory results: HbA1c 9.2%; fasting glucose 210 mg/dL.
+
+No acute hyperglycemic symptoms are reported.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, diagnosed approximately one year ago, currently poorly controlled based on HbA1c of 9.2% and fasting glucose of 210 mg/dL. She is clinically asymptomatic despite significant biochemical hyperglycemia. There is no reported evidence today of neuropathic symptoms, recurrent infection, visual symptoms, or constitutional symptoms. Medication effectiveness and tolerance cannot be assessed because no active diabetes medication regimen was reported.
+
+Chronic kidney disease, present for approximately one year. Renal function results were not provided; this is clinically important when selecting and dosing glucose-lowering therapy.
+
+Overweight, BMI 28.4 kg/m².
+
+Blood pressure is mildly elevated at 134/90 mmHg and warrants continued monitoring, particularly in the setting of diabetes and chronic kidney disease.
+
+Plan
+
+Discussed that the current glucose values indicate inadequate glycemic control despite the absence of symptoms. Reviewed the importance of establishing and maintaining a consistent diabetes treatment plan, medication adherence, nutrition, regular physical activity, and home glucose monitoring as appropriate.
+
+Before selecting or adjusting medication, reconcile all current prescription, over-the-counter, and supplemental therapies and review renal function. Recommend serum creatinine with estimated glomerular filtration rate and urine albumin-to-creatinine ratio to guide treatment safety and assess kidney involvement. A fasting lipid profile is also appropriate as part of cardiovascular risk assessment.
+
+Recommend initiation or optimization of guideline-directed pharmacologic therapy after medication reconciliation and review of kidney function; metformin may be considered if renal function permits, with additional therapy selected according to glycemic needs and kidney status. Discussed that treatment should be tolerated without gastrointestinal, genitourinary, or hypoglycemic adverse effects, and that she should report concerning symptoms promptly.
+
+Encouraged reduction of concentrated carbohydrates, portion control, gradual weight loss, and regular moderate physical activity as tolerated. Continue avoidance of tobacco.
+
+Monitor blood pressure at follow-up and reinforce cardiovascular risk reduction. Arrange close outpatient follow-up to review medication use, adherence, tolerance, home glucose readings if available, and repeat HbA1c after an appropriate interval.

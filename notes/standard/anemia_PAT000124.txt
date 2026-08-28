@@ -1,0 +1,43 @@
+Chief Complaint
+
+Annual review and follow-up of chronic anemia.
+
+Subjective
+
+Anna Cook is an 85-year-old woman presenting for comprehensive annual review. She has a longstanding history of anemia, reported for approximately 52 years, in the setting of chronic infection for 26 years and chronic kidney disease for 16 years. The anemia has not had an active management plan.
+
+She denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. She reports headache. No pallor is reported. She does not smoke.
+
+Objective
+
+Height 160 cm; weight 53.5 kg; BMI 20.9 kg/m².
+
+Blood pressure 139/86 mmHg, pulse 80 bpm, respiratory rate 22/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Recent laboratory results show hemoglobin 9.0 g/dL, hematocrit 27.2%, RBC count 2.89 million/µL, and MCV 94 fL. Serum iron is low at 28 µg/dL, ferritin is 286 ng/mL, TIBC is low at 235 µg/dL, and transferrin saturation is reduced at 11.9%.
+
+She is clinically stable without reported cardiopulmonary symptoms. No pallor is reported.
+
+Assessment
+
+Chronic normocytic anemia, most consistent with anemia of chronic inflammation and chronic kidney disease. The low serum iron and transferrin saturation with elevated ferritin and low TIBC support restricted iron availability in the setting of chronic disease rather than uncomplicated iron deficiency alone. Hemoglobin is reduced at 9.0 g/dL. She is currently minimally symptomatic aside from headache, with no reported dyspnea, palpitations, dizziness, or exercise intolerance.
+
+Chronic kidney disease, longstanding, with associated anemia. Current renal function values were not provided; correlation with kidney function is needed.
+
+Chronic infection, longstanding, likely contributing to ongoing inflammatory anemia.
+
+Advanced age with need for routine preventive and functional health review.
+
+Plan
+
+Obtain or review a CBC with reticulocyte count and peripheral smear to further characterize the anemia. Recommend vitamin B12, folate, renal function testing, and inflammatory markers if not recently assessed. Repeat iron studies as clinically indicated and review for any evidence of blood loss, including gastrointestinal or other sources, based on history and examination.
+
+Review chronic kidney disease management and renal function. Consider renal specialist input if anemia is progressive, symptomatic, or inadequately explained by the available data. If persistent anemia is confirmed after evaluation of reversible contributors, discuss treatment options related to chronic kidney disease and inflammation, including the appropriateness of oral or intravenous iron or an erythropoiesis-stimulating agent, with attention to risks and overall goals of care.
+
+Monitor for new or worsening fatigue, weakness, dizziness, exertional intolerance, shortness of breath, palpitations, chest discomfort, or worsening headache. Seek urgent care for significant bleeding, syncope, chest pain, or acute breathing difficulty.
+
+Review headache symptoms at follow-up and assess for concerning features, including sudden onset, neurologic symptoms, visual changes, or a substantial change from baseline.
+
+Continue comprehensive annual preventive review, including immunization status, fall-risk and functional assessment, nutrition, mood and cognitive screening, medication and advance-care planning review, and age-appropriate cancer screening based on prior screening history, life expectancy, and patient preferences.
+
+Arrange outpatient follow-up after laboratory review to reassess anemia and coordinate ongoing management.

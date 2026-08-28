@@ -1,0 +1,43 @@
+Chief Complaint
+
+Annual review and follow-up of chronic medical conditions.
+
+Subjective
+
+Benjamin Murphy is a 71-year-old man presenting for comprehensive annual review. He has a 23-year history of essential hypertension, currently without an established active management regimen. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis. No acute hypertensive symptoms reported.
+
+Past medical history is significant for chronic kidney disease for approximately 8 years, type 2 diabetes mellitus for 5 years, and hyperlipidemia for 24 years. He does not smoke. Current height is 162 cm and weight is 64.3 kg, with BMI 24.5 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 157/98 mmHg. Pulse 75 bpm. Respiratory rate 18/min. Temperature 36.8°C. Oxygen saturation 98%.
+
+Laboratory data reviewed: sodium 145 mmol/L and potassium 4.8 mmol/L.
+
+No additional examination findings documented for this encounter.
+
+Assessment
+
+Essential hypertension, longstanding and currently above goal at 157/98 mmHg. He is asymptomatic without features suggesting an acute hypertensive emergency. His chronic kidney disease and diabetes increase cardiovascular and renal risk and make consistent blood pressure control particularly important.
+
+Chronic kidney disease, present for approximately 8 years. Current sodium and potassium are within reasonable limits based on the values provided; renal function cannot be assessed from the available laboratory data.
+
+Type 2 diabetes mellitus, present for approximately 5 years. Ongoing blood pressure control is important for reduction of renal and cardiovascular risk.
+
+Hyperlipidemia, present for approximately 24 years, contributing to overall cardiovascular risk.
+
+Preventive health and annual chronic disease review completed in the context of advanced age and multiple cardiometabolic conditions.
+
+Plan
+
+Repeat blood pressure measurement after a period of seated rest and begin home blood pressure monitoring with a written log, including measurement technique and timing. Review readings promptly to establish the sustained blood pressure pattern and address the current lack of active hypertension management.
+
+Discuss initiation or re-establishment of antihypertensive therapy, selected with consideration of his diabetes and chronic kidney disease. Medication choice and dosing should be guided by updated renal function, albuminuria status, current medication reconciliation, and review of contraindications. Do not make unsupervised medication changes.
+
+Recommend a low-sodium, heart-healthy eating pattern, regular physical activity as tolerated, avoidance of excess alcohol, and continued tobacco avoidance. His current BMI is in the normal range; maintaining his present weight is reasonable.
+
+Recommend updated renal and diabetes monitoring, including kidney function, urine protein assessment, and glycemic assessment, as well as review of lipid management. Consider ECG, lipid profile, and urinalysis as part of cardiovascular and chronic disease risk assessment. Continue coordination of care for chronic kidney disease and diabetes as clinically appropriate.
+
+Review age-appropriate preventive care, including immunizations and recommended cancer and vision screening based on prior results and shared decision-making.
+
+Seek urgent medical attention for severe or persistent headache, chest pain, shortness of breath, focal neurologic symptoms, acute visual change, or markedly higher blood pressure readings with symptoms. Arrange outpatient follow-up after home blood pressure readings and updated chronic disease monitoring are available.

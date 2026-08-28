@@ -1,0 +1,16 @@
+Chief Complaint
+Routine follow-up for hypertension.
+
+Subjective
+Isaac Henderson is a 71-year-old man with a 27-year history of essential hypertension, currently without active blood pressure management. He reports palpitations but denies headache, dizziness, blurred vision, chest pain, shortness of breath, fatigue, or epistaxis. No tobacco use. Comorbid chronic kidney disease for 19 years, coronary artery disease for 10 years, and hyperlipidemia for 13 years.
+
+Objective
+Height 180 cm; weight 93.3 kg; BMI 28.8 kg/m².
+Blood pressure 177/106 mmHg; pulse 75 bpm; respiratory rate 17/min; temperature 36.9°C; oxygen saturation 97%.
+Serum sodium 147 mmol/L; potassium 4.7 mmol/L.
+
+Assessment
+Essential hypertension with markedly elevated blood pressure and inadequate current control. He is presently without symptoms suggestive of acute hypertensive end-organ injury, although palpitations and significant coronary and renal comorbidity increase cardiovascular risk. Mild hypernatremia noted.
+
+Plan
+Repeat blood pressure after seated rest and confirm with appropriate cuff/technique. Given the degree of elevation and underlying coronary artery disease and chronic kidney disease, recommend prompt same-day medical evaluation and initiation or adjustment of antihypertensive therapy by the treating clinician. Review adherence and dietary sodium intake. Obtain ECG for palpitations and assess renal function and urinalysis as clinically appropriate; consider lipid profile as part of cardiovascular risk assessment. Advise immediate emergency evaluation for chest pain, dyspnea, neurologic symptoms, severe headache, visual change, or worsening palpitations. Close follow-up after treatment is established.

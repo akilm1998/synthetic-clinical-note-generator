@@ -1,0 +1,21 @@
+Chief Complaint
+Urgent follow-up for poorly controlled type 2 diabetes mellitus.
+
+Subjective
+Mason Russell is a 90-year-old man presenting for focused follow-up of type 2 diabetes mellitus of approximately 16 years’ duration. Current glycemic control is poor based on recent HbA1c of 9.8% and fasting glucose of 225 mg/dL. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. He does not smoke. Relevant comorbidities include obesity, dyslipidemia, and non-alcoholic fatty liver disease.
+
+Objective
+Height 183 cm; weight 118.2 kg; BMI 35.3 kg/m².
+Blood pressure 136/76 mmHg, pulse 77 bpm, respiratory rate 19/min, temperature 36.7°C, oxygen saturation 96%.
+HbA1c 9.8%.
+Fasting glucose 225 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without documented complications, currently significantly above individualized glycemic goal. Despite absence of reported hyperglycemic symptoms, the HbA1c and fasting glucose indicate persistent hyperglycemia requiring active management. Long disease duration and advanced age warrant a cautious, individualized approach that prioritizes avoidance of hypoglycemia while improving control. Obesity, longstanding dyslipidemia, and non-alcoholic fatty liver disease are relevant metabolic comorbidities.
+
+Plan
+Promptly initiate or intensify a diabetes treatment plan after reviewing current medication use, renal function, nutritional intake, functional status, and hypoglycemia risk; no medication regimen is documented today. Discuss dietary carbohydrate reduction, portion control, avoidance of sugar-sweetened beverages, and activity appropriate to his functional capacity.
+
+Recommend home glucose monitoring with documentation of fasting and, when appropriate, postprandial values. Review hypoglycemia recognition and treatment, particularly if insulin or insulin secretagogues are considered.
+
+Obtain or review serum creatinine/eGFR, urine albumin-to-creatinine ratio, and fasting lipid profile to guide treatment selection and assess diabetes-related risk. Continue monitoring for visual symptoms, neuropathy, skin breakdown, and urinary or infectious complications. Reassess glycemic response and treatment tolerance promptly, with earlier evaluation for marked worsening glucose levels or development of polyuria, polydipsia, vomiting, weakness, confusion, or other acute symptoms.

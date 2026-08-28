@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Ruby Marshall is an 83-year-old woman presenting for outpatient follow-up of chronic kidney disease, present for approximately 6 years. She reports no current fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. She has a 15-year history of type 2 diabetes mellitus, 36-year history of hypertension, and secondary hyperparathyroidism diagnosed approximately 1 year ago. She continues to smoke. No current medication list is provided.
+
+Objective
+
+Height 161 cm, weight 61.2 kg, BMI 23.6 kg/m².
+
+Blood pressure 164/94 mmHg, pulse 78 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 98%.
+
+Serum creatinine 3.12 mg/dL. Estimated GFR 16 mL/min/1.73 m². BUN 66 mg/dL.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function and elevated creatinine and BUN. She is currently clinically without reported uremic or fluid-overload symptoms, but the degree of renal impairment warrants close renal follow-up and active complication surveillance. Management appears suboptimal, particularly given persistent hypertension and longstanding diabetes.
+
+Hypertension, currently above goal at 164/94 mmHg, in the setting of chronic kidney disease.
+
+Type 2 diabetes mellitus for 15 years, an important contributor to renal disease risk.
+
+Secondary hyperparathyroidism associated with chronic kidney disease.
+
+Tobacco use.
+
+Plan
+
+Arrange close nephrology follow-up for comprehensive management of advanced chronic kidney disease and discussion of renal replacement planning if renal function declines or complications develop.
+
+Repeat renal function assessment and obtain serum electrolytes, complete blood count, urine albumin-to-creatinine ratio, and intact parathyroid hormone level as clinically appropriate. Consider renal ultrasound to assess renal structure.
+
+Review and intensify blood pressure management with attention to renal protection. Medication reconciliation is needed before selecting or adjusting therapy; no current medications are documented today. Recommend home blood pressure monitoring and review of readings at follow-up.
+
+Continue diabetes management with emphasis on individualized glycemic control and avoidance of hypoglycemia given advanced age and renal impairment.
+
+Assess and manage CKD-related mineral and bone disorder and anemia once recommended laboratory studies are available.
+
+Counseled regarding smoking cessation and avoidance of nephrotoxins, including nonsteroidal anti-inflammatory drugs. Advise prompt evaluation for new shortness of breath, progressive swelling, markedly reduced urine output, persistent nausea or vomiting, confusion, or chest discomfort.
+
+Follow up promptly for blood pressure and kidney disease reassessment.

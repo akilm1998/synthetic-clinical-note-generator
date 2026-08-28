@@ -1,0 +1,54 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Madeline Warren is a 59-year-old woman, height 173 cm, weight 66.7 kg, BMI 22.3 kg/m², presenting for outpatient medication review in the setting of chronic kidney disease recognized approximately 3 years ago. She has a 12-year history of hypertension and a 28-year history of type 2 diabetes mellitus. She does not smoke.
+
+She reports no fatigue, pruritus, muscle cramps, nausea, lower-extremity swelling, change in urinary frequency, sleep disturbance, or shortness of breath. No uremic or fluid-overload symptoms are reported today.
+
+Medication effectiveness, adherence, and treatment tolerance require direct reconciliation with the active medication list, including prescription medications, over-the-counter agents, and supplements. No specific medication regimen is documented for review today. In particular, there is no confirmed documentation of current use of an antihypertensive, diuretic, glucose-lowering agent, phosphate binder, calcium supplement, erythropoiesis-stimulating agent, or other kidney-directed therapy. Medication review should therefore focus on confirming what she is actually taking, dosing accuracy, missed doses, adverse effects, and use of nephrotoxic over-the-counter medications such as NSAIDs.
+
+Objective
+
+Vital Signs:
+Blood pressure 162/92 mmHg
+Pulse 73 bpm
+Respiratory rate 18/min
+Temperature 36.7°C
+Oxygen saturation 97%
+
+Laboratory Data:
+Serum creatinine 6.0 mg/dL
+Estimated glomerular filtration rate 5 mL/min/1.73 m²
+BUN 77 mg/dL
+
+Review of documented symptoms is negative for fatigue, pruritus, muscle cramps, nausea, peripheral edema, urinary frequency change, sleep disturbance, and shortness of breath.
+
+Physical examination:
+No abnormal physical examination findings are provided in the current record. The documented vital signs show persistent hypertension with otherwise stable respiratory rate, pulse, temperature, and oxygen saturation.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal filtration and significant azotemia, with creatinine 6.0 mg/dL, eGFR 5 mL/min/1.73 m², and BUN 77 mg/dL. Although she is currently without reported uremic or volume-overload symptoms, these values represent advanced renal dysfunction requiring prompt nephrology assessment and planning. The absence of symptoms does not exclude clinically important metabolic complications or the need to prepare for renal replacement therapy.
+
+Hypertension, currently above goal at 162/92 mmHg. Poor blood pressure control may accelerate renal decline and increases cardiovascular risk. Medication effectiveness and adherence cannot be assessed until the active regimen is confirmed.
+
+Longstanding type 2 diabetes mellitus, present for 28 years, is a major risk factor for chronic kidney disease progression. Current glycemic therapy and control are not documented and should be reviewed carefully in the context of markedly reduced kidney function, as medication dosing and hypoglycemia risk may change substantially.
+
+Medication review: treatment response, adherence, and tolerance are not yet established because the active medication list and recent medication-taking pattern have not been confirmed. Particular attention is needed to renal dosing, duplicate therapy, hypotension risk, electrolyte effects, and avoidance of nephrotoxins.
+
+Plan
+
+Arrange urgent nephrology evaluation for advanced chronic kidney disease, review of renal replacement therapy planning, and assessment for complications of severe renal dysfunction. She should proceed to the emergency department promptly for new or worsening shortness of breath, chest pain, confusion, persistent vomiting, marked weakness, inability to maintain oral intake, rapidly increasing swelling, or a substantial change in urination.
+
+Perform complete medication reconciliation as a priority. Confirm all prescription medications, doses, timing, recent changes, missed doses, perceived benefit, and adverse effects. Review over-the-counter medications, herbal products, and supplements. Avoid NSAIDs and other potentially nephrotoxic agents unless specifically directed by a treating clinician. All medications should be reviewed for renal dosing before continuation or initiation.
+
+Address blood pressure control after the medication list is verified. Assess adherence and tolerance before modifying therapy, while avoiding abrupt changes without a complete review. Home blood pressure monitoring would help determine treatment response if available.
+
+Review diabetes treatment and monitoring with attention to renal dosing and hypoglycemia risk. Avoid assuming that prior diabetes regimens remain appropriate at the current level of kidney function.
+
+Recommend evaluation of electrolytes, bicarbonate, calcium, phosphorus, intact parathyroid hormone, CBC, urine albumin-to-creatinine ratio, and renal ultrasound as clinically appropriate for characterization and complication assessment. These studies should be coordinated promptly with nephrology.
+
+Counsel regarding avoidance of NSAIDs, maintenance of appropriate hydration without excessive fluid intake, and prompt reporting of uremic or fluid-overload symptoms. Continue close outpatient follow-up while urgent specialty assessment is arranged.

@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Angela Holland is a 42-year-old woman presenting for routine outpatient follow-up of anemia identified approximately 1 year ago. She reports no current fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, shortness of breath, palpitations, or other cardiopulmonary symptoms. No interval symptom worsening is reported.
+
+Relevant comorbidities include type 2 diabetes mellitus for approximately 1 year and heart failure for approximately 1 year. She does not smoke. Current anemia management has not been established.
+
+Objective
+
+Height 166 cm; weight 58.4 kg; BMI 21.2 kg/m².
+
+Blood pressure 125/76 mmHg
+Pulse 78 bpm
+Respiratory rate 23/min
+Temperature 36.8°C
+Oxygen saturation 99%
+
+No pallor or tachycardia noted. Oxygenation is normal.
+
+Recent laboratory results:
+Hemoglobin 8.1 g/dL
+Hematocrit 24.3%
+RBC count 2.86 million/µL
+MCV 85 fL
+Serum iron 22 µg/dL
+Ferritin 460 ng/mL
+TIBC 258 µg/dL
+Transferrin saturation 8.5%
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation/chronic disease. The anemia is normocytic with low serum iron and transferrin saturation, elevated ferritin, and relatively low TIBC, supporting impaired iron availability in the setting of chronic disease. Hemoglobin is significantly reduced despite the absence of reported symptoms. Coexisting heart failure and type 2 diabetes mellitus may contribute to the chronic inflammatory and metabolic context. No current tachycardia or hypoxemia is present.
+
+Plan
+
+Obtain a repeat CBC with reticulocyte count and peripheral smear to confirm persistence and assess marrow response.
+
+Recommend evaluation of vitamin B12, folate, renal function, and inflammatory markers. Review for potential sources of blood loss or other contributors to anemia based on interval history and examination.
+
+Given hemoglobin of 8.1 g/dL and low transferrin saturation, arrange timely outpatient follow-up to review results and determine whether iron replacement, including consideration of intravenous iron in the context of heart failure, is appropriate. Treatment should be guided by the complete evaluation and renal function rather than ferritin alone.
+
+Continue close clinical monitoring in view of the underlying heart failure. Advise urgent evaluation for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, marked weakness, or evidence of bleeding.
+
+Follow up after repeat laboratory evaluation, or sooner if symptoms develop.

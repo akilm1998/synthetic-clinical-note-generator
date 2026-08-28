@@ -1,0 +1,87 @@
+Chief Complaint
+
+Initial consultation for chronic kidney disease and markedly reduced renal function.
+
+History of Present Illness
+
+Charles Bennett is a 79-year-old man, height 186 cm, weight 95.5 kg, BMI 27.6 kg/m², presenting for initial outpatient evaluation of chronic kidney disease diagnosed approximately 7 years ago. Current laboratory data show serum creatinine 4.06 mg/dL, estimated glomerular filtration rate 14 mL/min/1.73 m², and BUN 67 mg/dL. His kidney disease has not been under active management.
+
+He currently reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, or shortness of breath. No uremic or volume-overload symptoms are reported today. He is a current smoker. Additional history regarding diabetes, hypertension, prior glomerulonephritis, cardiovascular disease, family history, medication use, allergies, and prior renal imaging was not provided.
+
+Past Medical History
+
+Chronic kidney disease, diagnosed approximately 7 years ago.
+
+Anemia of chronic disease, present for approximately 29 years.
+
+Secondary hyperparathyroidism, present for approximately 26 years.
+
+Hyperlipidemia, present for approximately 43 years.
+
+Social History
+
+Current tobacco use. Alcohol and other social history were not provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Skin: Denies pruritus.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urinary frequency.
+
+Cardiopulmonary: Denies shortness of breath or peripheral edema.
+
+Musculoskeletal: Denies muscle cramps.
+
+Neurologic and sleep: Denies sleep disturbance. No other concerns reported.
+
+Objective
+
+Vital Signs: Blood pressure 152/88 mmHg. Pulse 76 bpm. Respiratory rate 19/min. Temperature 36.8°C. Oxygen saturation 97% on room air.
+
+Anthropometrics: Height 186 cm. Weight 95.5 kg. BMI 27.6 kg/m².
+
+Laboratory Data: Serum creatinine 4.06 mg/dL. Estimated glomerular filtration rate 14 mL/min/1.73 m². BUN 67 mg/dL.
+
+Physical examination today is limited to the available encounter data. No peripheral edema, respiratory distress, or other abnormal examination findings are documented.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal filtration
+
+Seven-year history of chronic kidney disease with creatinine 4.06 mg/dL, BUN 67 mg/dL, and eGFR 14 mL/min/1.73 m². Although he is currently without reported uremic or fluid-overload symptoms, these values indicate advanced chronic renal impairment requiring prompt nephrology-directed evaluation and longitudinal management. The absence of symptoms does not lessen the risk for electrolyte, acid-base, volume, anemia, mineral-bone, and medication-related complications.
+
+2. Hypertension, incompletely controlled by today’s measurement
+
+Blood pressure is 152/88 mmHg. In the setting of significant chronic kidney disease, confirmation with repeat measurements and establishment of an individualized blood pressure target are important. Current antihypertensive regimen was not provided and requires medication reconciliation.
+
+3. Anemia of chronic disease
+
+Longstanding anemia of chronic disease, reported for approximately 29 years. No current hemoglobin or iron studies are available in the provided data. Further characterization is important in the context of advanced kidney disease.
+
+4. Secondary hyperparathyroidism
+
+Longstanding secondary hyperparathyroidism, reported for approximately 26 years, consistent with chronic kidney disease–mineral and bone disorder. Current calcium, phosphorus, alkaline phosphatase, and intact parathyroid hormone values are not provided.
+
+5. Hyperlipidemia
+
+Longstanding hyperlipidemia, present for approximately 43 years, contributing to overall cardiovascular and renal risk.
+
+6. Tobacco use
+
+Current smoking, which increases cardiovascular and renal disease risk.
+
+Plan
+
+Prompt nephrology follow-up is recommended for comprehensive management of advanced chronic kidney disease and discussion of renal replacement therapy planning if kidney function remains at this level or declines further. This should include review of the trajectory of renal function, symptom surveillance, dietary counseling, medication safety, and advance planning appropriate to the patient’s goals and overall health.
+
+Obtain or review a serum electrolyte and renal function panel, complete blood count, urine albumin-to-creatinine ratio, and mineral-bone assessment including calcium, phosphorus, and intact parathyroid hormone. A renal ultrasound is also appropriate if prior structural evaluation is not available.
+
+Perform complete medication reconciliation before initiating or adjusting therapy. Avoid nephrotoxic medications when possible, adjust renally cleared medications, and avoid nonsteroidal anti-inflammatory drugs. Management of blood pressure should be individualized after confirming the measurement and reviewing current treatment.
+
+Continue clinical monitoring for nausea, anorexia, pruritus, progressive fatigue, sleep disturbance, muscle cramps, confusion, reduced urine output, edema, or shortness of breath. Urgent evaluation is warranted for severe dyspnea, chest pain, confusion, persistent vomiting, rapidly progressive edema, or substantially decreased urine output.
+
+Address smoking cessation at the next available opportunity and continue cardiovascular risk reduction, including management of hyperlipidemia. Further treatment of anemia and secondary hyperparathyroidism should be guided by updated CBC, iron indices, mineral studies, and parathyroid hormone results.

@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Spencer Lawson is a 57-year-old man presenting for routine outpatient follow-up of type 2 diabetes diagnosed approximately 5 years ago. Diabetes is currently not actively managed. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+He does not smoke. Relevant comorbidities include chronic kidney disease of approximately 17 years’ duration and depression of approximately 35 years’ duration. No current diabetes medication regimen is provided.
+
+Objective
+
+Height 175 cm; weight 89.7 kg; BMI 29.3 kg/m².
+
+Blood pressure 128/81 mmHg, pulse 69 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 97%.
+
+Hemoglobin A1c 9.2%. Fasting glucose 227 mg/dL.
+
+Assessment
+
+1. Type 2 diabetes mellitus without reported complications, currently poorly controlled based on HbA1c of 9.2% and fasting glucose of 227 mg/dL. Despite significant biochemical hyperglycemia, he reports no polyuria, polydipsia, visual symptoms, constitutional symptoms, neuropathic symptoms, or wound-related concerns.
+
+2. Chronic kidney disease, reported duration approximately 17 years. Renal function and albuminuria should be reviewed before selecting or adjusting glucose-lowering therapy.
+
+3. Depression, longstanding, approximately 35 years’ duration. No current treatment details or active symptoms provided today.
+
+4. Overweight, BMI 29.3 kg/m².
+
+5. Nonsmoker.
+
+Plan
+
+Discussed that current glycemic markers are above goal and require active treatment. Review current medication use, prior diabetes therapies, adherence, dietary pattern, home glucose readings, and history of hypoglycemia at the next medication reconciliation.
+
+Recommend obtaining renal function assessment, including serum creatinine/eGFR and urine albumin-to-creatinine ratio, to guide safe selection and dosing of diabetes therapy in the setting of chronic kidney disease. Consider initiation of guideline-directed glucose-lowering medication, with renal function and comorbidities incorporated into the choice; metformin may be considered if renal function permits. Additional agents with renal and cardiovascular benefit may be appropriate depending on kidney function, overall risk, cost, and preferences.
+
+Recommend a structured nutrition plan emphasizing portion control, reduced refined carbohydrates and sugar-sweetened beverages, increased vegetables and fiber, and gradual weight reduction. Encourage regular physical activity as tolerated, targeting approximately 150 minutes weekly of moderate activity with avoidance of prolonged sedentary periods.
+
+Recommend home glucose monitoring during treatment initiation or adjustment and review of readings at follow-up. Counsel regarding symptoms of marked hyperglycemia and hypoglycemia and the need for prompt evaluation if these occur.
+
+Recommend routine diabetes preventive care, including a comprehensive foot examination and dilated retinal examination, as well as periodic fasting lipid assessment and kidney monitoring. Continue to address cardiovascular risk factors.
+
+Depression should be reassessed, including current mood, functional impact, and treatment status, with management updated as clinically indicated.
+
+Follow up after medication and renal function review to reassess glycemic control and treatment response.

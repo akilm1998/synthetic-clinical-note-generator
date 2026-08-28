@@ -1,0 +1,47 @@
+Chief Complaint
+
+Initial consultation for longstanding untreated hyperlipidemia.
+
+History of Present Illness
+
+Grant Porter is an 83-year-old man, 174 cm tall and 72.4 kg, with a BMI of 23.9 kg/m², presenting for initial outpatient evaluation of hyperlipidemia present for approximately 26 years and not currently managed with documented therapy. Recent lipid results show total cholesterol 323 mg/dL, LDL cholesterol 216 mg/dL, HDL cholesterol 30 mg/dL, and triglycerides 386 mg/dL, consistent with marked mixed dyslipidemia. He reports fatty skin deposits and fatty eyelid deposits. He denies chest discomfort, exertional leg pain suggestive of claudication, and dizziness.
+
+He has a 5-year history of chronic kidney disease. He does not smoke. No medication or allergy information was provided for this visit.
+
+Review of Systems
+
+Cardiovascular: No chest discomfort.
+
+Vascular: No intermittent claudication.
+
+Neurologic: No dizziness.
+
+Skin: Reports xanthomas and xanthelasma.
+
+Objective
+
+Vital Signs: Blood pressure 149/85 mmHg, pulse 73 bpm, respiratory rate 15/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 174 cm, weight 72.4 kg, BMI 23.9 kg/m².
+
+Laboratory Data: Total cholesterol 323 mg/dL; LDL cholesterol 216 mg/dL; HDL cholesterol 30 mg/dL; triglycerides 386 mg/dL.
+
+Physical examination is notable by history for xanthomas and xanthelasma. No other examination findings are provided.
+
+Assessment
+
+Marked longstanding mixed hyperlipidemia with severely elevated LDL cholesterol, elevated triglycerides, and low HDL cholesterol. The presence of xanthomas and xanthelasma supports a prolonged lipid burden. Although he currently reports no chest discomfort, claudication, or dizziness, his age, chronic kidney disease, and lipid profile place him at increased risk for atherosclerotic cardiovascular disease. His LDL level is sufficiently elevated to warrant active treatment consideration. Triglycerides are elevated but below the level typically associated with the greatest pancreatitis risk.
+
+Chronic kidney disease, present for approximately 5 years, is an important cardiovascular risk-enhancing comorbidity and should be considered when selecting and dosing lipid-lowering therapy.
+
+Blood pressure is elevated at today’s visit; this should be reassessed separately and interpreted in the context of his chronic kidney disease and overall cardiovascular risk.
+
+Plan
+
+Discussed the significance of the lipid results and the expected benefits and potential risks of lipid-lowering therapy. Recommend initiation of statin-based treatment after medication reconciliation and review of renal function, with treatment intensity individualized to age, kidney disease, overall health, and patient preferences. Ezetimibe may be considered if LDL reduction is inadequate or statin therapy is not tolerated.
+
+Recommend confirmation with a fasting lipid panel and evaluation for potentially reversible secondary contributors, including thyroid, hepatic, renal, dietary, and medication-related factors, using current clinical laboratory data. Consider ApoB and lipoprotein(a) measurement for additional risk assessment if results would alter management. Coronary artery calcium imaging may be considered only if the treatment decision remains uncertain after shared discussion; a high LDL level and chronic kidney disease already provide substantial rationale for therapy.
+
+Counseled regarding reduction of saturated and trans fats, limitation of refined carbohydrates and alcohol-containing products, increased intake of soluble fiber and plant-based foods, and regular physical activity as tolerated. Smoking cessation counseling is not required, as he reports no tobacco use.
+
+Reassess blood pressure and review kidney disease management at follow-up. Repeat lipid testing after implementation of therapy to assess response and tolerability. Follow up in approximately 6–12 weeks, or sooner for new chest discomfort, exertional leg pain, or other concerning cardiovascular symptoms.

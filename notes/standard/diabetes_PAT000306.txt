@@ -1,0 +1,41 @@
+Chief Complaint
+
+Annual review of diabetes and chronic medical conditions.
+
+Subjective
+
+Christopher Perry is a 98-year-old man presenting for comprehensive annual review. He has a 21-year history of type 2 diabetes mellitus and a 53-year history of chronic kidney disease. Current diabetes control is suboptimal, with HbA1c 9.6% and fasting glucose 218 mg/dL. He reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+He continues to smoke. No diabetes medications or other current medications are documented for review today.
+
+Objective
+
+Vital Signs: BP 131/88 mmHg, pulse 73 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 95%.
+
+Height 178 cm; weight 86.5 kg; BMI 27.3 kg/m².
+
+Laboratory Results:
+HbA1c 9.6%.
+Fasting glucose 218 mg/dL.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complications, present for 21 years, currently inadequately controlled based on HbA1c and fasting glucose. Despite absence of hyperglycemic, neuropathic, or infectious symptoms, laboratory values indicate persistent hyperglycemia.
+
+2. Chronic kidney disease, longstanding. Renal function and albuminuria status should be considered when selecting and dosing diabetes therapies.
+
+3. Tobacco use, ongoing.
+
+4. Overweight by BMI.
+
+Plan
+
+Review diabetes goals in the context of advanced age, chronic kidney disease, functional status, and risk of hypoglycemia. Perform medication reconciliation and discuss initiation or adjustment of glucose-lowering therapy using a kidney-appropriate regimen; avoid overly aggressive treatment and tailor targets individually.
+
+Reinforce a consistent, balanced meal plan with attention to carbohydrate portions, adequate hydration, and avoidance of concentrated sugars. Encourage activity appropriate to mobility and safety.
+
+Obtain updated renal assessment, including serum creatinine/eGFR and urine albumin-to-creatinine ratio, before finalizing medication choices. Continue periodic HbA1c and fasting glucose monitoring.
+
+Recommend annual dilated eye examination and comprehensive diabetic foot examination, with prompt evaluation of any skin breakdown or sensory change. Review routine preventive care, including age-appropriate immunizations and smoking cessation counseling.
+
+Follow up after medication and renal review to reassess glycemic control and treatment tolerance, sooner for symptoms of marked hyperglycemia, hypoglycemia, dehydration, or infection.

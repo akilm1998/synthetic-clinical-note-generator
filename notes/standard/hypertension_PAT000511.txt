@@ -1,0 +1,43 @@
+Chief Complaint
+
+Initial evaluation of longstanding hypertension.
+
+Subjective
+
+Logan Stewart is a 98-year-old man presenting for initial outpatient consultation regarding hypertension, present for approximately 28 years and currently without active management. He reports intermittent dizziness, palpitations, and fatigue. He denies headache, blurred vision, chest pain, shortness of breath, or epistaxis. He has a 32-year history of coronary artery disease. He is an active smoker. Current weight is 83.1 kg at a height of 167 cm, with BMI 29.8 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 161/92 mmHg, pulse 79 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 94%.
+
+Serum electrolytes: Sodium 137 mmol/L, potassium 4.2 mmol/L.
+
+Assessment
+
+1. Essential hypertension, longstanding and currently untreated
+
+Blood pressure is elevated at 161/92 mmHg in the setting of 28 years of hypertension and established coronary artery disease. The associated dizziness, palpitations, and fatigue warrant further assessment, although he currently denies symptoms suggestive of acute hypertensive emergency, including chest pain, dyspnea, severe headache, or visual change. Sodium and potassium are within the provided reference context and do not suggest an electrolyte contraindication to standard antihypertensive therapy. His advanced age and coronary disease require gradual, individualized blood pressure reduction with attention to orthostatic symptoms and renal function.
+
+2. Coronary artery disease
+
+Longstanding coronary artery disease is a major cardiovascular risk factor and increases the importance of blood pressure control and smoking cessation. He denies current chest pain or shortness of breath.
+
+3. Tobacco use
+
+Active smoking substantially increases cardiovascular risk, particularly in the setting of hypertension and coronary artery disease.
+
+4. Overweight status
+
+BMI is 29.8 kg/m², contributing to overall cardiovascular risk.
+
+Plan
+
+Confirm blood pressure with repeat office measurement and home blood pressure monitoring, including assessment for orthostatic change given his dizziness and advanced age. Maintain a written blood pressure and symptom log.
+
+Discuss initiation of antihypertensive therapy with a cautious, individualized approach, considering his coronary artery disease, pulse, dizziness, and overall functional status. Medication reconciliation and review of renal function are appropriate before and during treatment. Avoid abrupt or excessive blood pressure reduction.
+
+Recommend electrocardiogram to evaluate palpitations and assess for evidence of hypertensive or ischemic cardiac effects. Recommend urinalysis and lipid profile for cardiovascular risk assessment and evaluation of hypertensive target-organ involvement. Continue monitoring serum electrolytes when pharmacologic therapy is initiated or adjusted.
+
+Counsel regarding smoking cessation, reduction of dietary sodium, moderation of alcohol if applicable, and activity appropriate to his tolerance and cardiovascular status. Encourage gradual weight reduction if clinically feasible.
+
+Seek urgent medical attention for new chest pain, shortness of breath, focal neurologic symptoms, severe headache, acute visual change, syncope, or markedly higher blood pressure accompanied by symptoms. Arrange close outpatient follow-up after repeat blood pressure assessment and initial cardiovascular evaluation.

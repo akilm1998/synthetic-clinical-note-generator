@@ -1,0 +1,23 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Patrick Harper is a 44-year-old man with a 5-year history of hyperlipidemia, currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain, or dizziness. Reports xanthomas and xanthelasma. He does not smoke. Comorbid type 2 diabetes mellitus for 8 years and non-alcoholic fatty liver disease for 2 years.
+
+Objective
+Height 173 cm, weight 68.2 kg, BMI 22.8 kg/m².
+BP 117/81 mmHg, pulse 73 bpm, respirations 17/min, temperature 36.6°C, oxygen saturation 97%.
+Recent lipid panel: total cholesterol 360 mg/dL, LDL-C 257 mg/dL, HDL-C 42 mg/dL, triglycerides 305 mg/dL.
+
+Assessment
+Severe hyperlipidemia with markedly elevated LDL-C and elevated triglycerides, not adequately controlled. Presence of xanthomas and xanthelasma raises concern for longstanding or potentially inherited dyslipidemia. No current symptoms suggestive of angina or intermittent claudication.
+Type 2 diabetes mellitus, 8-year duration.
+Non-alcoholic fatty liver disease, 2-year duration.
+
+Plan
+Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, with shared decision-making and review of contraindications/interactions.
+Repeat fasting lipid panel after treatment initiation and assess response; consider ApoB and lipoprotein(a) measurement given the degree and duration of dyslipidemia.
+Evaluate for secondary contributors to severe dyslipidemia as clinically appropriate and obtain a detailed family history of premature cardiovascular disease.
+Counseled on reducing saturated and trans fats, limiting refined carbohydrates and alcohol, maintaining regular aerobic exercise, and continuing diabetes-focused lifestyle measures.
+Given diabetes and markedly elevated LDL-C, pursue aggressive cardiovascular risk reduction; consider addition of ezetimibe if LDL-C remains substantially elevated despite maximally tolerated statin therapy.
+Continue monitoring liver disease and liver-related laboratory parameters when initiating lipid-lowering therapy.

@@ -1,0 +1,27 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+53-year-old woman with 5-year history of type 2 diabetes, currently not under active management. Recent HbA1c is 9.7% and fasting glucose 231 mg/dL. She denies increased thirst, frequent urination, increased hunger, weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling.
+
+Comorbid hypertension, obstructive sleep apnea, and depression, each present for approximately 7 years, 7 years, and 19 years respectively. Current smoking status: yes.
+
+Objective
+
+Height 154 cm, weight 56.2 kg, BMI 23.7 kg/m².
+BP 137/87 mmHg, pulse 73 bpm, respirations 18/min, temperature 36.8°C, oxygen saturation 97%.
+HbA1c 9.7%; fasting glucose 231 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, inadequately controlled based on markedly elevated HbA1c and fasting glucose. Currently asymptomatic despite significant hyperglycemia. Normal BMI. Hypertension, obstructive sleep apnea, depression, and active tobacco use are relevant cardiometabolic risk factors.
+
+Plan
+
+Discussed need for active diabetes treatment and reduction of dietary carbohydrate and added sugar intake, regular physical activity, and smoking cessation.
+
+Recommend initiation of glucose-lowering pharmacotherapy after review of renal function and contraindications; metformin would be a reasonable first-line option if appropriate. Obtain serum creatinine/eGFR, urine albumin-to-creatinine ratio, and fasting lipid profile for risk assessment and treatment planning.
+
+Recommend home glucose monitoring with fasting and occasional postprandial checks. Arrange retinal screening and comprehensive diabetic foot examination. Follow up after laboratory evaluation to finalize therapy and reassess glycemic control.

@@ -1,0 +1,32 @@
+Chief Complaint
+Routine follow-up for anemia.
+
+Subjective
+Zoe Butler is a 63-year-old woman presenting for outpatient follow-up of anemia, present for approximately 4 years. She denies fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or awareness of pallor. No interval anemia-related concerns are reported.
+
+Her relevant chronic conditions include malignancy of 12 years’ duration, chronic infection for 27 years, and type 2 diabetes mellitus for 7 years. She does not smoke. Weight is stable at 52.9 kg with BMI 22.3 kg/m².
+
+Objective
+Vital signs: BP 128/80 mmHg, pulse 85 bpm, respiratory rate 19/min, temperature 36.9°C, oxygen saturation 97% on room air. Height 154 cm; weight 52.9 kg; BMI 22.3 kg/m².
+
+Laboratory results:
+Hemoglobin 9.5 g/dL
+Hematocrit 28.8%
+RBC count 3.06 million/µL
+MCV 94 fL
+Serum iron 34 µg/dL
+Ferritin 460 ng/mL
+TIBC 258 µg/dL
+Transferrin saturation 13.2%
+
+Assessment
+Anemia of chronic inflammation/disease, longstanding and currently without reported cardiopulmonary or constitutional symptoms. The anemia is normocytic with reduced serum iron and transferrin saturation, elevated ferritin, and relatively low TIBC, a pattern most consistent with iron-restricted erythropoiesis in the setting of chronic inflammation rather than uncomplicated absolute iron deficiency. Her chronic infection and malignancy are clinically relevant potential contributors. She is hemodynamically stable.
+
+Plan
+Continue outpatient monitoring and address the underlying chronic inflammatory and malignant conditions in coordination with the clinicians managing those disorders.
+
+Recommend repeat CBC with reticulocyte count and peripheral blood smear to assess persistence and marrow response. Consider vitamin B12, folate, renal function testing, and inflammatory markers as part of further evaluation for potentially contributory factors.
+
+Given the low transferrin saturation, reassess iron availability in the context of the elevated ferritin before initiating iron replacement. Oral or intravenous iron should be considered only if subsequent evaluation supports a functional or absolute iron deficiency and after review of the underlying disease context.
+
+Consider erythropoiesis-stimulating therapy only if clinically indicated after evaluation of the underlying conditions and overall treatment goals. She should report new fatigue, exertional dyspnea, dizziness, palpitations, chest discomfort, or evidence of bleeding. Follow up after interval laboratory reassessment or sooner if symptoms develop.

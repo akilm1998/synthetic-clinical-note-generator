@@ -1,0 +1,21 @@
+Chief Complaint
+Routine follow-up for anemia.
+
+Subjective
+Dominic Ellis is a 47-year-old man presenting for routine follow-up of anemia present for approximately 14 years. He reports no current fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, dyspnea, palpitations, or other cardiopulmonary symptoms. Anemia has not been actively managed. He does not smoke. Comorbidity includes type 2 diabetes mellitus for 1 year.
+
+Objective
+Height 161 cm; weight 72.6 kg; BMI 28.0 kg/m².
+BP 122/78 mmHg, pulse 86 bpm, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 98% on room air.
+Hemoglobin 9.4 g/dL, hematocrit 28.7%, RBC 3.22 million/µL, MCV 89 fL. Serum iron 37 µg/dL, ferritin 225 ng/mL, TIBC 221 µg/dL, transferrin saturation 16.7%.
+
+Assessment
+Chronic normocytic anemia, currently asymptomatic. Iron studies demonstrate low serum iron and transferrin saturation with preserved ferritin and low TIBC, a pattern most consistent with anemia of chronic inflammation/chronic disease rather than uncomplicated iron deficiency. Etiology remains to be clarified. Hemodynamically stable without evidence of symptomatic anemia.
+Type 2 diabetes mellitus, duration 1 year; ongoing primary care management.
+
+Plan
+Obtain CBC with reticulocyte count and peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the chronic anemia.
+Review for chronic inflammatory, renal, infectious, autoimmune, or other underlying contributors; coordinate further evaluation based on results.
+Do not begin empiric iron replacement solely on current studies; reconsider iron therapy if additional evaluation supports deficiency.
+Continue routine diabetes follow-up and metabolic risk-factor management.
+Return for review of updated evaluation, or sooner for new dyspnea, palpitations, dizziness, weakness, bleeding, or worsening exercise tolerance.

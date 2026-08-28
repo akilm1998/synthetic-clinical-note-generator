@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Faith Hawkins is a 58-year-old woman presenting for outpatient follow-up of anemia present for approximately 28 years. She reports no current fatigue, weakness, dizziness, headache, palpitations, shortness of breath, or reduced exercise tolerance. No pallor is reported. She has a history of malignancy for approximately 18 years and heart failure for 3 years. She currently smokes. No anemia-directed treatment is documented.
+
+Objective
+
+Height 151 cm; weight 60.0 kg; BMI 26.3 kg/m².
+
+Blood pressure 124/76 mmHg, pulse 88 bpm, respiratory rate 23/min, temperature 37.0°C, oxygen saturation 96%.
+
+Laboratory results:
+Hemoglobin 8.0 g/dL
+Hematocrit 23.9%
+RBC 2.63 million/µL
+MCV 91 fL
+Serum iron 27 µg/dL
+Ferritin 295 ng/mL
+TIBC 247 µg/dL
+Transferrin saturation 10.9%
+
+Assessment
+
+Chronic normocytic anemia with significant reduction in hemoglobin and hematocrit. Low serum iron and transferrin saturation with elevated ferritin and low TIBC are most consistent with anemia of chronic inflammation/chronic disease, in the setting of longstanding malignancy and heart failure. She is currently clinically stable and denies cardiopulmonary or constitutional symptoms. No formal disease stage assigned.
+
+Tobacco use.
+
+Plan
+
+Repeat CBC with reticulocyte count and peripheral smear to assess persistence and marrow response.
+
+Obtain vitamin B12, folate, renal function, and inflammatory markers as clinically appropriate to evaluate additional reversible contributors.
+
+Review for occult blood loss and nutritional or gastrointestinal contributors despite the currently inflammatory-appearing iron profile.
+
+Coordinate anemia management with the clinicians managing her malignancy and heart failure. Consider hematology evaluation and discussion of iron replacement or erythropoiesis-stimulating therapy based on the underlying disease, renal function, symptoms, and repeat laboratory assessment; no treatment is initiated or assumed today.
+
+Discuss smoking cessation.
+
+Seek urgent evaluation for new or worsening shortness of breath, chest pain, syncope, palpitations, marked weakness, or bleeding. 

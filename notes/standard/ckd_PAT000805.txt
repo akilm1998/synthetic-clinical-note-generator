@@ -1,0 +1,32 @@
+Chief Complaint
+Routine follow-up for chronic kidney disease.
+
+Subjective
+Nathan Jenkins is an 83-year-old man presenting for routine outpatient follow-up of chronic kidney disease present for approximately 9 years. He reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. No interval uremic or fluid-overload symptoms are reported. He does not smoke.
+
+Relevant comorbidities include anemia of chronic disease for 11 years and hyperlipidemia for 21 years. Current medication regimen was not provided.
+
+Objective
+Height 165 cm; weight 76.5 kg; BMI 28.1 kg/m².
+Blood pressure 147/84 mmHg, pulse 77 bpm, respiratory rate 20/min, temperature 37.0°C, oxygen saturation 95%.
+
+Recent laboratory results:
+Serum creatinine 6.0 mg/dL.
+Estimated GFR 9 mL/min/1.73 m².
+BUN 89 mg/dL.
+
+Assessment
+Chronic kidney disease with markedly reduced renal function and substantial azotemia. Despite absence of reported uremic symptoms, creatinine 6.0 mg/dL, eGFR 9 mL/min/1.73 m², and BUN 89 mg/dL represent advanced renal impairment requiring prompt nephrology assessment and preparation for potential renal replacement therapy. Blood pressure is mildly elevated today. History of anemia of chronic disease and hyperlipidemia noted.
+
+Plan
+Arrange urgent nephrology evaluation for comprehensive management of advanced chronic kidney disease, assessment for complications, and discussion of renal replacement therapy planning, including dialysis access and modality options if clinically indicated.
+
+Recommend serum electrolyte panel, bicarbonate, calcium, phosphorus, albumin, CBC, iron studies, intact parathyroid hormone, and urine albumin-to-creatinine ratio to assess for metabolic, hematologic, and mineral-bone complications of kidney disease.
+
+Recommend renal ultrasound if not recently performed to evaluate renal structure and exclude a potentially reversible obstructive process.
+
+Review blood pressure control and medication reconciliation at the next clinical contact. Avoid NSAIDs and other potentially nephrotoxic agents, and ensure all medications are dose-adjusted for renal function.
+
+Counseled to seek urgent medical attention for new or worsening shortness of breath, chest pain, progressive edema, persistent nausea or vomiting, confusion, marked weakness, or significant change in urine output.
+
+Continue close follow-up pending nephrology assessment.

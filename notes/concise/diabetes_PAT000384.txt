@@ -1,0 +1,22 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Zoe Butler is a 69-year-old woman with a 14-year history of type 2 diabetes and 15-year history of hypertension. She is a nonsmoker. She reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling. Diabetes has not been actively managed. No medication regimen is provided for review.
+
+Objective
+Height 153 cm; weight 68.8 kg; BMI 29.4 kg/m².
+BP 140/87 mmHg, pulse 69 bpm, respirations 17/min, temperature 36.9°C, oxygen saturation 97%.
+HbA1c 9.9%; fasting glucose 232 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without reported complications, currently poorly controlled based on HbA1c 9.9% and fasting glucose 232 mg/dL. Despite marked hyperglycemia, she denies osmotic or constitutional symptoms.
+Hypertension with mildly elevated office blood pressure.
+Overweight.
+
+Plan
+Discussed significantly elevated glucose levels and risks of microvascular and cardiovascular complications. Recommend prompt initiation or intensification of pharmacologic diabetes therapy after medication reconciliation, with consideration of metformin if renal function permits; assess adherence, contraindications, and treatment preferences.
+Recommend diabetes-focused nutrition counseling, reduction of concentrated carbohydrates, and regular physical activity as tolerated.
+Obtain renal function/eGFR, urine albumin-to-creatinine ratio, and fasting lipid profile to guide therapy and assess risk. Recommend routine diabetic eye examination and comprehensive foot assessment.
+Continue monitoring blood pressure and reinforce dietary sodium reduction and lifestyle measures; review antihypertensive regimen at follow-up.
+Close follow-up after treatment initiation to reassess glucose control and tolerance.

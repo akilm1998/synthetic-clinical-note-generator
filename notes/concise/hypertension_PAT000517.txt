@@ -1,0 +1,14 @@
+Chief Complaint
+Routine follow-up for hypertension.
+
+Subjective
+Angela Holland is a 76-year-old woman presenting for follow-up of hypertension diagnosed approximately 9 years ago and currently without active treatment documented. She reports intermittent dizziness and fatigue. Denies headache, blurred vision, chest pain, shortness of breath, palpitations, or epistaxis. History is significant for type 2 diabetes mellitus for 17 years and coronary artery disease for 8 years. She currently smokes. No medication regimen was provided for review.
+
+Objective
+Height 151 cm; weight 51.5 kg; BMI 22.6 kg/m². BP 152/88 mmHg, pulse 87 bpm, respirations 19/min, temperature 36.9°C, oxygen saturation 97% on room air. Serum sodium 140 mmol/L and potassium 5.3 mmol/L.
+
+Assessment
+Essential hypertension with persistently elevated office blood pressure and associated intermittent dizziness/fatigue. Control is suboptimal, with no active treatment documented. Mild hyperkalemia noted. Comorbid diabetes, coronary artery disease, and ongoing tobacco use increase cardiovascular risk.
+
+Plan
+Confirm home blood pressure readings and complete medication reconciliation. Discuss initiation of an appropriate antihypertensive regimen in light of diabetes and coronary artery disease, with attention to the elevated potassium; avoid empiric potassium-raising therapy until repeat testing is reviewed. Repeat serum electrolytes and assess renal function. Recommend ECG, lipid profile, and urinalysis as part of cardiovascular risk assessment. Counsel on smoking cessation, low-sodium diet, and regular physical activity as tolerated. Review dizziness precautions and advise urgent evaluation for chest pain, dyspnea, neurologic symptoms, severe headache, or markedly elevated blood pressure. Follow up promptly after repeat labs and blood pressure review.

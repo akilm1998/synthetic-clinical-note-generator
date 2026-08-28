@@ -1,0 +1,24 @@
+Chief Complaint
+Routine follow-up of chronic anemia.
+
+Subjective
+Joshua Ward is a 57-year-old man presenting for follow-up of anemia present for approximately 16 years. He reports no current fatigue, weakness, dizziness, headache, palpitations, shortness of breath, or reduced exercise tolerance. No pallor reported. He continues to smoke. Relevant chronic conditions include rheumatoid arthritis for 19 years and inflammatory bowel disease for 30 years. No current anemia-directed treatment is documented.
+
+Objective
+Height 161 cm, weight 71.5 kg, BMI 27.6 kg/m².
+BP 125/79 mmHg, pulse 84 bpm, respiratory rate 22/min, temperature 36.9°C, oxygen saturation 96%.
+
+Recent laboratory results:
+Hemoglobin 8.5 g/dL, hematocrit 24.9%, RBC 2.71 million/µL, MCV 92 fL.
+Serum iron 42 µg/dL, ferritin 371 ng/mL, TIBC 237 µg/dL, transferrin saturation 17.7%.
+
+Assessment
+Chronic normocytic anemia, likely related to chronic inflammation in the setting of longstanding rheumatoid arthritis and inflammatory bowel disease. Hemoglobin and hematocrit remain significantly reduced, although he is currently without reported cardiopulmonary or constitutional symptoms. Iron studies show low serum iron and transferrin saturation with elevated ferritin and reduced TIBC, consistent with an inflammatory pattern; concomitant iron-restricted erythropoiesis cannot be excluded.
+
+Plan
+Obtain repeat CBC with reticulocyte count and peripheral smear, along with vitamin B12, folate, renal function, and inflammatory markers.
+Review inflammatory bowel disease activity and assess for occult gastrointestinal blood loss or other contributing factors.
+Discuss optimization of management of underlying inflammatory disease with the appropriate specialists; consider hematology evaluation given persistent hemoglobin of 8.5 g/dL and prolonged duration.
+Do not start iron therapy without further evaluation of iron status and underlying cause.
+Advise prompt evaluation for new shortness of breath, chest pain, palpitations, dizziness, syncope, or worsening exercise tolerance.
+Counseled regarding smoking cessation.

@@ -1,0 +1,22 @@
+Chief Complaint
+Routine follow-up for chronic anemia.
+
+Subjective
+Kelsey Porter is a 52-year-old woman presenting for routine follow-up of anemia present for approximately 9 years. She reports headache and appears pale. She denies fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. Anemia occurs in the setting of chronic kidney disease for 11 years, chronic infection for 8 years, and malignancy for 12 years. She currently smokes. No active anemia-directed treatment is documented.
+
+Objective
+Height 157 cm, weight 60.9 kg, BMI 24.7 kg/m². Blood pressure 131/81 mmHg, pulse 88 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 98% on room air.
+
+Patient is alert and in no acute distress. Pallor is present. Cardiovascular examination is otherwise normal without documented tachycardia. Respiratory examination is normal.
+
+Laboratory studies show hemoglobin 8.2 g/dL, hematocrit 24.2%, RBC count 2.6 million/µL, and MCV 93 fL. Serum iron is 32 µg/dL, ferritin 161 ng/mL, TIBC 213 µg/dL, and transferrin saturation 15%.
+
+Assessment
+Chronic normocytic anemia, with significant reduction in hemoglobin and hematocrit. The pattern of low serum iron and transferrin saturation with relatively preserved ferritin and low TIBC is most consistent with anemia of chronic inflammation, likely multifactorial in the setting of chronic kidney disease, chronic infection, and malignancy. Her prolonged 9-year course and lack of current anemia-directed management warrant reassessment of contributing factors and treatment options. Headache and pallor may be related to the anemia, although she is currently hemodynamically stable without cardiopulmonary symptoms.
+
+Plan
+Obtain updated CBC with reticulocyte count and peripheral smear to assess current severity and marrow response. Check vitamin B12, folate, renal function, and inflammatory markers as clinically indicated to evaluate for additional reversible contributors. Review for evidence of ongoing blood loss and correlate anemia management with the status of her chronic kidney disease, chronic infection, and malignancy.
+
+Discuss initiation of anemia-directed therapy based on the underlying contributors and repeat laboratory findings. Oral or intravenous iron should be considered only after assessing the likelihood of functional iron deficiency and overall clinical context. An erythropoiesis-stimulating agent may be considered in the setting of chronic kidney disease or malignancy when clinically appropriate, with careful monitoring of hemoglobin and thrombotic risk.
+
+Recommend smoking cessation counseling. Seek urgent evaluation for new or worsening shortness of breath, chest pain, syncope, palpitations, marked weakness, or bleeding. Arrange close outpatient follow-up after repeat laboratory assessment to review disease control and treatment options.

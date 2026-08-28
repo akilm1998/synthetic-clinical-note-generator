@@ -1,0 +1,16 @@
+Chief Complaint
+Routine follow-up for anemia.
+
+Subjective
+Kimberly Franklin is a 49-year-old woman with approximately 1 year of anemia, chronic kidney disease for 6 years, and type 2 diabetes mellitus for 5 years. She reports no fatigue, weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or other current anemia-related symptoms. She does not smoke. No current anemia-directed treatment is documented.
+
+Objective
+Height 152 cm, weight 65.8 kg, BMI 28.5 kg/m². BP 135/84 mmHg, pulse 83 bpm, respirations 18/min, temperature 36.9°C, oxygen saturation 98%.
+
+Hemoglobin 8.9 g/dL, hematocrit 26.8%, RBC 3.12 million/µL, MCV 86 fL. Serum iron 36 µg/dL, ferritin 324 ng/mL, TIBC 264 µg/dL, transferrin saturation 13.6%.
+
+Assessment
+Normocytic anemia consistent with anemia of chronic disease/inflammation, likely contributed to by chronic kidney disease. Iron indices show low serum iron and transferrin saturation with elevated ferritin, favoring functional iron restriction rather than uncomplicated absolute iron deficiency. Patient is currently clinically stable and asymptomatic.
+
+Plan
+Obtain CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and monitor trend. Review for occult blood loss and other contributors if anemia worsens or fails to respond to management. Coordinate anemia treatment with renal care, including consideration of iron replacement and erythropoiesis-stimulating therapy based on renal function, iron indices, and longitudinal hemoglobin response. Continue monitoring for dyspnea, chest discomfort, palpitations, dizziness, or worsening fatigue; seek urgent evaluation if severe symptoms develop. Follow up after repeat laboratory assessment.

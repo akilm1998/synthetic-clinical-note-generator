@@ -1,0 +1,14 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Jasmine Spencer is a 44-year-old woman presenting for routine diabetes follow-up. Type 2 diabetes has been present for approximately 2 years and is currently untreated. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the extremities. She does not smoke. History is also notable for obstructive sleep apnea for 3 years.
+
+Objective
+Height 169 cm, weight 72.0 kg, BMI 25.2 kg/m². Blood pressure 118/77 mmHg, pulse 72 bpm, respiratory rate 16/min, temperature 36.6°C, oxygen saturation 97%. HbA1c 9.3%; fasting glucose 208 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without documented complications, currently poorly controlled based on elevated HbA1c and fasting glucose. No reported hyperglycemic, neuropathic, or infectious symptoms. Obstructive sleep apnea, chronic.
+
+Plan
+Discussed laboratory results and need for active diabetes management. Recommend initiating pharmacologic therapy, with metformin considered if no contraindication, along with a structured nutrition plan, portion control, and regular physical activity. Encourage home glucose monitoring and review of glucose goals at follow-up. Recommend assessment of renal function and urine albumin-to-creatinine ratio, fasting lipid profile, comprehensive foot examination, and routine diabetic retinal screening. Continue management of obstructive sleep apnea. Follow up in approximately 3 months to reassess glycemic control, sooner for worsening symptoms.

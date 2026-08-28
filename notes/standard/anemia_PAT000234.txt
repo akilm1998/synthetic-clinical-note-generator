@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Alexander Fisher is a 62-year-old man presenting for outpatient follow-up of anemia present for approximately 23 years. He reports intermittent headache and has noted pallor. He denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. No interval worsening of cardiopulmonary symptoms is reported.
+
+Relevant history includes type 2 diabetes mellitus for 26 years and chronic kidney disease for approximately 2 years. He currently smokes. No anemia-directed treatment regimen is documented.
+
+Objective
+
+Height 166 cm, weight 65.9 kg, BMI 23.9 kg/m².
+
+Blood pressure 146/89 mmHg, pulse 86 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 96% on room air.
+
+Patient is clinically stable. Pallor is present. Cardiovascular examination is normal without documented abnormal findings. Respiratory examination is normal.
+
+Laboratory results:
+Hemoglobin 9.0 g/dL
+Hematocrit 26.4%
+RBC count 3.14 million/µL
+MCV 84 fL
+Serum iron 49 µg/dL
+Ferritin 470 ng/mL
+TIBC 217 µg/dL
+Transferrin saturation 22.6%
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding, with current moderate anemia. Indices are normocytic, with low serum iron and TIBC and elevated ferritin, a pattern consistent with anemia associated with chronic inflammation and chronic kidney disease rather than uncomplicated iron deficiency. Chronic kidney disease and longstanding diabetes are relevant contributing comorbidities. He is hemodynamically stable without reported dyspnea, chest symptoms, palpitations, or exercise limitation. Headache and pallor may be related to the anemia.
+
+Chronic kidney disease, approximately 2-year duration, likely contributing to impaired erythropoiesis.
+
+Type 2 diabetes mellitus, longstanding.
+
+Tobacco use.
+
+Plan
+
+Review the chronic anemia pattern and its likely relationship to chronic kidney disease and inflammatory disease. No evidence from the current history of acute symptomatic deterioration or need for emergent evaluation.
+
+Recommend repeat CBC with reticulocyte count and peripheral smear to assess persistence and marrow response. Recommend renal function testing and inflammatory markers as clinically appropriate, along with vitamin B12 and folate levels to evaluate other potentially reversible contributors. Continue monitoring iron indices; the elevated ferritin and low TIBC do not support empiric iron treatment without further clinical assessment.
+
+Coordinate anemia management with the clinician overseeing his chronic kidney disease. If anemia persists or worsens after evaluation of reversible causes, consideration may be given to nephrology-directed therapy, including erythropoiesis-stimulating treatment or intravenous iron when clinically indicated.
+
+Counseled regarding smoking cessation and the importance of ongoing diabetes and kidney disease management. Advise prompt evaluation for new or worsening shortness of breath, chest discomfort, palpitations, syncope, marked weakness, or bleeding. Routine outpatient follow-up after repeat assessment.

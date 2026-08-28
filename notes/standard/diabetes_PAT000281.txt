@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Chloe Cox is a 71-year-old woman presenting for routine outpatient follow-up of type 2 diabetes, diagnosed approximately 13 years ago. Diabetes control remains suboptimal, with recent HbA1c of 9.9% and fasting glucose of 220 mg/dL. She denies increased thirst, frequent urination, increased hunger, blurred vision, fatigue, unintentional weight loss, slow-healing wounds, recurrent infections, numbness, or tingling in the hands or feet.
+
+She does not smoke. Relevant comorbidities include longstanding dyslipidemia, obesity for approximately 4 years, and non-alcoholic fatty liver disease for approximately 43 years.
+
+Objective
+
+Vital signs: BP 123/77 mmHg, pulse 80 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 97%.
+
+Height 161 cm; weight 100.3 kg; BMI 38.7 kg/m².
+
+Laboratory results: HbA1c 9.9%. Fasting glucose 220 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without reported complications, currently poorly controlled based on HbA1c and fasting glucose. Although she is asymptomatic, glycemic levels remain significantly above goal and warrant active treatment review.
+
+Obesity, BMI 38.7 kg/m².
+
+Dyslipidemia, longstanding.
+
+Non-alcoholic fatty liver disease.
+
+Plan
+
+Review current diabetes treatment history, adherence, home glucose monitoring, dietary pattern, and access or tolerance barriers at the next medication reconciliation. Discuss initiation or intensification of evidence-based glucose-lowering therapy, selected according to renal function, hepatic history, cardiovascular risk, cost, and patient preference. Do not delay treatment adjustment given HbA1c of 9.9%.
+
+Encourage consistent carbohydrate intake, avoidance of sugar-sweetened beverages, portion control, and gradual increase in physical activity as tolerated. Address weight reduction as an important component of diabetes and fatty liver management.
+
+Recommend home glucose monitoring with documentation of fasting and occasional postprandial readings to guide treatment decisions. Review symptoms of significant hyperglycemia and hypoglycemia and provide appropriate precautions when the treatment regimen is established.
+
+Recommend assessment of renal function and urine albumin-to-creatinine ratio, fasting lipid profile, and routine diabetes preventive care, including foot and retinal evaluation, as clinically appropriate. Continue monitoring dyslipidemia and non-alcoholic fatty liver disease.
+
+Return for diabetes management follow-up after treatment review and repeat glycemic assessment, or sooner for worsening symptoms, persistent markedly elevated glucose readings, or other concerns.

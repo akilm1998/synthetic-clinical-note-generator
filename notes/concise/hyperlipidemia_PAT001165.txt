@@ -1,0 +1,20 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Valeria Ellis is a 48-year-old woman with a 7-year history of hyperlipidemia, currently not actively managed. She denies chest discomfort, exertional leg pain, or dizziness. Reports fatty skin deposits consistent with xanthomas; no xanthelasma reported. She continues to smoke. Relevant comorbidities include hypertension for 14 years, type 2 diabetes mellitus for 10 years, and chronic kidney disease for 1 year.
+
+Objective
+Height 169 cm, weight 73.4 kg, BMI 25.7 kg/m². BP 146/90 mmHg, pulse 77 bpm, respirations 16/min, temperature 36.9°C, oxygen saturation 96% on room air.
+
+Lipid panel: total cholesterol 289 mg/dL, LDL-C 195 mg/dL, HDL-C 40 mg/dL, triglycerides 272 mg/dL. Xanthomas reported.
+
+Assessment
+Hyperlipidemia with markedly elevated LDL-C and elevated triglycerides, currently untreated. Increased cardiovascular risk in the setting of diabetes, hypertension, chronic kidney disease, tobacco use, and low HDL. Xanthomas raise concern for longstanding severe dyslipidemia.
+
+Plan
+Discussed cardiovascular risk reduction, heart-healthy diet, reduction of saturated and trans fats, regular physical activity as tolerated, weight maintenance, and smoking cessation.
+
+Recommend initiation of high-intensity statin therapy after medication reconciliation and shared decision-making. Consider additional lipid risk assessment with ApoB and lipoprotein(a), and evaluate for secondary contributors as clinically appropriate. Repeat fasting lipid panel after treatment initiation to assess response.
+
+Continue close management of blood pressure, diabetes, and kidney disease with the primary care team. Follow up after medication initiation and repeat lipid testing.

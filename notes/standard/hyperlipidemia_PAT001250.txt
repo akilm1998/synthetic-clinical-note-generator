@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for elevated cholesterol.
+
+Subjective
+
+Anna Cook is a 59-year-old woman presenting for outpatient follow-up of longstanding hyperlipidemia, present for approximately 20 years and currently untreated. She denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. No interval cardiovascular symptoms are reported.
+
+She continues to smoke. Weight is 88.1 kg at a height of 178 cm, with BMI 27.8 kg/m². She has a history of non-alcoholic fatty liver disease for approximately 13 years.
+
+Objective
+
+Vital signs: BP 127/78 mmHg, pulse 75 bpm, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 96%.
+
+Laboratory results:
+Total cholesterol 290 mg/dL
+LDL cholesterol 193 mg/dL
+HDL cholesterol 43 mg/dL
+Triglycerides 271 mg/dL
+
+Assessment
+
+1. Hyperlipidemia, longstanding and currently untreated. Current lipid profile demonstrates markedly elevated LDL cholesterol with elevated triglycerides and borderline-low HDL cholesterol. LDL is greater than 190 mg/dL, placing her at substantially increased lifetime atherosclerotic cardiovascular risk even in the absence of current symptoms. Contributing factors may include tobacco use, overweight status, diet, and physical inactivity. No reported symptoms suggestive of active ischemia or peripheral arterial disease.
+
+2. Non-alcoholic fatty liver disease, longstanding by history. This is relevant to lipid management; the presence of fatty liver disease alone is not a contraindication to statin therapy.
+
+3. Tobacco use. Ongoing smoking increases cardiovascular risk and compounds the risk associated with severe dyslipidemia.
+
+Plan
+
+Discussed the significance of the current lipid results and the expected benefits of pharmacologic risk reduction. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after reviewing risks, benefits, potential adverse effects, and patient preference. If LDL reduction is inadequate or statin therapy is not tolerated, addition of ezetimibe can be considered.
+
+Recommend a heart-healthy eating pattern emphasizing vegetables, fruits, whole grains, legumes, fish, and unsaturated fats while limiting saturated and trans fats, refined carbohydrates, and excess alcohol. Encourage regular physical activity as tolerated and gradual weight reduction.
+
+Recommend repeat fasting lipid testing approximately 4–12 weeks after starting or adjusting therapy to assess response. Consider evaluation for secondary contributors to dyslipidemia, including thyroid, liver, and renal abnormalities, as clinically appropriate. Given the long duration and degree of LDL elevation, further cardiovascular risk assessment may also be considered based on treatment preference and overall risk discussion.
+
+Smoking cessation strongly encouraged; reviewed that cessation would substantially reduce cardiovascular risk. Advised to seek urgent evaluation for new or persistent chest discomfort, shortness of breath, sudden neurologic symptoms, or exertional leg pain.
+
+Follow-up after treatment initiation and repeat lipid testing to reassess adherence, tolerance, and lipid response.

@@ -1,0 +1,16 @@
+Chief Complaint
+Urgent follow-up for chronic anemia and new headache.
+
+Subjective
+Jacob Long is a 67-year-old man, 187 cm tall and weighing 75.5 kg (BMI 21.6 kg/m²), presenting for focused follow-up of longstanding anemia, present for approximately 30 years and not currently actively managed. He reports headache but denies fatigue, weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or awareness of pallor. He is an active smoker. Relevant comorbidities include inflammatory bowel disease for 38 years, malignancy for 14 years, and type 2 diabetes mellitus for 6 years.
+
+Objective
+Vital signs: blood pressure 125/79 mmHg, pulse 89 bpm, respiratory rate 19/min, temperature 36.9°C, oxygen saturation 98%.
+
+Laboratory results show hemoglobin 9.0 g/dL, hematocrit 26.4%, RBC count 3.14 million/µL, and MCV 84 fL. Serum iron is 43 µg/dL, ferritin 164 ng/mL, TIBC 259 µg/dL, and transferrin saturation 16.6%.
+
+Assessment
+Chronic normocytic anemia with moderate reduction in hemoglobin and hematocrit. The low serum iron and transferrin saturation with a preserved ferritin and relatively low TIBC are compatible with anemia associated with chronic inflammation. His longstanding inflammatory bowel disease and malignancy are important potential contributors. Iron-restricted erythropoiesis or additional blood loss should also be evaluated, particularly given his underlying gastrointestinal disease and malignancy. He is currently hemodynamically stable without cardiopulmonary symptoms. Headache is the only reported symptom and warrants monitoring in the context of anemia.
+
+Plan
+Obtain or review a repeat CBC with reticulocyte count and peripheral smear to assess persistence and marrow response. Recommend vitamin B12, folate, renal function testing, and inflammatory markers as part of the anemia evaluation. Reassess iron studies in clinical context and evaluate for gastrointestinal blood loss or active inflammatory disease through appropriate management of his known inflammatory bowel disease and malignancy. Consider hematology and relevant specialty input if anemia persists, worsens, or the evaluation remains unclear. Treatment should be guided by the underlying cause; iron replacement or an erythropoiesis-stimulating agent should not be initiated without further clinical assessment. Counsel regarding smoking cessation. Seek urgent care for worsening headache, new neurologic symptoms, chest pain, dyspnea, syncope, palpitations, or bleeding.

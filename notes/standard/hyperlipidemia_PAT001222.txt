@@ -1,0 +1,38 @@
+Chief Complaint
+Medication review for hyperlipidemia.
+
+Subjective
+Adam Ross is a 38-year-old man presenting for outpatient review of longstanding hyperlipidemia, present for approximately 13 years. He is not currently managed with an active lipid-lowering regimen. Medication adherence and treatment tolerance cannot be assessed against a current regimen; no lipid-lowering medication use is reported for this visit.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He does not smoke. Relevant comorbidities include coronary artery disease diagnosed approximately 1 year ago, hypertension for 3 years, and obesity for approximately 13 years. No medication-related adverse effects are reported.
+
+Objective
+Vital signs: BP 134/83 mmHg, pulse 81 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 99% on room air.
+
+Height 179 cm; weight 101.9 kg; BMI 31.8 kg/m².
+
+Recent lipid panel:
+Total cholesterol 319 mg/dL
+LDL cholesterol 222 mg/dL
+HDL cholesterol 44 mg/dL
+Triglycerides 266 mg/dL
+
+No xanthomas or xanthelasma are reported. No additional examination findings provided.
+
+Assessment
+Severe untreated dyslipidemia with markedly elevated LDL cholesterol and elevated triglycerides. Given the LDL of 222 mg/dL and known coronary artery disease, he is at high cardiovascular risk and would benefit from prompt initiation of intensive lipid-lowering therapy. HDL is 44 mg/dL.
+
+Obesity, BMI 31.8 kg/m².
+
+Hypertension, currently measured at 134/83 mmHg.
+
+Coronary artery disease, diagnosed approximately 1 year ago, without reported angina or other ischemic symptoms today.
+
+Plan
+Discussed the significance of the markedly elevated LDL and cardiovascular risk in the setting of known coronary artery disease. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after review of contraindications and shared decision-making. Reviewed the importance of daily adherence and not discontinuing therapy without contacting the office.
+
+Discussed potential statin adverse effects, including new muscle symptoms or other intolerance. He should report significant muscle pain, weakness, dark urine, or other concerning symptoms promptly. If statin intolerance develops, reassess symptoms and consider an alternative statin or nonstatin therapy such as ezetimibe. If LDL reduction remains inadequate despite adherence, additional therapy should be considered.
+
+Recommend heart-healthy nutrition with reduction of saturated and trans fats, refined carbohydrates, and excess calories; increased soluble fiber; weight reduction; and regular physical activity as tolerated. Avoid tobacco exposure. These measures are also expected to help address the triglyceride elevation and obesity.
+
+Recommend repeat fasting lipid panel after initiation and stabilization of therapy to assess adherence and treatment response. Continue cardiovascular risk-factor management, including blood pressure monitoring. Seek urgent care for new or persistent chest discomfort, shortness of breath, or other acute cardiovascular symptoms.

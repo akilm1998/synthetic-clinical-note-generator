@@ -1,0 +1,38 @@
+Chief Complaint
+
+Initial consultation for chronic kidney disease.
+
+Subjective
+
+Gavin Holland is a 48-year-old man presenting for initial outpatient evaluation of chronic kidney disease, recognized approximately 2 years ago and currently not under active management. He denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. He does not smoke. Weight is 90.7 kg, height 185 cm, BMI 26.5 kg/m².
+
+Relevant history includes anemia of chronic disease for approximately 4 years. Current medication list and allergies were not provided.
+
+Objective
+
+Vital signs: BP 145/87 mmHg, pulse 77/min, respirations 14/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Laboratory results:
+Creatinine 3.1 mg/dL
+BUN 67 mg/dL
+eGFR 19 mL/min/1.73 m²
+
+Assessment
+
+1. Chronic kidney disease with significantly reduced renal function, present for approximately 2 years. Creatinine 3.1, BUN 67, and eGFR 19. Patient is currently asymptomatic without reported volume overload or uremic symptoms. Not currently under active management.
+
+2. Anemia of chronic disease, longstanding approximately 4 years.
+
+3. Elevated blood pressure, 145/87 mmHg. Hypertension status and home readings require confirmation.
+
+Plan
+
+Arrange prompt nephrology consultation given markedly reduced eGFR and lack of established management.
+
+Obtain urine albumin-to-creatinine ratio, serum electrolytes, CBC, and intact PTH to assess proteinuria, electrolyte complications, anemia, and mineral-bone disease. Recommend renal ultrasound to assess renal structure.
+
+Review renal-protective measures, including avoidance of NSAIDs and other nephrotoxins, appropriate hydration, and attention to blood pressure and diabetes risk factors. Medication reconciliation is needed before selecting kidney-protective or antihypertensive therapy.
+
+Begin home blood pressure monitoring and bring readings to follow-up. Review warning symptoms requiring urgent evaluation, including new shortness of breath, progressive edema, markedly reduced urination, persistent vomiting, confusion, or severe weakness.
+
+Follow up promptly after nephrology evaluation and recommended testing.

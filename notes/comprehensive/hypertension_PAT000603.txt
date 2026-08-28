@@ -1,0 +1,65 @@
+Chief Complaint
+
+Routine follow-up for longstanding hypertension.
+
+Subjective
+
+Jacob Long is a 59-year-old man presenting for routine outpatient follow-up of essential hypertension diagnosed approximately 16 years ago. His hypertension is currently not under active management. He reports no headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis. There is no reported interval symptom suggestive of hypertensive emergency.
+
+He has chronic kidney disease of approximately 4 years’ duration, which is clinically relevant to blood pressure control and medication selection. Current serum electrolytes show sodium 144 mmol/L and potassium 3.6 mmol/L. No antihypertensive medication regimen is provided for review today.
+
+He does not smoke. Height is 164 cm, weight 64.0 kg, and BMI 23.8 kg/m². No obesity is present. Dietary sodium intake, alcohol use, physical activity, and family history are not characterized in the available history.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Eyes: Denies blurred vision.
+
+Cardiovascular: Denies chest pain and palpitations.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Denies headache and dizziness.
+
+耳, Nose, and Throat: Denies epistaxis.
+
+No additional interval symptoms are reported.
+
+Objective
+
+Vital Signs: Blood pressure 155/94 mmHg. Pulse 71 bpm. Respiratory rate 18/min. Temperature 36.8°C. Oxygen saturation 97% on room air.
+
+Anthropometrics: Height 164 cm. Weight 64.0 kg. BMI 23.8 kg/m².
+
+Laboratory Data: Serum sodium 144 mmol/L. Serum potassium 3.6 mmol/L.
+
+Physical Examination: The available examination data consist of the documented vital signs and reported absence of cardiopulmonary, neurologic, visual, and bleeding symptoms. No additional examination findings are provided.
+
+Assessment
+
+1. Essential hypertension
+
+Blood pressure remains elevated at 155/94 mmHg in the setting of approximately 16 years of hypertension that is not currently under active management. He is asymptomatic, with no reported features concerning for acute hypertensive emergency. The absence of obesity does not eliminate the importance of other potential contributors, including dietary sodium, physical inactivity, alcohol exposure, or familial predisposition. Given the coexisting chronic kidney disease, sustained blood pressure elevation warrants prompt structured management and assessment for renal and cardiovascular target-organ involvement.
+
+2. Chronic kidney disease
+
+Chronic kidney disease has been present for approximately 4 years. The available electrolyte profile is generally stable, with potassium at the low-normal range of 3.6 mmol/L and sodium at 144 mmol/L. Renal function parameters are not included in the available data. Blood pressure control is particularly important to reduce further renal risk, and medication selection should account for renal function and potassium trend.
+
+3. Cardiovascular risk assessment
+
+He is a 59-year-old nonsmoking man with longstanding hypertension. BMI is normal at 23.8 kg/m². He denies chest pain, dyspnea, palpitations, or fatigue. Additional cardiovascular risk assessment, including lipid evaluation and electrocardiography, is appropriate in the context of longstanding hypertension and chronic kidney disease.
+
+Plan
+
+Hypertension: Confirm the blood pressure measurement with repeat seated readings using an appropriately sized cuff and review home blood pressure measurements if available. Initiate a formal antihypertensive treatment plan rather than continued observation, with the choice of agent guided by renal function, potassium level, contraindications, and overall cardiovascular risk. An angiotensin-converting enzyme inhibitor or angiotensin receptor blocker may be considered if clinically appropriate for renal protection, with close monitoring of renal function and potassium after initiation or dose adjustment. A calcium-channel blocker or thiazide-type diuretic may also be considered based on the complete renal profile and treatment response.
+
+Chronic kidney disease: Obtain or review renal function testing and urine assessment, including evaluation for albuminuria, before finalizing and titrating therapy. Recheck serum electrolytes and renal function after initiation or adjustment of antihypertensive treatment, particularly if renin-angiotensin system blockade or a diuretic is used. Avoid excessive dietary sodium and other potentially nephrotoxic exposures.
+
+Lifestyle: Counsel regarding a low-sodium dietary pattern, regular physical activity as tolerated, moderation of alcohol if applicable, and continued avoidance of tobacco. His current normal BMI should be maintained.
+
+Evaluation for target-organ effects: Recommend urinalysis, lipid profile, and electrocardiogram as part of assessment of longstanding hypertension and cardiovascular risk. Review for hypertensive retinal and vascular changes as clinically indicated.
+
+Safety: He should seek urgent evaluation for new severe headache, chest pain, shortness of breath, neurologic deficit, acute visual change, or other symptoms concerning for hypertensive emergency.
+
+Follow-up: Arrange close outpatient follow-up after initiation of active blood pressure management to review home and office readings, treatment tolerance, renal function, and electrolytes.

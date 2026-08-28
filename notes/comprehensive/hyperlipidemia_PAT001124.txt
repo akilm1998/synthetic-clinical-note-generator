@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Faith Hawkins is a 31-year-old woman, height 153 cm, weight 54.1 kg, BMI 23.1 kg/m², presenting for routine follow-up of hyperlipidemia present for approximately 13 years. She has not been receiving active lipid-lowering treatment. Most recent lipid profile shows total cholesterol 309 mg/dL, LDL cholesterol 210 mg/dL, HDL cholesterol 36 mg/dL, and triglycerides 313 mg/dL.
+
+She denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. She does not smoke. Medical history is also notable for non-alcoholic fatty liver disease for approximately 6 years. No medication use is provided.
+
+Review of Systems
+
+Cardiovascular: Denies chest discomfort.
+Vascular: Denies intermittent claudication.
+Neurologic: Denies dizziness.
+Skin: Denies fatty skin deposits or xanthelasma.
+Respiratory, gastrointestinal, genitourinary, musculoskeletal, and constitutional review is otherwise not contributory to today’s lipid-focused follow-up.
+
+Objective
+
+Vital Signs: Blood pressure 121/79 mmHg, pulse 73/min, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 99% on room air.
+
+Anthropometrics: Height 153 cm, weight 54.1 kg, BMI 23.1 kg/m².
+
+Laboratory Data: Total cholesterol 309 mg/dL; LDL cholesterol 210 mg/dL; HDL cholesterol 36 mg/dL; triglycerides 313 mg/dL.
+
+Relevant examination: No xanthomas or xanthelasma reported. No cardiopulmonary or vascular symptoms reported today.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding for approximately 13 years and currently without active management. The LDL level of 210 mg/dL represents severe untreated hypercholesterolemia, with concomitantly low HDL and triglyceride elevation consistent with a mixed dyslipidemic pattern. Although she is young, lean, normotensive, and a nonsmoker, the degree and duration of lipid elevation are concerning for substantially increased lifetime atherosclerotic cardiovascular risk. She has no current symptoms suggestive of angina, peripheral arterial disease, or other symptomatic atherosclerotic disease. The history does not describe xanthomas or xanthelasma.
+
+Non-alcoholic fatty liver disease, present for approximately 6 years. This is clinically relevant when selecting and monitoring lipid-lowering therapy, although fatty liver disease alone is not a reason to withhold statin therapy.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and the importance of active treatment to reduce long-term cardiovascular risk. Recommend initiation of high-intensity statin therapy after shared decision-making and review of contraindications, pregnancy intentions, and baseline hepatic and metabolic evaluation. If LDL reduction is inadequate or statin therapy is not tolerated, addition of ezetimibe and consideration of lipid specialist input would be appropriate.
+
+Recommend repeat fasting lipid panel to confirm the current pattern and establish a treatment baseline. Recommend evaluation for secondary contributors to dyslipidemia, including thyroid dysfunction, diabetes or insulin resistance, renal disease, and medication or dietary contributors. Consider measurement of apolipoprotein B and lipoprotein(a), particularly given the severity and long duration of LDL elevation. A detailed family history of premature cardiovascular disease and markedly elevated cholesterol should be obtained to assess for possible inherited hypercholesterolemia.
+
+Counseled regarding a heart-healthy eating pattern emphasizing vegetables, fruits, legumes, whole grains, nuts, lean protein, and soluble fiber, with limitation of saturated fat, trans fat, refined carbohydrates, and excess alcohol. Encourage regular aerobic and resistance exercise. Her current BMI is in the normal range, and weight loss is not specifically indicated; maintenance of a healthy weight is encouraged.
+
+Continue management of non-alcoholic fatty liver disease through dietary quality, regular physical activity, and avoidance of excess alcohol. Monitor liver-related parameters as clinically appropriate when lipid-lowering therapy is initiated.
+
+Follow up after repeat lipid evaluation and treatment initiation to assess adherence, tolerance, and response, with adjustment of therapy based on the degree of LDL reduction.

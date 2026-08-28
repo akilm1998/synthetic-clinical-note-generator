@@ -1,0 +1,9 @@
+Chief Complaint: Routine follow-up for chronic kidney disease.
+
+Subjective: Valeria Ellis is a 98-year-old woman, 164 cm and 70.7 kg (BMI 26.3 kg/m²), seen for follow-up of chronic kidney disease present for approximately 57 years. She reports ongoing fatigue. Denies pruritus, muscle cramps, nausea, peripheral edema, change in urination, sleep disturbance, or shortness of breath. Chronic kidney disease has not been actively managed. She also has type 2 diabetes mellitus for 5 years. She currently smokes.
+
+Objective: BP 143/88 mmHg, pulse 74 bpm, respirations 15/min, temperature 36.9°C, oxygen saturation 97%. Serum creatinine 3.58 mg/dL, BUN 78 mg/dL, eGFR 17 mL/min/1.73 m².
+
+Assessment: Chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine, associated with fatigue. No current symptoms suggesting clinically significant fluid overload or uremic gastrointestinal symptoms. Type 2 diabetes mellitus and mildly elevated blood pressure are important renal risk factors. Tobacco use.
+
+Plan: Recommend prompt nephrology evaluation and shared decision-making regarding ongoing renal care, considering advanced age and overall goals of care. Obtain urinalysis with urine albumin-to-creatinine ratio, serum electrolytes, CBC, intact PTH, and renal ultrasound as clinically appropriate. Review all medications and avoid NSAIDs and other nephrotoxins. Monitor blood pressure, volume status, urinary changes, nausea, pruritus, dyspnea, and edema. Optimize diabetes and blood pressure management with individualized targets. Counsel regarding smoking cessation. Follow up closely after laboratory and nephrology assessment, or sooner for worsening fatigue, reduced urine output, vomiting, dyspnea, confusion, or new edema.

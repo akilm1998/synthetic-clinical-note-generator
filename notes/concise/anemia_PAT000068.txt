@@ -1,0 +1,21 @@
+Chief Complaint
+
+Medication review for anemia.
+
+Subjective
+
+Brianna Gibson is a 68-year-old woman presenting for review of anemia treatment. She denies fatigue, weakness, dizziness, dyspnea, palpitations, headache, reduced exercise tolerance, or perceived pallor. No anemia-directed medication regimen is reported for effectiveness, adherence, or tolerance review. She has a 12-year history of anemia, with longstanding rheumatoid arthritis (24 years), chronic infection (27 years), and chronic kidney disease (17 years). She currently smokes. 
+
+Objective
+
+Height 156 cm, weight 67.4 kg, BMI 27.7 kg/m². BP 146/82 mmHg, pulse 78 bpm, respirations 20/min, temperature 36.7°C, oxygen saturation 96%.
+
+Hemoglobin 8.8 g/dL; hematocrit 26.3%; RBC 3.13 million/µL; MCV 84 fL. Serum iron 28 µg/dL, ferritin 318 ng/mL, TIBC 251 µg/dL, transferrin saturation 11.2%.
+
+Assessment
+
+Anemia consistent with chronic inflammation/chronic disease, with a normocytic pattern and low serum iron/transferrin saturation in the setting of rheumatoid arthritis, chronic infection, and chronic kidney disease. Hemoglobin is significantly reduced, although she is currently asymptomatic and hemodynamically stable. Elevated ferritin with low iron availability supports inflammation-related iron sequestration; concomitant iron deficiency should be considered clinically. No current therapy is available to assess for effectiveness, adherence, or adverse effects.
+
+Plan
+
+Review anemia management with the treating clinician and address underlying inflammatory, infectious, and renal contributors. Recommend repeat CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function, and inflammatory markers to further characterize the anemia. Assess for clinically relevant blood loss and nutritional factors before initiating iron therapy. Consider renal-related anemia treatment, including iron replacement or an erythropoiesis-stimulating agent, only after appropriate evaluation and individualized risk-benefit review. Counsel regarding smoking cessation and advise prompt evaluation for new dyspnea, chest discomfort, palpitations, dizziness, or worsening weakness.

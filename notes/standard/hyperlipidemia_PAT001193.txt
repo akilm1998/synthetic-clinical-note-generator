@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Ashton Murray is a 56-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 8 years and currently without documented active treatment. He denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. He continues to smoke. No medication regimen is provided for review.
+
+Objective
+
+Vital signs: Blood pressure 132/83 mmHg, pulse 72 bpm, respiratory rate 14/min, temperature 36.8°C, oxygen saturation 97% on room air.
+
+Height 186 cm, weight 89.6 kg, BMI 25.9 kg/m².
+
+Recent lipid panel: total cholesterol 341 mg/dL, LDL cholesterol 248 mg/dL, HDL cholesterol 37 mg/dL, triglycerides 278 mg/dL.
+
+Chronic kidney disease has been present for approximately 2 years. No additional laboratory or examination findings are provided.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding for approximately 8 years and presently untreated. The LDL level is substantially elevated and warrants pharmacologic risk reduction in addition to lifestyle intervention. Low HDL and active tobacco use further increase cardiovascular risk. He currently reports no chest discomfort, claudication, dizziness, or lipid-associated cutaneous deposits.
+
+Chronic kidney disease, present for 2 years, which increases overall cardiovascular risk and should be considered when selecting and monitoring lipid-lowering therapy.
+
+Tobacco use, ongoing.
+
+Plan
+
+Discussed the significantly abnormal lipid profile and the importance of reducing long-term atherosclerotic cardiovascular risk. Recommend initiation of high-intensity statin therapy, with selection and dosing reviewed in the context of chronic kidney disease. If LDL reduction is inadequate or statin therapy is not tolerated, consider addition of ezetimibe and further risk-based therapy.
+
+Recommend a heart-healthy diet emphasizing reduced saturated and trans fats, increased soluble fiber, and limitation of refined carbohydrates and alcohol to address both LDL cholesterol and triglycerides. Encourage regular physical activity as tolerated and maintenance of current healthy-range weight.
+
+Strongly advised smoking cessation; offer counseling and cessation pharmacotherapy at follow-up.
+
+Recommend repeat fasting lipid panel after treatment initiation and assessment of renal and hepatic function for medication safety. Consider evaluation for secondary contributors to severe dyslipidemia and measurement of ApoB or lipoprotein(a) to further refine cardiovascular risk. Coronary artery calcium imaging may be considered if treatment decisions remain uncertain, although the degree of LDL elevation supports treatment without delaying therapy.
+
+Continue monitoring blood pressure and chronic kidney disease with the patient’s primary care plan. Follow up after repeat lipid testing to assess response, adherence, and tolerability.

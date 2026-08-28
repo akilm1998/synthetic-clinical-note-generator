@@ -1,0 +1,9 @@
+Chief Complaint: Urgent follow-up for markedly elevated cholesterol
+
+Subjective: Christopher Perry is a 32-year-old male presenting for focused follow-up of hyperlipidemia, present for approximately 13 years and currently untreated. He denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. He does not smoke. Comorbidities include type 2 diabetes mellitus for 2 years, non-alcoholic fatty liver disease for 3 years, and hypertension for 1 year. No medication use provided.
+
+Objective: Height 172 cm, weight 73.7 kg, BMI 24.9 kg/m². BP 135/87 mmHg, pulse 78 bpm, respirations 14/min, temperature 36.6°C, oxygen saturation 97%. Total cholesterol 324 mg/dL, LDL-C 225 mg/dL, HDL-C 41 mg/dL, triglycerides 289 mg/dL.
+
+Assessment: Severe untreated hyperlipidemia with markedly elevated LDL-C and elevated triglycerides. No current cardiovascular or cutaneous symptoms reported. Diabetes, hypertension, and fatty liver disease increase overall cardiovascular risk despite normal-range BMI and absence of smoking.
+
+Plan: Discussed prompt initiation of lipid-lowering therapy, with high-intensity statin therapy strongly indicated; review contraindications and baseline hepatic status before prescribing. Counsel on reducing saturated and trans fats, limiting refined carbohydrates and alcohol, and maintaining regular physical activity. Recommend repeat fasting lipid panel after treatment initiation, with consideration of ApoB and lipoprotein(a) assessment given the degree and long duration of LDL elevation. Optimize diabetes and blood pressure management and continue monitoring fatty liver disease. Advise urgent evaluation for new chest discomfort, exertional leg pain, or other acute cardiovascular symptoms. Close outpatient follow-up after treatment initiation and repeat lipid testing.

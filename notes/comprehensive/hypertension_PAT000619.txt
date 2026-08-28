@@ -1,0 +1,63 @@
+Chief Complaint
+
+Initial outpatient consultation for longstanding hypertension.
+
+History of Present Illness
+
+Chase Fuller is a 71-year-old man presenting for initial outpatient evaluation of hypertension, present for approximately 12 years and currently not under active management. Blood pressure today is 167/94 mmHg. He denies headache, dizziness, blurred vision, chest pain, dyspnea, palpitations, and epistaxis. He does report fatigue. There is no reported symptom complex suggestive of acute hypertensive emergency at this visit.
+
+His medical history is also notable for hyperlipidemia for approximately 15 years and chronic kidney disease for approximately 5 years. Current medications and allergies were not provided. He is a nonsmoker. Height is 177 cm and weight is 70.5 kg, with BMI 22.5 kg/m².
+
+Review of Systems
+
+Constitutional: Positive for fatigue.
+
+Neurologic: Denies headache and dizziness.
+
+Eyes: Denies blurred vision.
+
+Cardiovascular: Denies chest pain and palpitations.
+
+Respiratory: Denies shortness of breath.
+
+鼻 and ENT: Denies epistaxis.
+
+Objective
+
+Vital Signs: Blood pressure 167/94 mmHg. Pulse 70 beats/min. Respiratory rate 15/min. Temperature 36.7°C. Oxygen saturation 97% on room air.
+
+Anthropometrics: Height 177 cm. Weight 70.5 kg. BMI 22.5 kg/m².
+
+Laboratory Data: Sodium 137 mmol/L. Potassium 4.7 mmol/L.
+
+Physical Examination
+
+The available examination data demonstrate an elevated blood pressure with otherwise stable vital signs and normal oxygen saturation. No additional examination findings are documented in the supplied encounter information.
+
+Assessment
+
+Essential hypertension, longstanding and presently uncontrolled. The current reading of 167/94 mmHg is markedly elevated in the outpatient setting. He has no reported chest pain, dyspnea, neurologic symptoms, visual disturbance, or epistaxis to suggest an acute hypertensive emergency. His chronic kidney disease increases the importance of sustained blood pressure control and careful medication selection, while his age and long duration of disease increase the likelihood of cumulative cardiovascular and renal risk. Sodium and potassium are currently within expected reference ranges, although these values alone are insufficient to characterize renal function or determine the complete safety profile of antihypertensive therapy.
+
+Chronic kidney disease, reported duration approximately 5 years. This is a clinically important comorbidity in the management of hypertension. Renal function and urinary protein status should be incorporated into treatment planning.
+
+Hyperlipidemia, reported duration approximately 15 years. This contributes to overall atherosclerotic cardiovascular risk in the setting of longstanding hypertension and advanced age.
+
+Fatigue. Fatigue is reported without associated cardiopulmonary, neurologic, or visual symptoms in the provided history. It warrants reassessment after blood pressure and other chronic disease management are addressed, particularly if persistent.
+
+Plan
+
+Hypertension: Repeat blood pressure measurement during the visit using appropriate technique and obtain home blood pressure readings at different times of day to establish the sustained out-of-office pattern. Given the degree and duration of elevation, untreated hypertension should not be managed with lifestyle measures alone; initiation of antihypertensive pharmacotherapy is appropriate after review of renal function, current medication history, allergies, and prior treatment response. In the context of chronic kidney disease, an agent acting on the renin-angiotensin system may be considered, particularly if albuminuria is present, with selection and dose guided by renal function and follow-up potassium and creatinine measurements. A calcium-channel blocker or thiazide-type diuretic may also be considered based on renal function, volume status, and subsequent blood pressure response. Medication reconciliation is essential before prescribing.
+
+Recommend reduction of dietary sodium, avoidance of excessive alcohol intake, regular physical activity as tolerated, and continuation of tobacco avoidance. His BMI is normal at 22.5 kg/m²; weight reduction is not a primary intervention. Counsel regarding adherence and the importance of regular blood pressure monitoring.
+
+Chronic kidney disease: Obtain or review current renal function and urinary albumin assessment as clinically appropriate before finalizing therapy and to establish a baseline for monitoring. Recheck electrolytes and renal indices after initiation or titration of an antihypertensive agent that may affect renal function or potassium. Avoid unnecessary nephrotoxic medications, particularly nonsteroidal anti-inflammatory drugs.
+
+Cardiovascular risk and hyperlipidemia: Obtain a lipid profile if not recently available and assess overall cardiovascular risk. An ECG is appropriate as part of the initial evaluation of longstanding hypertension, particularly to assess for hypertensive cardiac effects. Continue risk-factor modification and review whether lipid-lowering therapy is indicated after medication reconciliation and review of prior lipid data.
+
+Fatigue: Monitor symptom course. If persistent despite improved blood pressure management, pursue a focused evaluation guided by history and examination, including consideration of renal disease, sleep, mood, medication exposure, and other systemic causes.
+
+Safety counseling: Seek urgent medical attention for severe or rapidly worsening headache, chest pain, shortness of breath, new neurologic deficit, acute visual change, confusion, or markedly elevated blood pressure accompanied by such symptoms.
+
+Follow-up
+
+Follow up promptly for blood pressure reassessment and treatment initiation or titration, with earlier evaluation if concerning symptoms develop.

@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Dominic Ellis is a 53-year-old man presenting for routine outpatient follow-up of type 2 diabetes diagnosed approximately 17 years ago. He is not currently following a documented diabetes treatment regimen. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. He does not smoke.
+
+Past medical history is also notable for depression, present for approximately 25 years. No interval depressive symptoms or treatment details are provided today.
+
+Objective
+
+Height 173 cm, weight 75.7 kg, BMI 25.3 kg/m². Blood pressure 128/78 mmHg, pulse 71 bpm, respiratory rate 14/min, temperature 36.7°C, oxygen saturation 99% on room air.
+
+Hemoglobin A1c 9.7%. Fasting glucose 235 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, present for approximately 17 years, currently poorly controlled based on HbA1c of 9.7% and fasting glucose of 235 mg/dL. Despite the degree of hyperglycemia, he reports no polyuria, polydipsia, visual symptoms, constitutional symptoms, neuropathic complaints, recurrent infections, or impaired wound healing. His BMI is 25.3 kg/m². There is no documented evidence today of nephropathy, retinopathy, neuropathy, or other diabetes-related complication.
+
+Depression, longstanding for approximately 25 years. Current symptom burden and treatment status were not established during this diabetes-focused visit.
+
+Plan
+
+Discussed that current glycemic control is above target and requires active treatment rather than lifestyle measures alone. Reviewed nutrition focused on reducing refined carbohydrates and sugar-sweetened foods, portion control, regular physical activity as tolerated, weight maintenance, and home glucose monitoring if available. He should record fasting and, when appropriate, postprandial glucose values for review.
+
+Recommend initiation of evidence-based pharmacologic therapy, with metformin an appropriate first-line option if renal function and other contraindications permit. Renal function should be assessed with serum creatinine and estimated glomerular filtration rate before or at the time therapy is started. Given the markedly elevated HbA1c, close reassessment is warranted to determine whether combination therapy is needed rather than prolonged stepwise escalation.
+
+Recommend urine albumin-to-creatinine ratio, fasting lipid profile, serum creatinine/eGFR, and repeat HbA1c after an appropriate treatment interval to assess response. Recommend routine diabetic retinal evaluation and comprehensive foot examination, including assessment of sensation and peripheral pulses. Reviewed the importance of promptly reporting new visual changes, neuropathic symptoms, skin breakdown, or symptoms of significant hyperglycemia.
+
+Blood pressure is currently well controlled at 128/78 mmHg. Continue lifestyle measures and routine monitoring.
+
+Depression should be reassessed at a subsequent visit, including current mood, functional impact, safety concerns, and whether he is receiving treatment or follow-up.
+
+Follow-up
+
+Return for diabetes management follow-up after initiation or adjustment of therapy and review of glucose readings and recommended laboratory testing.

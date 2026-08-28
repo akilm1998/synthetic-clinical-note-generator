@@ -1,0 +1,18 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Faith Hawkins is a 58-year-old woman presenting for routine diabetes follow-up. Type 2 diabetes has been present for approximately 12 years and is currently inadequately controlled. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the extremities. Nonsmoker. Comorbid dyslipidemia for 22 years and hypertension for 25 years.
+
+Objective
+Height 173 cm; weight 66.4 kg; BMI 22.2 kg/m².
+BP 142/83 mmHg, pulse 75 bpm, respirations 17/min, temperature 36.7°C, oxygen saturation 97%.
+HbA1c 9.4%; fasting glucose 240 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without documented complications, with significant hyperglycemia based on HbA1c and fasting glucose. Despite absence of hyperglycemic or neuropathic symptoms, glycemic control requires active treatment. Hypertension and dyslipidemia are additional cardiovascular risk factors.
+
+Plan
+Discussed laboratory results and risks associated with persistent hyperglycemia. Recommend initiation or adjustment of evidence-based pharmacologic diabetes therapy through shared decision-making, along with structured dietary counseling, regular physical activity, and home glucose monitoring as appropriate. Review adherence and barriers at follow-up.
+
+Recommend urine albumin-to-creatinine ratio, serum creatinine/eGFR, fasting lipid profile, and routine comprehensive diabetes care, including retinal and foot evaluation. Reinforce monitoring for hyperglycemic symptoms and skin or foot wounds. Continue cardiovascular risk-factor assessment, including blood pressure and lipid management. Close outpatient follow-up after treatment initiation or adjustment.

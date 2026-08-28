@@ -1,0 +1,71 @@
+Chief Complaint
+
+Routine follow-up of longstanding hyperlipidemia.
+
+Subjective
+
+Gavin Franklin is a 43-year-old man returning for outpatient follow-up of hyperlipidemia diagnosed approximately 6 years ago. His dyslipidemia has not been actively managed. Available lipid results remain markedly abnormal, with total cholesterol 364 mg/dL, LDL cholesterol 253 mg/dL, HDL cholesterol 32 mg/dL, and triglycerides 397 mg/dL.
+
+He reports xanthomas and xanthelasma. He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. There is no reported limitation in activity from cardiovascular symptoms. He continues to smoke.
+
+Relevant comorbidities include type 2 diabetes mellitus for approximately 10 years, chronic kidney disease for approximately 3 years, and coronary artery disease diagnosed approximately 1 year ago. No current lipid-lowering or other medication regimen is provided for review.
+
+Review of Systems
+
+Constitutional: No constitutional symptoms reported.
+
+Cardiovascular: Denies chest discomfort. No intermittent claudication reported.
+
+Neurologic: Denies dizziness.
+
+Skin: Reports fatty deposits involving the skin and eyelids, consistent with xanthomas and xanthelasma.
+
+Endocrine: Known type 2 diabetes mellitus.
+
+Genitourinary/Renal: Known chronic kidney disease.
+
+Objective
+
+Vital Signs: Blood pressure 128/86 mmHg, pulse 78 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 177 cm, weight 72.4 kg, BMI 23.1 kg/m².
+
+Physical Examination: Xanthomas and xanthelasma are present by history. No additional examination findings are provided.
+
+Laboratory Data: Total cholesterol 364 mg/dL. LDL cholesterol 253 mg/dL. HDL cholesterol 32 mg/dL. Triglycerides 397 mg/dL.
+
+Assessment
+
+1. Hyperlipidemia, unspecified
+
+Severe mixed dyslipidemia with markedly elevated LDL cholesterol, elevated triglycerides, and low HDL cholesterol. The LDL level is substantially elevated and, in the setting of known coronary artery disease, type 2 diabetes, chronic kidney disease, and ongoing tobacco use, represents a very high cardiovascular risk profile. The presence of xanthomas and xanthelasma further supports clinically significant longstanding lipid excess. He currently has no reported chest discomfort, claudication, or dizziness, but absence of symptoms does not lessen the cardiovascular risk.
+
+The condition has been present for approximately 6 years and is not currently being actively managed. Secondary contributors, including diabetes control, renal disease, dietary factors, alcohol exposure, and endocrine causes, should be reviewed. The degree of LDL elevation also raises concern for a possible inherited lipid disorder, particularly in the context of cutaneous lipid deposits, although family history is not available in today’s information.
+
+2. Coronary artery disease
+
+Known coronary artery disease for approximately 1 year. He denies current chest discomfort or exertional leg symptoms. The markedly abnormal lipid profile requires prompt risk-factor modification and coordination with his cardiovascular care plan.
+
+3. Type 2 diabetes mellitus
+
+Ten-year history of type 2 diabetes. Diabetes substantially increases his atherosclerotic cardiovascular risk and is an important potential contributor to the elevated triglyceride level. No glycemic laboratory results or diabetes medications are provided today.
+
+4. Chronic kidney disease
+
+Chronic kidney disease for approximately 3 years. Renal disease increases cardiovascular risk and should be considered when selecting and monitoring lipid-lowering therapy.
+
+5. Tobacco use
+
+Continued smoking is a major modifiable cardiovascular risk factor in a patient with coronary artery disease, diabetes, chronic kidney disease, and severe dyslipidemia.
+
+Plan
+
+Discussed the significance of the lipid results and the substantially increased cardiovascular risk associated with LDL cholesterol of 253 mg/dL, triglycerides of 397 mg/dL, low HDL cholesterol, coronary artery disease, diabetes, chronic kidney disease, and smoking.
+
+Strongly recommend initiation of guideline-directed high-intensity lipid-lowering therapy, provided there is no contraindication or clinically important interaction. Appropriate options include atorvastatin or rosuvastatin. Medication selection and dosing should account for renal function and the complete medication list. If LDL cholesterol remains markedly elevated despite maximally tolerated statin therapy, addition of ezetimibe and consideration of a PCSK9 inhibitor would be appropriate. Triglyceride management should initially focus on LDL reduction, glycemic control, dietary modification, and elimination of secondary contributors; additional triglyceride-lowering therapy may be considered if elevation persists.
+
+Recommend repeat fasting lipid assessment after treatment initiation or adjustment, with consideration of apolipoprotein B and lipoprotein(a) measurement to further characterize atherogenic risk. Review for secondary causes of dyslipidemia, including diabetes control, renal disease, thyroid disease, dietary pattern, and alcohol use. Given the marked LDL elevation and xanthomas, obtain a more detailed family history and consider evaluation for an inherited lipid disorder.
+
+Counseled regarding a heart-healthy diet emphasizing reduction of saturated and trans fats, refined carbohydrates, and excess dietary sugars; increased soluble fiber and unsaturated fats; and regular physical activity as tolerated. Reinforced the importance of smoking cessation and offered cessation support. Advised prompt medical evaluation for new or worsening chest discomfort, shortness of breath, or exertional symptoms.
+
+Continue coordinated management of coronary artery disease, type 2 diabetes mellitus, and chronic kidney disease, with medication choices and monitoring aligned across the treating clinicians. Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, lipid response, and ongoing cardiovascular risk reduction.

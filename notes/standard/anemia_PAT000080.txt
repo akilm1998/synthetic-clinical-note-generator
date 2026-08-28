@@ -1,0 +1,25 @@
+Chief Complaint
+
+Urgent follow-up for anemia and review of laboratory results.
+
+Subjective
+
+William Turner is a 90-year-old man with a 5-year history of anemia, chronic kidney disease for 31 years, and malignancy for 38 years, presenting for focused follow-up. He denies fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, shortness of breath, palpitations, or other acute symptoms. Anemia has not been actively managed. He is a current smoker.
+
+Objective
+
+Height 174 cm; weight 74.8 kg; BMI 24.7 kg/m². Blood pressure 136/87 mmHg, pulse 81 bpm, respiratory rate 23/min, temperature 36.8°C, oxygen saturation 98%.
+
+Hemoglobin 8.7 g/dL, hematocrit 25.5%, RBC 2.74 million/µL, MCV 93 fL. Serum iron 48 µg/dL, ferritin 415 ng/mL, TIBC 236 µg/dL, transferrin saturation 20.3%.
+
+Assessment
+
+Anemia consistent with chronic disease/inflammation, with a normocytic pattern and iron studies showing low serum iron and TIBC with elevated ferritin. Long-standing chronic kidney disease and malignancy are likely contributing factors. Hemoglobin is significantly reduced, although he currently reports no anemia-related symptoms, has a normal pulse, and maintains oxygen saturation at 98%. No evidence of acute cardiopulmonary compromise by current vital signs, though respiratory rate is mildly elevated.
+
+Plan
+
+Obtain prompt repeat CBC with reticulocyte count and peripheral smear to confirm stability and assess marrow response. Check vitamin B12, folate, renal function, and inflammatory markers as clinically appropriate. Assess for occult blood loss and review the chronic disease and malignancy status as potential contributors.
+
+Coordinate management with the clinicians overseeing his chronic kidney disease and malignancy. Consider iron replacement or an erythropoiesis-stimulating approach only after review of repeat studies, renal function, inflammatory status, malignancy context, and overall goals of care; no treatment is initiated in this note.
+
+He was advised to seek urgent evaluation for new shortness of breath, chest pain, palpitations, dizziness, syncope, marked weakness, or bleeding. Close outpatient reassessment is recommended given the hemoglobin of 8.7 g/dL and absence of active anemia management.

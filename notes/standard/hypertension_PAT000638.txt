@@ -1,0 +1,37 @@
+Chief Complaint
+
+Medication review and management of elevated blood pressure.
+
+Subjective
+
+Stella Gray is a 78-year-old woman with a 9-year history of essential hypertension presenting for outpatient medication review. Current blood pressure is elevated, and her hypertension is not currently under active management. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, and epistaxis. She reports fatigue. No antihypertensive regimen is documented for review; therefore, adherence and medication tolerance cannot be assessed for a specific agent today.
+
+Relevant comorbidities include type 2 diabetes mellitus for 22 years, coronary artery disease for 20 years, and hyperlipidemia for 9 years. She does not smoke. Height is 163 cm, weight 72.3 kg, and BMI 27.2 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 155/95 mmHg, pulse 73 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 96%.
+
+Serum electrolytes: sodium 147 mmol/L, potassium 4.4 mmol/L.
+
+No acute cardiopulmonary or neurologic symptoms are reported.
+
+Assessment
+
+Essential hypertension with persistently elevated office blood pressure and no active treatment regimen documented. Given her age and established coronary artery disease and diabetes, blood pressure control is clinically important. Current sodium is mildly elevated; potassium is within the provided reference context and does not suggest a contraindication to standard antihypertensive options based on this value alone.
+
+Fatigue, nonspecific, without associated cardiopulmonary or neurologic symptoms reported today.
+
+Comorbid type 2 diabetes mellitus, coronary artery disease, and hyperlipidemia increase overall cardiovascular risk. Overweight by BMI.
+
+Plan
+
+Complete medication reconciliation, including prescription, over-the-counter, and supplemental therapies, and clarify whether any antihypertensive treatment is being taken. Assess adherence, prior intolerance, and barriers to treatment before selecting therapy.
+
+Recommend initiation or reinitiation of an individualized antihypertensive regimen with gradual titration and close monitoring, taking into account advanced age, coronary artery disease, diabetes, renal considerations, orthostatic symptoms, and electrolyte status. Reasonable medication classes to consider include an ACE inhibitor or ARB, calcium-channel blocker, or thiazide-type diuretic, with final selection based on the complete medication history and clinical examination.
+
+Recommend home blood pressure monitoring with seated readings recorded consistently, including assessment for orthostatic symptoms, and review of the log at follow-up. Reinforce reduced dietary sodium intake, regular activity as tolerated, weight management, and avoidance of excess alcohol.
+
+Recommend cardiovascular risk assessment and routine hypertension evaluation, including ECG, lipid profile, and urinalysis as clinically appropriate. Continue coordinated management of diabetes, coronary artery disease, and hyperlipidemia.
+
+Seek urgent evaluation for chest pain, acute shortness of breath, severe headache, focal neurologic symptoms, or markedly elevated blood pressure with symptoms. Arrange close outpatient follow-up for blood pressure reassessment and treatment tolerance.

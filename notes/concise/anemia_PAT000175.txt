@@ -1,0 +1,33 @@
+Chief Complaint
+
+Annual review and follow-up of chronic anemia.
+
+Subjective
+
+Harper Bennett is a 92-year-old woman presenting for comprehensive annual review. She has an 8-year history of anemia in the setting of longstanding chronic kidney disease for 33 years, malignancy for 23 years, and type 2 diabetes mellitus for 29 years. She denies fatigue, weakness, dizziness, headache, pallor, shortness of breath, palpitations, or reduced exercise tolerance. She continues to smoke. No current anemia-directed treatment is documented.
+
+Objective
+
+Height 165 cm, weight 71.9 kg, BMI 26.4 kg/m². Blood pressure 148/79 mmHg, pulse 87 bpm, respiratory rate 21/min, temperature 36.8°C, oxygen saturation 96%. She appears clinically stable without pallor. Cardiovascular and respiratory examinations are unremarkable.
+
+Hemoglobin 9.6 g/dL, hematocrit 29.6%, RBC 3.29 million/µL, MCV 90 fL. Serum iron 48 µg/dL, ferritin 194 ng/mL, TIBC 210 µg/dL, transferrin saturation 22.9%.
+
+Assessment
+
+Chronic normocytic anemia, most consistent with anemia of chronic disease/inflammation in the context of chronic kidney disease and malignancy. The low hemoglobin and hematocrit are clinically significant, although she is currently asymptomatic and hemodynamically stable. Iron studies show reduced serum iron and TIBC with preserved ferritin, not clearly indicative of absolute iron deficiency.
+
+Chronic kidney disease, longstanding; renal contribution to anemia should be reassessed.
+
+Malignancy, longstanding; ongoing disease activity and treatment history should be considered in anemia management.
+
+Type 2 diabetes mellitus, longstanding.
+
+Elevated office blood pressure without documented associated symptoms.
+
+Tobacco use.
+
+Plan
+
+Obtain interval CBC with reticulocyte count, peripheral smear, renal function testing, vitamin B12, folate, and inflammatory markers to further characterize the anemia. Continue monitoring hemoglobin and assess for development of fatigue, dyspnea, chest discomfort, palpitations, dizziness, or bleeding. Review renal and malignancy status and coordinate anemia management with the clinicians overseeing these conditions. Consider iron replacement or erythropoiesis-stimulating therapy only after review of renal function, inflammatory status, malignancy context, and overall goals of care.
+
+Reinforce diabetes and blood pressure follow-up. Counsel regarding smoking cessation and avoidance of tobacco exposure. Review age-appropriate immunizations, fall prevention, nutrition, functional status, and preventive screening in keeping with her health status and preferences. Follow up after laboratory reassessment or sooner for new cardiopulmonary symptoms or worsening functional capacity.

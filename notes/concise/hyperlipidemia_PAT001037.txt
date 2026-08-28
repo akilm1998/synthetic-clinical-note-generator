@@ -1,0 +1,19 @@
+Chief Complaint
+Routine follow-up of hyperlipidemia.
+
+Subjective
+Patricia Greene is a 69-year-old woman with a 15-year history of hyperlipidemia, currently without documented lipid-lowering management. She denies chest discomfort, exertional leg pain, dizziness, or fatty skin deposits. Xanthelasma is present. She continues to smoke. Chronic kidney disease has been present for 16 years, and obesity for 22 years. Weight is 125 kg.
+
+Objective
+Height 179 cm; weight 125.0 kg; BMI 39.0 kg/m². BP 138/85 mmHg, pulse 84 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 95%.
+
+Lipid panel: total cholesterol 370 mg/dL, LDL-C 269 mg/dL, HDL-C 42 mg/dL, triglycerides 295 mg/dL.
+
+Assessment
+Hyperlipidemia with marked elevation of total cholesterol and LDL-C and elevated triglycerides, untreated for approximately 15 years. Xanthelasma noted; no reported anginal or claudication symptoms.
+Chronic kidney disease, longstanding.
+Severe obesity.
+Active tobacco use.
+
+Plan
+Discussed substantially increased cardiovascular risk associated with her lipid levels, smoking, obesity, and chronic kidney disease. Recommend initiation of high-intensity lipid-lowering therapy after medication and contraindication review, with consideration of additional therapy if adequate LDL reduction is not achieved. Repeat fasting lipid panel after treatment initiation; consider ApoB, Lp(a), and evaluation for secondary contributors as clinically appropriate. Encourage a diet low in saturated and trans fats, increased physical activity as tolerated, and weight reduction. Strongly encouraged smoking cessation. Continue monitoring renal function when selecting and adjusting therapy. Follow up after treatment initiation to assess tolerance and lipid response.

@@ -1,0 +1,31 @@
+Chief Complaint
+
+Initial outpatient consultation for anemia.
+
+Subjective
+
+Bella Dean is an 83-year-old woman, 166 cm tall and weighing 81.0 kg, with BMI 29.4 kg/m², presenting for initial evaluation of anemia identified over approximately 2 years. She currently denies fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other reported anemia-related symptoms. She also does not report pallor.
+
+Relevant chronic conditions include heart failure for approximately 37 years, malignancy for approximately 10 years, and inflammatory bowel disease for approximately 41 years. These conditions provide potential chronic inflammatory and disease-related contributors to her anemia. She does not smoke. No current anemia-directed treatment is provided in the available history.
+
+Objective
+
+Vital signs: blood pressure 127/80 mmHg, pulse 86 bpm, respiratory rate 27/min, temperature 36.9°C, oxygen saturation 95%.
+
+Laboratory results: hemoglobin 9.3 g/dL, hematocrit 27.8%, RBC count 3.43 million/µL, MCV 81 fL, serum iron 29 µg/dL, ferritin 317 ng/mL, TIBC 260 µg/dL, and transferrin saturation 11.2%.
+
+Assessment
+
+Anemia consistent with anemia of chronic disease/chronic inflammation. The anemia is moderate by hemoglobin value, with a low RBC count and low-normal MCV. Low serum iron and low transferrin saturation in the setting of elevated ferritin and relatively low TIBC support iron-restricted erythropoiesis associated with chronic inflammation rather than uncomplicated absolute iron deficiency. Her longstanding inflammatory bowel disease and malignancy are important potential contributors, with heart failure also relevant to overall functional reserve and treatment selection.
+
+She is presently without reported fatigue, weakness, dyspnea, palpitations, dizziness, headache, or reduced exercise tolerance. Respiratory rate is elevated at 27/min despite an oxygen saturation of 95% and absence of reported shortness of breath; this should be reassessed clinically, particularly given her history of heart failure. There is no current evidence from the supplied information of hemodynamic instability.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral smear to confirm persistence and characterize marrow response. Recommend vitamin B12, folate, renal function testing, and inflammatory markers as part of the anemia evaluation. Review the trend in hemoglobin and hematocrit over time if prior results are available.
+
+Assess for potentially reversible contributors, including chronic gastrointestinal inflammation or blood loss in the setting of longstanding inflammatory bowel disease, and disease activity or treatment status related to her malignancy. Further gastrointestinal evaluation should be guided by symptoms, prior evaluation, goals of care, and the treating gastroenterology and oncology teams.
+
+Discuss management of the underlying inflammatory and malignant conditions with the appropriate treating clinicians. Given low transferrin saturation, iron replacement may be considered after evaluation for ongoing blood loss and confirmation of the clinical context; intravenous iron may be preferable if oral absorption or tolerance is limited by inflammatory bowel disease. Erythropoiesis-stimulating therapy should not be initiated without clarification of the malignancy context, renal function, thrombotic risk, and specialist input. Any treatment decision should also account for her longstanding heart failure.
+
+Recheck respiratory rate and cardiopulmonary status at follow-up. She should seek urgent evaluation for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, marked weakness, bleeding, or other acute change. Schedule outpatient follow-up after the recommended evaluation to review results and establish an anemia management plan.

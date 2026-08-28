@@ -1,0 +1,41 @@
+Chief Complaint
+
+Initial outpatient consultation for hypertension.
+
+Subjective
+
+Frank Montgomery is a 42-year-old man presenting to establish outpatient care for hypertension diagnosed approximately 1 year ago. He has not been receiving active blood-pressure management. He denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, and epistaxis. No acute hypertensive symptoms are reported today.
+
+Medical history is significant for chronic kidney disease and coronary artery disease, each reported for approximately 1 year. Current medications and allergies were not provided. He is a current smoker. Height is 160 cm and weight is 72.2 kg, with BMI 28.2 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 165/93 mmHg. Pulse 80 bpm. Respiratory rate 15/min. Temperature 36.8°C. Oxygen saturation 96%.
+
+Serum electrolytes: Sodium 146 mmol/L; potassium 4.7 mmol/L.
+
+Blood pressure is markedly elevated in the office without reported symptoms suggestive of acute end-organ injury. No additional examination findings are documented.
+
+Assessment
+
+Essential primary hypertension, diagnosed approximately 1 year ago and currently untreated, with office blood pressure of 165/93 mmHg. The absence of headache, visual disturbance, chest pain, dyspnea, neurologic symptoms, or epistaxis makes an acute hypertensive emergency unlikely based on today’s history; however, the degree of elevation warrants timely intervention and confirmation with repeat measurements.
+
+Chronic kidney disease and coronary artery disease are important comorbidities that increase cardiovascular and renal risk and favor a lower blood-pressure target individualized to renal function and overall tolerance. Potassium is 4.7 mmol/L and sodium is mildly elevated at 146 mmol/L; these values should be considered when selecting and monitoring antihypertensive therapy.
+
+Overweight status with BMI 28.2 kg/m².
+
+Current tobacco use.
+
+Plan
+
+Repeat blood pressure after a period of seated rest using an appropriately sized cuff and obtain home blood-pressure readings, including morning and evening measurements, for review. Confirm persistent hypertension with serial readings rather than relying on a single office measurement.
+
+Given the degree of elevation and the presence of chronic kidney disease and coronary artery disease, discuss prompt initiation of antihypertensive pharmacotherapy rather than lifestyle treatment alone. An agent targeting the renin-angiotensin system may be clinically appropriate in the setting of kidney disease, with medication selection individualized after review of renal function, albuminuria, prior treatment history, and contraindications. A second agent may be required if blood pressure remains substantially above goal. No medication is documented as started today.
+
+Recommend renal function assessment, urine testing for protein or albumin, lipid profile, and ECG as part of cardiovascular and hypertension evaluation. Repeat serum electrolytes and renal function after initiation or titration of therapy, particularly if a renin-angiotensin system agent or diuretic is used.
+
+Counseled regarding sodium restriction, avoidance of highly processed foods, regular physical activity as tolerated, weight reduction, and smoking cessation. Tobacco cessation is particularly important given the history of coronary artery disease.
+
+Reviewed urgent precautions: immediate emergency evaluation for chest pain, shortness of breath, severe headache, acute neurologic symptoms, vision loss, confusion, or persistently extreme blood-pressure elevation.
+
+Arrange close outpatient follow-up within 1–2 weeks for blood-pressure reassessment and treatment planning, sooner if home readings worsen or symptoms develop.

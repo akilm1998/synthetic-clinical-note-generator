@@ -1,0 +1,85 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+
+Damian Boyd is an 80-year-old man presenting for outpatient follow-up of hyperlipidemia, present for approximately 32 years and currently without an active lipid-lowering management plan. Recent lipid results remain markedly abnormal, with total cholesterol 319 mg/dL, LDL cholesterol 240 mg/dL, HDL cholesterol 34 mg/dL, and triglycerides 224 mg/dL.
+
+He denies chest discomfort, exertional leg pain consistent with claudication, and dizziness. He reports fatty-appearing deposits involving the skin and eyelids, consistent with xanthomas and xanthelasma. No medication regimen or medication adherence history was provided for review today.
+
+Relevant comorbidities include hypertension for approximately 14 years, chronic kidney disease identified approximately 1 year ago, and obesity present for approximately 23 years. He continues to smoke. Current weight is 107.7 kg at a height of 169 cm, with BMI 37.7 kg/m².
+
+Review of Systems
+
+Cardiovascular: Denies chest discomfort. No claudication reported.
+Neurologic: Denies dizziness.
+Skin: Reports xanthomas and xanthelasma.
+Constitutional, respiratory, gastrointestinal, genitourinary, musculoskeletal, and psychiatric review: No additional concerns reported during this follow-up.
+
+Objective
+
+Vital Signs:
+Blood pressure 160/85 mmHg
+Pulse 76 bpm
+Respiratory rate 14/min
+Temperature 36.7°C
+Oxygen saturation 95% on room air
+Height 169 cm
+Weight 107.7 kg
+BMI 37.7 kg/m²
+
+Physical Examination:
+General: Older adult male presenting for routine outpatient follow-up; no acute cardiopulmonary symptoms reported.
+Eyes/Skin: Xanthelasma is reported. Xanthomas are reported.
+Cardiovascular: Pulse 76 bpm. No chest discomfort reported.
+Respiratory: Respiratory rate 14/min and oxygen saturation 95%.
+Neurologic: No dizziness reported.
+The examination is otherwise focused on the reported problems.
+
+Laboratory Data
+
+Total cholesterol: 319 mg/dL
+LDL cholesterol: 240 mg/dL
+HDL cholesterol: 34 mg/dL
+Triglycerides: 224 mg/dL
+
+Assessment
+
+1. Hyperlipidemia, unspecified
+
+Severe, longstanding dyslipidemia with total cholesterol 319 mg/dL and LDL cholesterol 240 mg/dL, accompanied by low HDL and elevated triglycerides. The presence of xanthomas and xanthelasma supports a substantial cumulative lipid burden. He has no reported anginal symptoms, claudication, or dizziness at this visit, but his age, hypertension, active tobacco use, obesity, chronic kidney disease, and markedly elevated LDL cholesterol place him at high overall cardiovascular risk. The condition has not been actively managed according to the available history.
+
+2. Hypertension
+
+Blood pressure is elevated at 160/85 mmHg today in the setting of longstanding hypertension. A single office measurement does not establish the patient's usual control, but this reading warrants confirmation and timely management, particularly given his chronic kidney disease and severe dyslipidemia.
+
+3. Chronic kidney disease
+
+History of chronic kidney disease for approximately 1 year. Kidney function may affect cardiovascular risk assessment and medication selection; no staging information or laboratory kidney function results are available in the current data.
+
+4. Obesity
+
+BMI 37.7 kg/m², with obesity present for approximately 23 years. This likely contributes to his adverse lipid profile and hypertension.
+
+5. Tobacco use
+
+Current smoker. Tobacco exposure substantially increases his cardiovascular risk in combination with severe dyslipidemia, hypertension, obesity, and chronic kidney disease.
+
+Plan
+
+1. Discussed the markedly elevated LDL cholesterol and associated cardiovascular risk. Recommend initiation of evidence-based lipid-lowering therapy after review of medication history, contraindications, allergies, renal function, liver status, and patient preferences. A statin would generally be first-line therapy in this setting; treatment intensity should be individualized given his age and chronic kidney disease. If LDL reduction is inadequate or statin therapy is not tolerated, addition of nonstatin therapy such as ezetimibe can be considered.
+
+2. Obtain a repeat fasting lipid panel to confirm the current degree of dyslipidemia and establish a treatment baseline. Review for potentially reversible secondary contributors, including dietary factors, endocrine disease, kidney disease-related factors, and other medical causes. Consider ApoB and lipoprotein(a) measurement for further risk characterization if clinically useful.
+
+3. Review for prior lipid-lowering treatment, adverse effects, adherence barriers, and family history of premature cardiovascular disease at the next medication-focused discussion. Given the long duration of dyslipidemia and reported xanthomas, consider evaluation for a longstanding or inherited lipid disorder if clinically indicated.
+
+4. Recommend a heart-healthy eating pattern emphasizing reduced saturated and trans fats, increased fiber, and avoidance of excess refined carbohydrates. Encourage gradual, low-impact physical activity as tolerated, with attention to mobility and cardiovascular symptoms. Weight reduction would be beneficial but should be pursued through realistic, sustainable measures.
+
+5. Strongly recommend tobacco cessation. Discuss behavioral support and pharmacologic cessation options when the patient is ready.
+
+6. Recheck blood pressure outside the office or with repeated office measurements and review current antihypertensive treatment history. Persistent readings in this range should prompt adjustment or initiation of antihypertensive therapy, with consideration of chronic kidney disease in treatment selection.
+
+7. Continue coordinated management of chronic kidney disease, including review of renal function before selecting and titrating medications. Avoid assuming a kidney disease stage without documented renal indices.
+
+8. Instruct patient to seek urgent evaluation for new chest pressure, shortness of breath, sudden neurologic symptoms, or exertional leg pain. Arrange close outpatient follow-up after medication and laboratory review to reassess lipid response, blood pressure, tolerability, and adherence.

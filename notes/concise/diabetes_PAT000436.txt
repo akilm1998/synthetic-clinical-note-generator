@@ -1,0 +1,31 @@
+Chief Complaint
+
+Initial consultation for management of type 2 diabetes mellitus.
+
+Subjective
+
+Justin Richardson is a 73-year-old man with a 14-year history of type 2 diabetes mellitus, currently without reported diabetes-related symptoms or complications. He denies polydipsia, polyuria, polyphagia, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the extremities. He has a 15-year history of non-alcoholic fatty liver disease. He currently smokes. Diabetes treatment history is not provided.
+
+Objective
+
+Height 169 cm; weight 67.4 kg; BMI 23.6 kg/m². Blood pressure 134/81 mmHg, pulse 79 bpm, respiratory rate 14/min, temperature 36.9°C, oxygen saturation 95%.
+
+Hemoglobin A1c 9.3%. Fasting glucose 192 mg/dL.
+
+Assessment
+
+1. Type 2 diabetes mellitus without reported complications. Glycemic control is above goal, with A1c 9.3% and fasting glucose 192 mg/dL. Despite the absence of hyperglycemic symptoms, these values indicate clinically significant persistent hyperglycemia. No neuropathic, infectious, constitutional, or visual symptoms are reported.
+
+2. Non-alcoholic fatty liver disease, longstanding, reported duration 15 years.
+
+3. Tobacco use. Active smoking increases cardiovascular and microvascular risk in the setting of diabetes.
+
+Plan
+
+Discussed the importance of active diabetes management, nutrition focused on reduced refined carbohydrate intake, regular physical activity as tolerated, and home glucose monitoring.
+
+Recommend initiation or optimization of glucose-lowering therapy after review of renal function, hepatic status, contraindications, and treatment preferences; metformin would be a reasonable first-line consideration if appropriate. Given the degree of hyperglycemia, timely pharmacologic treatment and close reassessment are warranted.
+
+Recommend urine albumin-to-creatinine ratio, serum creatinine/eGFR, fasting lipid profile, and comprehensive diabetic foot and retinal assessments as part of complication screening. Counsel regarding daily foot inspection and prompt evaluation of wounds or infection.
+
+Smoking cessation counseling provided, including discussion of its importance for cardiovascular risk reduction. Follow up after laboratory and screening evaluation to review results and adjust therapy.

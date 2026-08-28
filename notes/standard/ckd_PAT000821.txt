@@ -1,0 +1,46 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Jonathan Gray is a 34-year-old man, height 163 cm, weight 72.3 kg, BMI 27.2 kg/m², with a 12-year history of chronic kidney disease. He also has type 2 diabetes mellitus and gout, each present for approximately 1 year. He reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath.
+
+Medication review performed. No active medication regimen is documented in today’s record, so adherence and treatment tolerance cannot be confirmed. He is a current smoker.
+
+Objective
+
+Vital signs: BP 134/86 mmHg, pulse 77 bpm, respiratory rate 16/min, temperature 36.9°C, oxygen saturation 97%.
+
+Laboratory results:
+Serum creatinine 3.53 mg/dL
+BUN 68 mg/dL
+Estimated GFR 14 mL/min/1.73 m²
+
+No physical examination findings were provided.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function, present for approximately 12 years. Current creatinine is 3.53 mg/dL, BUN 68 mg/dL, and eGFR 14 mL/min/1.73 m². He is presently without reported uremic or fluid-overload symptoms, but the degree of renal impairment warrants timely specialist evaluation and active management. Medication regimen, adherence, and tolerance require clarification.
+
+Type 2 diabetes mellitus of approximately 1 year’s duration, a potential contributor to ongoing renal disease.
+
+Gout of approximately 1 year’s duration; renal function is important in selection and dosing of gout therapy.
+
+Tobacco use.
+
+Overweight by BMI.
+
+Plan
+
+Reconcile all prescription, over-the-counter, and supplemental medications at the next contact and confirm actual use, adherence, adverse effects, and tolerance. Avoid assuming use of losartan, diuretics, phosphate binders, erythropoietin, calcium carbonate, or other renal-directed medications until confirmed.
+
+Recommend prompt nephrology referral for comprehensive CKD management, discussion of renal replacement planning if appropriate, and medication dosing guidance given eGFR 14 mL/min/1.73 m².
+
+Recommend monitoring with repeat renal function and electrolytes, urine albumin-to-creatinine ratio, CBC, and intact parathyroid hormone as clinically indicated. Consider renal ultrasound as part of evaluation if not previously completed.
+
+Optimize diabetes and blood pressure management while avoiding nephrotoxic medications, particularly NSAIDs. Review all gout therapies for renal appropriateness and adjust only after medication reconciliation and clinical review.
+
+Counseled regarding smoking cessation, avoidance of excess dietary sodium, and prompt evaluation for new nausea, vomiting, pruritus, progressive fatigue, reduced urine output, edema, dyspnea, confusion, or other worsening symptoms.
+
+Continue close outpatient follow-up after medication reconciliation and nephrology evaluation.

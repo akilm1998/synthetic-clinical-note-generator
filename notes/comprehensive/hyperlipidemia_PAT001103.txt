@@ -1,0 +1,57 @@
+Chief Complaint
+
+Annual review of longstanding elevated cholesterol.
+
+Subjective
+
+Brooke Snyder is a 51-year-old woman presenting for comprehensive annual review and chronic disease assessment. She has a 13-year history of hyperlipidemia that is not currently being actively treated. Recent lipid results show markedly elevated total cholesterol and LDL cholesterol with moderately elevated triglycerides. She reports xanthelasma but no other documented cutaneous lipid deposits.
+
+She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She does not smoke. Weight is 85.5 kg at a height of 170 cm, with BMI 29.6 kg/m². She has an 8-year history of chronic kidney disease. No medication regimen is provided for review.
+
+Review of systems is notable for xanthelasma. No chest discomfort, claudication, or dizziness reported. No other positive symptoms are documented in the supplied history.
+
+Objective
+
+Vital Signs: Blood pressure 135/79 mmHg, pulse 70/min, respiratory rate 16/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Anthropometrics: Height 170 cm, weight 85.5 kg, BMI 29.6 kg/m².
+
+General: Patient presents for outpatient annual review and is clinically stable by the documented vital signs.
+
+Eyes: Xanthelasma reported. No other ocular findings documented.
+
+Cardiovascular: No chest discomfort reported. No additional examination findings documented.
+
+Extremities: No intermittent claudication reported. No xanthomas reported.
+
+Laboratory Data:
+Total cholesterol 347 mg/dL.
+LDL cholesterol 249 mg/dL.
+HDL cholesterol 49 mg/dL.
+Triglycerides 245 mg/dL.
+
+Assessment
+
+Hyperlipidemia, unspecified. Longstanding, currently untreated, with markedly elevated LDL cholesterol of 249 mg/dL, total cholesterol 347 mg/dL, and triglycerides 245 mg/dL. The presence of xanthelasma and the duration of approximately 13 years support a substantial chronic lipid burden. She has no reported symptoms suggestive of active angina or peripheral arterial disease. Her chronic kidney disease, overweight status, and borderline elevated blood pressure further increase overall cardiovascular risk. The LDL level warrants active pharmacologic risk reduction and evaluation for secondary contributors and possible inherited lipid susceptibility; a formal diagnosis of familial hypercholesterolemia should not be made without additional history and examination.
+
+Chronic kidney disease, documented for 8 years. Kidney disease is an important cardiovascular risk-enhancing comorbidity and should be considered when selecting and monitoring lipid-lowering therapy. No stage or current renal measurements are provided.
+
+Overweight, BMI 29.6 kg/m². This may contribute to dyslipidemia and triglyceride elevation.
+
+Preventive health maintenance reviewed in the context of annual care. Tobacco avoidance reinforced. Cardiovascular risk reduction should include dietary optimization, regular physical activity as tolerated, weight management, and attention to blood pressure and kidney health.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL cholesterol and the increased long-term risk of atherosclerotic cardiovascular disease, particularly in the setting of chronic kidney disease and xanthelasma. Recommend initiation of evidence-based lipid-lowering therapy, typically a high-intensity statin unless contraindicated or not tolerated, following shared decision-making and review of medication history, allergies, contraindications, and patient preferences. If LDL reduction is inadequate or statin intolerance occurs, addition of ezetimibe and other therapies can be considered based on response and overall risk.
+
+Recommend confirming the lipid profile with a fasting lipid panel if the available sample was nonfasting and monitoring response after treatment initiation. Consider evaluation for secondary causes of severe dyslipidemia, including thyroid disease, diabetes, liver disease, kidney-related contributors, and medication or dietary factors. Given the severity and chronicity of LDL elevation, consider ApoB and one-time lipoprotein(a) measurement, with additional assessment for inherited lipid disorders guided by family history and examination.
+
+Coronary artery calcium scoring may be considered if treatment intensity remains uncertain after clinician-patient risk discussion; it should not be used to defer treatment in the setting of LDL cholesterol at this level.
+
+Continue cardiovascular risk modification with a diet emphasizing vegetables, fruits, whole grains, legumes, nuts, fish, and unsaturated fats while reducing saturated and trans fats, processed foods, and excess refined carbohydrates. Encourage gradual, regular aerobic and resistance activity as tolerated, with a goal of at least 150 minutes weekly if medically appropriate. Recommend modest weight reduction toward a healthy weight.
+
+Continue tobacco avoidance. Monitor blood pressure during routine care. Review kidney function and kidney-protective care as part of chronic kidney disease management; avoid nephrotoxic over-the-counter medications when possible and coordinate management with the clinician overseeing renal care.
+
+For preventive care, review age-appropriate cancer screening, immunizations, cardiovascular risk assessment, diabetes screening, and routine eye and dental care. Encourage prompt evaluation for new chest pressure, shortness of breath, syncope, or exertional leg pain.
+
+Arrange follow-up after treatment initiation and repeat lipid assessment to evaluate adherence, tolerance, and LDL response.

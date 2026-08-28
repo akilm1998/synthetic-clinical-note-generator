@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Elliot Chandler is an 81-year-old man, height 183 cm, weight 87.4 kg, BMI 26.1 kg/m², presenting for outpatient follow-up of longstanding anemia. The anemia has been present for approximately 25 years in the setting of a chronic infection reported to have been present for 38 years. He is not currently receiving active anemia-directed management.
+
+He denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. He reports headache. No smoking history.
+
+Objective
+
+Vital signs: Blood pressure 130/75 mmHg, pulse 77 bpm, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 96%.
+
+Physical examination: Pallor is present. Cardiovascular examination is without tachycardia or other abnormality. Respiratory examination is normal, with no respiratory distress.
+
+Laboratory data:
+Hemoglobin 8.7 g/dL
+Hematocrit 25.4%
+RBC count 2.76 million/µL
+MCV 92 fL
+Serum iron 37 µg/dL
+Ferritin 453 ng/mL
+TIBC 252 µg/dL
+Transferrin saturation 14.7%
+
+Assessment
+
+1. Chronic normocytic anemia, clinically stable but significant. Hemoglobin is 8.7 g/dL with normal MCV and reduced RBC count. The combination of low serum iron and transferrin saturation with elevated ferritin and relatively low TIBC is most consistent with anemia associated with chronic inflammation, in the context of his longstanding chronic infection. The prolonged duration and current lack of active management warrant further characterization and treatment planning. Pallor and headache may be related to the anemia, although he has no reported cardiopulmonary symptoms or exercise limitation.
+
+2. Chronic infection, longstanding. This is the likely inflammatory contributor to the anemia and should be considered in ongoing management.
+
+Plan
+
+Obtain repeat CBC with reticulocyte count and peripheral blood smear to confirm stability and assess marrow response. Recommend evaluation of vitamin B12, folate, renal function, and inflammatory markers as clinically appropriate to assess for additional contributors to the normocytic anemia.
+
+Review the chronic infection for current activity and inflammatory burden, with optimization of management as appropriate. Consider evaluation for occult blood loss and other causes of anemia in view of his age and degree of anemia, guided by history and examination.
+
+Given the iron profile, empiric iron therapy should not be initiated without clarifying the relative contribution of inflammation versus true iron deficiency. If anemia remains persistent after evaluation and is attributable to chronic inflammatory disease, discuss disease-directed anemia management, including consideration of specialist-guided intravenous iron or an erythropoiesis-stimulating agent when clinically appropriate.
+
+Monitor for worsening headache, new fatigue or weakness, dyspnea, chest discomfort, palpitations, dizziness, or declining exercise tolerance; seek urgent evaluation if these develop. Continue outpatient follow-up after reassessment of the anemia and contributing chronic infection.

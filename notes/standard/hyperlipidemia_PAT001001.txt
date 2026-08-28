@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+
+Jane Watson is a 68-year-old woman seen for routine outpatient follow-up of hyperlipidemia present for approximately 20 years and not currently under active lipid-lowering management. She has established coronary artery disease of 21 years’ duration and hypertension diagnosed 3 years ago, placing her at very high cardiovascular risk. She denies chest discomfort, exertional leg pain or intermittent claudication, dizziness, xanthomas, and xanthelasma. She does not smoke. Her weight is stable by available measurements, with BMI 21.9 kg/m².
+
+Objective
+
+Vital signs: blood pressure 143/82 mmHg, pulse 73 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 99% on room air.
+
+Height 154 cm; weight 51.9 kg; BMI 21.9 kg/m².
+
+Recent lipid profile: total cholesterol 365 mg/dL, LDL cholesterol 245 mg/dL, HDL cholesterol 42 mg/dL, and triglycerides 389 mg/dL.
+
+Assessment
+
+Longstanding untreated hyperlipidemia with marked elevation of LDL cholesterol and concomitant hypertriglyceridemia. In the setting of established coronary artery disease, the current lipid profile represents a substantial residual atherosclerotic cardiovascular risk despite the absence of active anginal or claudication symptoms. The LDL level is particularly concerning and warrants prompt initiation of evidence-based lipid-lowering therapy. Triglycerides are also significantly elevated, although there are no reported symptoms suggesting an acute complication.
+
+Hypertension with blood pressure above goal at today’s visit. Coronary artery disease remains clinically stable by reported symptoms.
+
+Plan
+
+Discussed the significance of the lipid results and the importance of active secondary prevention. Recommend initiation of a high-intensity statin, provided there is no contraindication, with treatment selection and shared decision-making at this visit. If LDL reduction remains inadequate or statin therapy is not tolerated, addition of ezetimibe and consideration of other non-statin therapy would be appropriate given her coronary artery disease and markedly elevated baseline LDL.
+
+Recommend a heart-healthy dietary pattern emphasizing reduction of saturated and trans fats, refined carbohydrates, and alcohol, with increased soluble fiber and unsaturated fats. Continue regular physical activity as tolerated and maintain her current healthy weight. She was advised to seek urgent medical attention for new or persistent chest discomfort, dyspnea, or other symptoms concerning for ischemia.
+
+Recommend repeat fasting lipid testing after therapy is initiated to assess response, along with consideration of apolipoprotein B and lipoprotein(a) measurement for further risk characterization. Evaluation for contributing secondary factors should be considered as clinically appropriate. Blood pressure should be monitored and addressed in the context of her ongoing hypertension and coronary artery disease.
+
+Follow-up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, blood pressure, and lipid response.

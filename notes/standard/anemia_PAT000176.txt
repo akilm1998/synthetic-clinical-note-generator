@@ -1,0 +1,30 @@
+Chief Complaint
+Medication review for anemia.
+
+Subjective
+Cody Warren is a 36-year-old man, 186 cm and 80.6 kg (BMI 23.3 kg/m²), presenting for review of anemia management. He reports no fatigue, weakness, dizziness, headache, pallor, shortness of breath, palpitations, or reduced exercise tolerance. Anemia has been present for approximately 3 years and is currently not under active treatment. No anemia-directed medication regimen is documented, so medication effectiveness, adherence, and tolerance cannot be assessed today.
+
+Relevant history includes type 2 diabetes mellitus for 3 years and chronic infection for 6 years. He does not smoke.
+
+Objective
+Vital signs: BP 122/76 mmHg, pulse 80 bpm, respiratory rate 20/min, temperature 37.0°C, oxygen saturation 99%.
+
+Laboratory results:
+Hemoglobin 9.3 g/dL
+Hematocrit 27.3%
+RBC 2.97 million/µL
+MCV 92 fL
+Serum iron 34 µg/dL
+Ferritin 264 ng/mL
+TIBC 265 µg/dL
+Transferrin saturation 12.8%
+
+Assessment
+Anemia consistent with anemia of chronic disease/inflammation. This is a clinically significant, normocytic anemia with low serum iron and transferrin saturation, in the setting of chronic infection. Ferritin is preserved, and TIBC is not elevated, supporting impaired iron utilization related to inflammation rather than straightforward iron depletion. He is currently asymptomatic and hemodynamically stable. Type 2 diabetes mellitus is an important comorbidity but is not reported to be causing current symptoms.
+
+Plan
+No current anemia-directed medication is documented. Do not begin or escalate iron therapy solely on the current iron level; reassess the underlying inflammatory process and confirm iron status before treatment. If iron replacement is considered after clinical review, monitor response and tolerance.
+
+Obtain/review a repeat CBC with reticulocyte count and peripheral smear, along with vitamin B12, folate, renal function testing, and inflammatory markers. Continue evaluation and management of the chronic infection, which may be contributing to the anemia. Consider hematology input if the anemia persists, worsens, becomes symptomatic, or does not respond to treatment of the underlying inflammation.
+
+Monitor for fatigue, dyspnea, chest discomfort, palpitations, dizziness, or reduced exercise tolerance; seek urgent evaluation for new or severe symptoms. Reassess anemia and treatment needs after the above evaluation.

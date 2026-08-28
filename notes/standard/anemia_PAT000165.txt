@@ -1,0 +1,53 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Patrick Bell is a 34-year-old man presenting for outpatient follow-up of anemia present for approximately 3 years. He reports no current fatigue, weakness, dizziness, headache, shortness of breath, palpitations, or reduced exercise tolerance. Pallor has been noted. He has not been receiving documented treatment for the anemia.
+
+Relevant comorbidities include rheumatoid arthritis for 2 years, type 2 diabetes mellitus for 4 years, and malignancy diagnosed approximately 1 year ago. He currently smokes. No medication regimen or allergies are documented for this visit.
+
+Objective
+
+Vital signs: BP 116/77 mmHg, pulse 89 bpm, respiratory rate 19/min, temperature 36.6°C, oxygen saturation 98%.
+
+Height 173 cm, weight 88.0 kg, BMI 29.4 kg/m².
+
+Patient appears clinically stable. Pallor is present. Cardiovascular examination is normal without documented abnormality. Respiratory examination is normal with no respiratory distress.
+
+Laboratory results:
+Hemoglobin 8.7 g/dL
+Hematocrit 26.0%
+RBC 2.77 million/µL
+MCV 94 fL
+Serum iron 44 µg/dL
+Ferritin 475 ng/mL
+TIBC 234 µg/dL
+Transferrin saturation 18.8%
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding and currently untreated. Laboratory pattern demonstrates significant normocytic anemia with low serum iron and TIBC and elevated ferritin, most consistent with anemia associated with chronic inflammation in the setting of rheumatoid arthritis and malignancy. The degree of anemia warrants further evaluation and active management despite the absence of cardiopulmonary symptoms. He is hemodynamically stable today without evidence of acute symptomatic deterioration.
+
+Rheumatoid arthritis, approximately 2-year duration.
+
+Type 2 diabetes mellitus, approximately 4-year duration.
+
+Malignancy, approximately 1-year duration.
+
+Tobacco use.
+
+Overweight by BMI.
+
+Plan
+
+Obtain updated CBC with reticulocyte count and peripheral smear to assess current severity and marrow response. Recommend renal function testing, vitamin B12, folate, and inflammatory markers as part of the anemia evaluation. Repeat iron studies as clinically indicated to trend the pattern.
+
+Review for potential contributing factors, including ongoing inflammatory disease activity, malignancy-related inflammation, occult blood loss, nutritional deficiency, and renal impairment. Coordinate management with the clinicians treating his rheumatoid arthritis and malignancy; hematology consultation is appropriate given hemoglobin of 8.7 g/dL, chronicity, and multiple potential contributors.
+
+Do not start empiric iron replacement without clarifying the cause, as ferritin is elevated and the overall pattern is more consistent with inflammation than uncomplicated iron deficiency. Depending on the evaluation and underlying disease status, specialist-directed intravenous iron or an erythropoiesis-stimulating agent may be considered.
+
+Advise prompt evaluation for new or worsening shortness of breath, chest pain, palpitations, syncope, marked weakness, bleeding, or rapidly worsening exercise tolerance.
+
+Counseled regarding smoking cessation, particularly in the setting of malignancy, chronic inflammatory disease, and anemia. Continue outpatient follow-up after the recommended evaluation to reassess hemoglobin and establish a definitive management plan.

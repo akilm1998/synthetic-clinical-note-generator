@@ -1,0 +1,59 @@
+Chief Complaint
+
+Initial evaluation of elevated blood pressure.
+
+Subjective
+
+Scarlett Hughes is an 86-year-old woman presenting for an initial outpatient consultation regarding hypertension. She reports a history of elevated blood pressure for approximately 6 years and is not currently receiving documented antihypertensive management. Today’s blood pressure is 150/92 mmHg. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, and epistaxis.
+
+Her medical history is also significant for type 2 diabetes mellitus for approximately 29 years and hyperlipidemia for approximately 48 years. Current medication list and allergies were not provided. She is a nonsmoker. Height is 158 cm and weight is 62.7 kg, with BMI 25.1 kg/m².
+
+Review of Systems
+
+Constitutional: Denies fatigue. No other constitutional concerns reported.
+
+Eyes: Denies blurred vision.
+
+Cardiovascular: Denies chest pain and palpitations.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Denies headache and dizziness.
+
+Hematologic: Denies epistaxis.
+
+Gastrointestinal, genitourinary, musculoskeletal, dermatologic, and psychiatric review is otherwise noncontributory based on the information available for this visit.
+
+Objective
+
+Vital Signs: Blood pressure 150/92 mmHg. Pulse 75 bpm. Respiratory rate 17/min. Temperature 36.6°C. Oxygen saturation 98% on room air.
+
+Anthropometrics: Height 158 cm. Weight 62.7 kg. BMI 25.1 kg/m².
+
+General: Visit focused on evaluation of elevated blood pressure; no acute cardiopulmonary or neurologic symptoms reported.
+
+Laboratory Data: Serum sodium 143 mmol/L. Serum potassium 4.3 mmol/L.
+
+Assessment
+
+Essential primary hypertension, present for approximately 6 years and currently without documented active treatment. Blood pressure today is elevated at 150/92 mmHg. She is asymptomatic, with no reported features concerning for hypertensive crisis or acute end-organ injury. The available sodium and potassium values are within expected ranges. Given her advanced age and long-standing diabetes, blood pressure management should be individualized and initiated cautiously, with attention to orthostatic symptoms, renal function, electrolyte status, and fall risk.
+
+Type 2 diabetes mellitus of approximately 29 years’ duration, an important cardiovascular and renal risk factor in the setting of hypertension. Glycemic control and current diabetes therapy were not provided and should be reconciled.
+
+Hyperlipidemia of approximately 48 years’ duration, contributing to overall atherosclerotic cardiovascular risk. Current lipid therapy and recent lipid values were not provided.
+
+Overweight by BMI at 25.1 kg/m².
+
+Plan
+
+Confirm persistent hypertension with repeat seated measurements using an appropriately sized cuff and, if feasible, home blood pressure monitoring. Assess for orthostatic blood pressure changes given her age before and after treatment initiation.
+
+Discuss initiation of an antihypertensive medication at a low dose with gradual titration, individualized to tolerability and home blood pressure readings. In view of coexisting diabetes, an ACE inhibitor or angiotensin receptor blocker may be considered if renal function and urinary albumin assessment support its use; a calcium-channel blocker or thiazide-type diuretic are alternative options based on the complete medication history, renal function, orthostatic measurements, and clinical response. Medication reconciliation is needed before selecting therapy.
+
+Recommend evaluation of renal function and additional electrolytes before and after starting or adjusting antihypertensive therapy. Recommend urinalysis with assessment for albuminuria, lipid profile, and electrocardiogram as part of cardiovascular risk and hypertension evaluation. These studies are recommendations and have not been documented as completed today.
+
+Counsel regarding limiting dietary sodium, avoiding excessive alcohol intake, maintaining regular physical activity as tolerated, and following a heart-healthy eating pattern. Encourage home blood pressure recording and review of readings at follow-up.
+
+Review warning symptoms requiring urgent evaluation, including severe headache, chest pain, shortness of breath, new neurologic symptoms, acute visual change, or markedly elevated blood pressure with symptoms.
+
+Follow up promptly after home readings and baseline evaluation to establish a safe treatment regimen, with earlier reassessment if symptoms develop.

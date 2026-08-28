@@ -1,0 +1,55 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Olivia Brooks is an 85-year-old woman seen for outpatient follow-up of longstanding anemia, present for approximately 46 years. She reports no current fatigue, weakness, dizziness, headache, palpitations, shortness of breath, or reduced exercise tolerance. Pallor remains present. No interval anemia-related concerns are reported.
+
+Her medical history is notable for chronic kidney disease of approximately 43 years’ duration and chronic infection of approximately 26 years’ duration, both of which may contribute to chronic inflammation and impaired erythropoiesis. She is a current smoker. No anemia-directed medications are documented.
+
+Objective
+
+Vital signs: BP 138/84 mmHg, pulse 84 bpm, respiratory rate 21/min, temperature 36.6°C, oxygen saturation 96%.
+
+Height 168 cm; weight 57.6 kg; BMI 20.4 kg/m².
+
+General: Appears clinically stable. Pallor noted.
+
+Cardiovascular: Normal cardiovascular examination; pulse regular at 84 bpm.
+
+Respiratory: Respirations mildly increased at 21/min, with oxygen saturation 96%; respiratory examination otherwise normal.
+
+Laboratory results:
+Hemoglobin 8.6 g/dL
+Hematocrit 26.6%
+RBC 2.86 million/µL
+MCV 93 fL
+Serum iron 22 µg/dL
+Ferritin 343 ng/mL
+TIBC 209 µg/dL
+Transferrin saturation 10.5%
+
+Assessment
+
+Chronic normocytic anemia with significant reduction in hemoglobin and hematocrit. Low serum iron and transferrin saturation with elevated ferritin and low TIBC are most consistent with anemia of chronic inflammation/chronic disease, with longstanding chronic kidney disease also likely contributing. She is currently clinically stable and denies cardiopulmonary or constitutional symptoms, but the degree of anemia warrants active outpatient evaluation and management rather than continued observation alone.
+
+Chronic kidney disease, longstanding.
+
+Chronic infection, longstanding.
+
+Current tobacco use.
+
+Plan
+
+Review the anemia and laboratory pattern with the patient, including the likely contribution of chronic inflammation and chronic kidney disease.
+
+Recommend completion or review of a CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and assess for reversible contributors.
+
+Recommend coordination with the clinician managing her chronic kidney disease regarding anemia-directed treatment, including consideration of iron replacement based on the overall clinical context and whether an erythropoiesis-stimulating agent is appropriate. No specific medication regimen is initiated or documented today.
+
+Continue monitoring hemoglobin and hematocrit during follow-up. Assess for development of fatigue, weakness, dizziness, dyspnea, chest discomfort, palpitations, or reduced exercise tolerance. Seek urgent evaluation for new or worsening shortness of breath, chest pain, syncope, significant bleeding, or marked weakness.
+
+Smoking cessation counseling is appropriate given her current tobacco use and chronic medical conditions.
+
+Return for outpatient reassessment after recommended evaluation, or sooner if symptoms develop.

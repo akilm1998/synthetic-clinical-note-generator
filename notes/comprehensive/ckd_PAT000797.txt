@@ -1,0 +1,69 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Henry Walsh is a 46-year-old man, 173 cm and 71.5 kg (BMI 23.9 kg/m²), presenting for outpatient medication review in the setting of chronic kidney disease diagnosed approximately 6 years ago. Current treatment regimen, adherence, medication effectiveness, and treatment tolerance were reviewed as priorities today; no specific active medication list is documented for confirmation, so no medication was assumed to be currently prescribed or taken.
+
+He denies fatigue, pruritus, muscle cramps, nausea, peripheral edema, change in urination frequency, sleep disturbance, and shortness of breath. He smokes cigarettes. Relevant comorbidities include anemia of chronic disease for 6 years, coronary artery disease for 1 year, and gout for 3 years.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+Respiratory: Denies shortness of breath.
+Cardiovascular: Denies peripheral edema.
+Gastrointestinal: Denies nausea.
+Genitourinary: Denies change in urination frequency.
+Skin: Denies pruritus.
+Musculoskeletal: Denies muscle cramps.
+Neurologic: No sleep disturbance reported.
+Medication-related: Medication effectiveness, adherence, and tolerance require confirmation against the patient’s actual medication containers and pharmacy record.
+
+Objective
+
+Vital Signs: Blood pressure 141/89 mmHg, pulse 81/min, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 97%.
+
+Anthropometrics: Height 173 cm, weight 71.5 kg, BMI 23.9 kg/m².
+
+Laboratory Data:
+Serum creatinine 5.46 mg/dL.
+Estimated GFR 9 mL/min/1.73 m².
+BUN 63 mg/dL.
+
+Physical Examination:
+General: No acute symptom burden reported today; vital signs reviewed.
+Cardiopulmonary: Respiratory rate and oxygen saturation are normal; patient denies dyspnea.
+Extremities: Patient denies peripheral swelling.
+Neurologic: No muscle cramps or sleep disturbance reported.
+Skin: Patient denies pruritus.
+
+Assessment
+
+Chronic kidney disease with markedly reduced estimated GFR, creatinine 5.46 mg/dL, and BUN 63 mg/dL. Although currently without reported uremic or fluid-overload symptoms, the degree of renal impairment requires prompt active management. Blood pressure remains above ideal for a patient with chronic kidney disease.
+
+Medication review is incomplete until the actual medication list is reconciled. Effectiveness, adherence, and tolerance of any renal, cardiovascular, gout, or anemia therapies cannot be confirmed from the available medication information. Particular attention is needed to renal dosing and avoidance of nephrotoxic or over-the-counter agents, especially NSAIDs, given chronic kidney disease and gout.
+
+Anemia of chronic disease, present for 6 years, with no current treatment or hemoglobin value provided.
+
+Coronary artery disease, diagnosed 1 year ago; medication regimen and secondary prevention measures require verification.
+
+Gout, present for 3 years; urate-lowering and flare medications should be reviewed for renal appropriateness.
+
+Tobacco use.
+
+Plan
+
+Arrange urgent nephrology evaluation for advanced chronic kidney disease, assessment of renal replacement therapy needs, and development of an appropriate management plan. Discussed that absence of symptoms does not exclude serious renal dysfunction.
+
+Complete medication reconciliation at the next contact using all prescription bottles, over-the-counter products, supplements, and pharmacy records. Confirm indication, dose, adherence, benefit, and adverse effects for every medication. Renally adjust medications as appropriate and avoid NSAIDs and other potentially nephrotoxic agents unless specifically directed by a treating clinician. Do not start or stop prescription therapy without review.
+
+Recommend serum electrolytes, CBC, urine albumin-to-creatinine ratio, intact parathyroid hormone, and renal ultrasound as part of comprehensive kidney disease evaluation. These are recommendations and have not been documented as completed today.
+
+Continue monitoring blood pressure and review cardiovascular risk-reduction therapy in the context of coronary artery disease. Encourage smoking cessation.
+
+Review gout treatment for renal dosing and avoid unsupervised NSAID use.
+
+Seek emergency care immediately for new shortness of breath, chest pain, confusion, persistent vomiting, marked weakness, new swelling, substantially decreased urination, or other acute deterioration.
+
+Close outpatient follow-up after medication reconciliation and nephrology assessment.

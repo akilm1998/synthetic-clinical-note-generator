@@ -1,0 +1,85 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Margaret Walsh is a 92-year-old woman presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 41 years ago. Glycemic control is currently poor, with recent hemoglobin A1c of 9.9% and fasting glucose of 251 mg/dL. She does not report increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, or blurred vision. She denies slow-healing wounds or recurrent infections.
+
+She reports tingling in the hands or feet. She does not report numbness. No foot wound symptoms are reported. Her weight is 55.0 kg at 163 cm, with BMI 20.7 kg/m². She does not smoke.
+
+She has obstructive sleep apnea, present for approximately 8 years. No new sleep-related concerns are reported today. No medication regimen is provided for review in the current history.
+
+Review of Systems
+
+Constitutional: Denies fatigue and unintentional weight loss.
+
+Eyes: Denies blurred vision.
+
+Endocrine: Denies increased thirst, frequent urination, and increased hunger.
+
+Neurologic: Reports tingling in the hands or feet. Denies numbness.
+
+Skin: Denies slow-healing wounds.
+
+Infectious: Denies frequent infections.
+
+Respiratory: No new respiratory symptoms reported.
+
+Cardiovascular: No new cardiovascular symptoms reported.
+
+Gastrointestinal: No new gastrointestinal symptoms reported.
+
+Musculoskeletal: No new musculoskeletal symptoms reported.
+
+Psychiatric: No new psychiatric symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 129/82 mmHg, pulse 70 bpm, respiratory rate 20/min, temperature 36.8°C, oxygen saturation 95%.
+
+Height: 163 cm.
+
+Weight: 55.0 kg.
+
+BMI: 20.7 kg/m².
+
+Laboratory Data: Hemoglobin A1c 9.9%. Fasting glucose 251 mg/dL.
+
+Physical Examination
+
+General: Outpatient follow-up examination; no acute concerns described in the interval history.
+
+Cardiovascular: Pulse 70 bpm; blood pressure within the documented range.
+
+Respiratory: Respiratory rate 20/min and oxygen saturation 95%.
+
+Neurologic: Patient reports distal tingling; formal sensory examination findings are not documented today.
+
+Skin/Extremities: No slow-healing wounds reported. A focused diabetic foot and peripheral vascular examination should be completed and documented at follow-up.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complication, with substantially elevated current glycemic indices. Hemoglobin A1c of 9.9% and fasting glucose of 251 mg/dL indicate inadequate control despite the absence of prominent hyperglycemic symptoms. Given her age, normal BMI, long disease duration of approximately 41 years, and reported distal tingling, treatment should be individualized with attention to functional status, nutritional intake, renal function, hypoglycemia risk, and treatment burden.
+
+2. Distal paresthesia of the hands or feet. This may represent diabetic peripheral nerve involvement, although a formal neurologic and foot examination is needed before attributing the symptom to diabetes. No numbness, wounds, or recurrent infections are reported.
+
+3. Obstructive sleep apnea, approximately 8 years’ duration. No new related symptoms reported today; ongoing treatment use and adherence should be reviewed.
+
+4. Normal-weight older adult with BMI 20.7 kg/m². Avoid unintended weight loss and overly restrictive dietary counseling while addressing hyperglycemia.
+
+Plan
+
+Discussed that current glucose values are significantly elevated even though she is not experiencing classic hyperglycemic symptoms. Review and reconcile all current medications, prior diabetes treatments, adherence, dietary pattern, home glucose monitoring, and any history of hypoglycemia before selecting therapy. Given her age and BMI, avoid aggressive glucose lowering that could increase hypoglycemia, falls, or nutritional risk. Consider initiation or intensification of glucose-lowering treatment using a simple, low-burden regimen appropriate for renal function and overall goals of care.
+
+Recommend home glucose monitoring as clinically appropriate, particularly during treatment changes, with education regarding symptoms and management of hypoglycemia and marked hyperglycemia. Encourage regular meals, adequate hydration, and avoidance of concentrated sugars without imposing excessive dietary restriction.
+
+Recommend obtaining renal function assessment, including serum creatinine/eGFR and urine albumin-to-creatinine ratio, before and during medication selection. A fasting lipid profile is also appropriate for comprehensive diabetes risk assessment. Continue periodic hemoglobin A1c monitoring to assess response to therapy.
+
+Perform a complete diabetic foot examination, including skin inspection, pulses, and protective sensation, at the next visit or sooner if symptoms progress. Counsel her to inspect her feet regularly and report any skin breakdown, redness, or nonhealing lesion. Recommend a dilated diabetic eye examination if not recently completed.
+
+Review the tingling symptom at follow-up and assess distribution, balance, gait, and functional impact. Consider evaluation for alternate contributors if clinically indicated rather than assuming it is solely diabetic neuropathy.
+
+Review current obstructive sleep apnea management, including use and tolerance of prescribed therapy if applicable, without assuming ongoing treatment.
+
+Return for close outpatient reassessment after medication and glucose-monitoring review, with earlier evaluation for persistent marked hyperglycemia, vomiting, dehydration, confusion, new visual symptoms, or a nonhealing wound.

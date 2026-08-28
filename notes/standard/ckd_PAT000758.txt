@@ -1,0 +1,42 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+George Cunningham is a 44-year-old man, 174 cm tall and 85.7 kg, with BMI 28.3 kg/m² and a 14-year history of chronic kidney disease. He presents for review of treatment effectiveness, adherence, and tolerance. No active medication regimen is documented for review today; therefore, medication effectiveness, adherence, and adverse effects cannot be meaningfully assessed beyond the available record.
+
+He reports fatigue. He denies pruritus, muscle cramps, nausea, peripheral edema, changes in urinary frequency, sleep disturbance, or shortness of breath. He does not smoke. Anemia of chronic disease has been present for approximately 1 year.
+
+Objective
+
+Vital signs: BP 137/90 mmHg, pulse 82/min, respiratory rate 14/min, temperature 36.8°C, oxygen saturation 98% on room air.
+
+Laboratory results:
+Serum creatinine 3.73 mg/dL
+BUN 61 mg/dL
+Estimated GFR 16 mL/min/1.73 m²
+
+No edema or other physical examination findings are documented today.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine. The condition has been present for approximately 14 years and is currently not under active documented management. He has fatigue but no reported nausea, pruritus, muscle cramps, sleep disturbance, oliguria-type urinary changes, edema, or dyspnea to suggest clinically apparent fluid overload or prominent uremic symptoms at this visit.
+
+Medication review is limited because no current medications are listed. Renal dosing, adherence, therapeutic response, and medication tolerance therefore require clarification. Avoidance of nephrotoxic medications and appropriate adjustment of all prescriptions are particularly important given the current renal function.
+
+Anemia of chronic disease, present for approximately 1 year, may contribute to fatigue. No hemoglobin value is provided.
+
+Blood pressure is mildly elevated at 137/90 mmHg. Overweight by BMI. No diabetes, smoking, or other comorbidity is documented in the provided history.
+
+Plan
+
+Clarify and reconcile all prescription medications, over-the-counter drugs, and supplements, including dose, frequency, adherence, perceived benefit, and adverse effects. Review every medication for renal dosing and discontinue or avoid nonessential nephrotoxic agents, particularly NSAIDs, unless specifically directed by a treating clinician.
+
+Recommend prompt nephrology evaluation for comprehensive management of longstanding CKD with creatinine 3.73 mg/dL, BUN 61 mg/dL, and eGFR 16 mL/min/1.73 m². Discuss renal-protective treatment options and ongoing planning based on the full medication list, comorbidities, kidney disease etiology, and patient preferences.
+
+Recommend monitoring with serum electrolytes and repeat renal function testing, urine albumin-to-creatinine ratio, CBC, and intact parathyroid hormone as clinically appropriate. Evaluate the anemia and fatigue using the CBC and additional anemia studies as indicated; treatment should be guided by the results.
+
+Monitor blood pressure regularly and reinforce a kidney-conscious diet with attention to sodium intake, avoidance of unsupervised supplements, and maintenance of healthy weight. Encourage the patient to report worsening fatigue, nausea, itching, confusion, reduced urination, new swelling, chest discomfort, or shortness of breath promptly.
+
+Follow up after medication reconciliation and updated kidney-related laboratory assessment, or sooner for worsening symptoms.

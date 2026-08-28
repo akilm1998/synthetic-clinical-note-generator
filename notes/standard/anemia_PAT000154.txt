@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for longstanding anemia.
+
+Subjective
+
+Adrian Wells is a 63-year-old man presenting for outpatient follow-up of anemia present for approximately 29 years. He reports headache and pallor. He denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, and reduced exercise tolerance. Anemia has not been under active management. Relevant chronic comorbidities include inflammatory bowel disease and heart failure, both present for approximately 10 years. He currently smokes. Weight is 76.1 kg at 166 cm, with BMI 27.6 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 130/81 mmHg, pulse 92 bpm, respiratory rate 21/min, temperature 36.7°C, oxygen saturation 96% on room air.
+
+Physical examination: Pallor noted. Cardiovascular examination is otherwise normal. Respiratory examination is normal.
+
+Laboratory results:
+Hemoglobin 8.5 g/dL
+Hematocrit 26.2%
+RBC 3.08 million/µL
+MCV 85 fL
+Serum iron 47 µg/dL
+Ferritin 487 ng/mL
+TIBC 250 µg/dL
+Transferrin saturation 18.8%
+
+Assessment
+
+Longstanding normocytic anemia with significant reduction in hemoglobin and hematocrit. The low serum iron and transferrin saturation with elevated ferritin and relatively low TIBC are most consistent with anemia of chronic inflammation, likely influenced by his longstanding inflammatory bowel disease and possibly chronic heart failure. The degree and duration of anemia warrant further evaluation for additional contributors, including occult blood loss, nutritional deficiency, renal dysfunction, and inadequate marrow response. He is currently hemodynamically stable without reported cardiopulmonary symptoms, although the hemoglobin level is clinically significant.
+
+Headache, likely occurring in the setting of chronic anemia; no associated dizziness or focal cardiopulmonary symptoms reported.
+
+Inflammatory bowel disease, chronic, with potential contribution to inflammation and gastrointestinal blood loss.
+
+Heart failure, chronic; anemia may worsen cardiac workload and exercise tolerance even in the absence of current dyspnea.
+
+Tobacco use.
+
+Plan
+
+Obtain repeat complete blood count with reticulocyte count and peripheral smear to assess persistence and marrow response.
+
+Evaluate for contributing deficiencies and systemic causes with vitamin B12, folate, renal function testing, and inflammatory markers. Review inflammatory bowel disease activity and assess for occult gastrointestinal blood loss as clinically indicated.
+
+Arrange prompt outpatient follow-up to review results and establish active anemia management. Consider iron replacement strategy based on the complete evaluation; given elevated ferritin and chronic inflammatory disease, avoid assuming that oral iron alone will be effective. Specialist-guided consideration of intravenous iron or an erythropoiesis-stimulating agent may be appropriate depending on renal function, inflammatory activity, and response to evaluation.
+
+Coordinate management with the clinicians treating his inflammatory bowel disease and heart failure. Monitor for worsening headache, new dizziness, chest pain, dyspnea, palpitations, syncope, or marked decline in exercise tolerance; seek urgent evaluation if these occur.
+
+Counseled regarding smoking cessation.

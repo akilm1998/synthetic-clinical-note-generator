@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Bob Hill is an 82-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus diagnosed approximately 16 years ago. Diabetes is currently not adequately managed based on available laboratory results. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet.
+
+He has a history of non-alcoholic fatty liver disease of approximately 43 years’ duration. He continues to smoke. No current diabetes medication regimen is documented.
+
+Objective
+
+Vital signs: Blood pressure 134/79 mmHg, pulse 80 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 96%.
+
+Height 168 cm, weight 63.5 kg, BMI 22.5 kg/m².
+
+Laboratory results: Hemoglobin A1c 10.0%. Fasting glucose 229 mg/dL.
+
+No diabetic complications are reported by history today.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, with markedly elevated A1c and fasting glucose indicating poor glycemic control. Despite significant hyperglycemia, he currently reports no classic hyperglycemic symptoms. Given his age and normal-range BMI, treatment should be individualized with attention to avoiding hypoglycemia, maintaining nutrition, and considering overall functional status.
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Tobacco use.
+
+Plan
+
+Discussed the elevated A1c and fasting glucose in detail, including the increased risk of progressive diabetes-related complications even in the absence of current symptoms. Recommend prompt initiation or adjustment of a diabetes treatment plan rather than continued observation alone. Medication selection should be individualized after medication reconciliation and review of renal function, hepatic status, nutritional intake, and hypoglycemia risk. Avoid overly aggressive glucose lowering and establish a practical target appropriate for an older adult.
+
+Counseled regarding consistent carbohydrate intake, avoidance of sugar-sweetened beverages and concentrated sweets, and regular meals. Encourage activity appropriate to his mobility and safety.
+
+Recommend home glucose monitoring as clinically appropriate, with education regarding symptoms and management of hypoglycemia if glucose-lowering therapy is started. Review warning signs of significant hyperglycemia, including excessive thirst, frequent urination, vomiting, weakness, confusion, or inability to maintain oral intake.
+
+Recommend assessment of renal function and urine albumin-to-creatinine ratio, fasting lipid profile, and routine diabetes preventive care. Recommend comprehensive foot examination and diabetic retinal evaluation. Continue monitoring liver disease in the context of diabetes management.
+
+Strongly advised smoking cessation and offered assistance with a cessation plan.
+
+Follow up promptly after treatment planning and laboratory review to reassess glycemic control and tolerance of therapy.

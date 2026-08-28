@@ -1,0 +1,44 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Chelsea Benson is a 51-year-old woman presenting for routine outpatient follow-up of chronic kidney disease, present for approximately 7 years and currently without an established management regimen. She reports persistent fatigue. She denies pruritus, muscle cramps, nausea, peripheral edema, change in urinary frequency, sleep disturbance, or shortness of breath.
+
+Relevant comorbidities include anemia of chronic disease for 6 years, gout for 3 years, and coronary artery disease for 1 year. She does not smoke. Height is 150 cm, weight 55.1 kg, BMI 24.5 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 142/89 mmHg, pulse 81 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 97%.
+
+Laboratory data:
+Serum creatinine 2.93 mg/dL
+Estimated glomerular filtration rate 17 mL/min/1.73 m²
+BUN 91 mg/dL
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function and significant azotemia. Current creatinine is 2.93 mg/dL, eGFR 17 mL/min/1.73 m², and BUN 91 mg/dL. The patient has fatigue but no reported symptoms of fluid overload or overt uremic syndrome. Given the duration of disease and current renal indices, she requires prompt comprehensive renal evaluation and active longitudinal management.
+
+2. Fatigue, likely multifactorial, with known anemia of chronic disease and advanced renal impairment contributing.
+
+3. Elevated blood pressure at today’s visit, in the setting of chronic kidney disease and coronary artery disease.
+
+4. Gout, chronic, with renal impairment relevant to medication selection and dosing.
+
+5. Coronary artery disease.
+
+Plan
+
+Arrange prompt nephrology evaluation for comprehensive CKD management and discussion of renal replacement planning as clinically indicated.
+
+Recommend repeat renal function assessment with serum electrolytes, CBC, urine albumin-to-creatinine ratio, and intact parathyroid hormone. Consider renal ultrasound to evaluate renal structure and chronicity.
+
+Review all prescription, over-the-counter, and herbal medications for renal dosing and nephrotoxicity. Avoid NSAIDs and other potentially nephrotoxic agents unless specifically directed by a treating clinician. Any gout therapy should be selected and dosed with the current renal function in mind.
+
+Monitor blood pressure closely and address hypertension with a kidney- and cardiovascular-conscious treatment strategy. Reinforce dietary sodium restriction and avoidance of excess protein supplements.
+
+Monitor for worsening fatigue, nausea, pruritus, confusion, progressive reduction in urine output, edema, or shortness of breath. Seek urgent evaluation for new dyspnea, chest pain, confusion, or marked decrease in urination.
+
+Continue close outpatient follow-up after renal evaluation and repeat laboratory assessment.

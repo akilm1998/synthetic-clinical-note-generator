@@ -1,0 +1,53 @@
+Chief Complaint
+
+Initial outpatient consultation for anemia.
+
+Subjective
+
+Pamela Donovan is a 48-year-old woman referred for evaluation of anemia identified on laboratory testing. The anemia has been present for approximately 5 years and has not been actively managed. She currently denies fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or other cardiopulmonary symptoms. She also denies noticing pallor.
+
+Relevant chronic conditions include rheumatoid arthritis for 3 years, chronic infection for 15 years, and inflammatory bowel disease for 2 years. These conditions represent potential ongoing inflammatory contributors to impaired erythropoiesis and altered iron utilization. No current medication regimen, iron supplementation, allergies, prior procedures, hospitalizations, or transfusion history is provided.
+
+She does not smoke. Height is 164 cm, weight 65.1 kg, and BMI 24.2 kg/m².
+
+Objective
+
+Vital Signs: Blood pressure 127/79 mmHg, pulse 84 bpm, respiratory rate 18/min, temperature 36.6°C, oxygen saturation 97%.
+
+General: Clinically stable woman without reported anemia-related symptoms.
+
+Cardiovascular: Heart rate regular at 84 bpm; no tachycardia reported.
+
+Respiratory: Respiratory rate and oxygen saturation are normal; no shortness of breath reported.
+
+Skin: No pallor reported.
+
+Laboratory Results:
+Hemoglobin 9.0 g/dL
+Hematocrit 27.9%
+RBC count 3.03 million/µL
+MCV 92 fL
+Serum iron 47 µg/dL
+Ferritin 398 ng/mL
+TIBC 269 µg/dL
+Transferrin saturation 17.5%
+
+Assessment
+
+Anemia with a normocytic pattern, currently moderate in degree based on hemoglobin of 9.0 g/dL, with a 5-year history and no current symptoms of tissue hypoxia. The combination of low serum iron, elevated ferritin, relatively low TIBC, and reduced transferrin saturation is most consistent with anemia associated with chronic inflammation. Her rheumatoid arthritis, longstanding chronic infection, and inflammatory bowel disease are plausible contributing conditions through inflammatory iron sequestration and suppression of erythropoiesis.
+
+The elevated ferritin does not support uncomplicated absolute iron deficiency, although concomitant iron deficiency cannot be excluded because ferritin may be increased by inflammation and the transferrin saturation is reduced. The normocytic indices do not suggest a primary macrocytic process. Renal, nutritional, reticulocyte production, hemolytic, and marrow-related contributors should be evaluated before finalizing management.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral blood smear to confirm persistence and characterize marrow response.
+
+Recommend serum vitamin B12, folate, and renal function testing, together with inflammatory markers, as part of the evaluation of chronic normocytic anemia.
+
+Review the activity and treatment status of rheumatoid arthritis, chronic infection, and inflammatory bowel disease with the clinicians managing those conditions. Control of the underlying inflammatory burden is central to improving anemia of inflammation.
+
+Interpret iron studies in the context of inflammatory disease. Avoid empiric escalation of oral or intravenous iron without further assessment, given the elevated ferritin, while recognizing that reduced transferrin saturation may indicate limited iron availability or coexisting iron deficiency.
+
+If anemia persists, worsens, or demonstrates an inadequate reticulocyte response after evaluation and optimization of underlying inflammatory conditions, consider specialist-directed treatment, including assessment for erythropoiesis-stimulating therapy or intravenous iron when clinically appropriate.
+
+She is currently hemodynamically stable and denies symptoms requiring urgent intervention. Advise prompt reassessment for new dyspnea, chest discomfort, syncope, palpitations, marked weakness, or bleeding. Follow up after completion of the recommended evaluation to review the anemia profile and establish a targeted management plan.

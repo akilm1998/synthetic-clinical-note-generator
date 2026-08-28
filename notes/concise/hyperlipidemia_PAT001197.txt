@@ -1,0 +1,16 @@
+Chief Complaint
+Routine follow-up for hyperlipidemia.
+
+Subjective
+Harper Bennett is an 81-year-old woman seen for follow-up of longstanding hyperlipidemia, present for approximately 43 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain, or dizziness. Xanthelasma is present. She does not smoke. History is also notable for hypertension for 6 years and non-alcoholic fatty liver disease for 30 years.
+
+Objective
+Height 177 cm, weight 81.5 kg, BMI 26.0 kg/m². BP 155/84 mmHg, pulse 75 bpm, respirations 18/min, temperature 36.9°C, oxygen saturation 95%.
+
+Recent lipid panel: total cholesterol 320 mg/dL, LDL cholesterol 206 mg/dL, HDL cholesterol 38 mg/dL, triglycerides 380 mg/dL.
+
+Assessment
+Severe mixed hyperlipidemia with markedly elevated LDL and triglycerides, longstanding and untreated. Xanthelasma noted. No reported symptoms suggestive of active ischemia or claudication. Hypertension is above goal today. History of non-alcoholic fatty liver disease.
+
+Plan
+Discussed cardiovascular risk reduction, heart-healthy diet with reduction of saturated fats, refined carbohydrates, and alcohol, and regular physical activity as tolerated. Recommend initiation of statin therapy after shared decision-making, with consideration of a high-intensity agent given LDL greater than 190 mg/dL; review risks, benefits, tolerability, and patient preferences. Obtain a fasting lipid panel and liver chemistry monitoring after treatment initiation. Consider additional risk stratification or non-statin therapy if response is inadequate or statin intolerance occurs. Encourage home blood pressure monitoring and reassessment of hypertension management. Follow up after repeat lipid testing to review response and treatment tolerance.

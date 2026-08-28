@@ -1,0 +1,49 @@
+Chief Complaint
+
+Medication review and follow-up of chronic anemia.
+
+Subjective
+
+Frank Montgomery is a 35-year-old man presenting for review of anemia present for approximately 9 years. He has a history of chronic kidney disease for approximately 1 year. He reports no current fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or other cardiopulmonary symptoms. He does not report pallor.
+
+No anemia-directed medication regimen is provided for review; therefore, medication effectiveness, adherence, and treatment tolerance cannot be assessed for oral iron, intravenous iron, or erythropoiesis-stimulating therapy. There is no reported medication-related adverse effect. Current medications and allergies are not documented in the supplied history.
+
+He smokes tobacco. Height is 170 cm and weight is 79.8 kg, with BMI 27.6 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 133/84 mmHg, pulse 80 bpm, respiratory rate 22/min, temperature 36.8°C, oxygen saturation 97% on room air.
+
+Laboratory data:
+Hemoglobin 8.4 g/dL
+Hematocrit 25.8%
+RBC count 3.19 million/µL
+MCV 81 fL
+Serum iron 44 µg/dL
+Ferritin 311 ng/mL
+TIBC 207 µg/dL
+Transferrin saturation 21.3%
+
+The laboratory pattern demonstrates anemia with a low RBC count and near-normocytic indices. Iron is reduced with elevated ferritin and reduced TIBC, a pattern more compatible with inflammation/chronic kidney disease-associated iron restriction than uncomplicated absolute iron deficiency.
+
+Assessment
+
+Anemia of chronic disease/chronic inflammation in the setting of chronic kidney disease, longstanding for approximately 9 years and currently untreated or without a documented active anemia-directed regimen. Hemoglobin is significantly reduced at 8.4 g/dL, although the patient currently denies fatigue, weakness, dizziness, dyspnea, palpitations, headache, and reduced exercise tolerance. MCV is 81 fL. Ferritin of 311 ng/mL with low serum iron and TIBC of 207 µg/dL supports impaired iron availability associated with chronic disease. The transferrin saturation of 21.3% is borderline and should be interpreted in the context of renal function and inflammatory activity.
+
+No current evidence of symptomatic hemodynamic compromise is present based on the supplied vital signs and symptom review. The chronicity and concurrent kidney disease warrant clarification of the anemia mechanism and active management rather than observation alone.
+
+Tobacco use, which may adversely affect overall cardiovascular and renal risk, is also noted.
+
+Plan
+
+Medication review: Reconcile all prescription, over-the-counter, and supplemental medications at the next contact. Specifically determine whether he has previously used oral iron, intravenous iron, or an erythropoiesis-stimulating agent. If no therapy is currently being taken, assess treatment goals and barriers before initiating therapy. If therapy is identified, review adherence, dosing, gastrointestinal or infusion-related tolerance, and objective hemoglobin response.
+
+Further evaluation is recommended with repeat CBC including red-cell indices, reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers. Reassess iron indices in conjunction with renal function and inflammatory status. These studies will help distinguish anemia predominantly related to chronic kidney disease/inflammation from concurrent nutritional deficiency or another hematologic process.
+
+Coordinate management of the anemia with the clinician managing his chronic kidney disease. Consider iron replacement only after reviewing the complete medication history, renal function, inflammatory status, and repeat iron indices. If anemia persists despite correction of reversible contributors, renal-directed consideration of an erythropoiesis-stimulating agent may be appropriate under specialist or nephrology guidance, with individualized risk-benefit assessment.
+
+Avoid empiric escalation of iron solely on the basis of the low serum iron, given the ferritin of 311 ng/mL and reduced TIBC. Monitor hemoglobin and iron parameters after any treatment change.
+
+Counseled regarding tobacco cessation and reduction of cardiovascular and renal risk. Seek urgent medical attention for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, marked weakness, or evidence of bleeding.
+
+Follow up after medication reconciliation, recommended laboratory reassessment, and review of kidney disease management.

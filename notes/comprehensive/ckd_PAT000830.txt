@@ -1,0 +1,63 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Avery Ward is a 76-year-old woman presenting for routine outpatient follow-up of chronic kidney disease diagnosed approximately 12 years ago. She reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination frequency, or shortness of breath. She does not smoke.
+
+Relevant comorbidities include hypertension for approximately 26 years, hyperlipidemia for approximately 35 years, and anemia of chronic disease for approximately 7 years. Current medication regimen and adherence were not provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Respiratory: Denies shortness of breath.
+
+Cardiovascular: Denies peripheral edema.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urination frequency.
+
+Musculoskeletal: Denies muscle cramps.
+
+Skin: Denies pruritus.
+
+Neurologic/Sleep: Denies sleep disturbance.
+
+Objective
+
+Vital Signs: Blood pressure 165/93 mmHg, pulse 80 bpm, respiratory rate 16/min, temperature 36.6°C, oxygen saturation 97%.
+
+Height 150 cm; weight 45.9 kg; BMI 20.4 kg/m².
+
+Laboratory data: Serum creatinine 2.91 mg/dL, estimated GFR 19 mL/min/1.73 m², BUN 72 mg/dL.
+
+Physical examination is notable from today’s available assessment for elevated blood pressure. No peripheral edema or respiratory symptoms are reported. No additional examination findings are documented.
+
+Assessment
+
+Chronic kidney disease with significantly reduced renal function, present for approximately 12 years. Current creatinine is 2.91 mg/dL, estimated GFR 19 mL/min/1.73 m², and BUN 72 mg/dL. She currently denies uremic or fluid-overload symptoms, including nausea, pruritus, cramps, sleep disturbance, edema, urinary frequency changes, and dyspnea. The degree of renal dysfunction and elevated BUN warrant close monitoring and active disease management.
+
+Hypertension, longstanding for 26 years, currently above goal at 165/93 mmHg and likely contributing to ongoing renal disease progression. Medication regimen is not available for review.
+
+Anemia of chronic disease, present for approximately 7 years. No current hemoglobin value is available in the supplied data.
+
+Hyperlipidemia, longstanding for approximately 35 years.
+
+Plan
+
+Chronic kidney disease: Obtain updated renal function and electrolyte assessment, including serum creatinine, eGFR, BUN, and electrolytes. Check urine albumin-to-creatinine ratio to assess renal protein loss. CBC is recommended to reassess anemia, and intact parathyroid hormone may be obtained to evaluate CKD-related mineral and bone complications. Renal ultrasound is reasonable if not previously performed or if there has been a change in renal function. Recommend nephrology referral for co-management given the markedly reduced eGFR and long duration of disease.
+
+Review all prescription, over-the-counter, and herbal medications for renal dosing and avoidance of nephrotoxic agents, particularly NSAIDs. Encourage appropriate hydration while avoiding excess sodium and monitoring for new edema, reduced urine output, progressive nausea, confusion, or shortness of breath. Discuss renal replacement therapy education and advance planning as clinically appropriate based on renal trajectory and nephrology assessment.
+
+Hypertension: Repeat blood pressure measurement and perform medication reconciliation. Intensify antihypertensive management as clinically appropriate, with attention to renal function, potassium, volume status, and orthostatic symptoms. Recommend home blood pressure monitoring and a low-sodium diet. Persistent readings in this range require prompt outpatient reassessment.
+
+Anemia of chronic disease: Obtain CBC and evaluate for worsening anemia in the context of chronic kidney disease. Management, including consideration of renal anemia therapies, should be guided by updated blood counts and nephrology assessment.
+
+Hyperlipidemia: Continue cardiovascular risk reduction and review current lipid-lowering therapy when the medication list is available.
+
+Follow-up
+
+Close outpatient follow-up after updated laboratory testing and medication reconciliation. Seek urgent evaluation for new or worsening shortness of breath, marked edema, substantially decreased urine output, persistent vomiting, confusion, chest pain, or severely elevated blood pressure with symptoms.

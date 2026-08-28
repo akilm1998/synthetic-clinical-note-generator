@@ -1,0 +1,25 @@
+Chief Complaint
+
+Routine follow-up of longstanding anemia.
+
+Subjective
+
+Isaac Henderson is a 96-year-old man presenting for outpatient follow-up of anemia present for approximately 15 years. He has a chronic infection of approximately 37 years’ duration, which is a potential contributor to chronic inflammation and anemia. He denies fatigue, generalized weakness, dizziness, headache, shortness of breath, palpitations, reduced exercise tolerance, or noted pallor. He does not smoke. No current anemia-directed medication use is documented.
+
+Objective
+
+Height is 176 cm, weight 87.4 kg, BMI 28.2 kg/m². Blood pressure is 130/78 mmHg, pulse 82 bpm, respiratory rate 18/min, temperature 37.0°C, and oxygen saturation 95%.
+
+Most recent laboratory results show hemoglobin 8.4 g/dL, hematocrit 25.8%, RBC count 3.19 million/µL, and MCV 81 fL. Serum iron is 50 µg/dL, ferritin 259 ng/mL, TIBC 197 µg/dL, and transferrin saturation 25.4%. The pattern is predominantly normocytic anemia with relatively low serum iron and TIBC and preserved/elevated ferritin, supporting anemia associated with chronic inflammation.
+
+Assessment
+
+Longstanding anemia consistent with anemia of chronic disease/inflammation in the setting of chronic infection. Hemoglobin remains significantly reduced at 8.4 g/dL, although the patient currently reports no cardiopulmonary or constitutional symptoms and vital signs are stable. Iron indices do not clearly support uncomplicated iron deficiency. No evidence of acute symptomatic decompensation is reported today.
+
+Plan
+
+Obtain interval complete blood count with reticulocyte count and peripheral smear to reassess severity and marrow response. Recommend serum vitamin B12, folate, renal function testing, and inflammatory markers as part of evaluation for persistent anemia and potentially reversible contributors. Continue evaluation and management of the underlying chronic infection with the appropriate treating clinician, as ongoing inflammation may be contributing to the anemia.
+
+Do not begin empiric iron therapy without further assessment of the iron pattern and overall clinical context. If anemia persists at this level or worsens, consider hematology consultation for additional evaluation and discussion of treatment options, including whether iron replacement or an erythropoiesis-stimulating approach would be appropriate after review of renal function, inflammatory status, and reticulocyte response.
+
+Reviewed precautions to seek urgent medical attention for new shortness of breath, chest discomfort, syncope, sustained palpitations, marked weakness, or evidence of bleeding. Continue routine outpatient follow-up after repeat evaluation.

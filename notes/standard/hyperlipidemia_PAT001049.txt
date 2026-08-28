@@ -1,0 +1,29 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Riley Benson is a 75-year-old man seen for outpatient follow-up of longstanding hyperlipidemia, present for approximately 33 years. His dyslipidemia has not been actively managed. He has known coronary artery disease, present for approximately 5 years. He denies chest discomfort, exertional leg pain or claudication, dizziness, xanthomas, and xanthelasma. He does not smoke.
+
+Objective
+
+Height 168 cm, weight 76.5 kg, BMI 27.1 kg/m². Blood pressure 131/79 mmHg, pulse 73 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 97% on room air.
+
+Recent lipid panel: total cholesterol 322 mg/dL, LDL cholesterol 219 mg/dL, HDL cholesterol 43 mg/dL, and triglycerides 299 mg/dL.
+
+Assessment
+
+Longstanding untreated hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides. In the setting of established coronary artery disease, this represents significant residual cardiovascular risk despite absence of current chest discomfort or claudication symptoms.
+
+Overweight by BMI. Tobacco use denied.
+
+Plan
+
+Discussed the lipid results and cardiovascular risk in detail. Recommend initiation of evidence-based lipid-lowering therapy, preferably a high-intensity statin unless contraindicated, with shared decision-making regarding benefits and potential adverse effects. Given the substantially elevated LDL cholesterol, consider addition of ezetimibe if adequate LDL reduction is not achieved or if statin therapy is not tolerated.
+
+Counseled regarding a heart-healthy eating pattern with reduction of saturated and trans fats, refined carbohydrates, and excess dietary cholesterol; encouraged increased dietary fiber, regular physical activity as tolerated, and weight reduction.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider evaluation for secondary contributors to severe dyslipidemia and measurement of additional atherosclerotic risk markers such as ApoB or lipoprotein(a) if clinically useful. Continue cardiovascular risk-factor management in the context of known coronary artery disease.
+
+Follow up after repeat lipid testing or sooner for new chest discomfort, exertional symptoms, or other concerning cardiovascular symptoms.

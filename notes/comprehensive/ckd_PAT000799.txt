@@ -1,0 +1,73 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+History of Present Illness
+
+Brianna Gibson is a 60-year-old woman, height 151 cm, weight 55.6 kg, BMI 24.4 kg/m², seen for outpatient medication review and management of chronic kidney disease present for approximately 6 years. She is currently without fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination frequency, or shortness of breath. No uremic or fluid-overload symptoms are reported today.
+
+Recent renal indices are markedly abnormal, with serum creatinine 5.9 mg/dL, BUN 70 mg/dL, and eGFR 6 mL/min/1.73 m². She also has secondary hyperparathyroidism of approximately 3 years’ duration. No active medication regimen is provided for review; therefore, medication effectiveness, adherence, and tolerance cannot be confirmed, and no medication is assumed to be in use. She smokes cigarettes. There is no reported fever or acute cardiopulmonary complaint.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Skin: Denies pruritus.
+
+Cardiovascular: Denies peripheral edema.
+
+Respiratory: Denies shortness of breath.
+
+Gastrointestinal: Denies nausea.
+
+Genitourinary: Denies change in urination frequency.
+
+Musculoskeletal: Denies muscle cramps.
+
+Neurologic/Sleep: Denies sleep disturbance.
+
+The remainder of the review is noncontributory based on the symptoms reviewed today.
+
+Objective
+
+Vital Signs: Blood pressure 139/87 mmHg, pulse 72/min, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 98% on room air.
+
+Anthropometrics: Height 151 cm, weight 55.6 kg, BMI 24.4 kg/m².
+
+Physical Examination: Patient is clinically stable by recorded vital signs and denies symptoms suggesting current fluid overload or uremia. No peripheral edema, pallor, asterixis, or dry skin is reported in the available examination information. No additional examination findings are documented.
+
+Laboratory Data: Serum creatinine 5.9 mg/dL. BUN 70 mg/dL. Estimated GFR 6 mL/min/1.73 m².
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function
+
+Chronic kidney disease has been present for approximately 6 years. Current creatinine, BUN, and eGFR indicate severe loss of kidney function, although the patient denies fatigue, nausea, pruritus, muscle cramps, sleep disturbance, edema, urinary frequency changes, and shortness of breath. The absence of symptoms does not lessen the significance of the laboratory abnormalities. Her current management appears insufficiently established for the degree of renal impairment, and prompt specialist-level assessment is needed to clarify treatment needs and renal replacement planning.
+
+2. Secondary hyperparathyroidism
+
+Secondary hyperparathyroidism has been present for approximately 3 years in the setting of chronic kidney disease. No medication regimen for mineral and bone disorder is documented, so treatment effectiveness, adherence, and tolerance cannot be assessed.
+
+3. Medication review
+
+No current medication list is available within the provided encounter information. No use of losartan, furosemide, sevelamer, erythropoietin, calcium carbonate, or other renal-directed therapy is assumed. Medication reconciliation is essential before initiating, discontinuing, or adjusting treatment. Adherence and adverse effects should be reviewed directly with the patient and verified against pharmacy or prescribing records.
+
+4. Tobacco use
+
+Patient reports current smoking. Tobacco exposure increases cardiovascular and renal risk. Smoking cessation counseling is indicated.
+
+Plan
+
+Chronic kidney disease: Discussed that the current renal indices require prompt medical attention despite the absence of symptoms. Arrange urgent nephrology evaluation for comprehensive management, assessment of complications, and discussion of renal replacement options if clinically indicated. Recommend repeat renal function assessment and evaluation of electrolytes, acid-base status, blood counts, urine albumin-to-creatinine ratio, and mineral-bone parameters including intact parathyroid hormone as part of specialist-directed care. Renal ultrasound may be considered if not previously completed or if the cause of kidney disease remains unclear.
+
+Medication management: Complete medication reconciliation, including prescription medications, over-the-counter products, supplements, and nonsteroidal anti-inflammatory drug use. Do not start or adjust renal medications until the current regimen and updated laboratory data are reviewed. Renally dose all medications and avoid nephrotoxic agents when possible. Assess adherence, perceived benefit, and adverse effects at the next medication review.
+
+Secondary hyperparathyroidism: Obtain current calcium, phosphorus, alkaline phosphatase, and intact parathyroid hormone levels before selecting therapy. Coordinate management with nephrology. Do not assume use of phosphate binders, calcium supplementation, or vitamin D therapy.
+
+Monitoring and safety: Instructed to seek emergency care for new or worsening shortness of breath, chest pain, confusion, marked weakness, persistent nausea or vomiting, rapidly worsening swelling, substantially decreased urine output, or other acute deterioration.
+
+Blood pressure and cardiovascular risk: Blood pressure today is 139/87 mmHg. Continue close monitoring and address blood pressure through a kidney-appropriate regimen after medication reconciliation and review of renal laboratory results.
+
+Smoking cessation: Advised cessation of cigarette smoking and offered support with a cessation plan.
+
+Follow-up: Close follow-up after medication reconciliation and urgent nephrology assessment; earlier evaluation is warranted for any new symptoms.

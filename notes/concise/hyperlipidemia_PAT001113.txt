@@ -1,0 +1,14 @@
+Chief Complaint
+Medication review for hyperlipidemia.
+
+Subjective
+Naomi Myers is a 64-year-old woman with a 2-year history of untreated hyperlipidemia. She is not currently taking documented lipid-lowering medication; therefore, medication effectiveness, adherence, and treatment tolerance cannot yet be assessed. She denies chest discomfort, exertional leg pain, or dizziness. She reports fatty skin deposits consistent with xanthomas and denies xanthelasma. She continues to smoke. Comorbidities include type 2 diabetes mellitus for 33 years, hypertension for 18 years, and non-alcoholic fatty liver disease for 12 years.
+
+Objective
+Height 180 cm, weight 82.9 kg, BMI 25.6 kg/m². Blood pressure 141/84 mmHg, pulse 75 bpm, respiratory rate 14/min, temperature 36.6°C, oxygen saturation 95%. Lipid panel: total cholesterol 368 mg/dL, LDL-C 257 mg/dL, HDL-C 50 mg/dL, triglycerides 307 mg/dL.
+
+Assessment
+Severe untreated mixed hyperlipidemia with markedly elevated LDL-C and elevated triglycerides, in the setting of diabetes, hypertension, active tobacco use, and reported xanthomas. Overall a high atherosclerotic cardiovascular risk profile. No current ischemic symptoms reported.
+
+Plan
+Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, after shared decision-making. Review adherence at the next visit and assess for muscle or other treatment-related adverse effects. Obtain baseline hepatic assessment and repeat lipid testing after initiation to evaluate response and tolerance; consider addition of ezetimibe if LDL-C remains substantially elevated despite adherence. Counsel on a heart-healthy diet, reduction of saturated fats and refined carbohydrates, regular physical activity, weight maintenance, and smoking cessation. Continue management of diabetes, hypertension, and fatty liver disease with the treating clinicians.

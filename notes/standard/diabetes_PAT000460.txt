@@ -1,0 +1,28 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Ruby Marshall is a 33-year-old woman presenting for routine outpatient follow-up of type 2 diabetes mellitus, diagnosed approximately 3 years ago. Current disease control is suboptimal, with no established management regimen documented. She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. She does not smoke.
+
+She has obesity of approximately 3 years’ duration. Current weight is 100.0 kg at a height of 173 cm, with BMI 33.4 kg/m².
+
+Objective
+Vital signs: Blood pressure 122/76 mmHg, pulse 73 bpm, respiratory rate 22/min, temperature 36.6°C, oxygen saturation 97%.
+
+Laboratory results: Hemoglobin A1c 9.6%. Fasting glucose 232 mg/dL.
+
+No acute symptoms or diabetes-related complications are reported today.
+
+Assessment
+Type 2 diabetes mellitus without documented complications, currently inadequately controlled based on HbA1c of 9.6% and fasting glucose of 232 mg/dL. Despite significant biochemical hyperglycemia, she is presently asymptomatic. There are no reported neuropathic, infectious, constitutional, or visual symptoms.
+
+Obesity, BMI 33.4 kg/m², likely contributing to insulin resistance and impaired glycemic control.
+
+Plan
+Discussed the significance of the elevated HbA1c and fasting glucose and the risks associated with persistent hyperglycemia. Recommend initiation of structured diabetes management, including evidence-based pharmacologic therapy such as metformin if no contraindication, with treatment selection individualized after review of renal function, tolerability, reproductive considerations, and patient preference.
+
+Counseled regarding nutrition, portion control, reduction of refined carbohydrates and sugar-sweetened beverages, weight reduction, and gradual progression toward regular physical activity as tolerated. Recommend home glucose monitoring with documentation of readings to guide treatment adjustment.
+
+Obtain renal assessment including serum creatinine/eGFR and urine albumin-to-creatinine ratio, along with a fasting lipid profile for cardiovascular risk assessment. Recommend routine comprehensive foot examination and dilated retinal examination as part of diabetes complication screening.
+
+Return for reassessment of glycemic response and treatment tolerance after initiation of management, with earlier evaluation for polyuria, polydipsia, vomiting, marked weakness, visual changes, or other acute concerns.

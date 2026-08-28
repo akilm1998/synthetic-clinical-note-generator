@@ -1,0 +1,24 @@
+Chief Complaint
+Routine follow-up for chronic kidney disease.
+
+Subjective
+Cody Warren is a 44-year-old man presenting for follow-up of chronic kidney disease, present for approximately 12 years. Reports persistent fatigue. Denies pruritus, muscle cramps, nausea, peripheral edema, change in urination, sleep disturbance, or shortness of breath. History also includes type 2 diabetes mellitus for 6 years and anemia of chronic disease for 2 years. Nonsmoker. No current medication regimen provided.
+
+Objective
+Height 174 cm, weight 72.1 kg, BMI 23.8 kg/m².
+BP 131/86 mmHg, pulse 78 bpm, respirations 18/min, temperature 36.9°C, oxygen saturation 97% on room air.
+Creatinine 4.97 mg/dL, BUN 67 mg/dL, eGFR 10 mL/min/1.73 m².
+
+Assessment
+Chronic kidney disease with markedly reduced renal function and elevated creatinine/BUN. Clinically stable today without reported fluid overload or uremic symptoms, though fatigue persists.
+Anemia of chronic disease, with fatigue.
+Type 2 diabetes mellitus.
+Blood pressure acceptable at today’s visit.
+
+Plan
+Recommend prompt nephrology referral for evaluation and ongoing management, including discussion of renal replacement planning as clinically appropriate.
+Obtain repeat renal function and electrolyte panel, CBC, urine albumin-to-creatinine ratio, and intact parathyroid hormone level.
+Recommend renal ultrasound if not previously completed.
+Review diabetes control and optimize management while avoiding nephrotoxic medications, including NSAIDs. Reconcile medications at next visit.
+Continue monitoring for worsening fatigue, nausea, itching, decreased urination, swelling, shortness of breath, confusion, or other signs of progression; seek urgent care if these develop.
+Follow up after laboratory evaluation and nephrology consultation.

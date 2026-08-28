@@ -1,0 +1,51 @@
+Chief Complaint
+
+Routine follow-up for longstanding hypertension.
+
+Subjective
+
+Leo Davidson is an 89-year-old man, 176 cm tall and 68.8 kg (BMI 22.2 kg/m²), presenting for outpatient follow-up of essential hypertension diagnosed approximately 46 years ago. Blood pressure control has not been actively managed recently. He reports no headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or epistaxis. He does not smoke.
+
+His medical history is also notable for hyperlipidemia for approximately 36 years, chronic kidney disease for approximately 20 years, and coronary artery disease for approximately 39 years. No current medication regimen, allergies, or recent treatment changes are provided.
+
+Objective
+
+Vital Signs: Blood pressure 176/100 mmHg. Pulse 78 bpm. Respiratory rate 16/min. Temperature 36.7°C. Oxygen saturation 97% on room air. Height 176 cm. Weight 68.8 kg. BMI 22.2 kg/m².
+
+General: Elderly male presenting for routine outpatient evaluation. No acute cardiopulmonary symptoms reported.
+
+Cardiovascular: Pulse 78 bpm. No chest pain or palpitations reported.
+
+Respiratory: Respiratory rate 16/min with oxygen saturation 97% on room air. No shortness of breath reported.
+
+Neurologic: No headache, dizziness, or blurred vision reported.
+
+Laboratory Data: Sodium 145 mmol/L. Potassium 5.3 mmol/L.
+
+Assessment
+
+Essential hypertension, longstanding, currently poorly controlled and not actively managed. Blood pressure today is 176/100 mmHg. He is asymptomatic, without reported chest pain, dyspnea, neurologic symptoms, visual disturbance, or epistaxis to suggest an acute hypertensive emergency. Given his advanced age, chronic kidney disease, and coronary artery disease, blood pressure reduction should be gradual and closely monitored to avoid orthostasis, renal hypoperfusion, or myocardial ischemia.
+
+Mild hyperkalemia with potassium 5.3 mmol/L in the setting of chronic kidney disease. This is clinically relevant when selecting antihypertensive therapy, particularly agents that may further increase potassium. Renal function values are not available in the information provided.
+
+Chronic kidney disease, longstanding, requiring consideration in blood pressure targets, medication selection, and laboratory monitoring.
+
+Coronary artery disease, longstanding, increasing the importance of improving blood pressure control while avoiding excessive or rapid reduction.
+
+Hyperlipidemia, longstanding.
+
+Plan
+
+Repeat the blood pressure during the visit after a period of seated rest using an appropriately sized cuff, and obtain home blood pressure readings if feasible. Review for orthostatic symptoms and monitor closely during treatment initiation or adjustment.
+
+Because the current pressure is markedly elevated and hypertension has not been actively managed, arrange prompt outpatient initiation or re-initiation of antihypertensive therapy after medication reconciliation and review of prior tolerance. Given potassium of 5.3 mmol/L and chronic kidney disease, avoid empiric escalation with a potassium-raising agent until renal function and potassium are reassessed. A low-dose, cautiously titrated regimen such as a dihydropyridine calcium-channel blocker may be considered, with adjustment based on home and office readings, orthostatic symptoms, renal status, and overall goals of care.
+
+Repeat serum electrolytes and obtain renal function testing promptly to reassess potassium and guide safe treatment. Review dietary potassium and sodium intake, avoiding high-sodium foods while maintaining adequate nutrition. Avoid nonsteroidal anti-inflammatory drugs and other over-the-counter agents that may worsen blood pressure, kidney function, or potassium unless specifically approved by his treating clinician.
+
+Recommend ECG and urinalysis as part of cardiovascular and renal assessment, and lipid profile review or testing to support management of his longstanding hyperlipidemia and coronary artery disease.
+
+Continue lifestyle measures appropriate for his age and comorbidities, including regular gentle physical activity as tolerated, avoidance of tobacco, and moderation of alcohol if applicable. Do not pursue aggressive weight loss; current BMI is 22.2 kg/m².
+
+Discussed emergency precautions: seek immediate care for chest pain, shortness of breath, severe headache, new weakness or confusion, acute visual change, or recurrent severe blood pressure elevation with symptoms.
+
+Arrange close follow-up for blood pressure review, electrolyte and renal monitoring, and treatment adjustment.

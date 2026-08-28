@@ -1,0 +1,93 @@
+Chief Complaint
+
+Initial consultation for longstanding anemia.
+
+History of Present Illness
+
+Claire PriceLucy Sanders is a 53-year-old woman presenting for initial outpatient evaluation of anemia reported to have been present for approximately 19 years. She is not currently receiving active management for this condition. She reports pallor but denies fatigue, weakness, dizziness, headache, shortness of breath, palpitations, or reduced exercise tolerance. There is no reported acute change in symptoms.
+
+Relevant chronic conditions include inflammatory bowel disease for 10 years, chronic kidney disease for 4 years, and rheumatoid arthritis for 5 years. These conditions may contribute to chronic inflammation and impaired erythropoiesis. She is a current smoker. No medication use, allergies, prior procedures, hospitalizations, or specialist recommendations were provided for this visit.
+
+Past Medical History
+
+Anemia, approximately 19 years.
+
+Inflammatory bowel disease, 10 years.
+
+Chronic kidney disease, 4 years.
+
+Rheumatoid arthritis, 5 years.
+
+Social History
+
+Current tobacco use. Quantity and duration of smoking were not provided.
+
+Objective
+
+Height 179 cm. Weight 79.1 kg. BMI 24.7 kg/m².
+
+Blood pressure 130/86 mmHg. Pulse 86 bpm. Respiratory rate 21/min. Temperature 36.7°C. Oxygen saturation 97%.
+
+General: Pallor is present. No acute cardiopulmonary symptoms reported.
+
+Cardiovascular: Examination is not suggestive of acute abnormality; pulse is regular at the recorded rate.
+
+Respiratory: Oxygen saturation is normal. No respiratory abnormality is described.
+
+Laboratory Data
+
+Hemoglobin 9.3 g/dL.
+
+Hematocrit 28.4%.
+
+Red blood cell count 3.34 million/µL.
+
+MCV 85 fL.
+
+Serum iron 36 µg/dL.
+
+Ferritin 375 ng/mL.
+
+TIBC 213 µg/dL.
+
+Transferrin saturation 16.9%.
+
+Assessment
+
+1. Chronic normocytic anemia, most consistent with anemia of chronic inflammation/chronic disease.
+
+The hemoglobin, hematocrit, and RBC count are reduced, with a normal MCV of 85 fL. Low serum iron and low TIBC with an elevated ferritin are a pattern compatible with iron sequestration in chronic inflammation rather than uncomplicated iron deficiency. Her longstanding inflammatory bowel disease and rheumatoid arthritis provide potential inflammatory contributors, and chronic kidney disease may also contribute through reduced erythropoietic drive. The transferrin saturation is reduced, so coexisting iron-restricted erythropoiesis remains possible, particularly in the setting of inflammatory bowel disease. She is clinically stable today without reported dyspnea, palpitations, dizziness, or reduced exercise tolerance.
+
+2. Chronic kidney disease.
+
+Known history of 4 years and a potential contributor to the anemia. Current renal function values were not provided.
+
+3. Inflammatory bowel disease.
+
+Known history of 10 years. Chronic intestinal inflammation and possible occult gastrointestinal blood loss may contribute to iron restriction; disease activity and current gastrointestinal symptoms require clarification.
+
+4. Rheumatoid arthritis.
+
+Known history of 5 years and a likely contributor to chronic inflammatory anemia if clinically active.
+
+5. Tobacco use.
+
+Current smoking may adversely affect overall cardiopulmonary and inflammatory health.
+
+Plan
+
+Obtain and review a repeat complete blood count with reticulocyte count and peripheral smear to confirm persistence and characterize marrow response.
+
+Assess vitamin B12 and folate levels and repeat iron studies as clinically indicated, including serum iron, ferritin, TIBC, and transferrin saturation. Interpret iron indices in the context of her inflammatory conditions.
+
+Review renal function testing and assess whether chronic kidney disease is contributing to reduced erythropoiesis.
+
+Evaluate current activity and treatment status of inflammatory bowel disease and rheumatoid arthritis, including symptoms suggestive of active inflammation or gastrointestinal blood loss. Coordinate care with the clinicians managing these conditions as appropriate.
+
+Consider assessment of inflammatory markers to help correlate anemia with inflammatory disease activity.
+
+Treatment should be guided by the underlying contributors and follow-up laboratory assessment. Iron replacement, including oral or intravenous therapy, should not be initiated solely on the ferritin value without clarifying iron availability, gastrointestinal status, and tolerance. Erythropoiesis-stimulating therapy, if ultimately considered, should be based on renal disease assessment and specialist-directed management.
+
+Counseled regarding smoking cessation and advised to seek urgent care for new shortness of breath, chest discomfort, syncope, sustained palpitations, worsening weakness, or evidence of significant bleeding.
+
+Follow-up after updated evaluation of blood counts, iron availability, renal function, and inflammatory disease activity to establish an ongoing outpatient management plan.

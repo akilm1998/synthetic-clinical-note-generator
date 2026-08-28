@@ -1,0 +1,55 @@
+Chief Complaint
+
+Annual health review and follow-up of chronic anemia.
+
+Subjective
+
+Rachel Graham is a 32-year-old woman presenting for comprehensive annual review. She does not smoke. Weight is 64.3 kg at 164 cm, with BMI 23.9 kg/m².
+
+She denies fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, and awareness of pallor. Anemia has been present for approximately 9 years and has not been under active management.
+
+Relevant chronic conditions include inflammatory bowel disease for 11 years, type 2 diabetes mellitus for 1 year, and a chronic infection of approximately 1 year. No current medication regimen is provided for review.
+
+Objective
+
+Vital signs: BP 119/75 mmHg, pulse 83 bpm, respiratory rate 20/min, temperature 36.8°C, oxygen saturation 97%.
+
+Laboratory results:
+Hemoglobin 9.0 g/dL
+Hematocrit 26.3%
+RBC count 3.17 million/µL
+MCV 83 fL
+Serum iron 27 µg/dL
+Ferritin 251 ng/mL
+TIBC 265 µg/dL
+Transferrin saturation 10.2%
+
+Assessment
+
+1. Chronic anemia, most consistent with anemia of chronic inflammation
+
+Persistent anemia with hemoglobin 9.0 g/dL, hematocrit 26.3%, and low RBC count. The MCV is in the normal range. Low serum iron and transferrin saturation with a ferritin of 251 ng/mL and relatively low TIBC support iron-restricted erythropoiesis in the setting of chronic inflammation rather than uncomplicated absolute iron deficiency. Her longstanding inflammatory bowel disease and chronic infection are relevant potential contributors. Type 2 diabetes and any associated renal involvement should also be considered in the broader evaluation. She is currently clinically stable and denies cardiopulmonary or constitutional symptoms.
+
+2. Inflammatory bowel disease, longstanding
+
+History of 11 years and likely an important contributor to chronic inflammatory anemia. Current disease activity and any gastrointestinal blood loss should be reviewed, as these may influence anemia management and could contribute to a mixed inflammatory and iron-deficiency picture.
+
+3. Chronic infection
+
+Approximately 1 year in duration. Ongoing inflammatory burden may be contributing to anemia. The specific infection and current activity should be reviewed.
+
+4. Type 2 diabetes mellitus
+
+Diagnosed approximately 1 year ago. Chronic disease review should include assessment of glycemic control and renal function, as kidney disease can contribute to anemia. No diabetes medications or laboratory control data were provided for review.
+
+5. Preventive health maintenance
+
+Annual preventive review completed based on the information available. She has a normal-range BMI and reports no tobacco use. Age-appropriate immunizations, cervical cancer screening, routine diabetes monitoring, cardiovascular risk assessment, and preventive counseling should be reviewed and updated as appropriate.
+
+Plan
+
+For anemia, obtain a repeat CBC with reticulocyte count and peripheral smear to confirm persistence and assess marrow response. Check vitamin B12, folate, and renal function, and obtain inflammatory markers as clinically appropriate. Review the course and activity of inflammatory bowel disease and chronic infection, including symptoms suggestive of gastrointestinal blood loss or flare. Consider additional evaluation for coexisting iron deficiency if clinically indicated despite the elevated ferritin.
+
+Management should focus on identifying and controlling the underlying inflammatory conditions. Iron replacement should not be initiated solely on the basis of the low serum iron without clarifying the contribution of absolute iron deficiency; if iron deficiency or poor gastrointestinal absorption is confirmed, the route and need for replacement should be considered in the context of inflammatory bowel disease. Hematology or gastroenterology input may be appropriate if anemia persists, worsens, or fails to respond to treatment of the underlying conditions.
+
+Review diabetes control, including renal function and routine complication screening, at follow-up. Continue preventive care review, including immunizations and age-appropriate cancer screening. Arrange outpatient follow-up after the recommended evaluation to reassess hemoglobin and overall management. Advise prompt assessment for new shortness of breath, chest discomfort, palpitations, syncope, overt bleeding, or marked worsening of fatigue or exercise tolerance.

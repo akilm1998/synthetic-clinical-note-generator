@@ -1,0 +1,53 @@
+Chief Complaint
+
+Initial consultation for chronic kidney disease.
+
+Subjective
+
+Catherine Nichols is a 96-year-old woman, height 168 cm, weight 59.3 kg, BMI 21.0 kg/m², presenting for initial outpatient evaluation of chronic kidney disease reportedly present for approximately 25 years. She does not smoke.
+
+She denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, and shortness of breath. No current uremic or fluid-overload symptoms are reported.
+
+Relevant comorbidities include secondary hyperparathyroidism with a documented duration of 36, gout with a documented duration of 56, and anemia of chronic disease with a documented duration of 32. Current medication use, allergies, and prior renal imaging or procedures are not provided.
+
+Objective
+
+Vital Signs:
+Blood pressure 146/86 mmHg
+Pulse 79 bpm
+Respiratory rate 15/min
+Temperature 36.7°C
+Oxygen saturation 97%
+
+Laboratory Data:
+Serum creatinine 3.79 mg/dL
+BUN 76 mg/dL
+Estimated GFR 13 mL/min/1.73 m²
+
+Review of systems is negative for the reported symptoms of uremia and volume overload.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function, present for approximately 25 years. Current creatinine is 3.79 mg/dL, BUN 76 mg/dL, and estimated GFR 13 mL/min/1.73 m². She is presently without reported fatigue, nausea, pruritus, muscle cramps, sleep disturbance, edema, urinary frequency change, or dyspnea. The prolonged duration and degree of renal impairment warrant structured nephrology assessment and clarification of goals of care.
+
+2. Secondary hyperparathyroidism associated with chronic kidney disease, documented duration 36.
+
+3. Anemia of chronic disease, documented duration 32. No current hemoglobin value is available for review.
+
+4. Gout, documented duration 56.
+
+5. Elevated blood pressure at today’s visit, 146/86 mmHg. No antihypertensive regimen is provided.
+
+Plan
+
+Obtain updated renal evaluation including serum electrolytes, bicarbonate, calcium, phosphorus, CBC, intact parathyroid hormone, urinalysis, and urine albumin-to-creatinine ratio. These studies will help assess complications of advanced chronic kidney disease and guide management of anemia and secondary hyperparathyroidism.
+
+Recommend renal ultrasound to assess kidney structure and exclude obstructive or other structural contributors.
+
+Arrange nephrology consultation for comprehensive management, medication review, renal-protective strategies, and discussion of conservative kidney care versus renal replacement planning in the context of her age, long-standing disease, current kidney function, comorbidities, and absence of active uremic symptoms.
+
+Perform complete medication reconciliation before initiating or adjusting therapy. Avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic agents. Review all over-the-counter medications and supplements for renal dosing and safety.
+
+Monitor blood pressure and reassess the need for treatment based on serial readings, overall health status, and renal goals of care.
+
+Continue clinical monitoring for nausea, worsening fatigue, confusion, pruritus, muscle cramps, reduced urine output, edema, or shortness of breath. Seek urgent evaluation for acute symptom development or significant decline in urine output.

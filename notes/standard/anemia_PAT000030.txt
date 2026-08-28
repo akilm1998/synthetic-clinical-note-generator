@@ -1,0 +1,33 @@
+Chief Complaint
+
+Urgent follow-up for chronic anemia and headache.
+
+Subjective
+
+Christopher Perry is a 96-year-old man presenting for focused follow-up of longstanding anemia, present for approximately 39 years. He reports headache. He denies fatigue, weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or awareness of pallor. No smoking history. Relevant comorbidities include heart failure for 2 years and type 2 diabetes mellitus for 35 years. No active anemia-directed treatment is documented.
+
+Objective
+
+Height 181 cm; weight 78.0 kg; BMI 23.8 kg/m². Blood pressure 132/78 mmHg, pulse 83 bpm, respiratory rate 21/min, temperature 36.8°C, oxygen saturation 96%.
+
+Recent laboratory results:
+Hemoglobin 8.6 g/dL
+Hematocrit 25.2%
+RBC 2.86 million/µL
+MCV 88 fL
+Serum iron 22 µg/dL
+Ferritin 435 ng/mL
+TIBC 204 µg/dL
+Transferrin saturation 10.8%
+
+Assessment
+
+Longstanding normocytic anemia consistent with anemia of chronic disease/inflammation. Hemoglobin and hematocrit are significantly reduced, with low serum iron and transferrin saturation, elevated ferritin, and low TIBC, supporting impaired iron availability rather than isolated iron depletion. The patient is currently hemodynamically stable by vital signs and denies cardiopulmonary or constitutional symptoms. Headache is present and warrants attention given his age and degree of anemia. Comorbid heart failure and longstanding type 2 diabetes may contribute to overall chronic disease burden.
+
+Plan
+
+Recommend prompt in-person reassessment of the headache and anemia, with emergency evaluation for worsening headache, new neurologic symptoms, chest pain, shortness of breath, syncope, palpitations, or acute weakness.
+
+Recommend repeat CBC with reticulocyte count and peripheral smear, renal function testing, inflammatory markers, vitamin B12 and folate levels, and assessment for occult blood loss as clinically appropriate. Review the chronicity and underlying inflammatory or renal contributors before initiating treatment.
+
+Discuss anemia-directed therapy after evaluation of the cause, including consideration of iron replacement if indicated and specialist-guided therapy if anemia remains severe or symptomatic. Continue close outpatient follow-up given advanced age, hemoglobin 8.6 g/dL, heart failure, and current lack of active anemia management.

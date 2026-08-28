@@ -1,0 +1,33 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Allison Hamilton is a 78-year-old woman presenting for routine follow-up of longstanding anemia, present for approximately 35 years. She reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other cardiopulmonary symptoms. Pallor is not reported.
+
+Relevant comorbidities include rheumatoid arthritis for approximately 1 year, chronic infection for approximately 1 year, and malignancy with a 38-year history. She currently smokes. No anemia-directed treatment is documented.
+
+Objective
+
+Height 173 cm, weight 80.2 kg, BMI 26.8 kg/m².
+
+Blood pressure 134/78 mmHg, pulse 85 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 96% on room air.
+
+Hemoglobin 8.2 g/dL, hematocrit 24.0%, RBC 2.67 million/µL, MCV 90 fL. Serum iron 27 µg/dL, ferritin 356 ng/mL, TIBC 252 µg/dL, transferrin saturation 10.7%.
+
+Cardiovascular and respiratory findings are clinically stable, with normal respiratory rate and oxygen saturation. No tachycardia is present. No pallor is reported.
+
+Assessment
+
+Chronic normocytic anemia, longstanding and currently untreated. Hemoglobin and hematocrit are significantly reduced. The pattern of low serum iron and transferrin saturation with elevated ferritin and relatively low TIBC is most consistent with anemia associated with chronic inflammation, in the setting of rheumatoid arthritis, chronic infection, and longstanding malignancy. The low transferrin saturation may also reflect limited iron availability for erythropoiesis. She is presently clinically asymptomatic and hemodynamically stable, without reported bleeding or cardiopulmonary compromise.
+
+Plan
+
+Review the anemia and laboratory pattern with the patient. Recommend further evaluation with repeat CBC, reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and assess contributing factors.
+
+Recommend evaluation for clinically apparent blood loss and review of the activity and treatment status of her rheumatoid arthritis, chronic infection, and malignancy, as ongoing inflammation may be contributing to impaired iron utilization.
+
+Given the hemoglobin of 8.2 g/dL and longstanding lack of treatment, recommend timely outpatient medical follow-up to determine whether anemia-directed therapy is appropriate, including consideration of iron replacement or an erythropoiesis-stimulating agent based on the underlying disease, renal function, and overall goals of care. No specific medication is initiated today based on the information available.
+
+Advise urgent evaluation for new shortness of breath, chest pain, palpitations, syncope, marked weakness, active bleeding, or rapid clinical deterioration. Continue smoking cessation counseling at follow-up.

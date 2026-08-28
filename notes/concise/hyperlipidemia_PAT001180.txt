@@ -1,0 +1,14 @@
+Chief Complaint
+Urgent follow-up for markedly elevated cholesterol.
+
+Subjective
+Alexander Fisher is a 92-year-old man with approximately 32 years of hyperlipidemia, currently without active lipid-lowering management. Recent results show total cholesterol 355 mg/dL, LDL-C 244 mg/dL, HDL-C 43 mg/dL, and triglycerides 342 mg/dL. Reports xanthomas and xanthelasma. Denies chest discomfort, exertional leg pain, or dizziness. Continues to smoke. Comorbid hypertension for 7 years, chronic kidney disease for 21 years, and non-alcoholic fatty liver disease for 18 years.
+
+Objective
+Height 180 cm, weight 85.5 kg, BMI 26.4 kg/m². Blood pressure 161/93 mmHg, pulse 74 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 97%.
+
+Assessment
+Severe longstanding hyperlipidemia with markedly elevated LDL-C and mixed elevation of triglycerides, complicated by reported xanthomas and xanthelasma. No current ischemic or claudication symptoms reported. Overall cardiovascular risk is substantially increased by advanced age, active tobacco use, hypertension, chronic kidney disease, and persistent severe dyslipidemia. Non-alcoholic fatty liver disease and chronic kidney disease should be considered when selecting and monitoring therapy.
+
+Plan
+Promptly initiate clinician-directed lipid-lowering treatment after review of renal and hepatic status, medication tolerance, and goals of care; a statin-based regimen should be considered, with additional therapy if LDL-C remains markedly elevated or statin therapy is not tolerated. Counsel on smoking cessation, reduction of saturated and trans fats, avoidance of excess refined carbohydrates, and regular activity as tolerated. Reassess blood pressure urgently with his treating clinician. Repeat fasting lipid testing after treatment initiation or adjustment and monitor for treatment-related adverse effects. Seek immediate care for new chest pain, dyspnea, focal neurologic symptoms, or acute limb pain.

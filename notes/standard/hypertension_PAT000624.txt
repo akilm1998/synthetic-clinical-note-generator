@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for hypertension.
+
+Subjective
+
+Diana Prince is a 48-year-old woman presenting for routine outpatient follow-up of hypertension diagnosed approximately 16 years ago. Blood pressure control is currently suboptimal, and she has not been actively managing the condition. She denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or nosebleeds.
+
+Relevant comorbidities include coronary artery disease for approximately 1 year, type 2 diabetes mellitus for 17 years, and hyperlipidemia for 10 years. She currently smokes. Weight is 69.5 kg at a height of 159 cm, with BMI 27.5 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 155/97 mmHg; pulse 79 bpm; respiratory rate 14/min; temperature 36.9°C; oxygen saturation 98% on room air.
+
+Laboratory data: Sodium 142 mmol/L; potassium 5.2 mmol/L.
+
+No acute cardiopulmonary or neurologic symptoms reported today.
+
+Assessment
+
+1. Essential hypertension, longstanding, currently above goal on today’s reading. She is asymptomatic without features suggestive of hypertensive emergency. Lack of active disease management, smoking, overweight status, diabetes, hyperlipidemia, and coronary artery disease increase her cardiovascular risk.
+
+2. Mild hyperkalemia with potassium 5.2 mmol/L. This is clinically relevant when selecting or adjusting antihypertensive therapy, particularly agents that may increase potassium.
+
+3. Type 2 diabetes mellitus, longstanding, increasing overall cardiovascular and renal risk.
+
+4. Coronary artery disease, established approximately 1 year ago.
+
+5. Hyperlipidemia, longstanding.
+
+6. Tobacco use.
+
+7. Overweight, BMI 27.5 kg/m².
+
+Plan
+
+Discussed the importance of consistent blood pressure management and home blood pressure monitoring, including recording readings for review at follow-up. Recommend confirming the elevated office reading with repeat measurements and reassessing blood pressure control promptly.
+
+Review current medication use and adherence at the next medication reconciliation. Given the potassium of 5.2 mmol/L, repeat serum electrolytes should be obtained before initiating or increasing medications that can raise potassium. Select antihypertensive therapy with consideration of her diabetes, coronary artery disease, and potassium level.
+
+Counseled on reducing dietary sodium, increasing regular physical activity as tolerated, gradual weight reduction, and limiting alcohol if applicable. Strongly advised smoking cessation given her hypertension, diabetes, hyperlipidemia, and coronary artery disease.
+
+Continue comprehensive cardiovascular risk reduction and routine monitoring of diabetes, lipid control, renal function, and urinalysis as clinically appropriate. Seek urgent medical attention for chest pain, shortness of breath, neurologic symptoms, severe headache, or markedly elevated blood pressure with symptoms.
+
+Follow up after repeat blood pressure assessment and electrolyte testing to update treatment.

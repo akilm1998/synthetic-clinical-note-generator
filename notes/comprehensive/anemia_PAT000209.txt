@@ -1,0 +1,61 @@
+Chief Complaint
+
+Annual review with reassessment of longstanding anemia and chronic medical conditions.
+
+Subjective
+
+Joshua Ward is an 86-year-old man, 166 cm tall and 59.2 kg, with BMI 21.5 kg/m², presenting for comprehensive annual review. He has a 38-year history of anemia that has not been actively managed. He currently denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, headache, reduced exercise tolerance, or awareness of pallor.
+
+Relevant chronic conditions include a chronic infection present for approximately 51 years, type 2 diabetes mellitus for 26 years, and heart failure for 4 years. He continues to smoke. No current medication list, allergies, or treatment regimen is provided.
+
+Review of systems is negative for constitutional symptoms including fatigue and weakness; cardiopulmonary symptoms including dyspnea, palpitations, and dizziness; and duration-associated symptoms including headache and pallor. No additional positive symptoms are reported today.
+
+Objective
+
+Vital signs: Blood pressure 135/82 mmHg, pulse 93 bpm, respiratory rate 23/min, temperature 36.8°C, oxygen saturation 96%.
+
+Height 166 cm. Weight 59.2 kg. BMI 21.5 kg/m².
+
+Physical examination: No pallor is noted. Cardiovascular examination is normal. Respiratory examination is normal, with oxygen saturation preserved at 96%. Pulse is mildly elevated and respiratory rate is mildly increased without reported cardiopulmonary symptoms.
+
+Laboratory results:
+Hemoglobin 9.5 g/dL
+Hematocrit 27.9%
+RBC count 3.36 million/µL
+MCV 83 fL
+Serum iron 20 µg/dL
+Ferritin 433 ng/mL
+TIBC 255 µg/dL
+Transferrin saturation 7.8%
+
+Assessment
+
+1. Longstanding anemia consistent with anemia of chronic inflammation/chronic disease. Hemoglobin and hematocrit are reduced with a normocytic red-cell pattern. The low serum iron, low transferrin saturation, relatively low TIBC, and elevated ferritin indicate restricted iron availability in the setting of chronic inflammation rather than uncomplicated absolute iron depletion. His longstanding chronic infection is a plausible contributor. Chronic kidney disease, ongoing inflammatory activity, nutritional deficiency, occult blood loss, and other hematologic causes should nevertheless be evaluated, particularly given his age and the severity and duration of the anemia. He is currently asymptomatic from an anemia standpoint and has no reported exercise intolerance, dyspnea, palpitations, dizziness, or headache.
+
+2. Chronic infection, present for approximately 51 years. Chronic inflammatory burden may be contributing to impaired erythropoiesis and functional iron restriction. The underlying infection should be reassessed clinically, including whether there is ongoing active inflammation.
+
+3. Type 2 diabetes mellitus, present for approximately 26 years. Long duration increases the importance of reviewing renal function and other end-organ complications, particularly because renal impairment could contribute to anemia.
+
+4. Heart failure, present for approximately 4 years. He reports no current dyspnea, palpitations, or reduced exercise tolerance, and oxygen saturation is normal. Mild tachycardia and tachypnea warrant monitoring in the context of anemia and heart failure.
+
+5. Tobacco use. Continued smoking increases cardiopulmonary risk and may adversely affect overall cardiovascular and heart failure management.
+
+6. Preventive health review in an 86-year-old man with diabetes, heart failure, chronic infection, anemia, and tobacco use. Preventive interventions should be individualized to functional status, goals of care, life expectancy, and treatment preferences.
+
+Plan
+
+Anemia: Repeat complete blood count with reticulocyte count and peripheral smear to confirm the pattern and assess marrow response. Recommend renal function testing, vitamin B12, folate, and inflammatory markers as part of the evaluation. Review for evidence of ongoing infection or inflammatory disease. Given the markedly low transferrin saturation, assess for coexisting absolute iron deficiency despite the elevated ferritin; review dietary intake, bleeding symptoms, stool pattern, and any history suggestive of gastrointestinal blood loss. If iron deficiency or occult blood loss remains a concern, discuss age-appropriate gastrointestinal evaluation based on goals of care and procedural tolerance.
+
+Treatment should be directed at the underlying inflammatory or infectious process. Iron supplementation should not be started reflexively without clarifying whether there is absolute iron deficiency, although iron replacement may be considered if further evaluation supports deficiency or if functional iron restriction is clinically significant. If anemia persists or worsens after evaluation and correction of reversible contributors, consider hematology consultation and discussion of erythropoiesis-stimulating therapy only in an appropriate underlying disease context.
+
+Chronic infection: Reassess current activity and treatment status with the clinician managing the infection. Monitor for inflammatory symptoms, constitutional changes, or clinical deterioration.
+
+Type 2 diabetes: Continue comprehensive diabetes follow-up with periodic assessment of renal function and other complications. Coordinate glycemic management with overall frailty, cardiovascular disease, and nutritional status.
+
+Heart failure: Monitor for increasing dyspnea, orthopnea, edema, rapid weight change, chest discomfort, palpitations, or declining exercise tolerance. Mildly elevated pulse and respiratory rate should be reassessed, particularly if symptoms develop. Seek urgent evaluation for new or worsening breathlessness, chest pain, syncope, or marked weakness.
+
+Smoking: Strongly recommend smoking cessation. Offer cessation counseling and pharmacologic support after reviewing preferences, contraindications, and the current medication history.
+
+Preventive care: Review immunization status, including influenza, COVID-19, pneumococcal, and shingles vaccination as appropriate. Address fall risk, nutrition, functional status, vision and hearing, advance care planning, and individualized cancer screening. Encourage activity appropriate to his heart failure status and functional capacity.
+
+Follow-up: Arrange follow-up after the recommended anemia evaluation to review trends and determine whether active treatment is indicated. Earlier assessment is appropriate for new fatigue, weakness, dizziness, dyspnea, palpitations, headache, bleeding, or reduced exercise tolerance.

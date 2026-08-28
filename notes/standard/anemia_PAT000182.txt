@@ -1,0 +1,65 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Dominic Ellis is a 45-year-old man presenting for outpatient follow-up of anemia present for approximately 10 years. He reports headache and appears pale. He denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, and reduced exercise tolerance. There has been no reported interval symptom progression.
+
+Relevant comorbidities include rheumatoid arthritis for 4 years, chronic infection for 8 years, and heart failure for 1 year. His anemia has not been actively managed. He is a current smoker. Height is 183 cm and weight is 94.8 kg, with BMI 28.3 kg/m².
+
+Objective
+
+Vital signs: BP 125/77 mmHg, pulse 93 bpm, respiratory rate 25/min, temperature 36.9°C, oxygen saturation 99% on room air.
+
+General: Pallor noted.
+
+Laboratory results:
+Hemoglobin 8.4 g/dL
+Hematocrit 26.0%
+RBC count 3.13 million/µL
+MCV 83 fL
+Serum iron 36 µg/dL
+Ferritin 452 ng/mL
+TIBC 243 µg/dL
+Transferrin saturation 14.8%
+
+Assessment
+
+1. Chronic anemia, most consistent with anemia of chronic inflammation
+
+Longstanding anemia with hemoglobin 8.4 g/dL, hematocrit 26.0%, and reduced RBC count. The MCV is within the normocytic range. Low serum iron and transferrin saturation with elevated ferritin and relatively low TIBC are physiologically consistent with iron-restricted erythropoiesis in the setting of chronic inflammation rather than uncomplicated iron deficiency. His rheumatoid arthritis and chronic infection are likely contributing factors; heart failure may also contribute to reduced erythropoietic reserve. He is clinically stable by blood pressure, oxygen saturation, and reported symptoms, although the anemia is significant and remains untreated.
+
+2. Headache
+
+Likely related to chronic anemia, though nonspecific. No associated dizziness, dyspnea, palpitations, or reduced exercise tolerance reported.
+
+3. Rheumatoid arthritis, chronic, 4-year history
+
+Potential ongoing inflammatory driver of anemia. Current disease activity and treatment status are not documented in the available information.
+
+4. Chronic infection, 8-year history
+
+Potential contributor to chronic inflammatory anemia. The specific infection and current activity are not provided.
+
+5. Heart failure, 1-year history
+
+Relevant comorbidity that may worsen exercise tolerance or contribute to anemia-related cardiopulmonary stress. He currently denies shortness of breath and palpitations; oxygen saturation is 99%.
+
+6. Tobacco use
+
+Current smoker. Smoking may adversely affect cardiovascular and overall health, particularly in the setting of anemia and heart failure.
+
+Plan
+
+Obtain repeat CBC with reticulocyte count and peripheral smear to confirm persistence and characterize marrow response.
+
+Evaluate for reversible contributors with vitamin B12, folate, and renal function testing, along with inflammatory markers. Consider assessment for occult blood loss if clinically indicated despite the laboratory pattern favoring inflammation-associated iron restriction.
+
+Address the underlying inflammatory and infectious conditions in coordination with the clinicians managing those problems. Review rheumatoid arthritis and chronic infection activity, as improved control may improve the anemia.
+
+Given hemoglobin of 8.4 g/dL and the prolonged absence of active anemia management, arrange prompt medical follow-up to review results and determine need for hematology evaluation and treatment. Iron replacement should not be started empirically without clarifying the contribution of inflammation and other causes; intravenous iron or an erythropoiesis-stimulating approach may be considered only if clinically appropriate after further evaluation and in the context of his comorbidities.
+
+Continue monitoring for worsening fatigue, weakness, dyspnea, chest discomfort, palpitations, dizziness, syncope, or reduced exercise tolerance. Seek urgent evaluation if these symptoms develop or worsen.
+
+Counseled regarding smoking cessation, particularly given concurrent anemia and heart failure.

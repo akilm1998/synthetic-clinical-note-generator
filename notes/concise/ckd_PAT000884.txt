@@ -1,0 +1,24 @@
+Chief Complaint
+Medication review for chronic kidney disease.
+
+Subjective
+Brandon Cox is an 87-year-old man with a 27-year history of chronic kidney disease and 37-year history of coronary artery disease. He is a nonsmoker. Reports fatigue. Denies pruritus, nausea, muscle cramps, sleep disturbance, edema, dyspnea, or change in urination. Medication effectiveness, adherence, and tolerance reviewed in the context of renal function; current regimen requires complete reconciliation before any adjustments.
+
+Objective
+Height 168 cm, weight 81.3 kg, BMI 28.8 kg/m². BP 148/84 mmHg, pulse 79/min, respirations 20/min, temperature 36.9°C, oxygen saturation 97% on room air.
+
+Creatinine 6.0 mg/dL, eGFR 9 mL/min/1.73 m², BUN 63 mg/dL.
+
+Assessment
+Chronic kidney disease with markedly reduced renal function and azotemia. Fatigue may be related to advanced renal dysfunction. No reported nausea, pruritus, volume overload, dyspnea, or urinary change. Medication regimen and adherence require reconciliation, with particular attention to renal dosing and avoidance of nephrotoxic agents.
+
+Coronary artery disease, longstanding.
+
+Elevated blood pressure.
+
+Plan
+Arrange prompt nephrology evaluation for management planning and discussion of renal replacement options as clinically appropriate.
+
+Complete medication reconciliation, including over-the-counter drugs and supplements; assess adherence and tolerance, adjust doses for renal function, and avoid NSAIDs and other nephrotoxins.
+
+Monitor blood pressure and renal-related symptoms. Recommend serum electrolytes, CBC, urine albumin-to-creatinine ratio, and renal ultrasound as clinically appropriate. Continue cardiovascular risk management with renal dosing considerations.

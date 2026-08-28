@@ -1,0 +1,27 @@
+Chief Complaint
+
+Routine follow-up for longstanding anemia.
+
+Subjective
+
+Chloe Cox is a 76-year-old woman presenting for routine outpatient follow-up of anemia present for approximately 22 years. She reports no current fatigue, weakness, dizziness, headache, shortness of breath, palpitations, or reduced exercise tolerance. Pallor remains present. No smoking history. Her chronic medical conditions include inflammatory bowel disease for 8 years, chronic kidney disease for 24 years, and rheumatoid arthritis for 25 years. There is no current anemia-directed treatment documented.
+
+Objective
+
+Height 153 cm, weight 48.7 kg, BMI 20.8 kg/m². Blood pressure 137/82 mmHg, pulse 81 bpm, respiratory rate 21/min, temperature 36.8°C, oxygen saturation 97% on room air.
+
+Patient appears clinically stable. Pallor noted. Cardiovascular examination with normal rate and otherwise normal findings. Respiratory examination normal.
+
+Recent laboratory results: hemoglobin 9.5 g/dL, hematocrit 29.4%, RBC count 3.54 million/µL, MCV 83 fL, serum iron 37 µg/dL, ferritin 414 ng/mL, TIBC 235 µg/dL, and transferrin saturation 15.7%.
+
+Assessment
+
+Longstanding anemia with moderate reduction in hemoglobin and hematocrit. The normocytic indices, low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC are most consistent with anemia related to chronic inflammation and chronic kidney disease. Rheumatoid arthritis and inflammatory bowel disease may also contribute. She is currently without cardiopulmonary or constitutional symptoms, with stable vital signs and no evidence of acute decompensation. Pallor persists.
+
+Plan
+
+Review the anemia pattern and chronic contributors with the patient. Recommend repeat CBC with reticulocyte count and peripheral smear, along with renal function testing, vitamin B12, folate, and inflammatory markers to further characterize the anemia and monitor for additional contributors. Repeat iron studies as clinically indicated; interpret ferritin in the context of chronic inflammation rather than assuming isolated iron deficiency.
+
+Discuss assessment and treatment options with the clinicians managing her chronic kidney disease, rheumatoid arthritis, and inflammatory bowel disease, with emphasis on improving control of underlying inflammation and considering anemia-directed therapy if hemoglobin remains low or declines. Oral or intravenous iron and erythropoiesis-stimulating therapy should be considered only after review of the complete clinical picture and renal/inflammatory status.
+
+Continue outpatient monitoring. Seek urgent care for new or worsening shortness of breath, chest pain, syncope, sustained palpitations, marked weakness, or bleeding.

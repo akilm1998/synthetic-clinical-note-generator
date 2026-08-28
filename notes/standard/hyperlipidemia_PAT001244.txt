@@ -1,0 +1,28 @@
+Chief Complaint
+
+Routine follow-up for elevated cholesterol.
+
+Subjective
+
+Kimberly Franklin is a 37-year-old woman presenting for follow-up of hyperlipidemia, present for approximately 2 years and not currently under active treatment. She denies chest discomfort, exertional leg pain or claudication, dizziness, xanthomas, and xanthelasma. She reports ongoing tobacco use. No medication regimen was provided for review.
+
+Relevant comorbidity includes chronic kidney disease for approximately 1 year. Recent lipid results show total cholesterol 310 mg/dL, LDL-C 217 mg/dL, HDL-C 49 mg/dL, and triglycerides 220 mg/dL.
+
+Objective
+
+Height 172 cm; weight 79.6 kg; BMI 26.9 kg/m².
+Blood pressure 125/82 mmHg, pulse 76 bpm, respiratory rate 15/min, temperature 36.8°C, oxygen saturation 98%.
+
+Assessment
+
+Hyperlipidemia, unspecified, currently markedly uncontrolled with LDL-C 217 mg/dL, elevated total cholesterol, and moderately elevated triglycerides. She has no reported cardiovascular or cutaneous symptoms. Tobacco use and chronic kidney disease increase overall cardiovascular risk.
+
+Plan
+
+Discussed the significance of the lipid results and the importance of active risk-factor management. Recommend initiation of guideline-directed lipid-lowering therapy, with consideration of a high-intensity statin given the LDL-C above 190 mg/dL. Review contraindications, potential adverse effects, reproductive considerations, and patient preferences before prescribing.
+
+Recommend dietary reduction of saturated and trans fats, increased intake of fiber-rich foods, regular physical activity as tolerated, and weight management. Strongly encouraged smoking cessation and offered counseling and cessation support.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider evaluation for secondary contributors and additional risk stratification, including ApoB and lipoprotein(a), as clinically appropriate. Coordinate lipid management with ongoing chronic kidney disease care.
+
+Follow up after treatment discussion and repeat lipid assessment, sooner for new chest discomfort, exertional leg symptoms, or other concerning cardiovascular symptoms.

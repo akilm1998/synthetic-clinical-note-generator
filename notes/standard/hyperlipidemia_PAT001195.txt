@@ -1,0 +1,35 @@
+Chief Complaint
+
+Medication review and management of longstanding hyperlipidemia.
+
+Subjective
+
+Vincent Armstrong is a 48-year-old man, 180 cm tall and weighing 94 kg, with a BMI of 29.0 kg/m², presenting for review of untreated hyperlipidemia diagnosed approximately 12 years ago. Current lipid management has not been established. He reports no chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. He continues to smoke.
+
+His relevant comorbidities include coronary artery disease of approximately 1 year’s duration, chronic kidney disease for 6 years, and non-alcoholic fatty liver disease for 16 years. He presents primarily to address the effectiveness, adherence, and tolerability of lipid-lowering therapy; no active lipid-lowering medication regimen is described.
+
+Objective
+
+Vital signs: blood pressure 135/84 mmHg, pulse 81 beats/min, respiratory rate 14/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Recent lipid profile demonstrates total cholesterol 312 mg/dL, LDL cholesterol 208 mg/dL, HDL cholesterol 41 mg/dL, and triglycerides 313 mg/dL.
+
+Assessment
+
+Severe mixed dyslipidemia with markedly elevated LDL cholesterol and hypertriglyceridemia. The degree and chronicity of LDL elevation, together with established coronary artery disease, place him at high cardiovascular risk and warrant prompt intensive lipid-lowering management. HDL cholesterol is borderline low. Ongoing tobacco use and overweight status further increase atherosclerotic risk.
+
+There is currently no effective lipid-lowering regimen to assess for adherence or tolerability. His chronic kidney disease and non-alcoholic fatty liver disease should be considered when selecting and monitoring therapy, but neither is an absolute reason to defer appropriate statin treatment. He denies current cardiovascular prodromal symptoms.
+
+Plan
+
+Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, unless contraindicated, with shared discussion of expected benefit, potential muscle-related adverse effects, and the importance of daily adherence. Medication reconciliation should be completed at initiation, and he should be instructed to report unexplained muscle pain, weakness, dark urine, or other concerning adverse effects promptly.
+
+Because LDL cholesterol is markedly elevated and coronary artery disease is present, reassess response after an appropriate treatment interval. If LDL reduction remains inadequate despite confirmed adherence and maximally tolerated statin therapy, consider addition of ezetimibe and, if clinically indicated, further nonstatin therapy. Persistent triglyceride elevation should be addressed primarily through LDL-directed therapy, weight reduction, dietary modification, smoking cessation, and assessment of secondary contributors; fibrate therapy may be considered selectively based on follow-up response and renal function.
+
+Recommend a heart-healthy eating pattern emphasizing reduced saturated and trans fat intake, increased soluble fiber, avoidance of excess refined carbohydrates and alcohol, and regular aerobic physical activity as tolerated. Strongly counsel smoking cessation.
+
+Recommend continued cardiovascular risk-factor management in the context of his coronary artery disease and chronic kidney disease. Consider measurement of apolipoprotein B and lipoprotein(a) for additional risk characterization, and coronary artery calcium imaging is not necessary to establish the need for treatment given his known coronary artery disease and markedly elevated LDL cholesterol.
+
+Follow-up
+
+Follow up after initiation or adjustment of therapy to review adherence, treatment tolerance, and repeat lipid response.

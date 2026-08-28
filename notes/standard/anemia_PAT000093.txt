@@ -1,0 +1,39 @@
+Chief Complaint
+
+Medication review and follow-up of chronic anemia.
+
+Subjective
+
+Hailey Johnston is a 55-year-old woman seen for outpatient review of longstanding anemia. Anemia has been present for approximately 13 years. She denies fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or recognized pallor. She does not smoke.
+
+Relevant chronic conditions include rheumatoid arthritis for 22 years and chronic kidney disease for 9 years. No anemia-directed medication regimen is listed for review today; therefore, medication effectiveness, adherence, and treatment tolerance cannot be assessed. She reports no current anemia-related functional limitation.
+
+Objective
+
+Height 170 cm, weight 68.5 kg, BMI 23.7 kg/m².
+
+Blood pressure 136/87 mmHg, pulse 83 bpm, respiratory rate 16/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Recent laboratory results:
+Hemoglobin 8.1 g/dL
+Hematocrit 24.1%
+RBC 2.94 million/µL
+MCV 82 fL
+Serum iron 39 µg/dL
+Ferritin 435 ng/mL
+TIBC 251 µg/dL
+Transferrin saturation 15.5%
+
+Assessment
+
+Anemia of chronic disease/inflammation, longstanding and currently untreated or without an anemia-directed regimen identified for medication review. Laboratory pattern demonstrates significant normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and low TIBC, consistent with impaired iron availability in the setting of chronic inflammation and chronic kidney disease. Rheumatoid arthritis and chronic kidney disease are likely contributing factors. She is presently asymptomatic with stable vital signs and no reported cardiopulmonary symptoms.
+
+Plan
+
+Discussed laboratory findings and likely multifactorial contribution from chronic inflammatory disease and chronic kidney disease. No medication efficacy or adherence assessment is possible today because no anemia-directed therapy is listed.
+
+Recommend repeat CBC with reticulocyte count and peripheral smear, along with vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia. Consider evaluation for occult blood loss if clinically indicated, despite the current pattern being more suggestive of inflammation-related iron restriction than uncomplicated iron deficiency.
+
+Recommend coordination with the clinicians managing her rheumatoid arthritis and chronic kidney disease. If anemia remains persistent or worsens, consider hematology and/or nephrology consultation regarding suitability for iron replacement or an erythropoiesis-stimulating agent. Oral or intravenous iron should be guided by repeat assessment and the underlying inflammatory and renal disease rather than ferritin alone.
+
+She was advised to seek urgent care for new shortness of breath, chest pain, syncope, sustained palpitations, significant bleeding, or rapidly worsening weakness. Follow up after repeat evaluation to review results and establish an anemia treatment plan.

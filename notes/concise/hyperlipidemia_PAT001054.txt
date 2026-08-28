@@ -1,0 +1,23 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Jesse Chapman is a 35-year-old man presenting for follow-up of hyperlipidemia present for approximately 14 years and currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. He continues to smoke. Relevant comorbidities include coronary artery disease and chronic kidney disease, each noted for approximately 1 year. No interval cardiovascular symptoms reported.
+
+Objective
+
+Height 175 cm, weight 65.8 kg, BMI 21.5 kg/m². Blood pressure 138/82 mmHg, pulse 83 bpm, respirations 17/min, temperature 36.7°C, oxygen saturation 97%.
+
+Recent lipid panel: total cholesterol 301 mg/dL, LDL-C 214 mg/dL, HDL-C 35 mg/dL, triglycerides 262 mg/dL.
+
+Assessment
+
+Hyperlipidemia, inadequately controlled, with markedly elevated LDL-C, elevated triglycerides, and low HDL-C. Coronary artery disease and chronic kidney disease increase overall cardiovascular risk. Ongoing tobacco use is an additional modifiable risk factor. No current symptoms suggestive of active ischemia or claudication.
+
+Plan
+
+Discussed cardiovascular risk reduction, heart-healthy diet low in saturated and trans fats, regular physical activity as tolerated, and smoking cessation.
+
+Recommend initiation of high-intensity statin therapy after review of medication history, allergies, and baseline safety laboratory testing. Consider additional lipid-lowering therapy if LDL-C remains above goal despite adherence. Repeat fasting lipid panel after treatment initiation to assess response; consider ApoB and lipoprotein(a) testing given the severity and long duration of dyslipidemia. Continue monitoring renal function in the setting of chronic kidney disease. Follow up after repeat testing or sooner for chest discomfort, dyspnea, or exertional leg symptoms.

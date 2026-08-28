@@ -1,0 +1,20 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Edward Holland is a 68-year-old man presenting for routine diabetes follow-up. Type 2 diabetes has been present for approximately 6 years and is currently inadequately controlled. He denies increased thirst, polyuria, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. Nonsmoker. History also includes hypertension for 21 years and non-alcoholic fatty liver disease for 22 years.
+
+Objective
+Height 168 cm; weight 63.5 kg; BMI 22.5 kg/m².
+BP 138/90 mmHg, pulse 72 bpm, respirations 17/min, temperature 36.7°C, oxygen saturation 97%.
+HbA1c 9.7%; fasting glucose 247 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without reported complications, poorly controlled based on HbA1c 9.7% and fasting glucose 247 mg/dL. Despite significant hyperglycemia, patient reports no related symptoms.
+Hypertension with mildly elevated diastolic pressure today.
+Non-alcoholic fatty liver disease, longstanding.
+
+Plan
+Discussed laboratory evidence of inadequate glycemic control and the importance of active treatment. Review and initiate an appropriate diabetes medication regimen, with consideration of metformin if clinically appropriate and no contraindication; assess adherence and barriers at follow-up. Reinforce carbohydrate-conscious nutrition, regular physical activity, and home glucose monitoring.
+
+Recommend urine albumin-to-creatinine ratio, serum creatinine/eGFR, fasting lipid profile, diabetic retinal evaluation, and comprehensive foot examination for complication screening. Continue blood pressure monitoring and address antihypertensive management as indicated. Follow up soon for review of glucose readings and treatment response.

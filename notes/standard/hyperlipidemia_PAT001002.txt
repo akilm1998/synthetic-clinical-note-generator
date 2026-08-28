@@ -1,0 +1,37 @@
+Chief Complaint
+
+Medication review for longstanding hyperlipidemia.
+
+Subjective
+
+Monica Shaw is a 76-year-old woman presenting for review of untreated hyperlipidemia, present for approximately 15 years. She is not currently managed with a lipid-lowering medication regimen. No medication adherence or treatment tolerance concerns can be assessed because there is no active therapy to review.
+
+Recent lipid results show total cholesterol 286 mg/dL, LDL cholesterol 192 mg/dL, HDL cholesterol 38 mg/dL, and triglycerides 278 mg/dL. She denies chest discomfort, intermittent claudication, dizziness, xanthomas, or xanthelasma. She does not smoke.
+
+Relevant comorbidity is obesity of approximately 12 years’ duration. Current weight is 97.0 kg with BMI 36.5 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 128/76 mmHg, pulse 81 bpm, respiratory rate 17/min, temperature 36.9°C, oxygen saturation 95%.
+
+Height 163 cm; weight 97.0 kg; BMI 36.5 kg/m².
+
+Lipid panel: Total cholesterol 286 mg/dL, LDL cholesterol 192 mg/dL, HDL cholesterol 38 mg/dL, triglycerides 278 mg/dL.
+
+No xanthomas or xanthelasma are reported. No reported cardiovascular or claudication symptoms.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding and currently without active pharmacologic management. The lipid pattern is associated with increased cardiovascular risk, particularly given her age and obesity. HDL cholesterol is low. She currently reports no chest discomfort, exertional leg pain, dizziness, or cutaneous lipid deposits.
+
+Obesity, BMI 36.5 kg/m².
+
+Plan
+
+Discussed the significance of the lipid results and the benefits and potential risks of initiating lipid-lowering therapy. Recommend starting a statin after shared decision-making, with consideration of a high-intensity regimen given the LDL cholesterol of 192 mg/dL, while individualizing treatment for age, overall health, medication preferences, and tolerance. Review for prior statin exposure, muscle symptoms, and potential medication interactions before prescribing.
+
+Recommend a heart-healthy eating pattern emphasizing vegetables, fruits, whole grains, legumes, lean proteins, and unsaturated fats, with reduction of saturated fats, trans fats, refined carbohydrates, and excess dietary sugars. Encourage gradual physical activity as tolerated and weight reduction strategies appropriate for her mobility and overall health. Continue tobacco avoidance.
+
+Recommend repeat fasting lipid testing after initiation or adjustment of therapy to assess response and adherence. Consider evaluation for secondary contributors to severe dyslipidemia before or alongside treatment. If statin therapy is not tolerated or LDL reduction is inadequate, discuss nonstatin options such as ezetimibe.
+
+Advised to seek urgent evaluation for new chest pain, significant shortness of breath, sudden dizziness, or new exertional leg pain. Follow up after treatment initiation to review tolerance, adherence, and lipid response.

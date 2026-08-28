@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+
+Julian Holland is an 85-year-old man presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 39 years. Disease control has not been actively managed. He has known coronary artery disease, present for approximately 35 years.
+
+He denies chest discomfort, exertional leg pain consistent with claudication, dizziness, xanthomas, and xanthelasma. He continues to smoke. No current lipid-lowering medications are provided in the available history.
+
+Objective
+
+Height 181 cm. Weight 77.6 kg. BMI 23.7 kg/m².
+
+Blood pressure 131/78 mmHg. Pulse 82/min. Respiratory rate 16/min. Temperature 37.0°C. Oxygen saturation 97%.
+
+Recent lipid panel: total cholesterol 363 mg/dL, LDL cholesterol 250 mg/dL, HDL cholesterol 34 mg/dL, triglycerides 393 mg/dL.
+
+Assessment
+
+1. Hyperlipidemia, unspecified
+
+Longstanding, markedly elevated atherogenic cholesterol with concomitant hypertriglyceridemia and low HDL. Current values indicate poor control, particularly concerning in the setting of established coronary artery disease and ongoing tobacco use. He does not report current chest discomfort, claudication, dizziness, or lipid-related cutaneous findings.
+
+2. Coronary artery disease
+
+Longstanding coronary artery disease, approximately 35 years in duration. He denies current anginal symptoms. The substantially elevated LDL cholesterol represents an important modifiable cardiovascular risk factor.
+
+3. Tobacco use
+
+Continued smoking increases his already high cardiovascular risk and is likely contributing to overall risk burden.
+
+Plan
+
+Discussed the significance of the lipid results and the substantially increased cardiovascular risk associated with untreated severe dyslipidemia in the setting of coronary artery disease. Recommend initiation of evidence-based lipid-lowering therapy, typically a high-intensity statin if clinically appropriate and tolerated, after review of medication history, contraindications, and patient preferences. If LDL reduction is inadequate or statin therapy is not tolerated, addition of nonstatin therapy such as ezetimibe may be considered.
+
+Recommend confirmation with a fasting lipid panel and evaluation for potentially reversible secondary contributors before or during treatment. ApoB and lipoprotein(a) measurement may further assist cardiovascular risk assessment. Medication adherence and tolerance should be reassessed after therapy is initiated, with repeat lipid testing to document response.
+
+Counseled regarding a heart-healthy diet emphasizing reduction of saturated and trans fats, refined carbohydrates, and excess alcohol, along with regular physical activity as tolerated. Smoking cessation was strongly advised.
+
+Continue clinical monitoring for new chest discomfort, exertional dyspnea, claudication, or other symptoms concerning for progression of coronary disease. Follow up after lipid management is initiated to review tolerance and response.

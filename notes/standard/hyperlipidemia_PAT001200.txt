@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Frank Montgomery is a 40-year-old man presenting for routine follow-up of hyperlipidemia, present for approximately 8 years and not currently under active management. Recent lipid results remain markedly abnormal, with total cholesterol 338 mg/dL, LDL cholesterol 229 mg/dL, HDL cholesterol 35 mg/dL, and triglycerides 369 mg/dL.
+
+He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. He reports xanthomas and xanthelasma. He continues to smoke. Relevant comorbidities include coronary artery disease, present for approximately 1 year, and chronic kidney disease, also present for approximately 1 year. No lipid-lowering medication regimen is provided today.
+
+Objective
+
+Vital signs: Blood pressure 128/79 mmHg, pulse 80 bpm, respiratory rate 15/min, temperature 36.6°C, oxygen saturation 98% on room air.
+
+Height 184 cm, weight 81.3 kg, BMI 24.0 kg/m².
+
+Laboratory results: Total cholesterol 338 mg/dL, LDL cholesterol 229 mg/dL, HDL cholesterol 35 mg/dL, triglycerides 369 mg/dL.
+
+Assessment
+
+Hyperlipidemia, unspecified, longstanding and currently inadequately controlled. The LDL cholesterol is severely elevated, with concomitant hypertriglyceridemia and low HDL cholesterol. Xanthomas and xanthelasma support clinically significant lipid deposition. Given the LDL level, established coronary artery disease, smoking, and chronic kidney disease, he is at substantially increased cardiovascular risk despite a normal BMI and currently normal blood pressure. He has no reported anginal or claudication symptoms today.
+
+Coronary artery disease, present for approximately 1 year, without reported chest discomfort or other active ischemic symptoms at this visit.
+
+Chronic kidney disease, present for approximately 1 year. Kidney function results are not provided; this will be considered when selecting and dosing lipid-lowering therapy.
+
+Tobacco use, ongoing.
+
+Plan
+
+Discussed the markedly elevated LDL and triglyceride levels and the importance of treatment given his coronary artery disease and chronic kidney disease. Recommend initiation of high-intensity statin therapy unless contraindicated, with medication selection and dosing adjusted for renal function. If LDL cholesterol remains above goal despite maximally tolerated statin therapy, recommend consideration of adjunctive ezetimibe and further lipid-specialist-directed therapy as appropriate.
+
+Recommend a repeat fasting lipid panel after treatment is initiated and assessment of liver and kidney function for medication safety. Consider evaluation for secondary contributors to dyslipidemia, including thyroid disease, diabetes, renal disease activity, and dietary factors. ApoB and lipoprotein(a) may further assist with cardiovascular risk assessment. Given known coronary artery disease, treatment should not be delayed for coronary artery calcium imaging.
+
+Counseled on a heart-healthy diet low in saturated fat, trans fat, and refined carbohydrates; regular physical activity as tolerated; and smoking cessation. Avoidance of excess alcohol is recommended because of the elevated triglycerides.
+
+Continue clinical monitoring for chest discomfort, exertional dyspnea, new exercise intolerance, or leg pain with walking. Seek urgent care for persistent or severe chest pain or other acute ischemic symptoms.
+
+Follow up after repeat laboratory testing to assess response and tolerability and to finalize ongoing lipid management.

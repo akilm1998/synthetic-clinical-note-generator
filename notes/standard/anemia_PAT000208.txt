@@ -1,0 +1,49 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Lauren Lawson is a 64-year-old woman presenting for routine outpatient follow-up of anemia, present for approximately 32 years. She reports no current fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, shortness of breath, palpitations, or other cardiopulmonary symptoms. No interval change in functional status is reported.
+
+Relevant chronic inflammatory comorbidities include rheumatoid arthritis for 5 years and inflammatory bowel disease for 15 years. She is a nonsmoker. Current anemia-directed treatment is not documented.
+
+Objective
+
+Height 171 cm; weight 64.0 kg; BMI 21.9 kg/m².
+
+Blood pressure 131/77 mmHg
+Pulse 77 bpm
+Respiratory rate 16/min
+Temperature 36.8°C
+Oxygen saturation 98%
+
+Patient is afebrile and hemodynamically stable without reported pallor or respiratory distress.
+
+Laboratory results:
+Hemoglobin 9.5 g/dL
+Hematocrit 28.0%
+RBC count 3.15 million/µL
+MCV 89 fL
+Serum iron 25 µg/dL
+Ferritin 347 ng/mL
+TIBC 262 µg/dL
+Transferrin saturation 9.5%
+
+Assessment
+
+Chronic normocytic anemia, currently asymptomatic. The low hemoglobin, hematocrit, and RBC count confirm persistent anemia. Low serum iron and transferrin saturation with elevated ferritin and relatively low TIBC are most consistent with anemia of chronic inflammation, in the setting of rheumatoid arthritis and longstanding inflammatory bowel disease. An element of functional iron restriction is likely; the available results do not establish isolated absolute iron deficiency. There is no current evidence of hemodynamic or cardiopulmonary compromise based on vital signs and symptom review.
+
+Plan
+
+Review the anemia in the context of activity and treatment of rheumatoid arthritis and inflammatory bowel disease, with coordination of management of these underlying inflammatory conditions as clinically appropriate.
+
+Recommend repeat CBC with reticulocyte count and peripheral blood smear to further characterize the chronic anemia and assess marrow response.
+
+Recommend renal function testing, vitamin B12, folate, and inflammatory markers as part of the evaluation for potentially contributory causes. Reassess iron indices over time, recognizing that ferritin may remain elevated with chronic inflammation.
+
+Discuss iron replacement only after clinical review of the inflammatory disease status and overall iron assessment; oral or intravenous iron may be considered if functional or absolute iron deficiency is confirmed. Erythropoiesis-stimulating therapy would not be considered without an appropriate indication such as significant renal disease and specialist-directed evaluation.
+
+Monitor for development of fatigue, weakness, dizziness, exertional intolerance, dyspnea, palpitations, or worsening pallor. Escalate evaluation if symptoms develop or hemoglobin declines.
+
+Continue routine outpatient follow-up after reassessment of the anemia and contributing inflammatory conditions.

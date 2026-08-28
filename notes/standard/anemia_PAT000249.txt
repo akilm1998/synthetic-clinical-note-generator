@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Patricia Greene is a 40-year-old woman presenting for routine outpatient follow-up of anemia diagnosed approximately 8 years ago. She reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or noted pallor. There is no reported interval symptom progression. Anemia has not been actively managed.
+
+She also has type 2 diabetes mellitus, diagnosed approximately 1 year ago. She is a current smoker. No medication regimen is provided.
+
+Objective
+
+Vital signs: Blood pressure 119/75 mmHg, pulse 89 bpm, respiratory rate 18/min, temperature 36.8°C, oxygen saturation 98% on room air.
+
+Height 180 cm, weight 84.2 kg, BMI 26.0 kg/m².
+
+Recent laboratory results:
+Hemoglobin 8.6 g/dL
+Hematocrit 26.1%
+RBC 2.84 million/µL
+MCV 92 fL
+Serum iron 49 µg/dL
+Ferritin 345 ng/mL
+TIBC 201 µg/dL
+Transferrin saturation 24.4%
+
+Assessment
+
+Anemia consistent with anemia of chronic disease/inflammation. The anemia is significant and normocytic, with low hemoglobin, hematocrit, and RBC count. Low serum iron and reduced TIBC with elevated ferritin support impaired iron utilization in the setting of chronic inflammation rather than uncomplicated iron deficiency. She is currently asymptomatic and hemodynamically stable, with normal oxygen saturation and no reported cardiopulmonary limitations. The condition has been present for approximately 8 years and has not been actively managed.
+
+Type 2 diabetes mellitus, approximately 1 year since diagnosis. No current glycemic data are provided.
+
+Tobacco use.
+
+Plan
+
+Obtain updated CBC with differential and reticulocyte count to assess persistence and marrow response. Recommend peripheral blood smear, vitamin B12, folate, renal function testing, and inflammatory markers as part of evaluation for contributing chronic disease or inflammatory conditions.
+
+Review for potential chronic inflammatory, autoimmune, infectious, renal, or other systemic contributors to the longstanding anemia. Consider hematology consultation if anemia persists, worsens, or the initial evaluation does not identify an appropriate underlying cause.
+
+Do not begin empiric iron replacement solely on the current iron profile; iron studies suggest inflammation-associated iron restriction, and treatment should be guided by the broader evaluation.
+
+Discuss symptoms requiring urgent assessment, including new shortness of breath, chest discomfort, syncope, palpitations, marked weakness, or bleeding.
+
+Continue routine management and monitoring of type 2 diabetes mellitus. Counsel regarding smoking cessation, particularly given the potential adverse effects of tobacco use on overall cardiometabolic health.
+
+Arrange outpatient follow-up after repeat evaluation to review anemia trend and determine further management.

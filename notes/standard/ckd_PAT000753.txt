@@ -1,0 +1,57 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Veronica Davidson is a 37-year-old woman with a 10-year history of chronic kidney disease presenting for routine outpatient follow-up. She reports ongoing fatigue. She denies pruritus, muscle cramps, nausea, peripheral edema, change in urinary frequency, sleep disturbance, or shortness of breath. No interval symptoms suggestive of clinically apparent fluid overload or uremic prodrome are reported.
+
+Her comorbidities include hypertension for approximately 5 years, coronary artery disease for 1 year, and gout for 1 year. She currently smokes. Current medication use was not provided.
+
+Objective
+
+Height 166 cm; weight 71.4 kg; BMI 25.9 kg/m².
+
+Blood pressure 145/92 mmHg, pulse 76 bpm, respiratory rate 16/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Laboratory data: serum creatinine 3.05 mg/dL, estimated GFR 16 mL/min/1.73 m², BUN 93 mg/dL.
+
+No physical examination findings beyond the documented vital signs were provided.
+
+Assessment
+
+1. Chronic kidney disease with markedly reduced renal function
+
+Ten-year history of chronic kidney disease with creatinine 3.05 mg/dL, eGFR 16 mL/min/1.73 m², and BUN 93 mg/dL. The patient has fatigue but no reported nausea, pruritus, muscle cramps, sleep disturbance, edema, change in urination, or dyspnea. The degree of renal dysfunction warrants expedited disease-focused evaluation and close monitoring for metabolic complications and progression.
+
+2. Hypertension
+
+Blood pressure remains above goal at 145/92 mmHg in the setting of significant chronic kidney disease. Current antihypertensive regimen is not available for review.
+
+3. Coronary artery disease
+
+History of coronary artery disease of approximately 1 year. No anginal symptoms or dyspnea are reported today.
+
+4. Gout
+
+History of gout for approximately 1 year. No acute flare symptoms are reported.
+
+5. Tobacco use
+
+Current smoking, which increases cardiovascular and renal disease risk.
+
+Plan
+
+Chronic kidney disease: Arrange prompt nephrology follow-up for comprehensive management and renal replacement therapy education as clinically appropriate. Obtain updated serum electrolytes, bicarbonate, CBC, urine albumin-to-creatinine ratio, and intact parathyroid hormone to assess for complications of advanced renal dysfunction. Renal ultrasound is also appropriate to assess renal structure and exclude an obstructive component. Review renal trajectory, urine output, dietary sodium and protein intake, and all prescription and over-the-counter medications for renal dosing and nephrotoxicity. Avoid NSAIDs and other potentially nephrotoxic agents. Counsel regarding symptoms requiring urgent evaluation, including worsening shortness of breath, new edema, persistent nausea or vomiting, confusion, marked reduction in urine output, or chest pain.
+
+Hypertension: Reassess blood pressure with home readings if available and review the current medication list before adjusting therapy. Emphasize sodium restriction and close blood pressure monitoring, with treatment individualized to renal function and cardiovascular comorbidity.
+
+Coronary artery disease: Continue cardiovascular risk reduction and coordinate medication reconciliation and preventive management with the treating clinicians. Seek urgent care for chest pain, new exertional dyspnea, or other ischemic symptoms.
+
+Gout: Monitor for recurrent flares and ensure any urate-lowering or acute flare therapy is appropriately adjusted for renal function. Avoid NSAIDs given the degree of kidney impairment unless specifically directed by a renal specialist.
+
+Smoking: Strongly advised smoking cessation; offer structured cessation support and pharmacologic options after medication reconciliation.
+
+Follow-up
+
+Close outpatient follow-up after renal evaluation and updated testing, with earlier assessment for worsening fatigue or development of uremic or fluid-overload symptoms.

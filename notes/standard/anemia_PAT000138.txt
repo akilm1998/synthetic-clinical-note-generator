@@ -1,0 +1,23 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Shannon Douglas is a 97-year-old woman presenting for routine outpatient follow-up of anemia present for approximately 25 years. She reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other anemia-related symptoms. She has a 63-year history of rheumatoid arthritis, which is a relevant chronic inflammatory comorbidity. She continues to smoke. No current anemia-directed medication regimen is documented.
+
+Objective
+
+Height 157 cm, weight 51.5 kg, BMI 20.9 kg/m². Blood pressure 137/76 mmHg, pulse 84 bpm, respiratory rate 18/min, temperature 36.7°C, and oxygen saturation 95%.
+
+Recent laboratory results show hemoglobin 9.3 g/dL, hematocrit 28.1%, RBC count 3.05 million/µL, and MCV 92 fL. Serum iron is low at 29 µg/dL, with ferritin 473 ng/mL, TIBC 214 µg/dL, and transferrin saturation 13.6%.
+
+Assessment
+
+Chronic anemia consistent with anemia of chronic inflammation in the setting of longstanding rheumatoid arthritis. The anemia is normocytic, with low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC, a pattern favoring inflammation-associated iron restriction rather than uncomplicated iron deficiency. She is currently clinically stable without reported fatigue, cardiopulmonary symptoms, dizziness, or reduced exercise tolerance. No tachycardia is present on today’s vital signs.
+
+Plan
+
+Continue outpatient monitoring and review the anemia in the context of her longstanding rheumatoid arthritis and overall goals of care. Recommend repeat CBC with reticulocyte count and peripheral smear to assess the current hematologic pattern and marrow response. Consider renal function testing, vitamin B12, folate, and inflammatory markers as clinically appropriate, with reassessment for other contributing causes if the anemia worsens or symptoms develop.
+
+Given the low transferrin saturation, discuss whether iron evaluation or supplementation is appropriate, recognizing that the elevated ferritin and low TIBC suggest inflammation-related iron sequestration. Treatment decisions should be individualized to her age, comorbidities, symptoms, renal status, and preferences. Advise prompt evaluation for new shortness of breath, chest discomfort, palpitations, dizziness, syncope, bleeding, or worsening exercise tolerance. Continue routine follow-up for interval symptom review and laboratory monitoring.

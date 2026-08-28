@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up of longstanding hyperlipidemia.
+
+Subjective
+
+Bella Dean is a 47-year-old woman presenting for follow-up of hyperlipidemia present for approximately 11 years and not currently under an established treatment regimen. She denies chest discomfort, exertional leg pain, and dizziness. She reports fatty skin deposits and yellowish deposits around the eyelids, consistent with xanthomas and xanthelasma.
+
+She continues to smoke. She has longstanding obesity and known non-alcoholic fatty liver disease, present for approximately 8 and 7 years, respectively. No lipid-lowering medication use is provided.
+
+Objective
+
+Height 153 cm. Weight 83.3 kg. BMI 35.6 kg/m².
+
+Blood pressure 117/76 mmHg, pulse 81 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 96%.
+
+Lipid panel: total cholesterol 324 mg/dL, LDL cholesterol 236 mg/dL, HDL cholesterol 35 mg/dL, triglycerides 266 mg/dL.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol, low HDL cholesterol, and elevated triglycerides. The LDL level of 236 mg/dL represents severe untreated elevation and, together with reported xanthomas and xanthelasma, warrants prompt initiation of evidence-based lipid-lowering therapy. She currently has no reported symptoms suggestive of active angina or claudication.
+
+Obesity, BMI 35.6 kg/m², longstanding.
+
+Non-alcoholic fatty liver disease, longstanding. This does not by itself preclude statin therapy, but hepatic status should be considered when selecting and monitoring treatment.
+
+Active tobacco use, an important modifiable cardiovascular risk factor.
+
+Plan
+
+Discuss initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after review of contraindications, potential adverse effects, and baseline hepatic evaluation. Given the degree of LDL elevation, treatment should not be delayed for lifestyle modification alone.
+
+Assess for secondary contributors to dyslipidemia, including thyroid disease, diabetes, renal disease, dietary factors, and other relevant causes. Consider measurement of apolipoprotein B and lipoprotein(a), particularly in view of the markedly elevated LDL and reported lipid deposits. Additional family history should be reviewed to assess for possible inherited lipid disorder.
+
+Reinforce a heart-healthy eating pattern emphasizing vegetables, whole grains, legumes, lean proteins, and unsaturated fats while reducing saturated and trans fats, refined carbohydrates, and excess calories. Encourage gradual, sustainable weight reduction and regular physical activity as tolerated.
+
+Strongly counsel smoking cessation and offer structured cessation support and pharmacologic options if appropriate.
+
+Repeat a fasting lipid panel after treatment initiation and adjustment to assess response. Continue monitoring liver status in the context of known non-alcoholic fatty liver disease and lipid-lowering therapy.
+
+Return for follow-up after initiation of therapy and review of repeat laboratory testing, or sooner for new chest discomfort, exertional leg pain, or other concerning cardiovascular symptoms.

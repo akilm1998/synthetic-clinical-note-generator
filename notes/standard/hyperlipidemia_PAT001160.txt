@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Gavin Holland is an 88-year-old man seen for follow-up of longstanding hyperlipidemia, present for approximately 23 years and currently without active lipid-lowering management. He has known coronary artery disease for approximately 32 years. He denies chest discomfort, exertional leg pain, dizziness, or other reported cardiovascular symptoms. He reports fatty deposits involving the skin and eyelids, consistent with xanthomas and xanthelasma. He continues to smoke.
+
+Objective
+
+Vital signs: BP 129/81 mmHg, pulse 74 bpm, respirations 16/min, temperature 37.0°C, oxygen saturation 96% on room air.
+
+Height 177 cm, weight 79.3 kg, BMI 25.3 kg/m².
+
+Recent lipid panel: total cholesterol 313 mg/dL, LDL-C 218 mg/dL, HDL-C 39 mg/dL, triglycerides 282 mg/dL.
+
+Xanthomas and xanthelasma are reported. No chest discomfort, claudication, or dizziness reported today.
+
+Assessment
+
+Longstanding, markedly uncontrolled hyperlipidemia with severe LDL elevation and elevated triglycerides, in the setting of established coronary artery disease and ongoing tobacco use. Low HDL is also present. Cutaneous lipid deposits further support prolonged lipid burden. He is currently not receiving lipid-lowering therapy according to the available history.
+
+Plan
+
+Discussed the substantially increased cardiovascular risk associated with the current lipid levels, established coronary artery disease, and continued smoking. Recommend initiation of evidence-based lipid-lowering therapy, with a statin as first-line treatment if acceptable after review of goals, risks, and preferences; addition of ezetimibe or other therapy can be considered if LDL remains significantly elevated or statin therapy is not tolerated. Given his age, treatment intensity should be individualized with shared decision-making.
+
+Recommend a heart-healthy diet emphasizing reduced saturated and trans fats, increased fiber, and limitation of refined carbohydrates and alcohol to help address triglycerides. Encourage regular physical activity as tolerated and smoking cessation; cessation counseling provided.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response, with consideration of evaluation for secondary contributors and additional cardiovascular risk assessment as clinically appropriate. Continue monitoring for new chest discomfort, exertional leg pain, dizziness, or other symptoms concerning for ischemia and seek urgent care for severe or persistent symptoms.
+
+Follow-up after lipid management is initiated to review tolerance and laboratory response.

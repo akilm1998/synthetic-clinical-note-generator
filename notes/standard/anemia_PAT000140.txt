@@ -1,0 +1,45 @@
+Chief Complaint
+
+Medication review and follow-up of chronic anemia.
+
+Subjective
+
+Charlotte Bailey is a 95-year-old woman seen for outpatient review of longstanding anemia, present for approximately 14 years. She has not been experiencing fatigue, weakness, dizziness, shortness of breath, palpitations, headache, or reduced exercise tolerance. Pallor has been noted. She does not smoke.
+
+Relevant comorbidities include inflammatory bowel disease for 7 years, heart failure for 11 years, and type 2 diabetes mellitus for 5 years. No active anemia-directed medication regimen is identified for review today; therefore, medication effectiveness, adherence, and treatment tolerance cannot be assessed. She has not reported medication-related symptoms.
+
+Objective
+
+Height 167 cm, weight 62.5 kg, BMI 22.4 kg/m².
+
+Blood pressure 136/81 mmHg, pulse 89 bpm, respiratory rate 24/min, temperature 36.9°C, oxygen saturation 96%.
+
+Pallor present. No tachycardia reported. Oxygenation is preserved.
+
+Laboratory results:
+Hemoglobin 8.1 g/dL
+Hematocrit 24.0%
+RBC 2.58 million/µL
+MCV 93 fL
+Serum iron 44 µg/dL
+Ferritin 493 ng/mL
+TIBC 198 µg/dL
+Transferrin saturation 22.2%
+
+Assessment
+
+1. Chronic normocytic anemia consistent with anemia of chronic disease/inflammation. Hemoglobin and hematocrit are significantly reduced, with low serum iron, elevated ferritin, and low TIBC supporting impaired iron availability in the setting of chronic inflammation rather than straightforward iron depletion. Her inflammatory bowel disease and chronic heart failure are clinically relevant contributing conditions. She is currently minimally symptomatic aside from pallor, without reported cardiopulmonary symptoms, although respiratory rate is mildly elevated.
+
+2. Inflammatory bowel disease, longstanding. Chronic inflammation may be contributing to the anemia.
+
+3. Chronic heart failure. Anemia may worsen cardiac workload and exercise tolerance even in the absence of current symptoms.
+
+4. Type 2 diabetes mellitus, longstanding.
+
+Plan
+
+No anemia medication is currently identified for effectiveness or adherence review. Do not initiate empiric iron solely on the basis of the low serum iron given the elevated ferritin and low TIBC. Review the complete medication list at the next medication reconciliation and assess for tolerance and adherence if anemia-directed therapy is started.
+
+Recommend evaluation with repeat CBC, reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers. Continue assessment for active inflammatory bowel disease or other chronic inflammatory contributors. Consider specialist input regarding further anemia management, including whether erythropoiesis-stimulating therapy or intravenous iron is appropriate in the context of her comorbidities and overall goals of care.
+
+Monitor for new fatigue, weakness, dizziness, dyspnea, palpitations, chest discomfort, syncope, bleeding, or declining functional status. Prompt evaluation is advised if any of these symptoms develop. Arrange close outpatient follow-up to review treatment options and reassess the anemia.

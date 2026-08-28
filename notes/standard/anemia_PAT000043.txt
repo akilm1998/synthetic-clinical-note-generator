@@ -1,0 +1,29 @@
+Chief Complaint
+
+Medication review and follow-up of anemia.
+
+Subjective
+
+Patrick Bell is a 40-year-old man, 190 cm tall and weighing 83.8 kg, with BMI 23.2 kg/m², presenting for review of anemia identified approximately 2 years ago. He has a 5-year history of chronic infection and heart failure diagnosed approximately 1 year ago. He is a nonsmoker.
+
+He denies fatigue, generalized weakness, dizziness, headache, pallor, shortness of breath, palpitations, or reduced exercise tolerance. There is no current anemia-directed medication regimen documented, so medication effectiveness, adherence, and treatment tolerance cannot be assessed against an active therapy. He has no reported anemia-related complaints today.
+
+Objective
+
+Vital signs: blood pressure 122/79 mmHg, pulse 83 bpm, respiratory rate 20/min, temperature 36.8°C, oxygen saturation 99%.
+
+Laboratory results demonstrate hemoglobin 8.7 g/dL, hematocrit 25.6%, RBC count 3.05 million/µL, and MCV 84 fL. Serum iron is low at 23 µg/dL, with ferritin 427 ng/mL, TIBC 227 µg/dL, and transferrin saturation 10.1%.
+
+Assessment
+
+Anemia consistent with anemia of chronic disease/inflammation. The anemia is normocytic with low serum iron and transferrin saturation, elevated ferritin, and relatively low TIBC, a pattern favoring inflammation-related iron restriction rather than uncomplicated absolute iron deficiency. His chronic infection is a likely contributor, and his heart failure may also contribute to the overall inflammatory burden. Despite the degree of anemia, he is currently hemodynamically stable and denies cardiopulmonary or constitutional symptoms.
+
+No active anemia treatment is documented. Accordingly, there is no medication response or tolerability to evaluate at this visit.
+
+Plan
+
+Obtain a complete blood count with reticulocyte count and peripheral smear to further characterize the anemia and assess marrow response. Recommend vitamin B12, folate, renal function testing, and inflammatory markers as part of the evaluation for contributing factors. Continue clinical management of the underlying chronic infection and heart failure, as control of these conditions is important for improving inflammation-associated anemia.
+
+Review iron studies in clinical context before initiating supplementation. Given the low transferrin saturation despite elevated ferritin, iron-restricted erythropoiesis is possible; oral or intravenous iron should be considered based on the broader evaluation and response to treatment of the underlying inflammatory condition. An erythropoiesis-stimulating agent would not be initiated without clarifying contributing causes and confirming an appropriate indication.
+
+Monitor for development of fatigue, weakness, dizziness, dyspnea, palpitations, chest discomfort, or reduced exercise tolerance. Prompt evaluation is advised if these symptoms occur or if there is clinical deterioration. Reassess after completion of the recommended evaluation to determine whether anemia-directed therapy is warranted.

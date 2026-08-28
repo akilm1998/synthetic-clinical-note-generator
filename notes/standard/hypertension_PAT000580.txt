@@ -1,0 +1,40 @@
+Chief Complaint
+Routine follow-up for hypertension.
+
+Subjective
+Madeline Warren is a 48-year-old woman presenting for routine outpatient follow-up of a 9-year history of essential hypertension. She reports no current headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, fatigue, or nosebleeds. Hypertension is not currently under active management; current medications were not provided.
+
+Relevant comorbidities include coronary artery disease diagnosed 1 year ago, type 2 diabetes mellitus for 14 years, and hyperlipidemia for 2 years. She does not smoke. No interval cardiovascular or neurologic symptoms are reported.
+
+Objective
+Vital signs: Blood pressure 152/86 mmHg, pulse 79 bpm, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Height 162 cm, weight 76.9 kg, BMI 29.3 kg/m².
+
+Serum electrolytes: sodium 138 mmol/L, potassium 4.1 mmol/L.
+
+No acute cardiopulmonary or neurologic symptoms reported during today’s visit. Physical examination findings otherwise not provided.
+
+Assessment
+Essential hypertension with persistently elevated office blood pressure and currently inadequate management. She is asymptomatic without features suggesting hypertensive emergency.
+
+Type 2 diabetes mellitus, longstanding, increasing overall cardiovascular risk.
+
+Coronary artery disease, diagnosed 1 year ago, without reported angina or dyspnea today.
+
+Hyperlipidemia, diagnosed 2 years ago.
+
+Overweight, with BMI 29.3 kg/m².
+
+Plan
+Discussed the importance of consistent blood pressure management given coexisting diabetes and coronary artery disease. Recommend confirming the blood pressure pattern with repeat office measurements and home blood pressure monitoring, with a written log for review.
+
+Recommend initiation or adjustment of antihypertensive therapy after medication reconciliation and review of renal function, urine studies, and cardiovascular risk profile. Potential regimen selection should account for her diabetes and coronary artery disease. Do not start or change medication until the current medication history and contraindications are confirmed.
+
+Counseled on reducing dietary sodium, limiting alcohol if applicable, following a heart-healthy eating pattern, increasing physical activity as tolerated, and pursuing gradual weight reduction. Continue smoking avoidance.
+
+Recommend assessment of cardiovascular risk factors, including lipid profile and urinalysis, and obtain an ECG as clinically appropriate. Continue coordinated management of diabetes, hyperlipidemia, and coronary artery disease.
+
+Reviewed warning symptoms requiring urgent evaluation, including chest pain, new shortness of breath, severe headache, focal neurologic symptoms, or acute visual changes.
+
+Follow up after home blood pressure readings and medication reconciliation to reassess control and establish an ongoing treatment plan.

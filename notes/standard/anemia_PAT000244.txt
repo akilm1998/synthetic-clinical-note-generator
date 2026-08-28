@@ -1,0 +1,37 @@
+Chief Complaint
+
+Medication review and follow-up of chronic anemia.
+
+Subjective
+
+Sean Palmer is a 66-year-old man, 184 cm tall and weighing 79.9 kg, with a BMI of 23.6 kg/m², presenting for outpatient review of longstanding anemia in the setting of chronic kidney disease present for approximately 22 years. The anemia has been present for approximately 14 years. He currently denies fatigue, weakness, reduced exercise tolerance, dizziness, headache, shortness of breath, palpitations, or pallor-related concerns. He does not smoke.
+
+No active anemia-directed medication regimen is provided for review; therefore, effectiveness, adherence, and treatment tolerance cannot be assessed for oral iron, intravenous iron, or an erythropoiesis-stimulating agent. He reports no symptoms suggesting current hemodynamic compromise.
+
+Objective
+
+Vital signs: BP 137/86 mmHg, pulse 85 bpm, respirations 17/min, temperature 36.8°C, oxygen saturation 97%.
+
+Patient is without reported pallor. Cardiovascular examination is normal with no tachycardia. Respiratory examination is normal.
+
+Recent laboratory results:
+Hemoglobin 8.9 g/dL
+Hematocrit 26.3%
+RBC count 3.13 million/µL
+MCV 84 fL
+Serum iron 20 µg/dL
+Ferritin 464 ng/mL
+TIBC 194 µg/dL
+Transferrin saturation 10.3%
+
+Assessment
+
+Chronic normocytic anemia, most consistent with anemia of chronic disease/inflammation associated with longstanding chronic kidney disease. Hemoglobin and hematocrit are significantly reduced, with low serum iron and transferrin saturation, elevated ferritin, and low TIBC, supporting functional iron restriction rather than uncomplicated absolute iron deficiency. The anemia has been longstanding, and he is currently clinically stable and asymptomatic. No evidence of tachycardia, hypoxia, dyspnea, or other symptoms of acute worsening is present today.
+
+Plan
+
+Review and reconcile all current medications and supplements, specifically confirming whether he is taking oral iron, receiving intravenous iron, or using an erythropoiesis-stimulating agent. If therapy is being taken, assess adherence, gastrointestinal or other adverse effects, and response through serial hemoglobin measurements. Avoid empiric escalation without clarification of the current regimen and renal status.
+
+Recommend continued outpatient evaluation and monitoring with a CBC, reticulocyte count, peripheral smear, renal function testing, vitamin B12, folate, and inflammatory markers as clinically appropriate. Repeat iron indices may help determine whether iron availability remains limiting despite the elevated ferritin. Management should be coordinated with the clinician overseeing his chronic kidney disease, with consideration of anemia-directed therapy if clinically indicated.
+
+He was advised to seek urgent evaluation for new shortness of breath, chest pain, palpitations, syncope, marked dizziness, bleeding, or rapidly worsening weakness.

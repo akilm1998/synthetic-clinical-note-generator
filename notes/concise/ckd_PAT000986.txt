@@ -1,0 +1,14 @@
+Chief Complaint
+Routine follow-up for chronic kidney disease.
+
+Subjective
+Nicholas Powell is an 85-year-old man, 180 cm and 90.4 kg (BMI 27.9 kg/m²), presenting for follow-up of longstanding chronic kidney disease, present for approximately 55 years. He reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. No smoking history. Comorbidity includes gout for 6 years. Current medication regimen is not provided.
+
+Objective
+BP 145/92 mmHg, pulse 69 bpm, respirations 17/min, temperature 36.8°C, oxygen saturation 95%. Serum creatinine 4.12 mg/dL, BUN 90 mg/dL, estimated GFR 14 mL/min/1.73 m². No abnormal physical examination findings provided.
+
+Assessment
+Longstanding chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine. Currently without reported uremic or fluid-overload symptoms. Blood pressure remains above goal. History of gout.
+
+Plan
+Recommend prompt nephrology evaluation for management of advanced chronic kidney disease and discussion of renal replacement planning as clinically appropriate. Repeat renal function and serum electrolytes; obtain urine albumin-to-creatinine ratio, CBC, intact parathyroid hormone, and renal ultrasound as appropriate. Review blood pressure management and avoid nephrotoxic medications, including NSAIDs. Continue gout management with attention to renal dosing. Advise urgent evaluation for new shortness of breath, edema, persistent nausea/vomiting, confusion, marked reduction in urination, or other acute change.

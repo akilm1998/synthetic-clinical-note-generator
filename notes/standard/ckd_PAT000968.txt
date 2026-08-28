@@ -1,0 +1,37 @@
+Chief Complaint
+Urgent follow-up for chronic kidney disease and abnormal renal function.
+
+Subjective
+Emily Cooper is a 72-year-old woman, 161 cm, 63.5 kg (BMI 24.5 kg/m²), with approximately 20 years of chronic kidney disease. She reports fatigue. She denies pruritus, muscle cramps, nausea, peripheral edema, change in urination, sleep disturbance, and shortness of breath. She currently smokes. History is also notable for secondary hyperparathyroidism for 22 years and anemia of chronic disease for 3 years. No current medication regimen is documented.
+
+Objective
+Blood pressure 147/84 mmHg, pulse 78/min, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 99%.
+
+Recent laboratory results:
+Serum creatinine 4.37 mg/dL
+BUN 62 mg/dL
+eGFR 12 mL/min/1.73 m²
+
+Assessment
+Chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine. Patient is clinically stable by reported symptoms and vital signs but requires prompt renal evaluation, particularly given longstanding disease, fatigue, and currently unmanaged care.
+
+Secondary hyperparathyroidism, chronic, by history.
+
+Anemia of chronic disease, by history, likely contributing to fatigue.
+
+Elevated blood pressure reading in the setting of chronic kidney disease.
+
+Tobacco use.
+
+Plan
+Arrange urgent nephrology evaluation for comprehensive management of advanced chronic kidney disease and discussion of renal replacement planning as clinically indicated.
+
+Obtain updated serum electrolytes, CBC, urine albumin-to-creatinine ratio, and renal ultrasound as part of renal reassessment. Review results promptly when available.
+
+Avoid NSAIDs and other potentially nephrotoxic over-the-counter medications; maintain appropriate hydration unless otherwise directed by renal care.
+
+Monitor blood pressure at home and review need for antihypertensive therapy at follow-up. Encourage smoking cessation.
+
+Seek emergency care for new or worsening shortness of breath, chest pain, confusion, persistent vomiting, marked weakness, or development of significant swelling or major change in urine output.
+
+Follow up promptly after nephrology assessment or sooner for worsening symptoms.

@@ -1,0 +1,23 @@
+Chief Complaint
+
+Urgent follow-up for longstanding anemia.
+
+Subjective
+
+Janet McKenzie is a 57-year-old woman seen for follow-up of anemia present for approximately 14 years and not currently under active management. She denies fatigue, weakness, dizziness, shortness of breath, palpitations, headache, reduced exercise tolerance, or noticed pallor. Relevant comorbidities include chronic kidney disease for 4 years, heart failure for 6 years, and type 2 diabetes mellitus for 2 years. She currently smokes. Height 154 cm, weight 47.7 kg, BMI 20.1 kg/m².
+
+Objective
+
+Blood pressure 131/83 mmHg, pulse 96 bpm, respiratory rate 24/min, temperature 36.7°C, oxygen saturation 97%.
+
+Recent laboratory results: hemoglobin 8.5 g/dL, hematocrit 26.2%, RBC 2.82 million/µL, MCV 93 fL, serum iron 48 µg/dL, ferritin 322 ng/mL, TIBC 233 µg/dL, transferrin saturation 20.6%.
+
+Assessment
+
+Longstanding normocytic anemia with reduced hemoglobin and hematocrit. Elevated ferritin with low serum iron and reduced TIBC is most consistent with anemia of chronic inflammation/chronic disease, with chronic kidney disease likely contributing. Heart failure and other chronic comorbidities may further affect anemia tolerance. She is currently asymptomatic but has mild tachycardia and tachypnea with hemoglobin 8.5 g/dL, warranting timely evaluation.
+
+Plan
+
+Obtain updated CBC with reticulocyte count and peripheral smear, along with renal function testing, vitamin B12, folate, and inflammatory markers to further characterize the anemia. Review for occult blood loss or other contributing factors at follow-up. Consider iron replacement only after review of the complete evaluation, given the current ferritin and transferrin saturation pattern. Discuss management of anemia related to chronic kidney disease with the clinician managing her renal disease; erythropoiesis-stimulating therapy should be considered only after appropriate evaluation and risk assessment. Continue close outpatient follow-up.
+
+Seek emergency care for new or worsening shortness of breath, chest pain, fainting, sustained palpitations, marked weakness, or evidence of bleeding. Smoking cessation was encouraged.

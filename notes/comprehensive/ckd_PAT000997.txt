@@ -1,0 +1,53 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Natalie Ross is a 40-year-old woman, height 153 cm, weight 58.1 kg, BMI 24.8 kg/m², presenting for review of chronic kidney disease diagnosed approximately 8 years ago. Her current kidney function is significantly reduced, with serum creatinine 2.6 mg/dL, BUN 64 mg/dL, and estimated GFR 18 mL/min/1.73 m².
+
+She denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, and shortness of breath. She reports no tobacco use.
+
+Medication effectiveness, adherence, and tolerance were reviewed. No active medication regimen is identified for review today; therefore, effectiveness and adherence of kidney-directed or cardiovascular medications cannot be confirmed. She is not documented as taking losartan, furosemide, phosphate binders, erythropoietin, calcium carbonate, or any other medication. The absence of a documented treatment regimen is clinically important given the degree of renal impairment and her history of coronary artery disease and anemia of chronic disease.
+
+Objective
+
+Vital signs: Blood pressure 143/84 mmHg, pulse 79 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 97%.
+
+General: Patient is clinically stable by the available encounter information and denies constitutional or volume-overload symptoms.
+
+Cardiovascular: History of coronary artery disease. Pulse is regular at 79 bpm by vital-sign assessment. No additional examination findings provided.
+
+Respiratory: Respiratory rate 16/min and oxygen saturation 97% on available vital-sign assessment. No shortness of breath reported.
+
+Extremities: No peripheral edema reported.
+
+Neurologic: No muscle cramps or sleep disturbance reported. No asterixis reported.
+
+Skin: No pruritus reported.
+
+Laboratory data: Serum creatinine 2.6 mg/dL; BUN 64 mg/dL; estimated GFR 18 mL/min/1.73 m².
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function, present for approximately 8 years. Current creatinine, BUN, and eGFR are consistent with substantial chronic renal impairment. She is presently without reported uremic prodrome or symptoms of fluid overload, including nausea, pruritus, cramps, fatigue, edema, urinary change, or dyspnea. There is no indication from the provided information of an acute symptomatic deterioration, although the degree of renal dysfunction warrants structured monitoring and specialist involvement.
+
+Medication management is not established in the available history. Because no active medication list is identified, renal dosing, adherence, treatment effectiveness, and adverse effects cannot be adequately assessed. Particular attention is required to avoid nephrotoxic medications and to ensure all prescriptions and over-the-counter agents are appropriate for her renal function.
+
+Anemia of chronic disease, present for approximately 1 year. No hemoglobin value is provided. She currently denies fatigue, dyspnea, or other reported anemia-related symptoms.
+
+Coronary artery disease, present for approximately 1 year. No active cardiac symptoms are reported. Blood pressure is mildly elevated at 143/84 mmHg, requiring confirmation and cardiovascular risk-focused management in the context of chronic kidney disease.
+
+Plan
+
+Complete medication reconciliation, including prescription medications, over-the-counter products, supplements, and nonsteroidal anti-inflammatory drug use. Confirm indication, dose, adherence, renal dosing, effectiveness, and tolerance of every medication before initiating or adjusting therapy. Avoid NSAIDs and other potentially nephrotoxic agents unless specifically directed by a treating clinician.
+
+Recommend nephrology evaluation given long-standing chronic kidney disease with eGFR 18 mL/min/1.73 m², particularly because a kidney-directed treatment regimen is not currently documented. Recommend assessment with serum electrolytes, urine albumin-to-creatinine ratio, complete blood count, intact parathyroid hormone, and renal ultrasound as clinically appropriate to characterize complications and progression. These are recommendations and are not documented as completed today.
+
+Monitor renal function and blood pressure closely. Encourage home blood pressure monitoring if available and review readings at follow-up. Antihypertensive therapy should be selected and titrated with attention to renal function, potassium status, coronary artery disease, and albuminuria once the medication list and additional laboratory data are confirmed.
+
+For anemia of chronic disease, obtain or review a complete blood count and assess for renal-related anemia before considering therapy. Do not initiate erythropoietin or iron treatment without appropriate laboratory assessment and clinical indication.
+
+Continue cardiovascular risk reduction and coordinate management of coronary artery disease with renal considerations. Reinforce avoidance of dehydration and prompt evaluation for new or worsening shortness of breath, edema, substantially decreased urination, persistent nausea or vomiting, confusion, severe weakness, or chest pain.
+
+Follow up promptly after medication reconciliation and recommended laboratory evaluation to reassess renal function, blood pressure, anemia, and the tolerability and effectiveness of the treatment plan.

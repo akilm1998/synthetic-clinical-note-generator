@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Logan Stewart is a 70-year-old man presenting for outpatient follow-up of anemia present for approximately 5 years. He reports no current fatigue, generalized weakness, dizziness, headache, palpitations, shortness of breath, reduced exercise tolerance, or noticeable pallor. The anemia has not been under active management.
+
+Relevant comorbidities include heart failure for 19 years and type 2 diabetes mellitus for 5 years. He continues to smoke. No medication or allergy information was provided for review today.
+
+Objective
+
+Height 173 cm, weight 66.4 kg, BMI 22.2 kg/m². Blood pressure 126/78 mmHg, pulse 89 bpm, respiratory rate 21/min, temperature 36.7°C, oxygen saturation 99%.
+
+Recent laboratory results show hemoglobin 8.7 g/dL, hematocrit 26.1%, RBC count 2.9 million/µL, and MCV 90 fL. Serum iron is low at 32 µg/dL, ferritin is elevated at 487 ng/mL, TIBC is low at 240 µg/dL, and transferrin saturation is reduced at 13.3%.
+
+Assessment
+
+Chronic normocytic anemia with significant reduction in hemoglobin and hematocrit. The pattern of low serum iron and transferrin saturation with elevated ferritin and low TIBC is most consistent with anemia of chronic inflammation/chronic disease, with possible functional iron restriction. His longstanding heart failure and diabetes may contribute to chronic inflammatory or metabolic stress; renal function and other potential contributors have not been characterized in the available data. He is currently clinically stable and denies cardiopulmonary or constitutional symptoms.
+
+Heart failure, longstanding. No evidence of acute cardiopulmonary compromise based on current vital signs and absence of dyspnea, palpitations, or reduced exercise tolerance.
+
+Type 2 diabetes mellitus, duration 5 years.
+
+Ongoing tobacco use.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral smear to confirm the degree and persistence of anemia and assess marrow response.
+
+Evaluate for contributing conditions with renal function testing, vitamin B12, folate, and inflammatory markers. Repeat iron studies as clinically indicated. The current elevated ferritin does not support empiric iron treatment alone without clarifying the underlying cause.
+
+Review for evidence of chronic kidney disease, inflammatory disease, chronic infection, nutritional deficiency, blood loss, or other systemic contributors. If subsequent testing demonstrates true iron deficiency or unexplained persistent anemia, consider evaluation for occult blood loss, including gastrointestinal assessment as appropriate for his age and risk profile.
+
+Given hemoglobin of 8.7 g/dL and the five-year duration without active management, arrange timely outpatient reassessment and consider hematology consultation if the anemia persists, worsens, or remains unexplained. Erythropoiesis-stimulating therapy or intravenous iron should be considered only after the underlying cause and renal status are clarified.
+
+Continue monitoring for new fatigue, weakness, dizziness, chest discomfort, dyspnea, palpitations, syncope, or reduced exercise tolerance; seek urgent evaluation for severe or rapidly progressive symptoms. Counsel regarding smoking cessation, particularly in the setting of heart failure and chronic anemia.

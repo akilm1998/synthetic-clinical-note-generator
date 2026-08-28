@@ -1,0 +1,35 @@
+Chief Complaint
+
+Medication review and management of hypertension.
+
+Subjective
+
+Martin Shaw is a 61-year-old man with an 11-year history of essential hypertension, currently without an established antihypertensive treatment regimen. He presents for review of blood pressure control. He reports dizziness and palpitations. He denies headache, blurred vision, chest pain, shortness of breath, fatigue, and epistaxis.
+
+Medication effectiveness, adherence, and tolerance cannot be assessed against a current antihypertensive regimen, as no active blood pressure medication is identified. He is an active smoker. Comorbidities include hyperlipidemia for 16 years, chronic kidney disease for 13 years, and coronary artery disease for 11 years.
+
+Objective
+
+Blood pressure 148/101 mmHg. Pulse 80 bpm. Respiratory rate 14/min. Temperature 36.8°C. Oxygen saturation 97% on room air.
+
+Height 166 cm; weight 68.9 kg; BMI 25.0 kg/m².
+
+Serum sodium 145 mmol/L. Serum potassium 4.3 mmol/L.
+
+Assessment
+
+Essential hypertension with persistent diastolic elevation and associated dizziness and palpitations. Blood pressure is above goal in the setting of chronic kidney disease and coronary artery disease. There is no current evidence from the reported symptoms of hypertensive emergency; he denies chest pain, dyspnea, visual disturbance, and severe headache.
+
+Chronic kidney disease and coronary artery disease increase the importance of consistent blood pressure control. Hyperlipidemia and ongoing tobacco use represent additional cardiovascular risk factors. Electrolytes are currently acceptable, with potassium 4.3 mmol/L and sodium 145 mmol/L.
+
+Plan
+
+Initiate a structured antihypertensive treatment plan, with selection favoring an agent appropriate for concomitant chronic kidney disease and coronary artery disease. Review the risks, expected benefits, dosing schedule, and potential adverse effects before prescribing. Reinforce daily adherence and avoidance of missed doses.
+
+Obtain home blood pressure readings twice daily, seated after several minutes of rest, and bring the log to follow-up. Reassess blood pressure response and symptoms after treatment initiation or adjustment. Repeat serum electrolytes and assess renal function after starting or titrating therapy, particularly if an renin-angiotensin system blocker or diuretic is selected.
+
+Recommend dietary sodium restriction, regular physical activity as tolerated, moderation of alcohol intake, and smoking cessation. Continue cardiovascular risk-factor management, including attention to hyperlipidemia.
+
+Recommend ECG, lipid profile, and urinalysis as part of cardiovascular and hypertensive end-organ assessment. Seek urgent medical attention for chest pain, new shortness of breath, neurologic symptoms, severe headache, or acute visual changes.
+
+Follow up promptly for medication initiation and blood pressure reassessment.

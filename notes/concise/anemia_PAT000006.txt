@@ -1,0 +1,27 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Julia Stone is a 42-year-old woman, nonsmoker, presenting for follow-up of anemia present for approximately 3 years. She reports headache and pallor. She denies fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. No interval worsening of cardiopulmonary symptoms reported.
+
+Relevant comorbidities include chronic infection for 9 years, malignancy for 2 years, and heart failure for 1 year. She is not currently receiving documented anemia-directed management.
+
+Objective
+
+Height 179 cm; weight 95.2 kg; BMI 29.7 kg/m². Blood pressure 115/75 mmHg, pulse 84 bpm, respiratory rate 19/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Pallor noted. Cardiovascular examination with regular rate and normal findings; respiratory examination normal.
+
+Laboratory results: hemoglobin 9.1 g/dL, hematocrit 28.1%, RBC 3.19 million/µL, MCV 88 fL, serum iron 29 µg/dL, ferritin 297 ng/mL, TIBC 217 µg/dL, transferrin saturation 13.4%.
+
+Assessment
+
+Anemia consistent with anemia of chronic disease/inflammation. This is a chronic normocytic anemia with low serum iron and transferrin saturation, elevated ferritin, and reduced TIBC, in the setting of chronic infection, malignancy, and heart failure. She is hemodynamically stable without dyspnea, tachycardia, or exercise intolerance. Headache and pallor persist.
+
+Plan
+
+Obtain updated CBC with reticulocyte count and peripheral smear, along with vitamin B12, folate, renal function, and inflammatory markers to further characterize the anemia. Continue evaluation and management of the underlying chronic infection, malignancy, and heart failure, as control of these conditions is central to anemia management. Review iron studies before considering oral or intravenous iron; do not assume iron deficiency based on the low serum iron alone. Consider hematology input if anemia worsens, remains unexplained, or becomes symptomatic.
+
+Monitor for increasing fatigue, weakness, dizziness, shortness of breath, palpitations, or reduced exercise tolerance. Seek urgent care for significant cardiopulmonary symptoms, syncope, or rapidly worsening headache. Schedule outpatient reassessment after repeat testing.

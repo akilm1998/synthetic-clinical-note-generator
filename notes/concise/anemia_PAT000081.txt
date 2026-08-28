@@ -1,0 +1,27 @@
+Chief Complaint
+
+Initial outpatient consultation for chronic anemia.
+
+Subjective
+
+Nathaniel Gibson is a 97-year-old man, 174 cm and 66.6 kg (BMI 22.0 kg/m²), presenting for evaluation of anemia present for approximately 38 years. He currently reports no fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other reported anemia-related symptoms. Pallor is not reported.
+
+Relevant chronic conditions include chronic kidney disease for 14 years, chronic infection for approximately 60 years, and type 2 diabetes mellitus for 53 years. He currently smokes. No active anemia-directed treatment is documented.
+
+Objective
+
+Blood pressure 132/84 mmHg, pulse 84 bpm, respiratory rate 23/min, temperature 37.0°C, oxygen saturation 94%.
+
+Laboratory results: hemoglobin 8.1 g/dL, hematocrit 24.0%, RBC 2.79 million/µL, MCV 86 fL, serum iron 23 µg/dL, ferritin 486 ng/mL, TIBC 225 µg/dL, transferrin saturation 10.2%.
+
+Assessment
+
+Chronic normocytic anemia, most consistent with anemia of chronic disease/inflammation in the setting of longstanding chronic kidney disease and chronic infection. The low serum iron and transferrin saturation with elevated ferritin and low TIBC support impaired iron availability related to inflammation rather than isolated iron depletion. Hemoglobin is significantly reduced, although he is currently reporting no related symptoms and has a normal resting pulse.
+
+Plan
+
+Obtain or review a CBC with reticulocyte count and peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and assess potentially reversible contributors.
+
+Coordinate management with nephrology and consider hematology consultation given the severity and longstanding nature of the anemia. Discuss whether erythropoiesis-stimulating therapy or intravenous iron is appropriate after review of renal function, inflammatory status, and overall goals of care. Avoid empiric oral iron alone without reassessing the pattern of iron studies.
+
+Counseled to seek urgent care for new shortness of breath, chest pain, palpitations, dizziness, syncope, marked weakness, or bleeding. Encourage smoking cessation. Arrange close outpatient follow-up to review additional testing and treatment options.

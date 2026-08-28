@@ -1,0 +1,21 @@
+Chief Complaint
+Routine follow-up for chronic kidney disease.
+
+Subjective
+Evelyn Hayes is an 85-year-old woman with a 35-year history of chronic kidney disease, hypertension for 16 years, gout for 1 year, and longstanding anemia of chronic disease. She reports no fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. Continues to smoke. No acute concerns reported today.
+
+Objective
+Height 155 cm; weight 64.1 kg; BMI 26.7 kg/m².
+BP 161/91 mmHg, pulse 79, respirations 16, temperature 37.0°C, oxygen saturation 96%.
+Creatinine 5.06 mg/dL, eGFR 10 mL/min/1.73 m², BUN 71 mg/dL.
+
+Assessment
+Chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine. Currently without reported uremic or fluid-overload symptoms. Blood pressure remains above goal. Comorbid gout and anemia of chronic disease. Ongoing tobacco use.
+
+Plan
+Prompt nephrology evaluation recommended given current renal function and long duration of disease.
+Obtain/review serum electrolytes, CBC, urine albumin-to-creatinine ratio, and intact parathyroid hormone; consider renal ultrasound as clinically indicated.
+Review renal-protective measures, avoidance of NSAIDs and other nephrotoxins, sodium moderation, and blood pressure management. Medication reconciliation and adjustment should be completed at follow-up.
+Counseled regarding smoking cessation.
+Seek urgent care for new shortness of breath, swelling, markedly decreased urination, persistent nausea/vomiting, confusion, or chest pain.
+Close outpatient follow-up after laboratory review.

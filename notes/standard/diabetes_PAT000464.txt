@@ -1,0 +1,43 @@
+Chief Complaint
+
+Annual review of type 2 diabetes and chronic medical conditions.
+
+Subjective
+
+Teresa Cunningham is a 94-year-old woman presenting for comprehensive annual review. She has a 24-year history of type 2 diabetes mellitus and is not currently receiving documented active management. Recent laboratory results show HbA1c 9.6% and fasting glucose 239 mg/dL, consistent with significant hyperglycemia.
+
+She denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. No smoking history. Chronic kidney disease has been present for approximately 6 years. Anxiety has been present for approximately 62 years.
+
+Objective
+
+Vital signs: Blood pressure 141/83 mmHg, pulse 68 bpm, respiratory rate 14/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Height 179 cm, weight 87.5 kg, BMI 27.3 kg/m². Patient is overweight.
+
+Laboratory results: HbA1c 9.6%. Fasting glucose 239 mg/dL.
+
+Assessment
+
+Type 2 diabetes mellitus without documented complications, currently poorly controlled based on HbA1c and fasting glucose. Despite the degree of hyperglycemia, she reports no associated osmotic, constitutional, visual, infectious, or neuropathic symptoms. Her advanced age and coexisting chronic kidney disease are important considerations when selecting and intensifying therapy.
+
+Chronic kidney disease, approximately 6-year duration. Current renal function values are not provided; renal function will be important for medication selection and dosing.
+
+Anxiety, longstanding.
+
+Overweight, BMI 27.3 kg/m².
+
+Blood pressure mildly elevated at today’s visit.
+
+Plan
+
+Discussed the elevated HbA1c and fasting glucose and the importance of establishing an individualized diabetes treatment plan. Given her age and chronic kidney disease, treatment should be introduced or adjusted cautiously, with attention to renal function, hydration, hypoglycemia risk, nutritional status, functional status, and patient preferences. A medication reconciliation and shared decision-making discussion are recommended before initiating therapy; no current diabetes regimen is documented.
+
+Recommend obtaining serum creatinine with estimated GFR and urine albumin-to-creatinine ratio to assess kidney involvement and guide safe medication choices. Repeat HbA1c after an appropriate interval to assess response to treatment. Consider fasting lipid profile and routine cardiovascular risk review as part of diabetes care.
+
+Encourage a practical nutrition plan emphasizing consistent carbohydrate intake, avoidance of sugar-sweetened foods and beverages, and adequate hydration, while avoiding overly restrictive dietary measures. Encourage physical activity appropriate to mobility and safety, with fall-risk awareness.
+
+Recommend annual diabetic foot assessment, including skin inspection and sensory and pulse evaluation, and a dilated eye examination if consistent with her goals of care. Review vaccination status and age-appropriate preventive care at follow-up, including influenza, COVID-19, pneumococcal, and shingles vaccination recommendations as appropriate.
+
+Reassess blood pressure on follow-up and review the overall cardiovascular and renal risk profile. Continue monitoring for symptoms of hyperglycemia, hypoglycemia, dehydration, visual change, skin breakdown, or neuropathy.
+
+Follow up promptly after renal function and medication review to finalize a safe diabetes management plan; otherwise follow up routinely for reassessment of glycemic control and chronic kidney disease.

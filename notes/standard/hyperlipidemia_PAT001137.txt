@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Wesley Snyder is a 50-year-old man presenting for follow-up of hyperlipidemia diagnosed approximately 7 years ago. His dyslipidemia has not been actively managed. Recent lipid testing demonstrates marked elevation of total cholesterol and LDL cholesterol with moderately elevated triglycerides. He reports fatty skin deposits consistent with xanthomas. He denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness.
+
+Relevant comorbidities include coronary artery disease diagnosed 4 years ago, type 2 diabetes mellitus for 11 years, and non-alcoholic fatty liver disease for 11 years. He currently smokes tobacco. No medication regimen is provided for review today.
+
+Objective
+
+Vital signs: BP 126/79 mmHg, pulse 84 bpm, respiratory rate 14/min, temperature 36.6°C, oxygen saturation 98% on room air.
+
+Height 172 cm, weight 64.8 kg, BMI 21.9 kg/m².
+
+Lipid panel:
+Total cholesterol: 302 mg/dL
+LDL cholesterol: 210 mg/dL
+HDL cholesterol: 44 mg/dL
+Triglycerides: 240 mg/dL
+
+Xanthomas are reported. No xanthelasma is reported. No additional examination findings are documented.
+
+Assessment
+
+Hyperlipidemia with severe LDL elevation and moderate hypertriglyceridemia, currently untreated. LDL cholesterol of 210 mg/dL is concerning for substantial atherosclerotic risk, particularly in the setting of established coronary artery disease, longstanding type 2 diabetes, and active tobacco use. His normal BMI does not mitigate this risk. The reported xanthomas further support longstanding significant lipid excess. Secondary contributors should be assessed, and a genetic predisposition should be considered given the degree and duration of LDL elevation, although no definitive familial diagnosis is established today.
+
+Coronary artery disease, established comorbidity, without reported anginal symptoms at this visit.
+
+Type 2 diabetes mellitus, longstanding.
+
+Non-alcoholic fatty liver disease.
+
+Active tobacco use.
+
+Plan
+
+Discussed the markedly abnormal lipid profile and the importance of aggressive risk reduction given his coronary artery disease and diabetes. Recommend initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, unless contraindicated, with medication selection and dosing reviewed through shared decision-making. Because of the degree of LDL elevation, addition of ezetimibe should be considered if LDL remains above an appropriate secondary-prevention target despite maximally tolerated statin therapy; referral for additional lipid-lowering therapy may be appropriate if control remains inadequate.
+
+Repeat a fasting lipid panel approximately 4–12 weeks after starting or adjusting therapy to assess response. Recommend assessment for secondary causes of severe dyslipidemia and consideration of ApoB and lipoprotein(a) measurement. Liver-related monitoring should be incorporated given his history of non-alcoholic fatty liver disease; this condition alone is not a reason to withhold statin therapy.
+
+Counseled on a Mediterranean-style eating pattern with reduction of saturated and trans fats, refined carbohydrates, and excess dietary cholesterol. Encourage regular aerobic and resistance activity as tolerated, while continuing routine cardiovascular disease management.
+
+Strongly advised tobacco cessation and offered cessation support. Reviewed the importance of ongoing diabetes and coronary artery disease risk-factor management. Instructed to seek urgent evaluation for new or worsening chest discomfort, dyspnea, or exertional leg symptoms.
+
+Follow up after repeat lipid testing to review treatment response and intensify therapy as indicated.

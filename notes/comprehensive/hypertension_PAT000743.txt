@@ -1,0 +1,79 @@
+Chief Complaint
+
+Medication review and evaluation of persistently elevated blood pressure.
+
+Subjective
+
+Nicole Harper is a 50-year-old woman, 175 cm tall and weighing 72.3 kg, with a 9-year history of hypertension that has not been actively managed. She presents for review of blood pressure control and treatment options. Blood pressure today is 150/94 mmHg. She reports intermittent dizziness, palpitations, and fatigue. She denies headache, blurred vision, chest pain, shortness of breath, or nosebleeds.
+
+No active antihypertensive medication regimen is reported for review today; therefore, medication effectiveness and adherence to a prescribed blood pressure regimen cannot be assessed. Treatment tolerance is likewise not assessable in the absence of a current antihypertensive regimen.
+
+Relevant comorbidities include type 2 diabetes mellitus for 9 years and hyperlipidemia for 18 years. She currently smokes. Her BMI is 23.6 kg/m². No medication allergies, family history, alcohol intake, dietary pattern, or exercise history are provided.
+
+Review of Systems
+
+Constitutional: Positive for fatigue. No fever reported.
+
+Eyes: Denies blurred vision.
+
+Cardiovascular: Positive for palpitations. Denies chest pain.
+
+Respiratory: Denies shortness of breath.
+
+Neurologic: Positive for intermittent dizziness. Denies headache.
+
+Skin: No concerns reported.
+
+Gastrointestinal: No symptoms reported.
+
+Genitourinary: No symptoms reported.
+
+Musculoskeletal: No symptoms reported.
+
+Psychiatric: No symptoms reported.
+
+Objective
+
+Vital Signs: Blood pressure 150/94 mmHg. Pulse 76 bpm. Respiratory rate 17/min. Temperature 36.7°C. Oxygen saturation 99% on room air.
+
+Anthropometrics: Height 175 cm. Weight 72.3 kg. BMI 23.6 kg/m².
+
+General: Visit focused on blood pressure and medication review. No acute cardiopulmonary symptoms reported.
+
+Cardiovascular: Pulse is regular at 76 bpm by vital-sign measurement. No additional auscultatory findings are documented.
+
+Respiratory: Respiratory rate and oxygen saturation are normal; patient denies dyspnea.
+
+Neurologic: Intermittent dizziness reported without associated headache or visual disturbance.
+
+Laboratory Data: Serum sodium 137 mmol/L. Serum potassium 4.3 mmol/L.
+
+Assessment
+
+Essential primary hypertension, inadequately controlled. Blood pressure is elevated at 150/94 mmHg in the setting of a 9-year history of hypertension without active management. The patient has intermittent dizziness, palpitations, and fatigue but no symptoms suggestive of hypertensive emergency, including chest pain, shortness of breath, severe headache, visual change, or epistaxis. Normal potassium and sodium are reassuring but do not establish renal function or overall cardiovascular risk. Given coexisting diabetes and hyperlipidemia, her long-term vascular and renal risk is increased.
+
+Medication review indicates that she is not currently reporting an active antihypertensive regimen. Consequently, there is no medication to assess for effectiveness, adherence, or adverse effects. Pharmacologic treatment should be initiated or re-established through shared decision-making, with consideration of an agent appropriate for a patient with diabetes and assessment of renal function and urine albumin before or soon after treatment selection.
+
+Type 2 diabetes mellitus, 9-year duration. Diabetes increases the importance of achieving consistent blood pressure control and assessing for renal involvement. Current glycemic control and diabetes medications are not available for review in this encounter.
+
+Hyperlipidemia, 18-year duration. This is an additional cardiovascular risk factor in the setting of hypertension, diabetes, and current tobacco use. No lipid values or lipid-lowering regimen are provided for review.
+
+Tobacco use. Current smoking likely contributes to cardiovascular risk and may worsen blood pressure control. Smoking cessation counseling is indicated.
+
+Intermittent dizziness, palpitations, and fatigue. These symptoms may occur with uncontrolled blood pressure but are nonspecific. There is no associated chest pain, dyspnea, syncope, or neurologic deficit reported today. Further evaluation is appropriate if symptoms persist or worsen.
+
+Plan
+
+Hypertension: Discussed that the current reading remains above goal and that untreated hypertension carries increased cardiovascular, cerebrovascular, and renal risk, particularly with diabetes and hyperlipidemia. Recommend confirming the pattern of elevation with properly performed home blood pressure measurements, including readings at different times of day, and bringing the log to follow-up. Review technique, including seated rest before measurement and appropriate cuff size.
+
+Recommend initiation or re-establishment of antihypertensive therapy rather than continued observation alone. Medication selection should account for diabetes and should be guided by renal function, urine albumin assessment, contraindications, and patient preference. Potential options include an ACE inhibitor or angiotensin receptor blocker when clinically appropriate; other standard agents such as a calcium-channel blocker or thiazide-type diuretic may also be considered based on the complete clinical assessment. No specific medication is documented as started today.
+
+Recommend a low-sodium dietary pattern, regular physical activity as tolerated, avoidance of excess alcohol if applicable, and maintenance of her current healthy weight. Smoking cessation was strongly encouraged.
+
+Medication effectiveness and adherence: There is no current antihypertensive regimen to evaluate. At the next medication review, assess whether treatment has been started, adherence, home blood pressure response, dizziness or orthostatic symptoms, palpitations, and other potential adverse effects. She should not stop or change any prescribed medication without clinician guidance.
+
+Diabetes and cardiovascular risk: Recommend obtaining renal function testing and urine albumin assessment before or in conjunction with antihypertensive treatment selection, as well as routine diabetes monitoring. Review the indication for lipid-lowering therapy and obtain an updated lipid profile if not recently available. An ECG is reasonable given palpitations and longstanding hypertension. Urinalysis is also appropriate for assessment of hypertensive and diabetic end-organ involvement.
+
+Safety counseling: Seek urgent medical attention for chest pain, shortness of breath, new neurologic symptoms, severe or unusual headache, acute visual changes, fainting, or markedly elevated blood pressure accompanied by symptoms.
+
+Follow-up: Arrange close outpatient follow-up after home blood pressure monitoring and treatment initiation or adjustment to reassess blood pressure, dizziness, palpitations, fatigue, adherence, and tolerance.

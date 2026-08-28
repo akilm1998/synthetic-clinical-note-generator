@@ -1,0 +1,52 @@
+Chief Complaint
+
+Routine follow-up for chronic kidney disease.
+
+Subjective
+
+Emily Cooper is a 98-year-old woman with a 59-year history of chronic kidney disease presenting for routine outpatient follow-up. She reports persistent fatigue. She denies pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, changes in urinary frequency, or shortness of breath. She does not smoke.
+
+Her relevant comorbidities include type 2 diabetes mellitus for 16 years, secondary hyperparathyroidism for 16 years, and hyperlipidemia for 29 years. There is no medication list provided for review today.
+
+Objective
+
+Height 169 cm; weight 64.0 kg; BMI 22.4 kg/m².
+
+Blood pressure 149/86 mmHg, pulse 70 bpm, respiratory rate 17/min, temperature 36.6°C, oxygen saturation 98% on room air.
+
+Recent laboratory results:
+Serum creatinine 4.42 mg/dL.
+Estimated GFR 14 mL/min/1.73 m².
+BUN 73 mg/dL.
+
+No peripheral edema or respiratory symptoms are reported. No additional examination findings are documented.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function and elevated nitrogenous waste markers. The degree of renal impairment is clinically significant in the context of a prolonged disease course, diabetes, hypertension-range blood pressure today, and secondary hyperparathyroidism. She currently reports fatigue but no nausea, pruritus, muscle cramps, sleep disturbance, volume-related symptoms, or dyspnea. Disease control appears suboptimal, and medication adherence and current renal-protective regimen cannot be assessed from the available information.
+
+Type 2 diabetes mellitus, longstanding, with chronic kidney disease.
+
+Secondary hyperparathyroidism associated with chronic kidney disease.
+
+Hyperlipidemia, longstanding.
+
+Elevated blood pressure reading in the setting of chronic kidney disease.
+
+Plan
+
+Chronic kidney disease: Review renal trajectory, prior creatinine and eGFR values, urine output, medication exposure, and goals of care at the next clinical contact. Recommend prompt nephrology evaluation given the creatinine of 4.42 mg/dL, eGFR of 14 mL/min/1.73 m², and BUN of 73 mg/dL. Obtain a serum electrolyte panel, CBC, urine albumin-to-creatinine ratio, and intact parathyroid hormone level as clinically appropriate; consider renal ultrasound if not previously performed or if clinically indicated. Avoid nephrotoxic agents and ensure medication dosing is adjusted for renal function. Counsel regarding prompt evaluation for new or worsening nausea, vomiting, confusion, progressive weakness, reduced urine output, edema, or shortness of breath.
+
+Fatigue: Likely multifactorial in the setting of advanced chronic kidney dysfunction; evaluate for anemia and metabolic contributors with CBC and renal biochemical monitoring. Reassess symptom progression and functional status.
+
+Blood pressure: Blood pressure is above goal for a patient with chronic kidney disease. Confirm with repeat measurements and review home readings if available. Antihypertensive therapy should be reconciled and individualized with attention to renal function, orthostasis, age, and overall goals of care.
+
+Diabetes mellitus: Continue individualized glycemic management with avoidance of hypoglycemia and consideration of renal function when selecting or dosing therapies. Review recent glycemic monitoring at follow-up.
+
+Secondary hyperparathyroidism: Reassess mineral-bone parameters, including intact parathyroid hormone, as well as calcium and phosphorus as part of renal monitoring. Treatment should be guided by the results and current goals of care.
+
+Hyperlipidemia: Review current lipid-lowering therapy and overall cardiovascular risk management, with treatment intensity individualized to age, comorbidity burden, tolerability, and patient preferences.
+
+Follow-up
+
+Close outpatient follow-up after renal evaluation and repeat monitoring, with earlier assessment for any change in symptoms or volume status.

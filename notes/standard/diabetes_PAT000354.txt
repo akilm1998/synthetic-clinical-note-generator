@@ -1,0 +1,21 @@
+Chief Complaint
+Urgent follow-up for diabetes management and elevated glucose.
+
+Subjective
+Patrick Bell is a 90-year-old man with a 28-year history of type 2 diabetes mellitus and chronic kidney disease reportedly present for approximately 50 years. Diabetes has not been actively managed. Recent HbA1c is 9.1% and fasting glucose is 249 mg/dL. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, or recurrent infections. He reports numbness and tingling in the hands and feet. He continues to smoke. No current diabetes medications were provided.
+
+Objective
+Height 183 cm; weight 97.8 kg; BMI 29.2 kg/m².
+Blood pressure 146/81 mmHg, pulse 75 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 95%.
+Laboratory data: HbA1c 9.1%; fasting glucose 249 mg/dL.
+No additional examination findings provided.
+
+Assessment
+Type 2 diabetes mellitus with significant hyperglycemia based on HbA1c and fasting glucose, currently inadequately controlled. Despite the absence of classic hyperglycemic symptoms, his degree of elevation warrants prompt treatment planning. Chronic kidney disease and advanced age increase the risk of medication-related adverse effects and hypoglycemia. Numbness and tingling of the hands and feet are concerning for peripheral neuropathic symptoms, although no formal diabetic complication has been established. Overweight by BMI. Active tobacco use.
+
+Plan
+Arrange prompt diabetes-focused medication review and initiation or adjustment of glucose-lowering therapy, with renal function guiding drug selection and dosing. Obtain current serum creatinine/eGFR and urine albumin-to-creatinine ratio before finalizing therapy; avoid overly aggressive glycemic lowering given age and chronic kidney disease, with an individualized target and close monitoring.
+
+Counseled regarding consistent carbohydrate intake, portion control, hydration, and gradual activity as tolerated. Recommend home glucose monitoring with review of readings at follow-up. Reinforced daily foot inspection and prompt evaluation for skin breakdown, ulcers, or infection. Recommend formal foot sensory and vascular assessment and diabetic retinal evaluation. Strongly advised smoking cessation.
+
+Return promptly for worsening weakness, vomiting, confusion, inability to maintain hydration, marked polyuria, or persistently very high glucose readings. Close outpatient follow-up after medication and glucose-monitoring review.

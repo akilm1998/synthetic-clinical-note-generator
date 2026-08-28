@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+
+Patrick Bell is a 48-year-old man presenting for routine outpatient follow-up of type 2 diabetes mellitus, diagnosed approximately 5 years ago. Current disease control is poor, with no active diabetes management documented. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling in the hands or feet.
+
+He has a history of anxiety for approximately 30 years and depression for approximately 6 years. Smoking status is positive. No medication regimen was provided for review today.
+
+Objective
+
+Vital signs: Blood pressure 127/75 mmHg, pulse 75 bpm, respiratory rate 16/min, temperature 36.8°C, oxygen saturation 96%.
+
+Height 175 cm; weight 87.6 kg; BMI 28.6 kg/m².
+
+Laboratory results:
+HbA1c 9.2%.
+Fasting glucose 234 mg/dL.
+
+Assessment
+
+1. Type 2 diabetes mellitus without documented complications, currently poorly controlled. HbA1c of 9.2% and fasting glucose of 234 mg/dL indicate significant hyperglycemia despite the absence of reported symptoms. Diabetes duration is approximately 5 years. He is overweight with a BMI of 28.6 kg/m². No neuropathic, infectious, constitutional, or visual symptoms are reported.
+
+2. Depression, reported duration 6 years. Current symptom burden and treatment were not reviewed in the available information.
+
+3. Anxiety, reported duration 30 years. Current symptom burden and treatment were not reviewed in the available information.
+
+4. Tobacco use. Smoking cessation is clinically indicated, particularly in the setting of diabetes.
+
+Plan
+
+Discussed the significance of the elevated HbA1c and fasting glucose and the increased risk of long-term vascular, renal, ocular, and neurologic complications with persistent hyperglycemia. Recommend establishing an active diabetes treatment plan, including review of prior and current therapies and shared decision-making regarding pharmacologic treatment. Medication initiation or adjustment should be based on a complete medication reconciliation, renal function assessment, contraindications, and patient preferences.
+
+Counseled regarding a structured diabetic eating pattern, reduction of refined carbohydrates and sugar-sweetened beverages, portion control, weight reduction, and gradual increase in regular physical activity as tolerated. Recommend home glucose monitoring if clinically appropriate and review of readings at follow-up.
+
+Recommend urine albumin-to-creatinine ratio, serum creatinine/eGFR, fasting lipid profile, and routine diabetes preventive care, including foot and retinal evaluation, as part of comprehensive complication screening. These should be arranged as outpatient follow-up investigations.
+
+Encouraged smoking cessation and offered counseling and evidence-based cessation support.
+
+Depression and anxiety should be reassessed at follow-up, including current mood, functional impact, safety assessment, and treatment preferences.
+
+Follow up promptly to establish diabetes therapy and review glucose control, with repeat HbA1c after an appropriate treatment interval.

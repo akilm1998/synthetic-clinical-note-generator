@@ -1,0 +1,39 @@
+Chief Complaint
+
+Annual comprehensive review and follow-up of longstanding anemia and chronic medical conditions.
+
+Subjective
+
+Christina Pierce is a 90-year-old woman presenting for routine annual review. She has a 34-year history of anemia that has not been actively managed. She denies fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other current anemia-related symptoms. She is a nonsmoker.
+
+Her medical history is also notable for type 2 diabetes mellitus for approximately 40 years, chronic infection for approximately 43 years, and chronic kidney disease for approximately 3 years. No current medication regimen is provided for review.
+
+Objective
+
+Height is 165 cm, weight 77.9 kg, and BMI 28.6 kg/m². Blood pressure is 145/82 mmHg, pulse 85 beats/minute, respiratory rate 21/minute, temperature 37.0°C, and oxygen saturation 97% on room air.
+
+She is clinically without reported pallor. Cardiovascular examination is normal, without reported abnormality, and respiratory examination is normal. There is no reported tachycardia or respiratory distress.
+
+Recent laboratory results show hemoglobin 8.7 g/dL, hematocrit 25.8%, RBC count 2.93 million/µL, and MCV 88 fL. Serum iron is low at 33 µg/dL, ferritin is 341 ng/mL, TIBC is 226 µg/dL, and transferrin saturation is 14.6%.
+
+Assessment
+
+Longstanding normocytic anemia with hemoglobin 8.7 g/dL. The low serum iron and transferrin saturation with elevated ferritin and reduced TIBC are most consistent with anemia of chronic inflammation/chronic disease, with chronic kidney disease likely contributing. The low transferrin saturation also raises the possibility of concurrent iron-restricted erythropoiesis. She is currently asymptomatic and hemodynamically stable, without reported cardiopulmonary compromise.
+
+Chronic kidney disease of approximately 3 years’ duration, relevant to the anemia and requiring ongoing renal monitoring.
+
+Longstanding chronic infection, approximately 43 years’ duration, likely contributing to chronic inflammatory burden.
+
+Type 2 diabetes mellitus of approximately 40 years’ duration. Ongoing glycemic and renal risk assessment remains important.
+
+BMI 28.6 kg/m², in the overweight range. Blood pressure is mildly elevated today and should be reassessed in the context of her overall cardiovascular and renal risk.
+
+Plan
+
+Obtain updated CBC with reticulocyte count and peripheral smear to characterize the anemia and assess marrow response. Check renal function, vitamin B12, folate, and inflammatory markers, and reassess iron indices. Review for occult blood loss or other causes of anemia as clinically appropriate, including dietary history and gastrointestinal symptoms. Given the low transferrin saturation, determine whether iron replacement is appropriate after the evaluation; oral or intravenous iron should be selected based on tolerance, absorption, renal status, and the chronic inflammatory context. If anemia persists in association with chronic kidney disease after reversible contributors are addressed, consider nephrology-directed management, including whether an erythropoiesis-stimulating agent is appropriate.
+
+Continue monitoring for fatigue, weakness, dizziness, dyspnea, palpitations, chest discomfort, or reduced functional capacity. She should seek prompt evaluation for new or worsening cardiopulmonary symptoms, syncope, overt bleeding, or rapidly worsening weakness.
+
+Review diabetes control and renal-protective care at follow-up, with medication reconciliation and adjustment based on current treatment and laboratory findings. Recheck blood pressure on a subsequent measurement rather than making a diagnosis from a single reading.
+
+As part of preventive care, review age-appropriate immunizations, fall-risk and mobility assessment, nutrition, dental and vision care, and individualized cancer-screening decisions considering her age, comorbidities, functional status, and preferences. Arrange follow-up after repeat laboratory evaluation to reassess the anemia and chronic disease management.

@@ -1,0 +1,41 @@
+Chief Complaint
+
+Routine follow-up of longstanding hyperlipidemia.
+
+Subjective
+
+Elijah Stone is a 93-year-old man presenting for routine outpatient follow-up of hyperlipidemia present for approximately 27 years. Lipid disorder has not been actively managed. He denies chest discomfort, exertional calf pain or other intermittent claudication, and dizziness. He has xanthelasma. No tobacco use.
+
+Relevant comorbidities include type 2 diabetes mellitus for 10 years, chronic kidney disease for 5 years, and non-alcoholic fatty liver disease for 26 years. No lipid-lowering medications are documented.
+
+Objective
+
+Vital signs: Blood pressure 140/81 mmHg, pulse 75 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 96%.
+
+Height 188 cm, weight 83.8 kg, BMI 23.7 kg/m².
+
+Lipid results: total cholesterol 297 mg/dL, LDL cholesterol 191 mg/dL, HDL cholesterol 36 mg/dL, triglycerides 349 mg/dL.
+
+Xanthelasma is reported. No chest discomfort, claudication, or dizziness reported.
+
+Assessment
+
+Hyperlipidemia, longstanding and currently without active treatment. Lipid profile demonstrates markedly elevated total cholesterol and LDL cholesterol, low HDL cholesterol, and elevated triglycerides. Xanthelasma is consistent with chronic dyslipidemia. He does not report current symptoms suggestive of angina, peripheral arterial insufficiency, or symptomatic vascular disease. His advanced age, diabetes, chronic kidney disease, and elevated atherogenic lipid burden increase cardiovascular risk, while treatment decisions should be individualized in the context of overall health, goals of care, renal function, liver history, potential adverse effects, and patient preference.
+
+Type 2 diabetes mellitus, present for 10 years, relevant to cardiovascular risk assessment.
+
+Chronic kidney disease, present for 5 years, relevant to medication selection and dosing.
+
+Non-alcoholic fatty liver disease, present for 26 years. This history should be considered when evaluating lipid-lowering therapy, although it does not by itself preclude treatment.
+
+Blood pressure is mildly elevated at today’s visit.
+
+Plan
+
+Discussed the significance of the current lipid profile and the increased vascular risk associated with diabetes, chronic kidney disease, advanced age, and longstanding untreated dyslipidemia. Recommend shared decision-making regarding initiation of lipid-lowering therapy, with consideration of a statin if consistent with the patient’s goals and after review of renal and hepatic status and potential drug interactions. If statin therapy is not tolerated or does not adequately reduce LDL cholesterol, non-statin therapy may be considered.
+
+Recommend heart-healthy dietary measures emphasizing reduction of saturated and trans fats, refined carbohydrates, and excess dietary sugars, with increased intake of vegetables, fiber, and appropriately selected unsaturated fats. Encourage physical activity as safely tolerated and continued avoidance of tobacco.
+
+Recommend repeat fasting lipid assessment to confirm the current pattern and monitor response if treatment is initiated. Consider additional cardiovascular risk assessment, including apolipoprotein B, lipoprotein(a), or coronary artery calcium imaging only if the results would meaningfully clarify treatment decisions in the context of his age and preferences.
+
+Continue attention to diabetes, chronic kidney disease, and non-alcoholic fatty liver disease during lipid management. Return for review of treatment preferences, tolerance, and interval lipid response.

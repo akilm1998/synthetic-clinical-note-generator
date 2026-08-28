@@ -1,0 +1,33 @@
+Chief Complaint
+
+Medication review and follow-up of chronic kidney disease.
+
+Subjective
+
+Patrick Harper is a 58-year-old man with a 10-year history of chronic kidney disease, presenting for outpatient medication review. He reports no current fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. No medication names, doses, or specific treatment regimen were provided for review today; therefore, medication effectiveness, adherence, and tolerance cannot be confirmed. He continues to smoke. Relevant comorbidities include gout for 13 years, coronary artery disease for 8 years, and anemia of chronic disease for 7 years.
+
+Objective
+
+Height 173 cm, weight 76.3 kg, BMI 25.5 kg/m².
+Blood pressure 141/83 mmHg, pulse 85 bpm, respiratory rate 16/min, temperature 37.0°C, oxygen saturation 97% on room air.
+
+Laboratory results:
+Serum creatinine 3.1 mg/dL.
+Estimated GFR 19 mL/min/1.73 m².
+BUN 83 mg/dL.
+
+No edema, respiratory symptoms, or other uremic symptoms reported. No physical examination findings beyond the documented vital signs are available in this note.
+
+Assessment
+
+Chronic kidney disease with markedly reduced renal function, present for approximately 10 years. Current creatinine, eGFR, and BUN indicate significant chronic renal impairment. He is presently without reported symptoms of fluid overload or uremic prodrome. Blood pressure is mildly elevated.
+
+Medication regimen requires clarification before effectiveness, adherence, renal dosing, and tolerability can be meaningfully assessed. Particular attention is warranted to medications used for gout, coronary artery disease, anemia, and any over-the-counter agents that may affect renal function. Anemia of chronic disease, gout, and coronary artery disease remain clinically relevant comorbidities. Active tobacco use.
+
+Plan
+
+Complete medication reconciliation, including prescription medications, over-the-counter products, and supplements. Confirm adherence, perceived benefit, adverse effects, and renal-appropriate dosing. Avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic over-the-counter medications unless specifically directed by a clinician.
+
+Recommend nephrology evaluation given the degree of renal impairment and long disease duration. Recommend monitoring with serum electrolytes, CBC, urine albumin-to-creatinine ratio, intact parathyroid hormone, and renal ultrasound as clinically appropriate. Continue close blood pressure monitoring and review the treatment plan once the current medication list is confirmed.
+
+Counseled regarding smoking cessation, avoidance of dehydration, and prompt evaluation for new shortness of breath, swelling, markedly decreased urination, persistent nausea or vomiting, confusion, or chest pain. Follow up promptly for medication reconciliation and chronic kidney disease management.

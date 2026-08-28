@@ -1,0 +1,16 @@
+Chief Complaint
+Routine follow-up for chronic kidney disease.
+
+Subjective
+Jason Coleman is a 59-year-old man with an 8-year history of chronic kidney disease, type 2 diabetes mellitus for 9 years, and anemia of chronic disease for 4 years. He reports persistent fatigue. Denies pruritus, muscle cramps, nausea, peripheral edema, change in urination, sleep disturbance, or shortness of breath. He currently smokes.
+
+Objective
+Height 184 cm, weight 88.7 kg, BMI 26.2 kg/m². Blood pressure 141/85 mmHg, pulse 79/min, respirations 19/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Recent laboratory results: creatinine 4.88 mg/dL, BUN 87 mg/dL, eGFR 12 mL/min/1.73 m².
+
+Assessment
+Chronic kidney disease with markedly reduced renal function and elevated BUN/creatinine. Disease is not currently under active management. Fatigue may be related to advanced renal dysfunction and known anemia of chronic disease. No current symptoms of fluid overload or overt uremic prodrome. Type 2 diabetes and tobacco use remain important renal and cardiovascular risk factors.
+
+Plan
+Arrange prompt nephrology evaluation given eGFR 12 and BUN 87. Repeat renal function and serum electrolytes and obtain urinalysis with urine albumin-to-creatinine ratio; monitor CBC and mineral-bone parameters including intact PTH. Consider renal ultrasound as part of CKD evaluation. Review diabetic and blood pressure control and avoid NSAIDs and other nephrotoxic agents. Counsel smoking cessation. Seek urgent care for worsening shortness of breath, edema, persistent vomiting, confusion, marked weakness, or significant change in urine output. Close outpatient follow-up after laboratory reassessment.

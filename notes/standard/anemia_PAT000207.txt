@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up for chronic anemia.
+
+Subjective
+
+Nathan Jenkins is a 65-year-old man presenting for routine outpatient follow-up of anemia present for approximately 10 years. He reports no current fatigue, weakness, dizziness, headache, pallpitations, shortness of breath, or reduced exercise tolerance. No pallor has been noted. He does not smoke.
+
+Relevant comorbidities include chronic kidney disease for 14 years, type 2 diabetes mellitus for 12 years, and inflammatory bowel disease for 1 year. He is not currently documented as receiving specific management for the anemia.
+
+Objective
+
+Vital signs: BP 139/85 mmHg, pulse 79 bpm, respirations 20/min, temperature 36.6°C, oxygen saturation 98%.
+
+Height 187 cm, weight 77.3 kg, BMI 22.1 kg/m².
+
+Cardiovascular examination is normal. Respiratory examination is normal. No pallor is noted.
+
+Laboratory data:
+Hemoglobin 8.6 g/dL
+Hematocrit 26.5%
+RBC 3.12 million/µL
+MCV 85 fL
+Serum iron 24 µg/dL
+Ferritin 181 ng/mL
+TIBC 219 µg/dL
+Transferrin saturation 11.0%
+
+Assessment
+
+1. Chronic anemia, most consistent with anemia of chronic disease/inflammation. Hemoglobin and hematocrit are significantly reduced with a normocytic profile. Low serum iron and transferrin saturation with ferritin not reduced and low TIBC support impaired iron availability in the setting of chronic disease rather than uncomplicated iron depletion. Chronic kidney disease and inflammatory bowel disease are likely contributing factors. He is currently asymptomatic and hemodynamically stable.
+
+2. Chronic kidney disease, longstanding, with associated risk for reduced erythropoietin production. No formal stage assigned based on the information available.
+
+3. Inflammatory bowel disease, present for approximately 1 year. Ongoing inflammation and/or gastrointestinal blood loss may contribute to the anemia.
+
+4. Type 2 diabetes mellitus, present for approximately 12 years.
+
+Plan
+
+Discussed the laboratory pattern and likely contribution of chronic kidney disease and inflammatory disease. Recommend updated CBC with reticulocyte count and peripheral smear to further characterize the anemia, along with renal function testing, vitamin B12, folate, and inflammatory markers. Consider evaluation for gastrointestinal blood loss or active inflammatory bowel disease if clinically indicated.
+
+Recommend review of renal and inflammatory disease control and coordination with the clinicians managing these conditions. Iron replacement should be guided by repeat iron studies and the underlying cause; oral or intravenous iron and erythropoiesis-stimulating therapy may be considered based on follow-up results and renal/inflammatory disease assessment rather than started empirically today.
+
+Although he currently denies cardiopulmonary or constitutional symptoms, he should seek urgent evaluation for new or worsening shortness of breath, chest discomfort, palpitations, syncope, marked weakness, or evidence of gastrointestinal bleeding. Continue outpatient follow-up after repeat evaluation to reassess hemoglobin and treatment needs.

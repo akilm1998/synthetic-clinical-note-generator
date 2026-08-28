@@ -1,0 +1,21 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Colin Graham is an 81-year-old man with a 5-year history of anemia, type 2 diabetes mellitus for 30 years, heart failure for 11 years, and malignancy for 4 years. He reports no current fatigue, weakness, dizziness, dyspnea, palpitations, headache, or reduced exercise tolerance. Pallor is noted. He continues to smoke. No current anemia-directed treatment is documented.
+
+Objective
+
+Height 163 cm, weight 64.3 kg, BMI 24.2 kg/m². BP 132/80 mmHg, pulse 88 bpm, respirations 20/min, temperature 36.8°C, oxygen saturation 96% on room air. Pallor present.
+
+Laboratory results: hemoglobin 8.7 g/dL, hematocrit 26.4%, RBC 2.97 million/µL, MCV 89 fL. Serum iron 23 µg/dL, ferritin 207 ng/mL, TIBC 270 µg/dL, transferrin saturation 8.5%.
+
+Assessment
+
+Chronic normocytic anemia consistent with anemia of chronic inflammation/chronic disease. Hemoglobin remains significantly reduced, with low serum iron and transferrin saturation despite preserved ferritin and relatively low TIBC. His malignancy, heart failure, and long-standing diabetes may contribute. He is currently clinically stable without cardiopulmonary symptoms, though pallor is present.
+
+Plan
+
+Obtain updated CBC with reticulocyte count and peripheral smear, along with renal function, vitamin B12, folate, and inflammatory markers. Review for occult blood loss and reassess the underlying malignancy and other chronic disease activity. Discuss anemia management with the treating oncology and medical teams, including consideration of iron replacement or erythropoiesis-stimulating therapy based on the underlying cause and repeat results. No treatment regimen is initiated today. Encourage smoking cessation. Advise prompt evaluation for new shortness of breath, chest pain, palpitations, dizziness, bleeding, or worsening weakness. Follow up after repeat testing.

@@ -1,0 +1,37 @@
+Chief Complaint
+
+Routine follow-up of hyperlipidemia.
+
+Subjective
+
+Ryan Hughes is a 67-year-old man presenting for routine follow-up of longstanding hyperlipidemia, present for approximately 23 years. He is not currently receiving documented management for his elevated lipids. He denies chest discomfort, exertional leg pain, dizziness, or known fatty skin deposits. Xanthelasma is present. He reports no tobacco use.
+
+Relevant comorbidities include coronary artery disease of approximately 3 years’ duration and non-alcoholic fatty liver disease of approximately 24 years’ duration. No interval cardiovascular symptoms are reported today.
+
+Objective
+
+Vital signs: Blood pressure 131/82 mmHg, pulse 75 bpm, respiratory rate 17/min, temperature 37.0°C, oxygen saturation 98% on room air.
+
+Height 186 cm, weight 78.2 kg, BMI 22.6 kg/m².
+
+Lipid profile: Total cholesterol 347 mg/dL, LDL-C 255 mg/dL, HDL-C 41 mg/dL, triglycerides 256 mg/dL.
+
+Xanthelasma noted. No xanthomas reported.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL-C and elevated triglycerides, longstanding and currently inadequately addressed. The lipid pattern is consistent with mixed dyslipidemia, with LDL-C 255 mg/dL and triglycerides 256 mg/dL. His established coronary artery disease places him at particularly high risk for recurrent atherosclerotic cardiovascular events despite the absence of current chest discomfort, claudication, or dizziness.
+
+Non-alcoholic fatty liver disease, longstanding. This should be considered when reviewing baseline hepatic status, but is not by itself a reason to withhold indicated lipid-lowering therapy.
+
+Coronary artery disease, present for approximately 3 years, currently without reported anginal or exertional symptoms.
+
+Plan
+
+Discussed the significance of the markedly elevated LDL-C in the setting of known coronary artery disease and the importance of active lipid-lowering treatment. Recommend medication reconciliation and prompt initiation or re-initiation of guideline-directed high-intensity statin therapy after review of prior tolerance, contraindications, and patient preferences. If LDL-C remains substantially above goal despite tolerated statin therapy, consider addition of ezetimibe and, if clinically indicated, further nonstatin therapy.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response, along with assessment for secondary contributors to dyslipidemia and review of hepatic status in the context of known fatty liver disease. Consider ApoB and lipoprotein(a) measurement for additional cardiovascular risk characterization.
+
+Counseled regarding a heart-healthy diet emphasizing reduced saturated and trans fats, increased soluble fiber, and limitation of refined carbohydrates and excess alcohol; continue regular physical activity as tolerated. He is a nonsmoker and has a normal BMI.
+
+Continue clinical monitoring for chest pressure, dyspnea, exertional leg symptoms, or other features concerning for ischemia. Seek urgent evaluation for new or persistent chest discomfort or associated shortness of breath, diaphoresis, or weakness.

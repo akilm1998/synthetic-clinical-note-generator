@@ -1,0 +1,25 @@
+Chief Complaint
+
+Medication review for type 2 diabetes mellitus.
+
+Subjective
+
+Julia Stone is an 86-year-old woman with a 42-year history of type 2 diabetes mellitus. She is not currently reporting an active diabetes medication regimen. Adherence and medication tolerance cannot be meaningfully assessed without a current regimen. Denies increased thirst, urinary frequency, increased hunger, weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling.
+
+Also has longstanding anxiety, reported duration 66 years. Nonsmoker.
+
+Objective
+
+Height 163 cm; weight 72.8 kg; BMI 27.4 kg/m². BP 135/78 mmHg, pulse 72 bpm, respirations 17/min, temperature 37.0°C, oxygen saturation 95%.
+
+HbA1c 9.5%. Fasting glucose 221 mg/dL.
+
+Assessment
+
+1. Type 2 diabetes mellitus without reported complications, poorly controlled based on HbA1c 9.5% and fasting glucose 221 mg/dL. No hyperglycemic, neuropathic, or infectious symptoms reported. No active diabetes medication regimen identified for review.
+
+2. Anxiety, longstanding.
+
+Plan
+
+Discussed that glycemic control is above goal despite minimal reported symptoms. Complete medication reconciliation and review treatment preferences with patient/family. Consider initiation or adjustment of glucose-lowering therapy after assessment of renal function and overall treatment goals, with attention to age and tolerability. Reinforce consistent nutrition, physical activity as tolerated, and home glucose monitoring if treatment is initiated. Recommend renal assessment, urine albumin screening, fasting lipid evaluation, and routine diabetic foot and eye assessment. Follow up promptly to establish an active diabetes treatment plan and reassess glycemic control.

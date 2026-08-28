@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up of anemia.
+
+Subjective
+
+Victor Pierce is a 48-year-old man presenting for routine outpatient follow-up of anemia identified approximately 1 year ago. He reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or subjective pallor. No interval anemia-related functional decline is reported.
+
+Relevant comorbidities include malignancy for approximately 8 years, rheumatoid arthritis for 6 years, and chronic kidney disease for approximately 1 year. He currently smokes. No anemia-directed treatment is documented.
+
+Objective
+
+Height 177 cm; weight 74.6 kg; BMI 23.8 kg/m².
+
+Blood pressure 139/82 mmHg, pulse 85 bpm, respiratory rate 22/min, temperature 36.7°C, oxygen saturation 98%.
+
+Laboratory data:
+Hemoglobin 8.8 g/dL
+Hematocrit 26.7%
+RBC count 3.22 million/µL
+MCV 83 fL
+Serum iron 23 µg/dL
+Ferritin 483 ng/mL
+TIBC 213 µg/dL
+Transferrin saturation 10.8%
+
+Cardiovascular and respiratory findings are clinically stable, with normal oxygen saturation and no reported cardiopulmonary symptoms. No pallor is reported.
+
+Assessment
+
+Anemia of chronic disease/inflammation, persistent and clinically significant, with a normocytic pattern. The low serum iron, low TIBC, elevated ferritin, and reduced transferrin saturation are most consistent with functional iron restriction in the setting of chronic inflammation and chronic kidney disease, rather than isolated uncomplicated iron deficiency. His longstanding rheumatoid arthritis and malignancy are likely contributing factors. Hemoglobin is 8.8 g/dL with hematocrit 26.7%; however, he currently denies symptomatic limitation, dizziness, dyspnea, palpitations, or weakness.
+
+Plan
+
+Recommend repeat CBC with reticulocyte count and peripheral blood smear to assess persistence and marrow response.
+
+Recommend assessment of renal function and inflammatory activity, including appropriate renal function testing and inflammatory markers, to help define the relative contributions of chronic kidney disease and inflammatory disease.
+
+Recommend serum vitamin B12 and folate testing to evaluate other potentially reversible contributors to anemia.
+
+Review the underlying rheumatoid arthritis, malignancy, and chronic kidney disease with the treating specialists, as control of the chronic inflammatory process and renal disease is central to anemia management.
+
+Given hemoglobin of 8.8 g/dL and transferrin saturation of 10.8%, consider iron replacement, including intravenous iron if clinically appropriate after evaluation of the underlying disease and treatment context. An erythropoiesis-stimulating agent may be considered in the setting of chronic kidney disease or malignancy only after assessment of renal function, disease status, risks, and treatment goals.
+
+No empiric oral iron regimen is documented today. Monitor for development of fatigue, weakness, exertional dyspnea, chest discomfort, palpitations, dizziness, or other evidence of worsening anemia. Continue outpatient follow-up after the recommended evaluation.

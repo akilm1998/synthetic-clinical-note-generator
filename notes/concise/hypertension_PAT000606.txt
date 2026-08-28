@@ -1,0 +1,22 @@
+Chief Complaint
+Routine follow-up for hypertension.
+
+Subjective
+Vincent Armstrong is an 89-year-old man with a 55-year history of essential hypertension, currently without active treatment management. He reports fatigue but denies headache, dizziness, blurred vision, chest pain, shortness of breath, palpitations, or epistaxis. No smoking history. Relevant comorbidities include chronic kidney disease for 22 years, type 2 diabetes mellitus for 12 years, and coronary artery disease for 9 years.
+
+Objective
+Height 188 cm; weight 97.9 kg; BMI 27.7 kg/m².
+Blood pressure 170/89 mmHg, pulse 81 bpm, respiratory rate 20/min, temperature 36.8°C, oxygen saturation 97%.
+Serum electrolytes: sodium 144 mmol/L, potassium 4.0 mmol/L.
+
+Assessment
+Essential hypertension with markedly elevated office blood pressure and suboptimal control. Currently asymptomatic for hypertensive emergency, though age and comorbid chronic kidney disease, diabetes, and coronary artery disease increase cardiovascular risk.
+Fatigue.
+Chronic kidney disease, type 2 diabetes mellitus, and coronary artery disease noted as significant comorbidities.
+
+Plan
+Discussed importance of blood pressure control and risks of untreated hypertension. Repeat blood pressure measurement and recommend home blood pressure monitoring with a written log. Arrange timely reassessment to establish an appropriate antihypertensive regimen, considering renal disease, diabetes, and coronary artery disease; review renal function and electrolytes before and during treatment.
+
+Recommend low-sodium diet, regular activity as tolerated, and continued avoidance of tobacco. Consider ECG, lipid profile, and urinalysis as part of cardiovascular and hypertension evaluation.
+
+Seek emergency care for chest pain, shortness of breath, severe headache, neurologic symptoms, visual changes, or persistent markedly elevated blood pressure.

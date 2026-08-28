@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Autumn West is a 36-year-old woman presenting for routine follow-up of hyperlipidemia, present for approximately 6 years and not currently under active management. She denies chest discomfort, exertional leg pain, dizziness, xanthomas, and xanthelasma. She does not smoke.
+
+Relevant comorbidities include type 2 diabetes mellitus for 2 years, obesity for 16 years, and non-alcoholic fatty liver disease for 9 years. Current weight is 73.7 kg at 153 cm, with BMI 31.5 kg/m².
+
+Objective
+
+Vital signs: Blood pressure 120/76 mmHg, pulse 82 bpm, respiratory rate 20/min, temperature 36.9°C, oxygen saturation 98%.
+
+Laboratory results: Total cholesterol 335 mg/dL, LDL cholesterol 219 mg/dL, HDL cholesterol 42 mg/dL, triglycerides 369 mg/dL.
+
+Assessment
+
+Hyperlipidemia with marked elevation of LDL cholesterol and moderate hypertriglyceridemia. LDL of 219 mg/dL is significantly elevated and, together with diabetes, obesity, and fatty liver disease, confers increased long-term cardiovascular risk. She currently reports no chest discomfort, claudication, dizziness, or cutaneous lipid deposits.
+
+Type 2 diabetes mellitus, duration 2 years, contributing to cardiovascular risk.
+
+Obesity, BMI 31.5 kg/m².
+
+Non-alcoholic fatty liver disease, duration 9 years.
+
+Plan
+
+Discussed the importance of active lipid-lowering therapy and cardiovascular risk reduction. Recommend initiation of a high-intensity statin after review of contraindications and shared decision-making. Given the LDL level above 190 mg/dL, assess response to therapy and consider addition of ezetimibe if LDL reduction is inadequate.
+
+Recommend a heart-healthy, Mediterranean-style eating pattern with reduction of saturated and trans fats, refined carbohydrates, and added sugars. Encourage gradual increase in regular aerobic activity as tolerated and weight reduction, with attention to diabetes and fatty liver disease management. Continue to avoid tobacco.
+
+Obtain a repeat fasting lipid panel after treatment initiation to assess response, along with evaluation for secondary contributors to dyslipidemia as clinically appropriate. Consider ApoB and lipoprotein(a) measurement for further risk assessment. If LDL remains markedly elevated despite appropriate therapy, consider evaluation for an inherited lipid disorder.
+
+Continue routine management of type 2 diabetes, obesity, and non-alcoholic fatty liver disease, as improved metabolic control may help reduce triglycerides and overall cardiovascular risk. Follow up after repeat lipid testing to review response and finalize ongoing management.

@@ -1,0 +1,47 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Gavin Holland is a 91-year-old man presenting for outpatient follow-up of longstanding anemia, reported duration approximately 18 years. He denies fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, shortness of breath, palpitations, or other cardiopulmonary symptoms. No interval anemia-related complaints are reported.
+
+Relevant history includes malignancy of approximately 49 years’ duration and type 2 diabetes mellitus for 5 years. He is a current smoker. No anemia-directed treatment or other medications are documented for this visit.
+
+Objective
+
+Vital signs: Blood pressure 132/76 mmHg, pulse 80 bpm, respiratory rate 19/min, temperature 36.8°C, oxygen saturation 94%.
+
+Height 161 cm, weight 64.0 kg, BMI 24.7 kg/m².
+
+Laboratory results:
+Hemoglobin 9.5 g/dL
+Hematocrit 28.1%
+RBC count 3.09 million/µL
+MCV 91 fL
+Serum iron 26 µg/dL
+Ferritin 202 ng/mL
+TIBC 253 µg/dL
+Transferrin saturation 10.3%
+
+Assessment
+
+Chronic normocytic anemia, consistent with anemia of chronic disease/inflammation. Hemoglobin and hematocrit remain reduced, with low serum iron and transferrin saturation, ferritin preserved, and low-normal TIBC, supporting impaired iron availability in the setting of chronic disease rather than isolated absolute iron deficiency. The longstanding malignancy is a relevant chronic inflammatory comorbidity. He is currently clinically stable without reported fatigue, dyspnea, dizziness, palpitations, or reduced exercise tolerance. No tachycardia or hemodynamic instability is present based on today’s vital signs.
+
+Type 2 diabetes mellitus, longstanding 5 years; no diabetes-related concerns addressed in today’s anemia-focused visit.
+
+Current tobacco use.
+
+Plan
+
+Continue outpatient monitoring of the chronic anemia and clinical symptoms.
+
+Recommend repeat CBC with reticulocyte count to assess interval hemoglobin and marrow response, along with peripheral smear, renal function testing, vitamin B12, folate, and inflammatory markers as clinically appropriate.
+
+Review the anemia and iron indices in the context of the patient’s chronic malignancy and coordinate management with the clinicians following that condition. Consider evaluation for other sources of blood loss if clinically indicated, particularly if hemoglobin declines or new symptoms develop.
+
+Do not start empiric iron therapy solely on the current ferritin level; reassess the overall clinical picture and iron studies before selecting oral or intravenous iron. An erythropoiesis-stimulating agent would require individualized assessment based on the underlying chronic disease and treatment goals.
+
+Counseled regarding smoking cessation and avoidance of tobacco exposure.
+
+Seek prompt medical attention for new or worsening shortness of breath, chest discomfort, palpitations, dizziness, syncope, marked weakness, or evidence of bleeding. Routine follow-up after interval laboratory reassessment, sooner for any clinical change.

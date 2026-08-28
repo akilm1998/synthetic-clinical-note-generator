@@ -1,0 +1,30 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Jane Watson is a 94-year-old woman presenting for outpatient follow-up of type 2 diabetes, present for approximately 43 years. She reports no increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling of the hands or feet. Current diabetes management is not established. Medication use was not provided and requires review.
+
+She also has a 25-year history of hypertension. She continues to smoke. No acute concerns are reported today.
+
+Objective
+Height 150 cm; weight 55.1 kg; BMI 24.5 kg/m².
+Blood pressure 153/91 mmHg, pulse 71 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 97%.
+HbA1c 9.7%. Fasting glucose 246 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without reported complications, currently poorly controlled based on HbA1c 9.7% and fasting glucose 246 mg/dL. Despite significant hyperglycemia, she denies osmotic, constitutional, visual, infectious, and neuropathic symptoms.
+
+Hypertension with blood pressure above goal today; treatment regimen was not provided for review.
+
+Tobacco use, ongoing.
+
+Plan
+Discussed laboratory evidence of persistent hyperglycemia and the importance of establishing a safe, individualized treatment plan. Given her advanced age and lack of reported symptoms, treatment should be intensified cautiously with attention to avoiding hypoglycemia, dehydration, falls, and excessive treatment burden. Review and reconcile all current medications and adherence at the next available opportunity before selecting therapy; consider renal function and overall functional status when choosing diabetes medication.
+
+Recommend a nutrition plan emphasizing consistent carbohydrate intake, avoidance of sugar-sweetened beverages and concentrated sweets, and adequate hydration. Encourage activity appropriate to her mobility and safety level.
+
+Recommend obtaining renal function and urine albumin-to-creatinine ratio, along with a fasting lipid profile, to assess diabetes-related risk and guide preventive care. Recommend routine diabetic foot assessment and eye examination, with referral or coordination of care as clinically appropriate.
+
+Repeat HbA1c after an appropriate treatment interval to assess response. Seek urgent care for vomiting, marked weakness, confusion, inability to maintain hydration, or persistently very high glucose readings if monitoring is available.
+
+Recheck blood pressure and review the current antihypertensive regimen. Counsel regarding smoking cessation and offer cessation support. Follow up closely after medication reconciliation and initiation or adjustment of diabetes management.

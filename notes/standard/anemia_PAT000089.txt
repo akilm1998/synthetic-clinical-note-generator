@@ -1,0 +1,83 @@
+Chief Complaint
+
+Initial consultation for evaluation and management of anemia.
+
+History of Present Illness
+
+Robert Collins is a 92-year-old man referred for evaluation of anemia present for approximately 9 years. The anemia has not been actively managed. He denies fatigue, generalized weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, and subjective pallor. No symptomatic limitation is reported at this visit.
+
+Recent laboratory studies demonstrate hemoglobin 8.2 g/dL, hematocrit 23.9%, RBC count 2.72 million/µL, and MCV 88 fL, consistent with a marked normocytic anemia. Iron studies show serum iron 39 µg/dL, ferritin 359 ng/mL, TIBC 207 µg/dL, and transferrin saturation 18.8%. This pattern is more consistent with impaired iron utilization in the setting of chronic inflammation than with uncomplicated absolute iron deficiency.
+
+Relevant medical history includes type 2 diabetes mellitus for 26 years and a chronic infection for approximately 9 years. He currently smokes. No medication, allergy, surgical, hospitalization, family history, or additional social history information is provided.
+
+Past Medical History
+
+Type 2 diabetes mellitus, 26-year duration.
+
+Chronic infection, 9-year duration.
+
+Chronic anemia, approximately 9 years.
+
+Social History
+
+Current smoker. Alcohol and other substance use are not documented.
+
+Medications
+
+No current medication list provided.
+
+Allergies
+
+No allergy information provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue, weakness, and reduced exercise tolerance.
+
+Cardiopulmonary: Denies dyspnea, palpitations, and dizziness.
+
+Neurologic: Denies headache.
+
+Hematologic: Denies subjective pallor or other reported anemia-related symptoms.
+
+Objective
+
+Height 185 cm. Weight 76.7 kg. BMI 22.4 kg/m².
+
+Blood pressure 132/79 mmHg. Pulse 91 bpm. Respiratory rate 22/min. Temperature 36.9°C. Oxygen saturation 96%.
+
+Laboratory data: Hemoglobin 8.2 g/dL; hematocrit 23.9%; RBC 2.72 million/µL; MCV 88 fL; serum iron 39 µg/dL; ferritin 359 ng/mL; TIBC 207 µg/dL; transferrin saturation 18.8%.
+
+Assessment
+
+1. Anemia consistent with chronic disease/chronic inflammation
+
+This is a significant, longstanding, normocytic anemia in an elderly man with a chronic infection and diabetes mellitus. The low serum iron and low TIBC with elevated ferritin support inflammation-mediated iron sequestration and reduced iron availability rather than isolated iron depletion. The anemia is currently clinically compensated by history, without reported fatigue, dyspnea, dizziness, palpitations, headache, or reduced exercise tolerance. Pulse is mildly elevated at 91 bpm and respiratory rate is 22/min, although oxygen saturation is preserved at 96%.
+
+The degree of anemia warrants confirmation, evaluation for contributing factors, and assessment of whether the chronic infection remains active or undertreated. Other potentially reversible contributors, including renal insufficiency, nutritional deficiency, marrow hypoproliferation, and occult blood loss, should also be considered.
+
+2. Chronic infection
+
+A chronic infection of approximately 9 years’ duration is a plausible inflammatory driver of the anemia. The underlying infection and degree of ongoing inflammatory activity require clinical review.
+
+3. Type 2 diabetes mellitus
+
+Longstanding type 2 diabetes mellitus may contribute indirectly through chronic inflammation or renal disease. Renal function should be assessed as part of the anemia evaluation.
+
+4. Tobacco use
+
+Ongoing smoking is a relevant vascular and overall health risk and may complicate assessment of cardiopulmonary tolerance should anemia worsen.
+
+Plan
+
+Obtain a repeat complete blood count with reticulocyte count and peripheral blood smear to confirm persistence, characterize marrow response, and assess for additional hematologic abnormalities.
+
+Assess renal function and obtain vitamin B12, folate, and inflammatory markers. Review the chronic infection for current activity, treatment status, and potential contribution to the anemia.
+
+Review the iron profile in clinical context. Given the elevated ferritin and reduced TIBC, empiric oral iron alone may have limited benefit unless concurrent absolute iron deficiency is demonstrated. Iron replacement strategy, including consideration of intravenous iron, should be guided by the complete evaluation and clinical response.
+
+If the anemia is hypoproliferative, progressive, unexplained, or disproportionate to the inflammatory condition, further hematologic evaluation should be considered. Erythropoiesis-stimulating therapy would require careful individualized assessment, particularly given his age and comorbidities, and should not be initiated without clarification of the underlying cause and renal status.
+
+No transfusion indication is established from the information available today in the absence of reported symptoms or hemodynamic instability; however, he should seek urgent care for new or worsening shortness of breath, chest discomfort, syncope, palpitations, marked weakness, bleeding, or other evidence of poor oxygen delivery.
+
+Follow-up should occur after completion of the recommended evaluation to review the anemia trajectory and establish disease-directed management.

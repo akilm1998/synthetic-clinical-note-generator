@@ -1,0 +1,35 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Rachel Graham is a 73-year-old woman presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 5 years and currently not under active treatment. She denies chest discomfort, exertional leg pain or claudication, and dizziness. She reports fatty deposits involving the skin and eyelids consistent with xanthomas and xanthelasma. She continues to smoke. Relevant comorbidities include coronary artery disease of approximately 17 years’ duration and chronic kidney disease of approximately 3 years’ duration. No current lipid-lowering medication regimen is provided.
+
+Objective
+
+Vital signs: BP 140/81 mmHg, pulse 82 bpm, respirations 15/min, temperature 36.8°C, oxygen saturation 98%.
+
+Height 178 cm, weight 75.1 kg, BMI 23.7 kg/m².
+
+Available laboratory results:
+Total cholesterol 294 mg/dL
+LDL cholesterol 197 mg/dL
+HDL cholesterol 41 mg/dL
+Triglycerides 278 mg/dL
+
+Xanthomas and xanthelasma are reported. No chest discomfort, claudication, or dizziness reported today.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, currently untreated. The lipid pattern is concerning for significant atherogenic risk, particularly in the setting of established coronary artery disease, chronic kidney disease, advanced age, and ongoing tobacco use. Cutaneous lipid deposits further support longstanding lipid elevation. No current symptoms suggestive of an acute cardiovascular process.
+
+Plan
+
+Discussed the substantially increased cardiovascular risk associated with the current lipid levels and history of coronary artery disease. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after reviewing contraindications, potential adverse effects, and patient preferences. Given the LDL level and established coronary disease, addition of ezetimibe should be considered if LDL reduction is inadequate or if high-intensity statin therapy is not tolerated.
+
+Counseled regarding a heart-healthy diet with reduction of saturated and trans fats, refined carbohydrates, and excess dietary cholesterol; encouraged regular physical activity as tolerated. Strongly advised smoking cessation and offered assistance with cessation planning.
+
+Recommend repeat fasting lipid panel after treatment initiation or adjustment to assess response. Consider assessment of treatment safety and secondary contributors as clinically appropriate, with attention to her chronic kidney disease. If adequate LDL reduction is not achieved or medication intolerance occurs, consider further risk assessment and referral for lipid-management support.
+
+Continue monitoring for new chest discomfort, shortness of breath, exertional leg pain, or other cardiovascular symptoms; seek urgent care for acute or severe symptoms. Follow up after medication decision and repeat lipid assessment to update management.

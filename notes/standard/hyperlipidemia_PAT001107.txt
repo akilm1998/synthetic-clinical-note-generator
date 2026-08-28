@@ -1,0 +1,59 @@
+Chief Complaint
+
+Annual review and chronic disease follow-up.
+
+Subjective
+
+Frank Montgomery is a 93-year-old male presenting for comprehensive annual review. He has a 28-year history of hyperlipidemia that has not been actively managed. Recent lipid results show markedly elevated total cholesterol and LDL cholesterol with elevated triglycerides. He denies chest discomfort, exertional calf pain or intermittent claudication, dizziness, xanthomas, and xanthelasma.
+
+He has longstanding obesity, present for approximately 13 years, and chronic kidney disease for approximately 5 years. He does not smoke. No current lipid-lowering medications are documented.
+
+Objective
+
+Vital signs: Blood pressure 146/84 mmHg, pulse 74 bpm, respiratory rate 21/min, temperature 37.0°C, oxygen saturation 95%.
+
+Height 173 cm, weight 93.4 kg, BMI 31.2 kg/m².
+
+Laboratory results:
+Total cholesterol 339 mg/dL
+LDL cholesterol 229 mg/dL
+HDL cholesterol 43 mg/dL
+Triglycerides 336 mg/dL
+
+Assessment
+
+1. Hyperlipidemia, unspecified
+
+Severe longstanding dyslipidemia with total cholesterol 339 mg/dL, LDL 229 mg/dL, and triglycerides 336 mg/dL. He currently reports no symptoms suggestive of angina or intermittent claudication and no cutaneous lipid deposits. Given his age, chronic kidney disease, obesity, and prolonged exposure to markedly elevated LDL cholesterol, cardiovascular risk remains clinically important despite the absence of symptoms. Treatment has not been established.
+
+2. Chronic kidney disease
+
+Chronic kidney disease present for approximately 5 years. The degree of renal impairment is not provided. This is relevant to medication selection and dosing and should be considered before initiating lipid-lowering therapy.
+
+3. Obesity
+
+BMI 31.2 kg/m², with obesity present for approximately 13 years. This likely contributes to the elevated triglycerides and overall cardiovascular risk.
+
+4. Elevated blood pressure reading
+
+Blood pressure today is 146/84 mmHg. This is an elevated office reading, but a diagnosis of hypertension should not be made from this single measurement.
+
+5. Preventive care and annual health review
+
+At age 93, preventive care should be individualized according to functional status, goals of care, life expectancy, and treatment preferences. He is a nonsmoker. Ongoing review of cardiovascular risk, renal disease, weight, mobility, fall risk, cognition, immunizations, and age-appropriate cancer screening is appropriate.
+
+Plan
+
+Discuss the markedly abnormal lipid profile and the potential benefits and risks of initiating lipid-lowering therapy, with particular attention to Mr. Montgomery’s age, chronic kidney disease, polypharmacy risk, and personal treatment goals. A moderate-intensity statin may be considered if consistent with his preferences and overall health status, with dose selection guided by renal function. If LDL cholesterol remains substantially elevated or statin therapy is not tolerated, additional therapy such as ezetimibe may be considered.
+
+Obtain or review current renal function and hepatic safety testing before starting medication, and repeat a fasting lipid panel after treatment initiation or adjustment. Consider assessment of apolipoprotein B or lipoprotein(a) only if the results would change management. Coronary artery calcium imaging is unlikely to be routinely helpful at his age and should only be considered if it would meaningfully clarify a treatment decision.
+
+Recommend a heart-healthy eating pattern emphasizing vegetables, fruits, whole grains, legumes, fish, and unsaturated fats while reducing saturated and trans fats, refined carbohydrates, and excess alcohol if applicable. Encourage activity appropriate to his mobility and safety, with gradual weight reduction as tolerated.
+
+Repeat blood pressure measurements outside the office or at a subsequent visit. Avoid labeling hypertension unless persistent elevation is confirmed.
+
+Continue monitoring chronic kidney disease and avoid unnecessary nephrotoxic medications. Review renal dosing for any new prescriptions.
+
+Review immunization status, fall prevention, physical activity, cognition, advance care planning, and age-appropriate preventive screening based on his preferences and functional status.
+
+Follow up after renal and safety laboratory review to make a shared decision regarding lipid-lowering therapy, with earlier assessment for new chest discomfort, exertional leg pain, dizziness, or other concerning cardiovascular symptoms.

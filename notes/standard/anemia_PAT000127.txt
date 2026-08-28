@@ -1,0 +1,31 @@
+Chief Complaint
+
+Routine follow-up for anemia.
+
+Subjective
+
+Simon Bishop is a 49-year-old man presenting for follow-up of anemia present for approximately 8 years. He reports headache but denies fatigue, generalized weakness, dizziness, shortness of breath, palpitations, reduced exercise tolerance, or other reported symptoms. He does not smoke. His history is notable for malignancy diagnosed approximately 1 year ago. He is not currently documented as receiving active management for the anemia.
+
+Objective
+
+Vital signs: Blood pressure 128/76 mmHg, pulse 82 bpm, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Height 177 cm, weight 68.9 kg, BMI 22.0 kg/m².
+
+Cardiovascular examination is normal. Respiratory examination is normal. No pallor is noted.
+
+Laboratory data: Hemoglobin 8.5 g/dL, hematocrit 26.0%, RBC count 3.1 million/µL, MCV 84 fL. Serum iron 26 µg/dL, ferritin 487 ng/mL, TIBC 221 µg/dL, transferrin saturation 11.8%.
+
+Assessment
+
+Anemia consistent with anemia of chronic inflammation/disease. The anemia is significant and longstanding, with a normocytic pattern. Low serum iron and transferrin saturation in the setting of elevated ferritin and reduced TIBC favor impaired iron availability related to chronic inflammation rather than isolated absolute iron deficiency. His known malignancy, present for approximately 1 year, is a relevant potential contributor. He is currently hemodynamically stable without reported cardiopulmonary symptoms, although headache may be related to the anemia or underlying chronic illness.
+
+Malignancy, duration approximately 1 year. This remains clinically relevant to the anemia evaluation and overall management.
+
+Plan
+
+Obtain repeat CBC with reticulocyte count and peripheral blood smear to further characterize the anemia and assess marrow response. Check vitamin B12, folate, renal function, and inflammatory markers as part of the evaluation for contributing causes. Review the malignancy history and current disease status with the treating oncology team, as management of the underlying condition is important for correction of anemia.
+
+Given hemoglobin of 8.5 g/dL and transferrin saturation of 11.8%, assess whether iron replacement is appropriate after review of the overall clinical context and oncology recommendations; elevated ferritin argues against empiric treatment with oral iron alone without further evaluation. Consider hematology input if the anemia persists, worsens, or the diagnostic evaluation is unrevealing.
+
+Monitor for worsening headache, new fatigue or weakness, dizziness, dyspnea, chest discomfort, palpitations, or reduced exercise tolerance. Seek urgent evaluation for severe or rapidly worsening symptoms. Follow up after repeat laboratory assessment to update the management plan.

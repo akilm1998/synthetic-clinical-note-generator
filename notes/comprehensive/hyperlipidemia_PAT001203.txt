@@ -1,0 +1,61 @@
+Chief Complaint
+
+Medication review and management of longstanding hyperlipidemia.
+
+History of Present Illness
+
+Faith Hawkins is a 47-year-old woman, 172 cm tall and weighing 71.9 kg, with a BMI of 24.3 kg/m² and a 16-year history of hyperlipidemia. She presents for medication review and assessment of treatment effectiveness and tolerance. Her dyslipidemia is not currently under active treatment, and no lipid-lowering medication regimen is reported for review. Accordingly, adherence and medication-related adverse effects cannot be assessed against an established regimen.
+
+Recent lipid results are markedly abnormal, with total cholesterol 397 mg/dL, LDL cholesterol 273 mg/dL, HDL cholesterol 49 mg/dL, and triglycerides 376 mg/dL. She reports fatty skin deposits consistent with xanthomas. She denies chest discomfort, exertional leg pain or intermittent claudication, and dizziness. She has no reported xanthelasma. She does not smoke.
+
+Her relevant comorbidity is hypertension, present for approximately 14 years. No additional cardiovascular disease, diabetes, kidney disease, liver disease, or obesity is provided in the current history.
+
+Review of Systems
+
+Constitutional: No constitutional symptoms are reported.
+
+Cardiovascular: Denies chest discomfort. No intermittent claudication is reported.
+
+Neurologic: Denies dizziness.
+
+Dermatologic: Reports xanthomas. Denies xanthelasma.
+
+Respiratory, gastrointestinal, genitourinary, musculoskeletal, endocrine, hematologic, and psychiatric systems: No pertinent symptoms are reported in the available history.
+
+Medication Review
+
+No active lipid-lowering medication regimen is identified for review. There is therefore no current statin or other lipid medication for which effectiveness, adherence, or tolerability can be assessed. No medication-related symptoms are reported.
+
+Objective
+
+Vital signs: Blood pressure 139/81 mmHg, pulse 76 beats/min, respiratory rate 18/min, temperature 36.9°C, oxygen saturation 99% on room air.
+
+Height 172 cm. Weight 71.9 kg. BMI 24.3 kg/m².
+
+Physical examination is notable for reported xanthomas. No xanthelasma is reported. The patient is without reported chest discomfort, claudication, or dizziness at this encounter.
+
+Laboratory data:
+Total cholesterol 397 mg/dL
+LDL cholesterol 273 mg/dL
+HDL cholesterol 49 mg/dL
+Triglycerides 376 mg/dL
+
+Assessment
+
+Longstanding severe mixed dyslipidemia with markedly elevated LDL cholesterol and triglycerides, currently without an active treatment regimen. The LDL level of 273 mg/dL is substantially above the threshold at which pharmacologic therapy is strongly indicated, independent of short-term symptom status. The presence of xanthomas further supports a prolonged and clinically significant lipid burden. Triglycerides are also elevated at 376 mg/dL, although the immediate management priority is reduction of atherogenic LDL-containing lipoproteins while addressing dietary contributors to hypertriglyceridemia.
+
+She currently denies chest discomfort, exertional leg symptoms, and dizziness, but absence of symptoms does not exclude subclinical atherosclerotic disease. Her additional cardiovascular risk factor is longstanding hypertension. She is a nonsmoker and has a normal-range BMI.
+
+The degree and duration of LDL elevation warrant evaluation for a possible inherited lipid disorder as well as secondary contributors. A formal familial diagnosis should not be assigned without additional personal and family history and appropriate evaluation.
+
+Plan
+
+Recommend initiation of high-intensity lipid-lowering therapy after shared decision-making, most appropriately with a maximally tolerated statin such as atorvastatin or rosuvastatin. Because there is no current regimen, the immediate medication objective is to establish therapy rather than assess response to an existing agent. Review anticipated benefits, potential muscle and hepatic adverse effects, pregnancy considerations where applicable, and the importance of consistent daily adherence.
+
+Given the baseline LDL cholesterol of 273 mg/dL, anticipate that statin monotherapy may not achieve adequate reduction. If the response is insufficient or the medication is not tolerated, addition of ezetimibe should be considered; referral for more intensive therapy, including a PCSK9-directed agent, may be appropriate depending on treatment response and further risk assessment.
+
+Address triglyceride elevation with reduction of saturated and trans fats, refined carbohydrates, and added sugars; avoidance of excessive alcohol; regular aerobic physical activity; and maintenance of current healthy weight. Continue tobacco avoidance.
+
+Obtain a repeat fasting lipid panel after initiation and stabilization of therapy to assess adherence and biochemical response. Additional risk and etiologic evaluation may include apolipoprotein B, lipoprotein(a), assessment for secondary causes, and consideration of coronary artery calcium imaging when the result would meaningfully influence preventive decision-making. A detailed family history of premature cardiovascular disease and markedly elevated cholesterol should also be obtained, with consideration of cascade evaluation if clinically indicated.
+
+Continue management of hypertension and reinforce overall cardiovascular risk reduction. Follow up after treatment initiation and repeat lipid assessment to review effectiveness, tolerance, and need for combination therapy.

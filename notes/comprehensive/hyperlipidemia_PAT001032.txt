@@ -1,0 +1,62 @@
+Chief Complaint
+
+Routine follow-up for longstanding hyperlipidemia.
+
+Subjective
+
+Marcus Cross is a 51-year-old man presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 19 years and currently without an established treatment regimen. Recent lipid results remain markedly abnormal with total cholesterol 372 mg/dL, LDL-C 259 mg/dL, HDL-C 36 mg/dL, and triglycerides 386 mg/dL.
+
+He denies chest discomfort, exertional leg pain consistent with claudication, dizziness, xanthomas, and xanthelasma. He has known coronary artery disease for approximately 3 years and non-alcoholic fatty liver disease for approximately 9 years. He continues to smoke tobacco. He reports no current symptoms attributable to hyperlipidemia.
+
+Review of Systems
+
+Cardiovascular: Denies chest discomfort.
+Vascular: Denies intermittent claudication.
+Neurologic: Denies dizziness.
+Skin: Denies fatty skin deposits or eyelid deposits.
+
+Objective
+
+Vital Signs: Blood pressure 128/75 mmHg. Pulse 80 bpm. Respiratory rate 17/min. Temperature 36.7°C. Oxygen saturation 99% on room air.
+
+Anthropometrics: Height 190 cm. Weight 79.1 kg. BMI 21.9 kg/m².
+
+Laboratory Data:
+Total cholesterol: 372 mg/dL.
+LDL-C: 259 mg/dL.
+HDL-C: 36 mg/dL.
+Triglycerides: 386 mg/dL.
+
+Physical Examination
+
+General: Patient presents for ambulatory follow-up and is not described as being in acute distress.
+Cardiovascular: Hemodynamically stable by recorded vital signs. No cardiovascular symptoms reported today.
+Respiratory: Respiratory rate and oxygen saturation are within an acceptable range; no respiratory complaint reported.
+Skin: No xanthomas or xanthelasma reported.
+Neurologic: No dizziness reported.
+
+Assessment
+
+1. Severe untreated hyperlipidemia with markedly elevated LDL-C and mixed elevation of triglycerides. LDL-C of 259 mg/dL is substantially above the threshold associated with high lifetime atherosclerotic risk. HDL-C is low at 36 mg/dL, and triglycerides are elevated at 386 mg/dL. The duration of dyslipidemia, current tobacco use, and established coronary artery disease place him at very high cardiovascular risk. The degree and chronicity of LDL elevation raise concern for a possible inherited lipid disorder, although no formal diagnosis is assigned today.
+
+2. Coronary artery disease, present for approximately 3 years. He is currently free of reported chest discomfort or claudication, but the markedly uncontrolled atherogenic lipid profile requires prompt secondary prevention management.
+
+3. Non-alcoholic fatty liver disease, present for approximately 9 years. This is not a contraindication to evidence-based lipid-lowering therapy, but hepatic safety should be considered when initiating and monitoring treatment.
+
+4. Tobacco use, ongoing. Continued smoking substantially increases his already elevated atherosclerotic risk.
+
+Plan
+
+Discussed the significance of the lipid results and the high risk associated with prolonged exposure to LDL-C of 259 mg/dL in the setting of known coronary artery disease. Recommend prompt initiation of high-intensity statin therapy, such as atorvastatin or rosuvastatin, unless a contraindication or prior intolerance is identified. Given the degree of LDL elevation and established coronary disease, addition of ezetimibe should be considered if LDL-C remains above goal after initiation and adherence to statin therapy. Referral or escalation to a PCSK9-directed therapy may be appropriate if substantial LDL reduction is not achieved with maximally tolerated oral therapy.
+
+Recommend evaluation for secondary contributors to dyslipidemia, including thyroid dysfunction, diabetes or impaired glucose metabolism, renal disease, and medication or dietary contributors. Obtain baseline hepatic and metabolic assessment before or at the time of treatment initiation, with follow-up monitoring as clinically indicated in the context of known non-alcoholic fatty liver disease.
+
+Repeat a fasting lipid panel after an appropriate treatment interval to assess response and adherence. Consider ApoB and lipoprotein(a) measurement for further risk characterization, particularly given the severe LDL elevation and coronary artery disease. Consider assessment for a familial lipid disorder and clarification of family cardiovascular history at a subsequent visit.
+
+Counseled regarding a Mediterranean-style eating pattern with reduction of saturated fats, trans fats, refined carbohydrates, and alcohol; increased intake of soluble fiber, vegetables, legumes, and fish; and regular aerobic and resistance exercise as tolerated. Because triglycerides are 386 mg/dL, emphasized reduction of refined carbohydrates and alcohol and continued monitoring to prevent further elevation.
+
+Strongly advised complete smoking cessation. Discussed that smoking cessation is an essential component of coronary disease risk reduction.
+
+Continue clinical surveillance for new chest discomfort, exertional dyspnea, syncope, or exertional leg pain. Seek urgent evaluation for persistent or severe chest pain or other acute cardiovascular symptoms.
+
+Follow up after initiation or adjustment of lipid-lowering therapy to review tolerance, adherence, laboratory response, and need for combination treatment.

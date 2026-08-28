@@ -1,0 +1,59 @@
+Chief Complaint
+
+Initial outpatient consultation for chronic kidney disease and markedly reduced renal function.
+
+History of Present Illness
+
+Cody Warren is an 82-year-old man, 165 cm tall and weighing 59.6 kg, with a BMI of 21.9 kg/m², presenting for initial outpatient evaluation of chronic kidney disease reportedly present for approximately 43 years. Current laboratory data demonstrate serum creatinine 5.05 mg/dL, BUN 67 mg/dL, and estimated glomerular filtration rate 13 mL/min/1.73 m². These values indicate advanced, substantially reduced kidney function and warrant prompt nephrologic evaluation and structured renal replacement therapy planning, even in the absence of overt uremic or volume-related symptoms.
+
+He denies fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urinary frequency, and shortness of breath. He reports no tobacco use. There is no reported history of diabetes, hypertension, glomerulonephritis, obesity, or family history of kidney disease in the information available for this encounter. His known comorbidity is coronary artery disease of 12 years’ duration. No current medication list, allergies, prior renal imaging, dialysis history, or prior nephrology recommendations are provided.
+
+Review of Systems
+
+Constitutional: Denies fatigue.
+
+Respiratory: Denies shortness of breath.
+
+Cardiovascular: Denies peripheral edema.
+
+Genitourinary: Denies change in urinary frequency.
+
+Gastrointestinal: Denies nausea.
+
+Skin: Denies pruritus.
+
+Musculoskeletal: Denies muscle cramps.
+
+Neurologic and sleep: Denies sleep disturbance.
+
+Objective
+
+Vital Signs: Blood pressure 147/85 mmHg, pulse 76 beats/min, respiratory rate 19/min, temperature 36.9°C, oxygen saturation 98% on room air.
+
+Anthropometrics: Height 165 cm; weight 59.6 kg; BMI 21.9 kg/m².
+
+Laboratory Data: Serum creatinine 5.05 mg/dL. BUN 67 mg/dL. Estimated glomerular filtration rate 13 mL/min/1.73 m².
+
+Physical Examination: The available encounter data document stable vital signs and no reported peripheral edema or respiratory symptoms. No additional examination findings are provided.
+
+Assessment
+
+Chronic kidney disease with markedly impaired renal filtration, longstanding by history, with serum creatinine 5.05 mg/dL, BUN 67 mg/dL, and eGFR 13 mL/min/1.73 m². Although he currently denies fatigue, pruritus, nausea, muscle cramps, sleep disturbance, edema, urinary frequency change, and dyspnea, the degree of renal impairment places him at substantial risk for progressive uremic complications, electrolyte and acid-base disturbances, anemia, mineral-bone disease, volume overload, and cardiovascular events. The current blood pressure of 147/85 mmHg is above the usual goal for many patients with chronic kidney disease, although treatment targets should be individualized given his age and coronary artery disease.
+
+Coronary artery disease, present for approximately 12 years, increases his overall cardiovascular risk in the setting of advanced chronic kidney disease.
+
+The absence of current symptoms does not exclude clinically important complications. Because his chronic kidney disease has reportedly been unmanaged and renal function is markedly reduced, the immediate priorities are confirmation and characterization of the current renal status, identification of reversible contributors, assessment for complications, and timely discussion of kidney replacement options in accordance with his goals and overall health.
+
+Plan
+
+Prompt nephrology consultation is recommended for comprehensive management of advanced chronic kidney disease and discussion of prognosis, conservative kidney management, and dialysis or other kidney replacement planning if clinically appropriate and consistent with the patient’s preferences. This should not be deferred solely because he is currently asymptomatic.
+
+Obtain a comprehensive metabolic assessment, including serum electrolytes, bicarbonate, calcium, phosphorus, and repeat renal function testing, along with a complete blood count to assess for anemia. Obtain urine albumin-to-creatinine ratio to characterize proteinuria and help clarify renal risk. Intact parathyroid hormone should be assessed as part of evaluation for chronic kidney disease–related mineral and bone disorder. Renal ultrasound is reasonable to evaluate kidney size and structural disease, particularly given the longstanding history and advanced reduction in filtration.
+
+Perform a complete medication and supplement reconciliation at the earliest opportunity. Avoid nonsteroidal anti-inflammatory drugs and other potentially nephrotoxic agents when alternatives are available, and ensure that all medications are dosed appropriately for the current degree of renal impairment. Any contrast-enhanced study should be considered carefully and coordinated with the treating clinicians.
+
+Continue close blood pressure monitoring. Blood pressure management should be individualized in the context of advanced age, coronary artery disease, orthostatic risk, and renal function; initiation or adjustment of antihypertensive therapy should follow review of the complete medication history and repeat measurements.
+
+Counsel regarding prompt evaluation for new or worsening dyspnea, edema, markedly reduced urine output, persistent nausea or vomiting, confusion, severe weakness, chest pain, or other acute change, as these may represent complications requiring urgent assessment.
+
+Follow up promptly after nephrology evaluation and repeat laboratory assessment, with ongoing monitoring of renal function, volume status, blood pressure, anemia, and mineral metabolism.

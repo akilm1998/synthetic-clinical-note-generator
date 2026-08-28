@@ -1,0 +1,39 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Scarlett Hughes is a 59-year-old woman presenting for outpatient follow-up of longstanding hyperlipidemia, present for approximately 20 years and currently without active lipid-lowering management. She denies chest discomfort, exertional leg pain or claudication, and dizziness. She reports xanthomas and xanthelasma.
+
+Relevant comorbidities include type 2 diabetes mellitus for 7 years, chronic kidney disease for 15 years, and coronary artery disease diagnosed 2 years ago. She currently smokes. No medication regimen or treatment adherence information was provided.
+
+Objective
+
+Vital signs: BP 137/79 mmHg, pulse 84 bpm, respirations 15/min, temperature 36.7°C, oxygen saturation 97% on room air.
+
+Height 153 cm; weight 62.5 kg; BMI 26.7 kg/m².
+
+Lipid panel:
+Total cholesterol 354 mg/dL
+LDL cholesterol 228 mg/dL
+HDL cholesterol 50 mg/dL
+Triglycerides 380 mg/dL
+
+Xanthomas and xanthelasma reported. No chest discomfort, claudication, or dizziness reported today.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding and presently untreated. The lipid profile is consistent with significant mixed dyslipidemia. Her risk of atherosclerotic cardiovascular complications is particularly high given established coronary artery disease, diabetes, chronic kidney disease, active tobacco use, and overweight BMI. Cutaneous lipid deposits further support longstanding lipid elevation.
+
+Plan
+
+Discussed the substantially elevated cardiovascular risk and the importance of active lipid-lowering therapy. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after reviewing contraindications, potential adverse effects, renal considerations, and patient preferences. Given the degree of LDL elevation and established coronary artery disease, addition of ezetimibe should be considered if LDL remains above goal despite maximally tolerated statin therapy; specialist-directed therapy such as a PCSK9 inhibitor may be considered if control remains inadequate.
+
+Recommend a fasting lipid panel after treatment initiation or adjustment to assess response. Consider ApoB and lipoprotein(a) measurement for further risk assessment. Review for secondary contributors to dyslipidemia in the context of diabetes and chronic kidney disease, using clinically appropriate laboratory evaluation.
+
+Counseled on reducing saturated and trans fats, refined carbohydrates, and excess dietary sugars; increasing soluble fiber and consumption of vegetables and other heart-healthy foods; maintaining regular physical activity as tolerated; and pursuing gradual weight reduction. Strongly advised smoking cessation and offered support with cessation planning.
+
+Continue close management of diabetes, chronic kidney disease, and coronary artery disease in coordination with the patient’s treating clinicians. Seek urgent medical attention for new or persistent chest pain, shortness of breath, neurologic symptoms, or acute limb symptoms.
+
+Follow up after repeat lipid testing to review response and finalize ongoing therapy.

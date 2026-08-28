@@ -1,0 +1,49 @@
+Chief Complaint
+
+Medication review and management of longstanding hyperlipidemia.
+
+Subjective
+
+Chelsea Benson is a 98-year-old woman with a 41-year history of hyperlipidemia, currently without an established lipid-lowering treatment regimen documented. Medication effectiveness, adherence, and tolerance cannot be assessed against a current regimen today. She reports no chest discomfort, exertional leg pain, dizziness, xanthomas, or xanthelasma. She continues to smoke.
+
+Relevant comorbidities include hypertension for 23 years and chronic kidney disease for 51 years. No medication side effects are reported. Dietary and exercise habits were not provided.
+
+Objective
+
+Height 161 cm; weight 62.7 kg; BMI 24.2 kg/m².
+
+Blood pressure 164/91 mmHg, pulse 76 bpm, respiratory rate 16/min, temperature 36.7°C, oxygen saturation 96%.
+
+Lipid profile: total cholesterol 362 mg/dL, LDL cholesterol 256 mg/dL, HDL cholesterol 36 mg/dL, triglycerides 348 mg/dL.
+
+No physical examination findings were provided. There are no reported cutaneous lipid deposits or symptoms suggestive of active ischemia or claudication.
+
+Assessment
+
+1. Severe longstanding mixed dyslipidemia
+
+Marked elevation of LDL cholesterol with concomitant hypertriglyceridemia and low HDL cholesterol. The degree of LDL elevation confers substantial atherosclerotic cardiovascular risk, particularly in the setting of advanced age, active tobacco use, hypertension, and chronic kidney disease. She has no reported chest discomfort, claudication, dizziness, xanthomas, or xanthelasma. Hyperlipidemia has been untreated or insufficiently managed based on the current medication history.
+
+2. Hypertension
+
+Blood pressure is elevated at 164/91 mmHg in clinic. This adds to her overall cardiovascular risk and warrants attention in coordination with her established care team.
+
+3. Chronic kidney disease
+
+Longstanding chronic kidney disease is an important consideration for medication selection, dosing, and monitoring. Renal function values were not provided.
+
+4. Active tobacco use
+
+Continued smoking substantially increases cardiovascular risk and reduces the expected benefit of risk-factor management.
+
+Plan
+
+Discuss initiation of lipid-lowering therapy using an individualized, shared decision-making approach that accounts for her age, functional status, goals of care, chronic kidney disease, polypharmacy considerations, and anticipated benefit. A statin-based strategy would generally be considered first-line for this degree of LDL elevation, with renal-appropriate selection and dosing. If LDL reduction is inadequate or statin therapy is not tolerated, addition of nonstatin therapy such as ezetimibe may be considered.
+
+Because no current lipid-lowering medication is documented, adherence and treatment tolerance will need to be reassessed after a regimen is established. Review for myalgias, weakness, gastrointestinal symptoms, and other adverse effects at follow-up. Avoid assuming treatment failure until adherence and tolerability have been confirmed.
+
+Recommend repeat fasting lipid testing after initiation or adjustment of therapy to assess response. Consider baseline and follow-up safety monitoring appropriate to the selected agent and her chronic kidney disease. Further risk refinement with apolipoprotein B or lipoprotein(a) measurement may be considered if it would change management; coronary calcium imaging is unlikely to be necessary if treatment decisions are already clear from the markedly elevated LDL cholesterol and overall risk profile.
+
+Counseled regarding reduction of saturated and trans fats, avoidance of excess refined carbohydrates and alcohol to assist triglyceride control, and maintenance of regular activity as tolerated. Strongly advised smoking cessation.
+
+Recommend prompt review of the elevated blood pressure with her primary care clinician and continued coordination of cardiovascular risk-factor management. Follow up after treatment initiation or adjustment to review adherence, tolerance, lipid response, and goals of care.

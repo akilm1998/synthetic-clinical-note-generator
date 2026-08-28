@@ -1,0 +1,14 @@
+Chief Complaint
+Routine follow-up for type 2 diabetes mellitus.
+
+Subjective
+Ryan Hughes is a 49-year-old man presenting for diabetes follow-up. Type 2 diabetes has been present for approximately 3 years and is currently not actively managed. He denies increased thirst, frequent urination, increased hunger, unintentional weight loss, fatigue, blurred vision, slow-healing wounds, recurrent infections, numbness, or tingling. Relevant comorbidities include chronic kidney disease for 6 years and obstructive sleep apnea for 9 years. He currently smokes.
+
+Objective
+Blood pressure 133/80 mmHg, pulse 74 bpm, respiratory rate 15/min, temperature 36.7°C, oxygen saturation 97%. Height 174 cm, weight 69.6 kg, BMI 23.0 kg/m². HbA1c 9.7%; fasting glucose 221 mg/dL.
+
+Assessment
+Type 2 diabetes mellitus without documented complications, poorly controlled based on elevated fasting glucose and HbA1c. He is presently asymptomatic despite significant hyperglycemia. Chronic kidney disease and tobacco use increase overall cardiometabolic risk. Obstructive sleep apnea is also noted.
+
+Plan
+Discussed the importance of re-engaging in active diabetes management, nutrition planning, regular physical activity, home glucose monitoring, and smoking cessation. Recommend initiation of diabetes pharmacotherapy after review of renal function, with medication selection and dosing guided by his chronic kidney disease. Obtain renal function with eGFR and urine albumin-to-creatinine ratio, along with a fasting lipid profile for risk assessment. Recommend routine diabetic retinal evaluation and comprehensive foot examination. Follow up promptly to review results and treatment response, with repeat HbA1c after an appropriate interval.

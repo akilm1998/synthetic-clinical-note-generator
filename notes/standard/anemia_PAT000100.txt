@@ -1,0 +1,49 @@
+Chief Complaint
+
+Annual review and reassessment of chronic anemia.
+
+Subjective
+
+Blake Hunter is a 36-year-old man presenting for comprehensive annual review. He has a 13-year history of anemia and a history of chronic infection for approximately 5 years and malignancy for approximately 1 year. He reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, dyspnea, palpitations, or perceived pallor. He is a current smoker.
+
+No anemia-directed treatment is documented. No medication history is provided.
+
+Objective
+
+Height 162 cm; weight 64.0 kg; BMI 24.4 kg/m².
+
+Blood pressure 125/76 mmHg
+Pulse 86 bpm
+Respiratory rate 16/min
+Temperature 36.9°C
+Oxygen saturation 97%
+
+Laboratory results:
+Hemoglobin 8.1 g/dL
+Hematocrit 24.0%
+RBC count 2.61 million/µL
+MCV 92 fL
+Serum iron 25 µg/dL
+Ferritin 309 ng/mL
+TIBC 247 µg/dL
+Transferrin saturation 10.1%
+
+Assessment
+
+Chronic normocytic anemia, with hemoglobin 8.1 g/dL and hematocrit 24.0%. Low serum iron and transferrin saturation with elevated ferritin and relatively low TIBC are most consistent with anemia of chronic inflammation, in the context of longstanding chronic infection and malignancy. The low transferrin saturation indicates limited iron availability; concurrent absolute iron deficiency is not excluded by the elevated ferritin. He is currently clinically stable and denies cardiopulmonary or constitutional symptoms.
+
+Chronic infection, approximately 5 years’ duration.
+
+Malignancy, approximately 1 year’s duration.
+
+Tobacco use.
+
+Plan
+
+Obtain a current CBC with reticulocyte count and peripheral smear to characterize the anemia and assess marrow response. Recommend vitamin B12, folate, renal function, and inflammatory marker testing as clinically appropriate. Reassess iron indices in the context of the underlying inflammatory and malignant conditions; consider evaluation for concurrent iron deficiency if the pattern persists.
+
+The underlying chronic infection and malignancy should be reviewed with the treating clinicians, with attention to disease activity and potential contribution to the anemia. Anemia-directed therapy, including consideration of iron replacement or an erythropoiesis-stimulating approach, should be guided by the underlying disease, repeat laboratory assessment, and specialist judgment rather than initiated empirically from the current data alone.
+
+Discussed smoking cessation and avoidance of tobacco-related cardiopulmonary risk. Review routine age-appropriate preventive care, immunizations, and cancer-related follow-up as applicable to his established care plan.
+
+Seek urgent evaluation for new or worsening shortness of breath, chest pain, palpitations, syncope, marked weakness, bleeding, or other acute change in condition. Arrange outpatient follow-up after repeat assessment of the anemia.

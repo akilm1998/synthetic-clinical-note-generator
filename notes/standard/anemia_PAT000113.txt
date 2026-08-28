@@ -1,0 +1,45 @@
+Chief Complaint
+
+Routine follow-up of chronic anemia.
+
+Subjective
+
+Gavin Franklin is a 91-year-old male presenting for routine outpatient follow-up of anemia documented for approximately 26 years. He reports no current fatigue, weakness, dizziness, headache, reduced exercise tolerance, shortness of breath, palpitations, or other cardiopulmonary symptoms. Pallor has not been reported.
+
+Relevant chronic conditions include inflammatory bowel disease for approximately 42 years and type 2 diabetes mellitus for approximately 50 years. He does not smoke. No current anemia-directed treatment is documented.
+
+Objective
+
+Vital signs: Blood pressure 131/75 mmHg, pulse 78 bpm, respiratory rate 20/min, temperature 36.6°C, oxygen saturation 97% on room air.
+
+Height 178 cm, weight 83.0 kg, BMI 26.2 kg/m².
+
+Laboratory data:
+Hemoglobin 8.7 g/dL
+Hematocrit 25.9%
+RBC count 2.78 million/µL
+MCV 93 fL
+Serum iron 37 µg/dL
+Ferritin 467 ng/mL
+TIBC 246 µg/dL
+Transferrin saturation 15%
+
+Assessment
+
+1. Chronic anemia consistent with anemia of chronic inflammation. Hemoglobin and hematocrit are significantly reduced with a normocytic pattern. Low serum iron and transferrin saturation with elevated ferritin and relatively low TIBC support impaired iron availability in the setting of chronic inflammation rather than uncomplicated iron depletion. Longstanding inflammatory bowel disease is a relevant contributing condition. He is currently hemodynamically stable by vital signs and denies symptoms suggestive of acute decompensation.
+
+2. Inflammatory bowel disease, longstanding. Chronic inflammatory activity may be contributing to the anemia. Current disease activity and gastrointestinal blood loss should be considered in ongoing evaluation.
+
+3. Type 2 diabetes mellitus, longstanding. No diabetes-related symptoms or treatment information were provided today.
+
+Plan
+
+Continue outpatient monitoring with attention to symptoms and functional status.
+
+Repeat complete blood count and reticulocyte count to assess current anemia severity and marrow response. Consider peripheral blood smear, vitamin B12, folate, renal function testing, and inflammatory markers as part of further evaluation.
+
+Review inflammatory bowel disease activity and assess for occult gastrointestinal blood loss or other sources of chronic blood loss as clinically indicated. Coordinate management with the clinician managing his inflammatory bowel disease if anemia worsens or remains unexplained.
+
+Given the hemoglobin of 8.7 g/dL and advanced age, discuss anemia-directed treatment after reviewing the broader evaluation. Iron replacement should be individualized; the current elevated ferritin and inflammatory pattern do not support empiric escalation without clarifying iron availability and underlying inflammation. Consider hematology consultation if hemoglobin declines, reticulocyte response is inadequate, additional abnormalities emerge, or the cause remains uncertain.
+
+Seek urgent evaluation for new chest pain, shortness of breath at rest, syncope, sustained palpitations, significant dizziness, overt gastrointestinal bleeding, or rapidly worsening weakness.

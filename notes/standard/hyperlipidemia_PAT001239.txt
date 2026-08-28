@@ -1,0 +1,43 @@
+Chief Complaint
+
+Routine follow-up for hyperlipidemia.
+
+Subjective
+
+Christian Cook is a 56-year-old man presenting for routine outpatient follow-up of hyperlipidemia, present for approximately 13 years and currently without active lipid-lowering management. He denies chest discomfort, exertional leg pain or claudication, dizziness, xanthomas, and xanthelasma. He does not smoke.
+
+Relevant comorbidities include type 2 diabetes mellitus for 7 years, non-alcoholic fatty liver disease for 31 years, and hypertension for 2 years. No medication regimen was provided for review today.
+
+Objective
+
+Height 171 cm, weight 76.6 kg, BMI 26.2 kg/m². Blood pressure 143/86 mmHg, pulse 72 bpm, respiratory rate 15/min, temperature 36.6°C, oxygen saturation 98% on room air.
+
+Recent lipid panel:
+Total cholesterol 311 mg/dL
+LDL cholesterol 206 mg/dL
+HDL cholesterol 41 mg/dL
+Triglycerides 321 mg/dL
+
+No xanthomas or xanthelasma are reported. No other examination findings provided.
+
+Assessment
+
+Hyperlipidemia with markedly elevated LDL cholesterol and elevated triglycerides, longstanding and presently untreated. The lipid profile represents substantial atherogenic cardiovascular risk, particularly in the setting of diabetes, hypertension, overweight status, and male age over 55. He has no reported symptoms suggestive of active ischemia or peripheral arterial disease.
+
+Type 2 diabetes mellitus, established comorbidity and an additional cardiovascular risk factor.
+
+Hypertension, with blood pressure above goal at today’s visit.
+
+Non-alcoholic fatty liver disease, longstanding.
+
+Plan
+
+Discussed the significance of the lipid results and the importance of active cardiovascular risk reduction. Recommend initiation of a high-intensity statin, such as atorvastatin or rosuvastatin, after shared decision-making and review of contraindications, potential adverse effects, and anticipated benefit. Given the LDL cholesterol above 190 mg/dL, treatment should not be deferred solely for additional risk calculation.
+
+Recommend a heart-healthy eating pattern with reduction of saturated and trans fats, refined carbohydrates, and excess dietary sugars; emphasize vegetables, high-fiber foods, lean proteins, and unsaturated fats. Encourage regular physical activity as tolerated and continued avoidance of tobacco.
+
+Recommend repeat fasting lipid testing after initiation or adjustment of therapy to assess response, with consideration of additional lipid-lowering therapy if LDL cholesterol remains substantially elevated despite maximally tolerated statin treatment. Consider evaluation for secondary contributors to dyslipidemia and clarification of family history of premature cardiovascular disease at follow-up.
+
+Because of coexisting fatty liver disease, review baseline hepatic status clinically and monitor for medication intolerance; non-alcoholic fatty liver disease is not by itself a reason to withhold statin therapy. Continue coordination of diabetes and blood pressure management, with reassessment of blood pressure at a subsequent visit.
+
+Return for medication and risk-factor review after treatment initiation and repeat lipid assessment, or sooner for new chest discomfort, exertional leg pain, or other concerning cardiovascular symptoms.

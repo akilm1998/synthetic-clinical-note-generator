@@ -1,0 +1,36 @@
+Chief Complaint
+Routine follow-up for chronic kidney disease.
+
+Subjective
+Bella Dean is a 63-year-old woman presenting for routine follow-up of chronic kidney disease present for approximately 32 years. She reports no current fatigue, pruritus, muscle cramps, nausea, sleep disturbance, peripheral edema, change in urination, or shortness of breath. Disease control is concerning given the current renal indices and lack of active management. Comorbidities include hyperlipidemia for 4 years, anemia of chronic disease for 7 years, and gout for 14 years. She currently smokes. No medication regimen was provided for review.
+
+Objective
+Blood pressure 145/91 mmHg, pulse 84 bpm, respiratory rate 17/min, temperature 36.7°C, oxygen saturation 98% on room air.
+
+Height 165 cm, weight 74.9 kg, BMI 27.5 kg/m².
+
+Serum creatinine 5.51 mg/dL. BUN 74 mg/dL. Estimated GFR 8 mL/min/1.73 m².
+
+Assessment
+Chronic kidney disease of 32 years’ duration with markedly reduced kidney function. Current creatinine, BUN, and estimated GFR indicate advanced renal impairment requiring prompt specialist assessment, despite absence of reported uremic or fluid-overload symptoms. Blood pressure remains above goal. Risk is increased by ongoing tobacco use and comorbid anemia, gout, and hyperlipidemia.
+
+Hyperlipidemia, chronic.
+
+Anemia of chronic disease, chronic.
+
+Gout, chronic.
+
+Overweight by BMI.
+
+Plan
+Arrange urgent nephrology evaluation for comprehensive management and discussion of renal replacement therapy planning, given the markedly reduced estimated GFR.
+
+Obtain repeat renal function testing with serum electrolytes, along with CBC, urine albumin-to-creatinine ratio, and intact parathyroid hormone. Consider renal ultrasound as part of evaluation of longstanding kidney disease.
+
+Review blood pressure management and all prescription, over-the-counter, and supplemental medications at the next visit; avoid NSAIDs and other potentially nephrotoxic agents unless specifically directed by a clinician.
+
+Address smoking cessation, dietary sodium reduction, and avoidance of dehydration. Review renal-appropriate management of gout, anemia, and hyperlipidemia with nephrology and primary care.
+
+Seek emergency care for new shortness of breath, chest pain, confusion, persistent nausea or vomiting, marked weakness, substantially decreased urination, or new swelling.
+
+Follow up promptly after nephrology assessment and repeat laboratory evaluation.

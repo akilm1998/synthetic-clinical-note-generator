@@ -1,0 +1,20 @@
+Chief Complaint
+Urgent follow-up for chronic anemia.
+
+Subjective
+Dominic Ellis is an 84-year-old man presenting for focused follow-up of anemia present for approximately 20 years. He denies fatigue, weakness, dizziness, headache, pallor, reduced exercise tolerance, dyspnea, palpitations, or other cardiopulmonary symptoms. He does not smoke. Relevant chronic conditions include inflammatory bowel disease for 38 years, malignancy for 33 years, and chronic kidney disease for 3 years. Current anemia is not under active management. Height is 181 cm, weight 82.9 kg, BMI 25.3 kg/m².
+
+Objective
+Vital signs: blood pressure 139/77 mmHg, pulse 81 bpm, respiratory rate 21/min, temperature 36.7°C, oxygen saturation 97%.
+
+Laboratory results: hemoglobin 8.5 g/dL, hematocrit 25.6%, RBC count 2.88 million/µL, MCV 89 fL, serum iron 35 µg/dL, ferritin 256 ng/mL, TIBC 214 µg/dL, transferrin saturation 16.4%.
+
+Assessment
+Chronic normocytic anemia with significant reduction in hemoglobin and hematocrit. The low serum iron and transferrin saturation in conjunction with elevated ferritin and low TIBC are most consistent with anemia of chronic inflammation/chronic disease, in the setting of longstanding inflammatory bowel disease, malignancy, and chronic kidney disease. He is currently hemodynamically stable and reports no symptoms suggestive of acute tissue hypoxia or ongoing cardiopulmonary compromise.
+
+Plan
+Prompt clinical reassessment is recommended given hemoglobin of 8.5 g/dL and the absence of active anemia management. Recommend completion or review of a CBC with reticulocyte count, peripheral smear, vitamin B12, folate, renal function testing, and inflammatory markers to further characterize the anemia and assess potentially reversible contributors.
+
+Recommend evaluation for occult blood loss or gastrointestinal disease activity, particularly given the history of inflammatory bowel disease, and review of the underlying malignancy and chronic kidney disease as contributors. Hematology and appropriate chronic disease specialists should be involved to determine whether treatment with iron supplementation, intravenous iron, or an erythropoiesis-stimulating agent is appropriate; no treatment is initiated or presumed today.
+
+He should seek urgent emergency evaluation for new or worsening shortness of breath, chest pain, palpitations, syncope, significant dizziness, marked weakness, or evidence of bleeding. Close outpatient follow-up is advised after reassessment.
