@@ -5,28 +5,35 @@ __pycache__/
 .vscode/
 .env
 test.txt
-#
+/notes/**
 /*.parquet
 
+# Unignore the directories needed to reach selected files
+!/notes/
+!/notes/comprehensive/
+!/notes/concise/
+!/notes/standard/
 
-# Unignore the folders needed to reach the files
-# !/notes/comprehensive/
-# !/notes/concise/
-# !/notes/standard/
+# Ignore everything inside those directories
+/notes/comprehensive/*
+/notes/concise/*
+/notes/standard/*
 
-# Unignore only these 15 files
-# !/notes/comprehensive/anemia_PAT000013.txt
-# !notes/comprehensive/ckd_PAT000762.txt
-# !/notes/comprehensive/diabetes_PAT000269.txt
-# !/notes/comprehensive/hyperlipidemia_PAT001004.txt
-# !/notes/comprehensive/hypertension_PAT000503.txt
-# !/notes/concise/anemia_PAT000004.txt
-# !/notes/concise/ckd_PAT000759.txt
-# !/notes/concise/diabetes_PAT000253.txt
-# !/notes/concise/hyperlipidemia_PAT001003.txt
-# !/notes/concise/hypertension_PAT000502.txt
-# !/notes/standard/anemia_PAT000001.txt
-# !/notes/standard/ckd_PAT000751.txt
-# !/notes/standard/diabetes_PAT000251.txt
-# !/notes/standard/hyperlipidemia_PAT001001.txt
-# !/notes/standard/hypertension_PAT000501.txt
+# Track only these 15 files
+!/notes/comprehensive/anemia_PAT000013.txt
+!/notes/comprehensive/ckd_PAT000762.txt
+!/notes/comprehensive/diabetes_PAT000269.txt
+!/notes/comprehensive/hyperlipidemia_PAT001004.txt
+!/notes/comprehensive/hypertension_PAT000503.txt
+
+!/notes/concise/anemia_PAT000004.txt
+!/notes/concise/ckd_PAT000759.txt
+!/notes/concise/diabetes_PAT000253.txt
+!/notes/concise/hyperlipidemia_PAT001003.txt
+!/notes/concise/hypertension_PAT000502.txt
+
+!/notes/standard/anemia_PAT000001.txt
+!/notes/standard/ckd_PAT000751.txt
+!/notes/standard/diabetes_PAT000251.txt
+!/notes/standard/hyperlipidemia_PAT001001.txt
+!/notes/standard/hypertension_PAT000501.txt
