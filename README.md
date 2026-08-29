@@ -65,26 +65,42 @@ and machine learning pipeline.
 
 ## V1 Findings
 
-The initial baseline model achieved very high accuracy. Further inspection showed that the generated clinical notes explicitly contained the diagnosis or condition name associated with the target ICD-10 code.
+The initial baseline model achieved very high accuracy. Further inspection
+showed that the generated clinical notes explicitly contained the diagnosis
+or condition name associated with the target ICD-10 code.
 
-As a result, the model could learn to associate explicitly stated condition names with their corresponding ICD-10 codes rather than needing to infer the diagnosis from clinical findings, symptoms, laboratory values, and other contextual information.
+As a result, the model could learn to associate explicitly stated condition
+names with their corresponding ICD-10 codes rather than needing to infer
+the diagnosis from clinical findings, symptoms, laboratory values, and
+other contextual information.
 
-The V1 approach also does not adequately distinguish the clinical context, etiology, or subcondition that may determine a more specific ICD-10 code.
+The V1 approach also does not adequately distinguish the clinical context,
+etiology, or subcondition that may determine a more specific ICD-10 code.
 
-The supervised ML approach is also dependent on the conditions and ICD-10 codes represented in its training data. Introducing previously unseen
-conditions would require additional training data and model retraining, which limits scalability.
+The supervised ML approach is also dependent on the conditions and ICD-10
+codes represented in its training data. Introducing previously unseen
+conditions would require additional training data and model retraining,
+which limits scalability.
 
-The V1 dataset and model are therefore retained as an initial end-to-end proof of concept.
+The V1 dataset and model are therefore retained as an initial end-to-end
+proof of concept.
 
 The reference clinical notes created during V1 are also retained as
 baseline examples for subsequent iterations.
 
 ## V1 Conclusion
 
-V1 successfully demonstrated the complete pipeline from structured patient and diagnosis information to synthetic clinical notes, dataset creation, and an initial ICD-10 prediction model.
+V1 successfully demonstrated the complete pipeline from structured patient
+and diagnosis information to synthetic clinical notes, dataset creation,
+and an initial ICD-10 prediction model.
 
 The primary limitations identified in V1 are that:
 
-1. The model can recognize an explicitly stated condition but does not adequately distinguish the clinical context, etiology, or subcondition that determines the more specific ICD-10 code.
+1. The model can recognize an explicitly stated condition but does not
+   adequately distinguish the clinical context, etiology, or subcondition
+   that determines the more specific ICD-10 code.
 
-2. The supervised ML approach depends on training data for the conditions and ICD-10 codes it is expected to predict. Introducing previously unseen conditions requires additional training data and model retraining, limiting scalability.
+2. The supervised ML approach depends on training data for the conditions
+   and ICD-10 codes it is expected to predict. Introducing previously
+   unseen conditions requires additional training data and model
+   retraining, limiting scalability.
