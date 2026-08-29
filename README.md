@@ -9,6 +9,44 @@ Build a reproducible pipeline that generates realistic synthetic clinical
 notes from structured diagnosis and patient information, with the goal of
 supporting ICD-10 code prediction from clinical text.
 
+### V1 Architecture
+
+              Diagnosis Profile
+                     │
+                     ▼
+              Patient Profile
+                     │
+                     ▼
+          Synthetic Patient Data
+                     │
+                     ▼
+          Clinical Note Generation
+                     │
+                     ▼
+             Synthetic Clinical Note
+                     │
+                     ▼
+              Dataset Creation
+                     │
+                     ▼
+             Dataset Validation
+                     │
+                     ▼
+          Clinical Notes + ICD-10
+                     │
+                     ▼
+             Baseline ML Model (Logestic Regression)
+                     │
+              ┌──────┴──────┐
+              ▼             ▼
+          Prediction     Evaluation
+              │             │
+              └──────┬──────┘
+                     ▼
+                V1 Findings
+                     │
+                     ▼
+              Diagnosis-Name
 ## V1 Status
 
 V1 established the initial end-to-end synthetic clinical note generation
