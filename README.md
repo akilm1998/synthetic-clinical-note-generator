@@ -11,42 +11,36 @@ supporting ICD-10 code prediction from clinical text.
 
 ### V1 Architecture
 
-              Diagnosis Profile
-                     │
-                     ▼
-              Patient Profile
-                     │
-                     ▼
-          Synthetic Patient Data
-                     │
-                     ▼
-          Clinical Note Generation
-                     │
-                     ▼
-             Synthetic Clinical Note
-                     │
-                     ▼
-              Dataset Creation
-                     │
-                     ▼
-             Dataset Validation
-                     │
-                     ▼
-          Clinical Notes + ICD-10
-                     │
-                     ▼
-             Baseline ML Model (Logestic Regression)
-                     │
-              ┌──────┴──────┐
-              ▼             ▼
-          Prediction     Evaluation
-              │             │
-              └──────┬──────┘
-                     ▼
-                V1 Findings
-                     │
-                     ▼
-              Diagnosis-Name
+              Structured Input
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+  Diagnosis Profile     Patient Profile
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+             Synthetic Patient
+                    │
+                    ▼
+            LLM Clinical Note
+                Generation
+                    │
+                    ▼
+             Synthetic Clinical
+                  Notes
+                    │
+                    ▼
+             Dataset Creation
+                    │
+                    ▼
+           ICD-10 + Clinical Note
+                    │
+                    ▼
+            Baseline ML Model
+                    │
+                    ▼
+               Evaluation
+
 ## V1 Status
 
 V1 established the initial end-to-end synthetic clinical note generation
@@ -92,4 +86,8 @@ V1 successfully demonstrated the complete pipeline from structured patient
 and diagnosis information to synthetic clinical notes, dataset creation,
 and an initial ICD-10 prediction model.
 
-The primary limitation identified in V1 is diagnosis-name leakage in the synthetic clinical notes.
+The primary limitations identified in V1 are that:
+
+1. The model can recognize an explicitly stated condition but does not adequately distinguish the clinical context, etiology, or subcondition that determines the more specific ICD-10 code.
+
+2. The supervised ML approach depends on training data for the conditions and ICD-10 codes it is expected to predict, requiring additional training data and retraining when introducing previously unseen conditions.
