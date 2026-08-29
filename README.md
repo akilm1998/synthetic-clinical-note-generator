@@ -19,27 +19,27 @@ supporting ICD-10 code prediction from clinical text.
           │                   │
           └─────────┬─────────┘
                     ▼
-          Synthetic Patient
+            Synthetic Patient
                     │
                     ▼
-        LLM Clinical Note
-           Generation
+           LLM Clinical Note
+                Generation
                     │
                     ▼
-        Synthetic Clinical
-              Notes
+           Synthetic Clinical
+                  Notes
                     │
                     ▼
-          Dataset Creation
+              Dataset Creation
                     │
                     ▼
-       ICD-10 + Clinical Note
+           ICD-10 + Clinical Note
                     │
                     ▼
-          Baseline ML Model
+            Baseline ML Model
                     │
                     ▼
-             Evaluation
+                Evaluation
 ```
 
 ## V1 Status
