@@ -10,7 +10,7 @@ notes from structured diagnosis and patient information, with the goal of
 supporting ICD-10 code prediction from clinical text.
 
 ### V1 Architecture
-
+```text
               Structured Input
                     │
           ┌─────────┴─────────┐
@@ -40,6 +40,7 @@ supporting ICD-10 code prediction from clinical text.
                     │
                     ▼
              Evaluation
+```
 
 ## V1 Status
 
@@ -96,11 +97,6 @@ and an initial ICD-10 prediction model.
 
 The primary limitations identified in V1 are that:
 
-1. The model can recognize an explicitly stated condition but does not
-   adequately distinguish the clinical context, etiology, or subcondition
-   that determines the more specific ICD-10 code.
+1. The model can recognize an explicitly stated condition but does not adequately distinguish the clinical context, etiology, or subcondition that determines the more specific ICD-10 code.
 
-2. The supervised ML approach depends on training data for the conditions
-   and ICD-10 codes it is expected to predict. Introducing previously
-   unseen conditions requires additional training data and model
-   retraining, limiting scalability.
+2. The supervised ML approach depends on training data for the conditions and ICD-10 codes it is expected to predict. Introducing previously unseen conditions requires additional training data and model retraining, limiting scalability.
