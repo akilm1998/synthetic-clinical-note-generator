@@ -1,0 +1,8 @@
+.venv/
+notes*
+src*
+__pycache__/
+*.pyc
+.ruff_cache/
+.vscode/
+.env
