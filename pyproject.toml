@@ -14,5 +14,4 @@ dependencies = [
     "pyarrow",
     "requests",
     "beautifulsoup4",
-    "spacy"
 ]
