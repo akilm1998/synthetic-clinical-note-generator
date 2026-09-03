@@ -1,13 +1,30 @@
+import os
+
 from functions import (
-    decode_note,
     get_data,
     get_encounter_data,
     get_resource_summary,
     normalize_patient_data,
 )
 
+file_paths = [
+    "encounter_data.txt",
+    "patient_encounter_notes.txt",
+]
+
+
 if __name__ == "__main__":
-    patient_data_file = r"C:\Users\akile\OneDrive\Desktop\medical-coding-project\synthetic-clinical-note-generator\src\patients\Earle679_Rohan584_b17949c8-25eb-0f29-f85a-11dcbf64eacd.json"
+    # Check if the file exists before deleting
+    for file_path in file_paths:
+        if os.path.exists(file_path):
+            os.remove(file_path)
+            print(f"Deleted: {file_path}")
+
+    patient_data_file = (
+        r"C:\Users\akile\OneDrive\Desktop\medical-coding-project"
+        r"\synthetic-clinical-note-generator\src\patients"
+        r"\Earle679_Rohan584_b17949c8-25eb-0f29-f85a-11dcbf64eacd.json"
+    )
 
     data = get_data(patient_data_file)
 
@@ -28,17 +45,22 @@ if __name__ == "__main__":
     print(f"Total encounters: {count}")
 
     with open("encounter_data.txt", "w") as outfile:
-        for encounter_id in e_list:
-            encounter_data = get_encounter_data(data, encounter_id)
+        with open("patient_encounter_notes.txt", "w") as note_file:
+            for encounter_id in e_list:
+                encounter_data = get_encounter_data(data, encounter_id)
+                print(encounter_data)
 
-            # Decode Base64 clinical notes
-            for note in encounter_data["notes"]:
-                decoded_note = decode_note(note)
+                # Write clean clinical notes for inspection
+                for note in encounter_data["notes"]:
+                    clinical_note = note.get("clinical_note")
 
-                if decoded_note is not None:
-                    note["presentedForm"][0]["data"] = decoded_note
-                    with open("patient_encounter_notes.txt", "a") as note_file:
+                    if clinical_note is not None:
                         note_file.write(f"Encounter ID: {encounter_id}\n")
-                        note_file.write(f"Decoded Note: {decoded_note}\n\n  ")
 
-            outfile.write(f"{encounter_data}\n")
+                        note_file.write(
+                            f"DiagnosticReport ID: {note.get('source_id')}\n"
+                        )
+
+                        note_file.write(f"Clinical Note:\n{clinical_note}\n\n")
+
+                outfile.write(f"{encounter_data}\n")

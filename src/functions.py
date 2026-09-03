@@ -211,14 +211,33 @@ def get_encounter_data(data, encounter_id):
     if encounter is None:
         raise ValueError(f"Encounter not found: {encounter_id}")
 
+    diagnostic_reports = _find_resources_for_encounter(
+        "DiagnosticReport",
+        encounter_id,
+        resources,
+    )
+
+    notes = []
+
+    for report in diagnostic_reports:
+        clinical_note = decode_note(report)
+        if clinical_note is not None:
+            notes.append(
+                {
+                    "source": "DiagnosticReport",
+                    "source_id": report.get("id"),
+                    "clinical_note": clinical_note,
+                }
+            )
+
     return {
         "encounter": encounter,
         "conditions": _find_resources_for_encounter(
-            "Condition", encounter_id, resources
+            "Condition",
+            encounter_id,
+            resources,
         ),
-        "notes": _find_resources_for_encounter(
-            "DiagnosticReport", encounter_id, resources
-        ),
+        "notes": notes,
     }
 
 

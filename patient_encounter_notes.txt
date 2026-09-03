@@ -1,5 +1,7 @@
 Encounter ID: b17949c8-25eb-0f29-19d0-660667a30494
-Decoded Note: 
+DiagnosticReport ID: 855f8e89-933f-b1c2-0c15-c663a8308811
+Clinical Note:
+
 2004-12-25
 
 # Chief Complaint
@@ -32,8 +34,10 @@ The patient was prescribed the following medications:
 - fexofenadine hydrochloride 30 mg oral tablet
 
 
-  Encounter ID: b17949c8-25eb-0f29-9fd0-405d81782500
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-9fd0-405d81782500
+DiagnosticReport ID: ddaeebd5-4bdb-de99-8f6d-bc7cd29652cf
+Clinical Note:
+
 2004-12-27
 
 # Chief Complaint
@@ -68,8 +72,10 @@ The patient was placed on a careplan:
 - self-care interventions (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-370f-a5da68f81429
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-370f-a5da68f81429
+DiagnosticReport ID: c49bca9b-988c-168a-7338-d8080840406c
+Clinical Note:
+
 2012-11-17
 
 # Chief Complaint
@@ -102,8 +108,10 @@ The patient was placed on a careplan:
 - allergic disorder monitoring (regime/therapy)
 
 
-  Encounter ID: b17949c8-25eb-0f29-be23-31a168ec4ae8
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-be23-31a168ec4ae8
+DiagnosticReport ID: 04058a1e-76de-fcdd-403b-5dc0246cf362
+Clinical Note:
+
 2015-12-26
 
 # Chief Complaint
@@ -134,8 +142,10 @@ Patient is presenting with medication review due (situation).
 
 
 
-  Encounter ID: b17949c8-25eb-0f29-1aba-4102498a0b63
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-1aba-4102498a0b63
+DiagnosticReport ID: 8b68bb94-f374-75a0-f7d8-6fbed52312ad
+Clinical Note:
+
 2016-09-20
 
 # Chief Complaint
@@ -168,8 +178,10 @@ The following procedures were conducted:
 - subcutaneous immunotherapy (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-35fb-9c8cd7592684
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-35fb-9c8cd7592684
+DiagnosticReport ID: cf6bfa7e-e9b7-2be5-92c5-3499c2969439
+Clinical Note:
+
 2016-10-14
 
 # Chief Complaint
@@ -202,8 +214,10 @@ The following procedures were conducted:
 - subcutaneous immunotherapy (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-4719-18a7a6f5a101
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-4719-18a7a6f5a101
+DiagnosticReport ID: 71e2a431-7088-2316-1969-5ea5a639e1e7
+Clinical Note:
+
 2016-11-05
 
 # Chief Complaint
@@ -236,8 +250,10 @@ The following procedures were conducted:
 - subcutaneous immunotherapy (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-ff92-14cabd872210
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-ff92-14cabd872210
+DiagnosticReport ID: 1eef9b29-02bf-4e4b-8a53-18ca51ccb333
+Clinical Note:
+
 2016-11-29
 
 # Chief Complaint
@@ -270,8 +286,10 @@ The following procedures were conducted:
 - subcutaneous immunotherapy (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-7fbb-5345449795b8
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-7fbb-5345449795b8
+DiagnosticReport ID: 1d4320dd-8bde-1a04-be92-2e4274497d81
+Clinical Note:
+
 2016-12-21
 
 # Chief Complaint
@@ -304,8 +322,10 @@ The following procedures were conducted:
 - allergy screening test (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-4275-a537b2138285
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-4275-a537b2138285
+DiagnosticReport ID: e77b7d2b-72da-e487-f4e7-ecdf9cbc9324
+Clinical Note:
+
 2016-12-31
 
 # Chief Complaint
@@ -347,8 +367,10 @@ The following lab reports were completed:
 - patient health questionnaire-9: modified for teens [reported.phq.teen]
 
 
-  Encounter ID: b17949c8-25eb-0f29-6337-2f6f6463c8ad
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-6337-2f6f6463c8ad
+DiagnosticReport ID: 40e0dc8e-0c2e-85f0-2049-30516968a0c9
+Clinical Note:
+
 2017-01-14
 
 # Chief Complaint
@@ -388,8 +410,10 @@ The following procedures were conducted:
 - oral health education (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-0dca-e9e76dd958b3
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-0dca-e9e76dd958b3
+DiagnosticReport ID: fecc53f8-2eb3-4fd9-7737-fb3b89cf3ce4
+Clinical Note:
+
 2017-07-14
 
 # Chief Complaint
@@ -426,8 +450,10 @@ The patient was placed on a careplan:
 - respiratory therapy (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-58e9-a998a481656d
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-58e9-a998a481656d
+DiagnosticReport ID: d18058e0-cdac-e645-ccc2-f6fbb77dbd0c
+Clinical Note:
+
 2017-07-22
 
 # Chief Complaint
@@ -463,8 +489,10 @@ The following lab reports were completed:
 - generalized anxiety disorder 7 item (gad-7)
 
 
-  Encounter ID: b17949c8-25eb-0f29-9581-c19c92609597
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-9581-c19c92609597
+DiagnosticReport ID: 01ce0817-4d3f-6bf2-0f32-f082b0bd0d41
+Clinical Note:
+
 2017-08-05
 
 # Chief Complaint
@@ -502,8 +530,10 @@ The following procedures were conducted:
 - oral health education (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-7b2d-a73843d531c9
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-7b2d-a73843d531c9
+DiagnosticReport ID: 88c5a20a-47a9-0bc4-2a73-3000cce54198
+Clinical Note:
+
 2018-01-06
 
 # Chief Complaint
@@ -548,8 +578,10 @@ The following lab reports were completed:
 - alcohol use disorder identification test - consumption [audit-c]
 
 
-  Encounter ID: b17949c8-25eb-0f29-dc2d-28ef8859e378
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-dc2d-28ef8859e378
+DiagnosticReport ID: e342ad19-2fdb-02d2-815d-96ea06a1fe15
+Clinical Note:
+
 2018-01-20
 
 # Chief Complaint
@@ -592,8 +624,10 @@ The following procedures were conducted:
 - oral health education (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-5d46-35584cd96cec
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-5d46-35584cd96cec
+DiagnosticReport ID: ad874cd8-874b-77ca-f0e2-68c591c3e371
+Clinical Note:
+
 2019-01-12
 
 # Chief Complaint
@@ -634,8 +668,10 @@ The following lab reports were completed:
 - drug abuse screening test-10 [dast-10]
 
 
-  Encounter ID: b17949c8-25eb-0f29-7a84-904c60f35380
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-7a84-904c60f35380
+DiagnosticReport ID: 672a28fb-a67d-ced2-0437-956b5aa7b081
+Clinical Note:
+
 2019-01-26
 
 # Chief Complaint
@@ -679,8 +715,10 @@ The following procedures were conducted:
 - oral health education (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-196e-44e3b9681a17
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-196e-44e3b9681a17
+DiagnosticReport ID: cac04821-fcb5-86fe-1e83-a55c178e6667
+Clinical Note:
+
 2022-01-15
 
 # Chief Complaint
@@ -719,8 +757,10 @@ The following lab reports were completed:
 - patient health questionnaire 2 item (phq-2) [reported]
 
 
-  Encounter ID: b17949c8-25eb-0f29-4379-f6c5702edde3
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-4379-f6c5702edde3
+DiagnosticReport ID: 43a37444-560a-9227-30ad-ecaffd4ded43
+Clinical Note:
+
 2023-07-07
 
 # Chief Complaint
@@ -751,8 +791,10 @@ Patient is presenting with acute viral pharyngitis (disorder).
 
 
 
-  Encounter ID: b17949c8-25eb-0f29-840c-3642fa8be965
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-840c-3642fa8be965
+DiagnosticReport ID: ab4118ac-657d-c936-58cf-0f31a1b39cd8
+Clinical Note:
+
 2023-07-15
 
 # Chief Complaint
@@ -794,8 +836,10 @@ The following lab reports were completed:
 - alcohol use disorder identification test - consumption [audit-c]
 
 
-  Encounter ID: b17949c8-25eb-0f29-776c-d36b1c2f2728
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-776c-d36b1c2f2728
+DiagnosticReport ID: 8fe06b40-fd72-815b-0416-1cffce1a0816
+Clinical Note:
+
 2023-07-29
 
 # Chief Complaint
@@ -835,8 +879,10 @@ The following procedures were conducted:
 - oral health education (procedure)
 
 
-  Encounter ID: b17949c8-25eb-0f29-d5ff-710745fad1f0
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-d5ff-710745fad1f0
+DiagnosticReport ID: 5d1b47cc-2f1e-7df9-6793-b373727999e6
+Clinical Note:
+
 2025-01-18
 
 # Chief Complaint
@@ -877,8 +923,10 @@ The following lab reports were completed:
 - patient health questionnaire 2 item (phq-2) [reported]
 
 
-  Encounter ID: b17949c8-25eb-0f29-b81b-1d27519a438b
-Decoded Note: 
+Encounter ID: b17949c8-25eb-0f29-b81b-1d27519a438b
+DiagnosticReport ID: d453fd89-fe63-a3af-0e6e-d66966b76709
+Clinical Note:
+
 2025-02-01
 
 # Chief Complaint
@@ -917,4 +965,3 @@ The following procedures were conducted:
 - oral health education (procedure)
 
 
-  
