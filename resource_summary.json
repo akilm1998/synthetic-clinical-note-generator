@@ -1,0 +1,2122 @@
+{
+    "urn:uuid:b17949c8-25eb-0f29-f85a-11dcbf64eacd": {
+        "resourceType": "Patient",
+        "id": "b17949c8-25eb-0f29-f85a-11dcbf64eacd",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-19d0-660667a30494": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-19d0-660667a30494",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1d48-8ea4f683a7e4": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-1d48-8ea4f683a7e4",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6841-4d969d66b246": {
+        "resourceType": "MedicationRequest",
+        "id": "b17949c8-25eb-0f29-6841-4d969d66b246",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-801f-874d15c26921": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-801f-874d15c26921",
+        "status": "active"
+    },
+    "urn:uuid:e47301f8-6e8b-a41d-1a2c-c91646ee3e92": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "e47301f8-6e8b-a41d-1a2c-c91646ee3e92",
+        "status": "active"
+    },
+    "urn:uuid:855f8e89-933f-b1c2-0c15-c663a8308811": {
+        "resourceType": "DiagnosticReport",
+        "id": "855f8e89-933f-b1c2-0c15-c663a8308811",
+        "status": "final"
+    },
+    "urn:uuid:f0e40758-da23-23b4-779e-7b8e8be1f45c": {
+        "resourceType": "DocumentReference",
+        "id": "f0e40758-da23-23b4-779e-7b8e8be1f45c",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0cb8-c8ec9a0a8f4b": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-0cb8-c8ec9a0a8f4b",
+        "status": "active"
+    },
+    "urn:uuid:9ce3fced-36a2-b529-ff7e-7122f069d301": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "9ce3fced-36a2-b529-ff7e-7122f069d301",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9fd0-405d81782500": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-9fd0-405d81782500",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b6e2-62f385557256": {
+        "resourceType": "AllergyIntolerance",
+        "id": "b17949c8-25eb-0f29-b6e2-62f385557256",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-09d7-c43b9d4eebf6": {
+        "resourceType": "AllergyIntolerance",
+        "id": "b17949c8-25eb-0f29-09d7-c43b9d4eebf6",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6eac-a13c6ab323ab": {
+        "resourceType": "AllergyIntolerance",
+        "id": "b17949c8-25eb-0f29-6eac-a13c6ab323ab",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f21f-012e4f4d26b1": {
+        "resourceType": "AllergyIntolerance",
+        "id": "b17949c8-25eb-0f29-f21f-012e4f4d26b1",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-903c-5092cde1c128": {
+        "resourceType": "MedicationRequest",
+        "id": "b17949c8-25eb-0f29-903c-5092cde1c128",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9d47-13f4fe0e0f91": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-9d47-13f4fe0e0f91",
+        "status": "active"
+    },
+    "urn:uuid:5a6fd6cf-81cb-7d21-935e-de29841a03d8": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "5a6fd6cf-81cb-7d21-935e-de29841a03d8",
+        "status": "active"
+    },
+    "urn:uuid:44a13875-0d45-f4a8-4b3e-45e37f24035c": {
+        "resourceType": "CareTeam",
+        "id": "44a13875-0d45-f4a8-4b3e-45e37f24035c",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a2ec-3a4b3576eb8a": {
+        "resourceType": "CarePlan",
+        "id": "b17949c8-25eb-0f29-a2ec-3a4b3576eb8a",
+        "status": "active"
+    },
+    "urn:uuid:ddaeebd5-4bdb-de99-8f6d-bc7cd29652cf": {
+        "resourceType": "DiagnosticReport",
+        "id": "ddaeebd5-4bdb-de99-8f6d-bc7cd29652cf",
+        "status": "final"
+    },
+    "urn:uuid:8ba62604-6e17-81f9-5f47-d392649cbe2f": {
+        "resourceType": "DocumentReference",
+        "id": "8ba62604-6e17-81f9-5f47-d392649cbe2f",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cf52-8dbe356e3dc4": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-cf52-8dbe356e3dc4",
+        "status": "active"
+    },
+    "urn:uuid:a7881613-0004-8b02-3c5b-b7c0ce4043e2": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "a7881613-0004-8b02-3c5b-b7c0ce4043e2",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-370f-a5da68f81429": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-370f-a5da68f81429",
+        "status": "finished"
+    },
+    "urn:uuid:2ff550dd-91b7-2828-aded-16027a229f56": {
+        "resourceType": "CareTeam",
+        "id": "2ff550dd-91b7-2828-aded-16027a229f56",
+        "status": "inactive"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3b17-239bb4bbbba9": {
+        "resourceType": "CarePlan",
+        "id": "b17949c8-25eb-0f29-3b17-239bb4bbbba9",
+        "status": "completed"
+    },
+    "urn:uuid:c49bca9b-988c-168a-7338-d8080840406c": {
+        "resourceType": "DiagnosticReport",
+        "id": "c49bca9b-988c-168a-7338-d8080840406c",
+        "status": "final"
+    },
+    "urn:uuid:0eea3ccd-6a30-aa82-b039-4a32529c0dff": {
+        "resourceType": "DocumentReference",
+        "id": "0eea3ccd-6a30-aa82-b039-4a32529c0dff",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-28b5-20add6eba219": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-28b5-20add6eba219",
+        "status": "active"
+    },
+    "urn:uuid:c8f210cd-9016-f33f-46e9-d5f278826a6e": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "c8f210cd-9016-f33f-46e9-d5f278826a6e",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-be23-31a168ec4ae8": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-be23-31a168ec4ae8",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5d14-74cbea86cb29": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-5d14-74cbea86cb29",
+        "status": null
+    },
+    "urn:uuid:04058a1e-76de-fcdd-403b-5dc0246cf362": {
+        "resourceType": "DiagnosticReport",
+        "id": "04058a1e-76de-fcdd-403b-5dc0246cf362",
+        "status": "final"
+    },
+    "urn:uuid:bb9caedd-0298-e6ff-2b50-d8beb135f46c": {
+        "resourceType": "DocumentReference",
+        "id": "bb9caedd-0298-e6ff-2b50-d8beb135f46c",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8fb8-ea94b76fcc67": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-8fb8-ea94b76fcc67",
+        "status": "active"
+    },
+    "urn:uuid:6f0f066b-eaee-cc71-4600-3d654b793642": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "6f0f066b-eaee-cc71-4600-3d654b793642",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1aba-4102498a0b63": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-1aba-4102498a0b63",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-08a6-4a3a3a19668a": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-08a6-4a3a3a19668a",
+        "status": "completed"
+    },
+    "urn:uuid:8b68bb94-f374-75a0-f7d8-6fbed52312ad": {
+        "resourceType": "DiagnosticReport",
+        "id": "8b68bb94-f374-75a0-f7d8-6fbed52312ad",
+        "status": "final"
+    },
+    "urn:uuid:5f08c8d1-038a-dd82-c3f1-3434812c2c8f": {
+        "resourceType": "DocumentReference",
+        "id": "5f08c8d1-038a-dd82-c3f1-3434812c2c8f",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1479-a4e73236795c": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-1479-a4e73236795c",
+        "status": "active"
+    },
+    "urn:uuid:812a1385-84b8-7401-4e25-4a59266657c9": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "812a1385-84b8-7401-4e25-4a59266657c9",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-35fb-9c8cd7592684": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-35fb-9c8cd7592684",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6410-0352fa834b88": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6410-0352fa834b88",
+        "status": "completed"
+    },
+    "urn:uuid:cf6bfa7e-e9b7-2be5-92c5-3499c2969439": {
+        "resourceType": "DiagnosticReport",
+        "id": "cf6bfa7e-e9b7-2be5-92c5-3499c2969439",
+        "status": "final"
+    },
+    "urn:uuid:d4bb9a48-cd47-9b38-cffe-3863b71871ff": {
+        "resourceType": "DocumentReference",
+        "id": "d4bb9a48-cd47-9b38-cffe-3863b71871ff",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-19c6-4bd6ccee4bb1": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-19c6-4bd6ccee4bb1",
+        "status": "active"
+    },
+    "urn:uuid:f787a7b4-bc02-9f2c-605b-49629fe95700": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "f787a7b4-bc02-9f2c-605b-49629fe95700",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4719-18a7a6f5a101": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-4719-18a7a6f5a101",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1130-d51e214771a0": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-1130-d51e214771a0",
+        "status": "completed"
+    },
+    "urn:uuid:71e2a431-7088-2316-1969-5ea5a639e1e7": {
+        "resourceType": "DiagnosticReport",
+        "id": "71e2a431-7088-2316-1969-5ea5a639e1e7",
+        "status": "final"
+    },
+    "urn:uuid:6c0f6c66-afc6-d2ab-fa05-f1a2e59a7458": {
+        "resourceType": "DocumentReference",
+        "id": "6c0f6c66-afc6-d2ab-fa05-f1a2e59a7458",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e17b-f7186547df87": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-e17b-f7186547df87",
+        "status": "active"
+    },
+    "urn:uuid:86a3037f-81cb-8762-16af-5e21c41a0e1a": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "86a3037f-81cb-8762-16af-5e21c41a0e1a",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ff92-14cabd872210": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-ff92-14cabd872210",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cfed-4a4d55b23cdf": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-cfed-4a4d55b23cdf",
+        "status": "completed"
+    },
+    "urn:uuid:1eef9b29-02bf-4e4b-8a53-18ca51ccb333": {
+        "resourceType": "DiagnosticReport",
+        "id": "1eef9b29-02bf-4e4b-8a53-18ca51ccb333",
+        "status": "final"
+    },
+    "urn:uuid:304f2bad-d746-b9c5-9bf6-6f08f333c43d": {
+        "resourceType": "DocumentReference",
+        "id": "304f2bad-d746-b9c5-9bf6-6f08f333c43d",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-43f0-6064304352ae": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-43f0-6064304352ae",
+        "status": "active"
+    },
+    "urn:uuid:07f74a08-b8d5-7a10-9003-ec63075c31a0": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "07f74a08-b8d5-7a10-9003-ec63075c31a0",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7fbb-5345449795b8": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-7fbb-5345449795b8",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a794-285464d15ea7": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-a794-285464d15ea7",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1ed7-ffb029e93c1d": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-1ed7-ffb029e93c1d",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-63bd-537d6b1d2cb5": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-63bd-537d6b1d2cb5",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ef23-0ec669bbb021": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-ef23-0ec669bbb021",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-fe81-3768f7af9718": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-fe81-3768f7af9718",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c651-a0f8a0fd066a": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-c651-a0f8a0fd066a",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6096-69e5a4a31754": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6096-69e5a4a31754",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ca68-a6dad086a915": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-ca68-a6dad086a915",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9d3b-e067114037c0": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-9d3b-e067114037c0",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3c29-46ddd9efcc54": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-3c29-46ddd9efcc54",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a55f-c0813ed75a09": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-a55f-c0813ed75a09",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1a04-35dc18ad1cec": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-1a04-35dc18ad1cec",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1d9f-c06efb9ccdad": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-1d9f-c06efb9ccdad",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8fef-9f8f8507beb7": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-8fef-9f8f8507beb7",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a2c5-178f1b813681": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-a2c5-178f1b813681",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d974-483e3581f6f4": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-d974-483e3581f6f4",
+        "status": "completed"
+    },
+    "urn:uuid:1d4320dd-8bde-1a04-be92-2e4274497d81": {
+        "resourceType": "DiagnosticReport",
+        "id": "1d4320dd-8bde-1a04-be92-2e4274497d81",
+        "status": "final"
+    },
+    "urn:uuid:3e9c0e5b-c83b-d1fd-99b7-fb6640a77940": {
+        "resourceType": "DocumentReference",
+        "id": "3e9c0e5b-c83b-d1fd-99b7-fb6640a77940",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a2f5-8a2400eb255c": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-a2f5-8a2400eb255c",
+        "status": "active"
+    },
+    "urn:uuid:20bed345-211e-cca3-f7b0-f27671893673": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "20bed345-211e-cca3-f7b0-f27671893673",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4275-a537b2138285": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-4275-a537b2138285",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-27fa-532390d7cc18": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-27fa-532390d7cc18",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2d44-658d1530078c": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-2d44-658d1530078c",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e113-f54890fb0081": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-e113-f54890fb0081",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2f3e-286df4632339": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-2f3e-286df4632339",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0792-629a78478796": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-0792-629a78478796",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2c6c-01c3a1ca97f4": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-2c6c-01c3a1ca97f4",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4941-3374d70a9853": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-4941-3374d70a9853",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5141-afe52ee6cf35": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-5141-afe52ee6cf35",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-855a-903384e30e87": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-855a-903384e30e87",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6c89-ec5698bc7345": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6c89-ec5698bc7345",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3bd1-31e7be71daf4": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-3bd1-31e7be71daf4",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c90d-e0e40a85ce14": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-c90d-e0e40a85ce14",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a8a0-b50a3bdbb767": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-a8a0-b50a3bdbb767",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-dc31-05250406ad0a": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-dc31-05250406ad0a",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7ca9-9a7c4094fea6": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-7ca9-9a7c4094fea6",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ec1c-1d42723f0d7d": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-ec1c-1d42723f0d7d",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-69b9-543cd712fb2b": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-69b9-543cd712fb2b",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0161-75cfe2ef9d2c": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-0161-75cfe2ef9d2c",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e983-e2f224f14780": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-e983-e2f224f14780",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e686-8ec52ea6ed1c": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-e686-8ec52ea6ed1c",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-930a-2a8eb7da9de3": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-930a-2a8eb7da9de3",
+        "status": "final"
+    },
+    "urn:uuid:e77b7d2b-72da-e487-f4e7-ecdf9cbc9324": {
+        "resourceType": "DiagnosticReport",
+        "id": "e77b7d2b-72da-e487-f4e7-ecdf9cbc9324",
+        "status": "final"
+    },
+    "urn:uuid:bdddeb6d-71a7-09cc-cb42-d3d8d524ab1b": {
+        "resourceType": "DocumentReference",
+        "id": "bdddeb6d-71a7-09cc-cb42-d3d8d524ab1b",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-da9d-fee28440432c": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-da9d-fee28440432c",
+        "status": "active"
+    },
+    "urn:uuid:b258e9d6-95f1-0a29-00df-a167c453627c": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "b258e9d6-95f1-0a29-00df-a167c453627c",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6337-2f6f6463c8ad": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-6337-2f6f6463c8ad",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b6ff-dc34c04fa308": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-b6ff-dc34c04fa308",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b719-6493e6eab31b": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-b719-6493e6eab31b",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-827d-29b072ea43ea": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-827d-29b072ea43ea",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-46f3-9dab9d904f5f": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-46f3-9dab9d904f5f",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-266d-9f55753537e7": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-266d-9f55753537e7",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-16b8-b5fad046acfd": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-16b8-b5fad046acfd",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-31e9-ed7c473474b8": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-31e9-ed7c473474b8",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9b46-5a1111e09939": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-9b46-5a1111e09939",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5f63-316b68982dc7": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-5f63-316b68982dc7",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a95b-5efd2cd6bd75": {
+        "resourceType": "Device",
+        "id": "b17949c8-25eb-0f29-a95b-5efd2cd6bd75",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-069c-5f649ad1ed65": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-069c-5f649ad1ed65",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7a4e-2fd600c8b8a5": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-7a4e-2fd600c8b8a5",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-45bb-facc9610f11f": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-45bb-facc9610f11f",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-26c3-a745b510ed11": {
+        "resourceType": "ImagingStudy",
+        "id": "b17949c8-25eb-0f29-26c3-a745b510ed11",
+        "status": "available"
+    },
+    "urn:uuid:40e0dc8e-0c2e-85f0-2049-30516968a0c9": {
+        "resourceType": "DiagnosticReport",
+        "id": "40e0dc8e-0c2e-85f0-2049-30516968a0c9",
+        "status": "final"
+    },
+    "urn:uuid:9907d002-6350-3daa-69de-96fda5ee5894": {
+        "resourceType": "DocumentReference",
+        "id": "9907d002-6350-3daa-69de-96fda5ee5894",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-521d-af5d0d780dfe": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-521d-af5d0d780dfe",
+        "status": "active"
+    },
+    "urn:uuid:b23961bd-d5d3-1228-00c0-194f4c4e727b": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "b23961bd-d5d3-1228-00c0-194f4c4e727b",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0dca-e9e76dd958b3": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-0dca-e9e76dd958b3",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1ed1-b56168d71991": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-1ed1-b56168d71991",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4bac-ac8938d04a8b": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4bac-ac8938d04a8b",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d840-5d1ae89ee847": {
+        "resourceType": "MedicationRequest",
+        "id": "b17949c8-25eb-0f29-d840-5d1ae89ee847",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1700-6edfe690c309": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-1700-6edfe690c309",
+        "status": "active"
+    },
+    "urn:uuid:b4a6ddc5-e5b4-c3e8-032d-955aff0f3243": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "b4a6ddc5-e5b4-c3e8-032d-955aff0f3243",
+        "status": "active"
+    },
+    "urn:uuid:0eed4816-b98c-d772-78a6-b550d46b2bd7": {
+        "resourceType": "CareTeam",
+        "id": "0eed4816-b98c-d772-78a6-b550d46b2bd7",
+        "status": "inactive"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5090-97d25d9348ca": {
+        "resourceType": "CarePlan",
+        "id": "b17949c8-25eb-0f29-5090-97d25d9348ca",
+        "status": "completed"
+    },
+    "urn:uuid:fecc53f8-2eb3-4fd9-7737-fb3b89cf3ce4": {
+        "resourceType": "DiagnosticReport",
+        "id": "fecc53f8-2eb3-4fd9-7737-fb3b89cf3ce4",
+        "status": "final"
+    },
+    "urn:uuid:c9ea5d70-0c32-adfb-a952-b133696cc8d4": {
+        "resourceType": "DocumentReference",
+        "id": "c9ea5d70-0c32-adfb-a952-b133696cc8d4",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4626-1f55f4ad5783": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-4626-1f55f4ad5783",
+        "status": "active"
+    },
+    "urn:uuid:fd3480e0-e3b4-dbff-a7db-1dee52df0ea1": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "fd3480e0-e3b4-dbff-a7db-1dee52df0ea1",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-58e9-a998a481656d": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-58e9-a998a481656d",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-24b6-29290b474ddd": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-24b6-29290b474ddd",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f529-6fcf1d19a905": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-f529-6fcf1d19a905",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0c75-9bf7f9fe4fab": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-0c75-9bf7f9fe4fab",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a7e5-fa4dbfdefd27": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-a7e5-fa4dbfdefd27",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c58d-735aaf7c87f3": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-c58d-735aaf7c87f3",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6445-971440fc417e": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6445-971440fc417e",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b6aa-1ab586e05951": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-b6aa-1ab586e05951",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4ea2-1cd7382859f4": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-4ea2-1cd7382859f4",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f15e-ffe350038bfd": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-f15e-ffe350038bfd",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8045-493d5f6d31ee": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-8045-493d5f6d31ee",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d73a-3da38452f54c": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-d73a-3da38452f54c",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-83d3-1196c6950f4e": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-83d3-1196c6950f4e",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-813d-2def12647038": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-813d-2def12647038",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1519-526cade82e10": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-1519-526cade82e10",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f637-de443c06c7c1": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-f637-de443c06c7c1",
+        "status": "final"
+    },
+    "urn:uuid:d18058e0-cdac-e645-ccc2-f6fbb77dbd0c": {
+        "resourceType": "DiagnosticReport",
+        "id": "d18058e0-cdac-e645-ccc2-f6fbb77dbd0c",
+        "status": "final"
+    },
+    "urn:uuid:e228ca66-e625-71c3-68df-0240fb164812": {
+        "resourceType": "DocumentReference",
+        "id": "e228ca66-e625-71c3-68df-0240fb164812",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-615b-1702e0fe5b68": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-615b-1702e0fe5b68",
+        "status": "active"
+    },
+    "urn:uuid:a1c64f81-da26-cc37-78b8-f7fb83b13608": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "a1c64f81-da26-cc37-78b8-f7fb83b13608",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9581-c19c92609597": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-9581-c19c92609597",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-acbd-7d189e6983c2": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-acbd-7d189e6983c2",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0d48-a2d97cea70ca": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-0d48-a2d97cea70ca",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a212-407ce7bbdfbb": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-a212-407ce7bbdfbb",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-625f-bddfb05f9c2d": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-625f-bddfb05f9c2d",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-784c-4d407449abed": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-784c-4d407449abed",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4a3a-ba57f48cfa79": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4a3a-ba57f48cfa79",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2b49-05ab288338b5": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-2b49-05ab288338b5",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e328-13f61c8d5e76": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-e328-13f61c8d5e76",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1fc0-8854d8ca5337": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-1fc0-8854d8ca5337",
+        "status": "completed"
+    },
+    "urn:uuid:01ce0817-4d3f-6bf2-0f32-f082b0bd0d41": {
+        "resourceType": "DiagnosticReport",
+        "id": "01ce0817-4d3f-6bf2-0f32-f082b0bd0d41",
+        "status": "final"
+    },
+    "urn:uuid:e8d13f43-d638-1bce-d5db-b7af7d7b76ea": {
+        "resourceType": "DocumentReference",
+        "id": "e8d13f43-d638-1bce-d5db-b7af7d7b76ea",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-61f7-eac8625bd4b3": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-61f7-eac8625bd4b3",
+        "status": "active"
+    },
+    "urn:uuid:2334565b-bac1-422f-8266-f8f62ef6fedb": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "2334565b-bac1-422f-8266-f8f62ef6fedb",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7b2d-a73843d531c9": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-7b2d-a73843d531c9",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-98ad-9680a449821a": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-98ad-9680a449821a",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1227-32b2f913534b": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-1227-32b2f913534b",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-51f0-1a9a8848f193": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-51f0-1a9a8848f193",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-aca9-2ff8c1f64e57": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-aca9-2ff8c1f64e57",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-825c-037b6795201c": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-825c-037b6795201c",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ac45-b69d916de8b4": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-ac45-b69d916de8b4",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-add2-aefbaeabc695": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-add2-aefbaeabc695",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-26bc-85dd77795238": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-26bc-85dd77795238",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d122-fb0905a48ae3": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-d122-fb0905a48ae3",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-160a-4f21ec5ebded": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-160a-4f21ec5ebded",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7e4f-b4ccefafe9d3": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-7e4f-b4ccefafe9d3",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a79e-5df8f5c13ac3": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-a79e-5df8f5c13ac3",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-096a-a36e61158975": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-096a-a36e61158975",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-92e8-682e7ffead15": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-92e8-682e7ffead15",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b6ae-44c96bd4dd95": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-b6ae-44c96bd4dd95",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2045-04064e903eaa": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-2045-04064e903eaa",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6d1d-e9a58eab0c64": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6d1d-e9a58eab0c64",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-01d8-370b86563ca2": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-01d8-370b86563ca2",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6747-9e3292226056": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6747-9e3292226056",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5d0c-2022a7380513": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-5d0c-2022a7380513",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a0bc-07bc8089e499": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-a0bc-07bc8089e499",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-fd9b-91f2fd9223ac": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-fd9b-91f2fd9223ac",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ef9d-feadb51a9cfa": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-ef9d-feadb51a9cfa",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ec00-e3742e107634": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-ec00-e3742e107634",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c5eb-e251c858ca28": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-c5eb-e251c858ca28",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6761-b91b87a4d669": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6761-b91b87a4d669",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e48d-bd56d9d34eba": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-e48d-bd56d9d34eba",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7417-629588dda636": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-7417-629588dda636",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-00f3-a921f633d231": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-00f3-a921f633d231",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-86f4-7a7c02c44461": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-86f4-7a7c02c44461",
+        "status": "final"
+    },
+    "urn:uuid:88c5a20a-47a9-0bc4-2a73-3000cce54198": {
+        "resourceType": "DiagnosticReport",
+        "id": "88c5a20a-47a9-0bc4-2a73-3000cce54198",
+        "status": "final"
+    },
+    "urn:uuid:05328091-6488-0804-e6e1-1d9ed0f7bc2d": {
+        "resourceType": "DocumentReference",
+        "id": "05328091-6488-0804-e6e1-1d9ed0f7bc2d",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c477-f66bc263d565": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-c477-f66bc263d565",
+        "status": "active"
+    },
+    "urn:uuid:1c794295-2f07-e027-b6ed-7851f42fad89": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "1c794295-2f07-e027-b6ed-7851f42fad89",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-dc2d-28ef8859e378": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-dc2d-28ef8859e378",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4b32-5796afe38939": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-4b32-5796afe38939",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ee53-8c88441cb471": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-ee53-8c88441cb471",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d474-0337c5d18195": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-d474-0337c5d18195",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c2fd-af3a7cd03851": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-c2fd-af3a7cd03851",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cb86-8e6c19a4c7a5": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-cb86-8e6c19a4c7a5",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1390-46de0553ba29": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-1390-46de0553ba29",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ff4b-06459ec568e2": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-ff4b-06459ec568e2",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ac55-b257112bd40a": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-ac55-b257112bd40a",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4817-c9346560a4b9": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4817-c9346560a4b9",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d502-54ac9a2e127e": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-d502-54ac9a2e127e",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-780a-062cb54e1ef0": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-780a-062cb54e1ef0",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-fcf9-8d09bc3f6af4": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-fcf9-8d09bc3f6af4",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b561-529c3909a43f": {
+        "resourceType": "Device",
+        "id": "b17949c8-25eb-0f29-b561-529c3909a43f",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6529-30b5d3215efd": {
+        "resourceType": "Device",
+        "id": "b17949c8-25eb-0f29-6529-30b5d3215efd",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4736-08e8be0a1f75": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-4736-08e8be0a1f75",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ff17-64fe3bde17e5": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-ff17-64fe3bde17e5",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f35e-d62614d5b6f9": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-f35e-d62614d5b6f9",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-aa2f-044ec1e04826": {
+        "resourceType": "ImagingStudy",
+        "id": "b17949c8-25eb-0f29-aa2f-044ec1e04826",
+        "status": "available"
+    },
+    "urn:uuid:e342ad19-2fdb-02d2-815d-96ea06a1fe15": {
+        "resourceType": "DiagnosticReport",
+        "id": "e342ad19-2fdb-02d2-815d-96ea06a1fe15",
+        "status": "final"
+    },
+    "urn:uuid:9bf17a78-80cc-103b-d3cb-8f69571a96f1": {
+        "resourceType": "DocumentReference",
+        "id": "9bf17a78-80cc-103b-d3cb-8f69571a96f1",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c6ca-6c00c57626f9": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-c6ca-6c00c57626f9",
+        "status": "active"
+    },
+    "urn:uuid:1dd0824d-00cd-3633-b6bd-9501531bbcea": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "1dd0824d-00cd-3633-b6bd-9501531bbcea",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5d46-35584cd96cec": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-5d46-35584cd96cec",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d43b-00ff8d4ee602": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-d43b-00ff8d4ee602",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cf5a-e5013432c361": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-cf5a-e5013432c361",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9130-1406062d3b8a": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-9130-1406062d3b8a",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d083-071048c004ad": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-d083-071048c004ad",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-15f1-93fd820b4896": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-15f1-93fd820b4896",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9927-eb6937bf0411": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-9927-eb6937bf0411",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8b83-c5a2f57d631d": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-8b83-c5a2f57d631d",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1dd7-987b7c07cd6d": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-1dd7-987b7c07cd6d",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-882e-e7b943571f45": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-882e-e7b943571f45",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f05a-b1717e1356f4": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-f05a-b1717e1356f4",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a6dc-8cb3870d44a6": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-a6dc-8cb3870d44a6",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e2a5-8526bb072e8b": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-e2a5-8526bb072e8b",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3d3d-041539812bcf": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-3d3d-041539812bcf",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-214d-fee6d7dd3320": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-214d-fee6d7dd3320",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2f08-46c82f4b4710": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-2f08-46c82f4b4710",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4ecc-ac7954ba2bae": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4ecc-ac7954ba2bae",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4266-543620be2282": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4266-543620be2282",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6918-36135e95c26d": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6918-36135e95c26d",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c258-fcdd2f3ee816": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-c258-fcdd2f3ee816",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8063-2e801b18a432": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-8063-2e801b18a432",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-05c4-1cf06c3f7e01": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-05c4-1cf06c3f7e01",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8870-c343bd3dc33b": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-8870-c343bd3dc33b",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b92d-b3abcf10cb1f": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-b92d-b3abcf10cb1f",
+        "status": "final"
+    },
+    "urn:uuid:ad874cd8-874b-77ca-f0e2-68c591c3e371": {
+        "resourceType": "DiagnosticReport",
+        "id": "ad874cd8-874b-77ca-f0e2-68c591c3e371",
+        "status": "final"
+    },
+    "urn:uuid:d56ff782-a8ba-2fc7-98c9-319d8199981b": {
+        "resourceType": "DocumentReference",
+        "id": "d56ff782-a8ba-2fc7-98c9-319d8199981b",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-afc4-b53fa3f34035": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-afc4-b53fa3f34035",
+        "status": "active"
+    },
+    "urn:uuid:23867f14-6f0a-cb3d-5aa8-7fbb0c183a7d": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "23867f14-6f0a-cb3d-5aa8-7fbb0c183a7d",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7a84-904c60f35380": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-7a84-904c60f35380",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8dcc-27db77b4baf7": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-8dcc-27db77b4baf7",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-024b-6c0726f13696": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-024b-6c0726f13696",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7a38-337b55beb3fe": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-7a38-337b55beb3fe",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5cdf-6bc782c71f59": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-5cdf-6bc782c71f59",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4740-6aecc747fbee": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4740-6aecc747fbee",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5265-8ebb12eaaae3": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-5265-8ebb12eaaae3",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9138-469158c2dd3b": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-9138-469158c2dd3b",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7d9b-b638b29027df": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-7d9b-b638b29027df",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-eebf-1359911ea635": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-eebf-1359911ea635",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1faf-84699c70c816": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-1faf-84699c70c816",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3287-fc002887376a": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-3287-fc002887376a",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9741-9663e8a49551": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-9741-9663e8a49551",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6fa9-ffb2ea0a7296": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6fa9-ffb2ea0a7296",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-08ee-9b89e8057f53": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-08ee-9b89e8057f53",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d94d-c852b019e2a4": {
+        "resourceType": "Device",
+        "id": "b17949c8-25eb-0f29-d94d-c852b019e2a4",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2d68-e5c7aa459fa2": {
+        "resourceType": "Device",
+        "id": "b17949c8-25eb-0f29-2d68-e5c7aa459fa2",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cc78-349d5a4141f3": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-cc78-349d5a4141f3",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-fb25-46dc99de54a5": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-fb25-46dc99de54a5",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7cec-a29fbb05f0e2": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-7cec-a29fbb05f0e2",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d006-c76bdfb9fb83": {
+        "resourceType": "ImagingStudy",
+        "id": "b17949c8-25eb-0f29-d006-c76bdfb9fb83",
+        "status": "available"
+    },
+    "urn:uuid:672a28fb-a67d-ced2-0437-956b5aa7b081": {
+        "resourceType": "DiagnosticReport",
+        "id": "672a28fb-a67d-ced2-0437-956b5aa7b081",
+        "status": "final"
+    },
+    "urn:uuid:245d4e6e-635d-9ae2-736a-b356cec11883": {
+        "resourceType": "DocumentReference",
+        "id": "245d4e6e-635d-9ae2-736a-b356cec11883",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-43cc-d4bdfe418293": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-43cc-d4bdfe418293",
+        "status": "active"
+    },
+    "urn:uuid:f40ef92b-bfcd-c614-c440-ce2fe9750970": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "f40ef92b-bfcd-c614-c440-ce2fe9750970",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-196e-44e3b9681a17": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-196e-44e3b9681a17",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ff7c-517ac0145e89": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-ff7c-517ac0145e89",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-53a8-ed89f02d26fb": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-53a8-ed89f02d26fb",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-48aa-36cf9673e635": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-48aa-36cf9673e635",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-bdcf-7de7e326dbf0": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-bdcf-7de7e326dbf0",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6cf9-016e5cdb72cf": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6cf9-016e5cdb72cf",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4ef5-1f0cb0e0c14f": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-4ef5-1f0cb0e0c14f",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-42d3-e8ede1d3cd76": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-42d3-e8ede1d3cd76",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cb82-449da8bcad2a": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-cb82-449da8bcad2a",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e918-2cb9ffbc5854": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-e918-2cb9ffbc5854",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3580-6b589d538069": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-3580-6b589d538069",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a858-85693f099184": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-a858-85693f099184",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2190-2d3193c2431c": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-2190-2d3193c2431c",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-63cf-f4cb38bbcb65": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-63cf-f4cb38bbcb65",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6974-33ce2cb264f5": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6974-33ce2cb264f5",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4b64-144dd8040aa9": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-4b64-144dd8040aa9",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0917-fb0920f98dc8": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-0917-fb0920f98dc8",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-46a1-beda6e086a69": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-46a1-beda6e086a69",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6bbc-63703732fe12": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6bbc-63703732fe12",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4d10-4b4401e304a2": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-4d10-4b4401e304a2",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ba34-14c7a1f47f70": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-ba34-14c7a1f47f70",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3142-555d6c344610": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-3142-555d6c344610",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-59ad-c7c0c45e75f3": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-59ad-c7c0c45e75f3",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7a42-c4a25c79c75b": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-7a42-c4a25c79c75b",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4ee9-9a8ae8651547": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4ee9-9a8ae8651547",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-49ee-fb557512615d": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-49ee-fb557512615d",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1dad-82d6cdc9271b": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-1dad-82d6cdc9271b",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6bdc-f9befa1b9370": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-6bdc-f9befa1b9370",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d821-ea4bdaec78dc": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-d821-ea4bdaec78dc",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b3d0-fe4fa91d86e4": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-b3d0-fe4fa91d86e4",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-dd9c-87e34e00c5c5": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-dd9c-87e34e00c5c5",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6391-8f6b363cecea": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-6391-8f6b363cecea",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ef07-f5f802b53b34": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-ef07-f5f802b53b34",
+        "status": "final"
+    },
+    "urn:uuid:cac04821-fcb5-86fe-1e83-a55c178e6667": {
+        "resourceType": "DiagnosticReport",
+        "id": "cac04821-fcb5-86fe-1e83-a55c178e6667",
+        "status": "final"
+    },
+    "urn:uuid:ded352c1-cfcb-8f13-a5ce-955feab55fea": {
+        "resourceType": "DocumentReference",
+        "id": "ded352c1-cfcb-8f13-a5ce-955feab55fea",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9914-0ac08d9052d5": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-9914-0ac08d9052d5",
+        "status": "active"
+    },
+    "urn:uuid:91b955c9-b6db-bd9e-c8f7-4a1c05627554": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "91b955c9-b6db-bd9e-c8f7-4a1c05627554",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4379-f6c5702edde3": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-4379-f6c5702edde3",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-96c1-0868db895dbd": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-96c1-0868db895dbd",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-288f-b478218b440e": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-288f-b478218b440e",
+        "status": "final"
+    },
+    "urn:uuid:43a37444-560a-9227-30ad-ecaffd4ded43": {
+        "resourceType": "DiagnosticReport",
+        "id": "43a37444-560a-9227-30ad-ecaffd4ded43",
+        "status": "final"
+    },
+    "urn:uuid:99181188-a91b-cc15-b3f0-f0f0fcdf294f": {
+        "resourceType": "DocumentReference",
+        "id": "99181188-a91b-cc15-b3f0-f0f0fcdf294f",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9601-b5e7b34bdf53": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-9601-b5e7b34bdf53",
+        "status": "active"
+    },
+    "urn:uuid:883a04bb-e6ca-4bbf-d574-1f9aeae9ff66": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "883a04bb-e6ca-4bbf-d574-1f9aeae9ff66",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-840c-3642fa8be965": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-840c-3642fa8be965",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4532-1a82c4e60de5": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-4532-1a82c4e60de5",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e0fc-53a3fb761330": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-e0fc-53a3fb761330",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f458-0fbd4cb85435": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-f458-0fbd4cb85435",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5cd9-626b6cf55d27": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-5cd9-626b6cf55d27",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8318-3dfefffaeb7f": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-8318-3dfefffaeb7f",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-92f7-e9a276bd7d6f": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-92f7-e9a276bd7d6f",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-907c-08d0dd23192a": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-907c-08d0dd23192a",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-db0f-bb4e7627b4e1": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-db0f-bb4e7627b4e1",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5aba-275a0aaab343": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-5aba-275a0aaab343",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3c93-4e326ae94742": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-3c93-4e326ae94742",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-534d-401341c8ec5e": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-534d-401341c8ec5e",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c20b-f9c339efea72": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-c20b-f9c339efea72",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-de25-2b2111b375c7": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-de25-2b2111b375c7",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-5b75-5f8039dd8d52": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-5b75-5f8039dd8d52",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ae01-462f04e1e202": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-ae01-462f04e1e202",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f112-1113147f4a27": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-f112-1113147f4a27",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1276-0db43c489811": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-1276-0db43c489811",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8646-d8b594876acc": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-8646-d8b594876acc",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-88e4-f9acd17b9891": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-88e4-f9acd17b9891",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4eed-baa0cbf86029": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-4eed-baa0cbf86029",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6485-33abdb6c4ae6": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6485-33abdb6c4ae6",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-754a-916dc600bdec": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-754a-916dc600bdec",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-fc2a-9e5e852db16c": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-fc2a-9e5e852db16c",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-1faf-5522e0b14b75": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-1faf-5522e0b14b75",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f59e-e56f437eba93": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-f59e-e56f437eba93",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3c7a-84d994d445a9": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-3c7a-84d994d445a9",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-eb8f-f4f8f02000b4": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-eb8f-f4f8f02000b4",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cd8d-a0a97d6cf518": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-cd8d-a0a97d6cf518",
+        "status": "final"
+    },
+    "urn:uuid:ab4118ac-657d-c936-58cf-0f31a1b39cd8": {
+        "resourceType": "DiagnosticReport",
+        "id": "ab4118ac-657d-c936-58cf-0f31a1b39cd8",
+        "status": "final"
+    },
+    "urn:uuid:c49c41bf-607b-29e8-7339-4f2bd02f53ca": {
+        "resourceType": "DocumentReference",
+        "id": "c49c41bf-607b-29e8-7339-4f2bd02f53ca",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-461d-fd79871bb1e9": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-461d-fd79871bb1e9",
+        "status": "active"
+    },
+    "urn:uuid:f36bfcbe-28ef-cfb5-a4b5-36d907f49bee": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "f36bfcbe-28ef-cfb5-a4b5-36d907f49bee",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-776c-d36b1c2f2728": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-776c-d36b1c2f2728",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f7a6-3b99b8500e87": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-f7a6-3b99b8500e87",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8961-1740eb415a01": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-8961-1740eb415a01",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-84d8-8f3877768722": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-84d8-8f3877768722",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f79d-07274f192d86": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-f79d-07274f192d86",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2cb2-e61301b2c175": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-2cb2-e61301b2c175",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b281-476daacce588": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-b281-476daacce588",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-10c4-82728184f130": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-10c4-82728184f130",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6c1e-c0e4933733b4": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6c1e-c0e4933733b4",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-fb6b-c564190616d5": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-fb6b-c564190616d5",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c404-f96016b8a03a": {
+        "resourceType": "Device",
+        "id": "b17949c8-25eb-0f29-c404-f96016b8a03a",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e5bd-dfa4cd651686": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-e5bd-dfa4cd651686",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cf67-890ebd703683": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-cf67-890ebd703683",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-e8cc-93ea3ef94f47": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-e8cc-93ea3ef94f47",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a282-7a02bc8622dc": {
+        "resourceType": "ImagingStudy",
+        "id": "b17949c8-25eb-0f29-a282-7a02bc8622dc",
+        "status": "available"
+    },
+    "urn:uuid:8fe06b40-fd72-815b-0416-1cffce1a0816": {
+        "resourceType": "DiagnosticReport",
+        "id": "8fe06b40-fd72-815b-0416-1cffce1a0816",
+        "status": "final"
+    },
+    "urn:uuid:6ba58a1c-abbc-fea4-a7db-5dbe594af529": {
+        "resourceType": "DocumentReference",
+        "id": "6ba58a1c-abbc-fea4-a7db-5dbe594af529",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4642-9a814c1a552e": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-4642-9a814c1a552e",
+        "status": "active"
+    },
+    "urn:uuid:20c05f4a-ab91-1849-641c-40083f2b41f0": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "20c05f4a-ab91-1849-641c-40083f2b41f0",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-d5ff-710745fad1f0": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-d5ff-710745fad1f0",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-00c4-ba29debc80ac": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-00c4-ba29debc80ac",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0849-ea0629b8997d": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-0849-ea0629b8997d",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c9fa-7d3fca5f72e5": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-c9fa-7d3fca5f72e5",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6b87-13b16e31656d": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6b87-13b16e31656d",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4527-25d72aa082e2": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-4527-25d72aa082e2",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6699-5be17e60586d": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-6699-5be17e60586d",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-ab2f-ac7d3fd1b6ba": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-ab2f-ac7d3fd1b6ba",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c868-054dd64a7ada": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-c868-054dd64a7ada",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-99cb-a980c5106c3b": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-99cb-a980c5106c3b",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-641d-ce9992977ed3": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-641d-ce9992977ed3",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-8267-4dfd50f9426c": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-8267-4dfd50f9426c",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-45e3-f091400fe50c": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-45e3-f091400fe50c",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-023f-d0f54d6443fd": {
+        "resourceType": "Observation",
+        "id": "b17949c8-25eb-0f29-023f-d0f54d6443fd",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-a570-446ebca099c6": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-a570-446ebca099c6",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-682f-08917b814cd1": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-682f-08917b814cd1",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-c22a-17154f47a2f7": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-c22a-17154f47a2f7",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-2515-da3c7b0b9874": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-2515-da3c7b0b9874",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-9807-59c956311ac2": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-9807-59c956311ac2",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0175-a7b9f4b8b718": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-0175-a7b9f4b8b718",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-90a7-20aacf5eb98c": {
+        "resourceType": "Immunization",
+        "id": "b17949c8-25eb-0f29-90a7-20aacf5eb98c",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0626-4e226a05e9ce": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-0626-4e226a05e9ce",
+        "status": "final"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-927f-84e9ec7faee2": {
+        "resourceType": "DiagnosticReport",
+        "id": "b17949c8-25eb-0f29-927f-84e9ec7faee2",
+        "status": "final"
+    },
+    "urn:uuid:5d1b47cc-2f1e-7df9-6793-b373727999e6": {
+        "resourceType": "DiagnosticReport",
+        "id": "5d1b47cc-2f1e-7df9-6793-b373727999e6",
+        "status": "final"
+    },
+    "urn:uuid:5eb73676-53eb-f46a-3796-9eca17452e85": {
+        "resourceType": "DocumentReference",
+        "id": "5eb73676-53eb-f46a-3796-9eca17452e85",
+        "status": "superseded"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6357-457d975d9c13": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-6357-457d975d9c13",
+        "status": "active"
+    },
+    "urn:uuid:8238b2f0-4ed7-14f8-4767-617573bf8075": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "8238b2f0-4ed7-14f8-4767-617573bf8075",
+        "status": "active"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-b81b-1d27519a438b": {
+        "resourceType": "Encounter",
+        "id": "b17949c8-25eb-0f29-b81b-1d27519a438b",
+        "status": "finished"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-bf73-f9c496cc944a": {
+        "resourceType": "Condition",
+        "id": "b17949c8-25eb-0f29-bf73-f9c496cc944a",
+        "status": null
+    },
+    "urn:uuid:b17949c8-25eb-0f29-3d8e-c6239e247d10": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-3d8e-c6239e247d10",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-0177-cd086cf93d5d": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-0177-cd086cf93d5d",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-64d2-3dbd268cefb2": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-64d2-3dbd268cefb2",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-7485-c5de81ca017e": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-7485-c5de81ca017e",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-6e73-c5587a668f95": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-6e73-c5587a668f95",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-cf3e-280b4eeaf3d0": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-cf3e-280b4eeaf3d0",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-f673-9bcb802fd2c0": {
+        "resourceType": "Procedure",
+        "id": "b17949c8-25eb-0f29-f673-9bcb802fd2c0",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-23ca-7ed70f672528": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-23ca-7ed70f672528",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-4d74-ac0c60651e0a": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-4d74-ac0c60651e0a",
+        "status": "completed"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-eb7d-45b7582726e1": {
+        "resourceType": "SupplyDelivery",
+        "id": "b17949c8-25eb-0f29-eb7d-45b7582726e1",
+        "status": "completed"
+    },
+    "urn:uuid:d453fd89-fe63-a3af-0e6e-d66966b76709": {
+        "resourceType": "DiagnosticReport",
+        "id": "d453fd89-fe63-a3af-0e6e-d66966b76709",
+        "status": "final"
+    },
+    "urn:uuid:88eaccb2-ba5e-8b4f-2705-b68391258692": {
+        "resourceType": "DocumentReference",
+        "id": "88eaccb2-ba5e-8b4f-2705-b68391258692",
+        "status": "current"
+    },
+    "urn:uuid:b17949c8-25eb-0f29-79ce-b5ea98e7c946": {
+        "resourceType": "Claim",
+        "id": "b17949c8-25eb-0f29-79ce-b5ea98e7c946",
+        "status": "active"
+    },
+    "urn:uuid:9f81d1c6-c777-4e87-a372-24154e2f1b22": {
+        "resourceType": "ExplanationOfBenefit",
+        "id": "9f81d1c6-c777-4e87-a372-24154e2f1b22",
+        "status": "active"
+    },
+    "urn:uuid:67ea1a0d-455d-dad4-04f7-8833dab89b7b": {
+        "resourceType": "Provenance",
+        "id": "67ea1a0d-455d-dad4-04f7-8833dab89b7b",
+        "status": null
+    }
+}
