@@ -37,5 +37,8 @@ if __name__ == "__main__":
 
                 if decoded_note is not None:
                     note["presentedForm"][0]["data"] = decoded_note
+                    with open("patient_encounter_notes.txt", "a") as note_file:
+                        note_file.write(f"Encounter ID: {encounter_id}\n")
+                        note_file.write(f"Decoded Note: {decoded_note}\n\n  ")
 
             outfile.write(f"{encounter_data}\n")

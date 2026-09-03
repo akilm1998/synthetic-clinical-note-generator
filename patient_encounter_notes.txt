@@ -1,0 +1,920 @@
+Encounter ID: b17949c8-25eb-0f29-19d0-660667a30494
+Decoded Note: 
+2004-12-25
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 5 year-old nonhispanic white male.
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with perennial allergic rhinitis with seasonal variation (disorder). 
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- fexofenadine hydrochloride 30 mg oral tablet
+
+
+  Encounter ID: b17949c8-25eb-0f29-9fd0-405d81782500
+Decoded Note: 
+2004-12-27
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 5 year-old nonhispanic white male. Patient has a history of perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has NO INSURANCE.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with allergic disposition (finding), mold (organism), animal dander (substance), aspirin. 
+
+
+## Plan
+
+The patient was prescribed the following medications:
+- nda020800 0.3 ml epinephrine 1 mg/ml auto-injector
+The patient was placed on a careplan:
+- self-care interventions (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-370f-a5da68f81429
+Decoded Note: 
+2012-11-17
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 13 year-old nonhispanic white male. Patient has a history of perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+
+## Plan
+
+The patient was placed on a careplan:
+- allergic disorder monitoring (regime/therapy)
+
+
+  Encounter ID: b17949c8-25eb-0f29-be23-31a168ec4ae8
+Decoded Note: 
+2015-12-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 16 year-old nonhispanic white male. Patient has a history of perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation). 
+
+
+## Plan
+
+
+
+  Encounter ID: b17949c8-25eb-0f29-1aba-4102498a0b63
+Decoded Note: 
+2016-09-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 16 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-35fb-9c8cd7592684
+Decoded Note: 
+2016-10-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 16 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-4719-18a7a6f5a101
+Decoded Note: 
+2016-11-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 16 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-ff92-14cabd872210
+Decoded Note: 
+2016-11-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 17 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+
+## Plan
+
+The following procedures were conducted:
+- subcutaneous immunotherapy (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-7fbb-5345449795b8
+Decoded Note: 
+2016-12-21
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 17 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+
+## Plan
+
+The following procedures were conducted:
+- allergy screening test (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-4275-a537b2138285
+Decoded Note: 
+2016-12-31
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 17 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+
+
+
+## Plan
+Patient was given the following immunizations: influenza, split virus, trivalent, pf. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening using patient health questionnaire nine item score (procedure)
+- assessment of substance use (procedure)
+- assessment using car, relax, alone, forget, friends, trouble screening test (procedure)
+- anticipatory guidance (procedure)
+- patient referral for dental care (procedure)
+The following lab reports were completed:
+- generalized anxiety disorder 7 item (gad-7)
+- patient health questionnaire-9: modified for teens [reported.phq.teen]
+
+
+  Encounter ID: b17949c8-25eb-0f29-6337-2f6f6463c8ad
+Decoded Note: 
+2017-01-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 17 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with primary dental caries (disorder). 
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- restoration of tooth with coverage of all cusps using dental filling material (procedure)
+- oral health education (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-0dca-e9e76dd958b3
+Decoded Note: 
+2017-07-14
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 17 year-old nonhispanic white male. Patient has a history of medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), primary dental caries (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+No Active Medications.
+
+# Assessment and Plan
+Patient is presenting with acute bronchitis (disorder). 
+
+
+## Plan
+
+The following procedures were conducted:
+- sputum examination (procedure)
+The patient was prescribed the following medications:
+- acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+The patient was placed on a careplan:
+- respiratory therapy (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-58e9-a998a481656d
+Decoded Note: 
+2017-07-22
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 17 year-old nonhispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), primary dental caries (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with gingivitis (disorder). 
+
+
+## Plan
+Patient was given the following immunizations: influenza, split virus, trivalent, pf. 
+The following procedures were conducted:
+- assessment of anxiety (procedure)
+- patient referral for dental care (procedure)
+The following lab reports were completed:
+- generalized anxiety disorder 7 item (gad-7)
+
+
+  Encounter ID: b17949c8-25eb-0f29-9581-c19c92609597
+Decoded Note: 
+2017-08-05
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 17 year-old nonhispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), primary dental caries (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- oral health education (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-7b2d-a73843d531c9
+Decoded Note: 
+2018-01-06
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 18 year-old nonhispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), primary dental caries (disorder), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with only received primary school education (finding), unemployed (finding), limited social contact (finding), unhealthy alcohol drinking behavior (finding). 
+
+
+## Plan
+
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- screening for domestic abuse (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+- patient referral for dental care (procedure)
+The following lab reports were completed:
+- generalized anxiety disorder 7 item (gad-7)
+- humiliation, afraid, rape, and kick questionnaire [hark]
+- patient health questionnaire 2 item (phq-2) [reported]
+- alcohol use disorder identification test - consumption [audit-c]
+
+
+  Encounter ID: b17949c8-25eb-0f29-dc2d-28ef8859e378
+Decoded Note: 
+2018-01-20
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 18 year-old nonhispanic white male. Patient has a history of acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), unemployed (finding), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with gingival disease (disorder). 
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- dental surgical procedure (procedure)
+- dental application of desensitizing medicament (procedure)
+- gingivectomy or gingivoplasty, per tooth (procedure)
+- postoperative care for dental procedure (regime/therapy)
+- oral health education (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-5d46-35584cd96cec
+Decoded Note: 
+2019-01-12
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 19 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), unemployed (finding), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with full-time employment (finding), stress (finding). 
+
+
+## Plan
+Patient was given the following immunizations: influenza, split virus, trivalent, pf. 
+The following procedures were conducted:
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- screening for drug abuse (procedure)
+- patient referral for dental care (procedure)
+The following lab reports were completed:
+- patient health questionnaire 2 item (phq-2) [reported]
+- drug abuse screening test-10 [dast-10]
+
+
+  Encounter ID: b17949c8-25eb-0f29-7a84-904c60f35380
+Decoded Note: 
+2019-01-26
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 19 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), unemployed (finding), full-time employment (finding), gingivitis (disorder).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with gingival disease (disorder), loose dental filling (finding). 
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- dental surgical procedure (procedure)
+- dental application of desensitizing medicament (procedure)
+- gingivectomy or gingivoplasty, per tooth (procedure)
+- postoperative care for dental procedure (regime/therapy)
+- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+- oral health education (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-196e-44e3b9681a17
+Decoded Note: 
+2022-01-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 22 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), unemployed (finding), full-time employment (finding), gingivitis (disorder), loose dental filling (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with unemployed (finding). 
+
+
+## Plan
+Patient was given the following immunizations: influenza, split virus, trivalent, pf, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed, hep b, adult, meningococcal mcv4p. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+The following lab reports were completed:
+- cbc panel - blood by automated count
+- patient health questionnaire 2 item (phq-2) [reported]
+
+
+  Encounter ID: b17949c8-25eb-0f29-4379-f6c5702edde3
+Decoded Note: 
+2023-07-07
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 23 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), unemployed (finding), full-time employment (finding), gingivitis (disorder), loose dental filling (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with acute viral pharyngitis (disorder). 
+
+
+## Plan
+
+
+
+  Encounter ID: b17949c8-25eb-0f29-840c-3642fa8be965
+Decoded Note: 
+2023-07-15
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 23 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), acute bronchitis (disorder), medication review due (situation), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), unemployed (finding), full-time employment (finding), acute viral pharyngitis (disorder), gingivitis (disorder), loose dental filling (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), full-time employment (finding), social isolation (finding), has a criminal record (finding), reports of violence in the environment (finding), gingivitis (disorder). 
+
+
+## Plan
+Patient was given the following immunizations: influenza, split virus, trivalent, pf, hep b, adult. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- assessment of substance use (procedure)
+- assessment using alcohol use disorders identification test - consumption (procedure)
+- patient referral for dental care (procedure)
+The following lab reports were completed:
+- patient health questionnaire 2 item (phq-2) [reported]
+- alcohol use disorder identification test - consumption [audit-c]
+
+
+  Encounter ID: b17949c8-25eb-0f29-776c-d36b1c2f2728
+Decoded Note: 
+2023-07-29
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 23 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), medication review due (situation), unemployed (finding), acute viral pharyngitis (disorder), acute bronchitis (disorder), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), reports of violence in the environment (finding), full-time employment (finding), gingivitis (disorder), loose dental filling (finding), social isolation (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Anthem.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with fractured dental filling (finding). 
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- dental plain x-ray bitewing (procedure)
+- examination of gingivae (procedure)
+- restoration of tooth with coverage of all cusps using dental filling material (procedure)
+- oral health education (procedure)
+
+
+  Encounter ID: b17949c8-25eb-0f29-d5ff-710745fad1f0
+Decoded Note: 
+2025-01-18
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 25 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), medication review due (situation), unemployed (finding), acute viral pharyngitis (disorder), fractured dental filling (finding), acute bronchitis (disorder), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), reports of violence in the environment (finding), full-time employment (finding), gingivitis (disorder), loose dental filling (finding), social isolation (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with medication review due (situation), body mass index 30+ - obesity (finding). 
+
+
+## Plan
+Patient was given the following immunizations: influenza, split virus, trivalent, pf. 
+The following procedures were conducted:
+- medication reconciliation (procedure)
+- assessment of health and social care needs (procedure)
+- assessment of anxiety (procedure)
+- depression screening (procedure)
+- depression screening (procedure)
+- patient referral for dental care (procedure)
+The following lab reports were completed:
+- generalized anxiety disorder 7 item (gad-7)
+- patient health questionnaire 2 item (phq-2) [reported]
+
+
+  Encounter ID: b17949c8-25eb-0f29-b81b-1d27519a438b
+Decoded Note: 
+2025-02-01
+
+# Chief Complaint
+No complaints.
+
+# History of Present Illness
+Earle679 is a 25 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), medication review due (situation), unemployed (finding), acute viral pharyngitis (disorder), fractured dental filling (finding), acute bronchitis (disorder), perennial allergic rhinitis with seasonal variation (disorder), limited social contact (finding), primary dental caries (disorder), unhealthy alcohol drinking behavior (finding), reports of violence in the environment (finding), full-time employment (finding), gingivitis (disorder), loose dental filling (finding), social isolation (finding).
+
+# Social History
+ Patient has never smoked.
+ Patient identifies as heterosexual.
+
+Patient comes from a middle socioeconomic background.
+ Patient did not finish high school.
+Patient currently has Aetna.
+
+# Allergies
+No Known Allergies.
+
+# Medications
+acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution
+
+# Assessment and Plan
+Patient is presenting with primary dental caries (disorder). 
+
+
+## Plan
+
+The following procedures were conducted:
+- dental consultation and report (procedure)
+- dental care (regime/therapy)
+- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)
+- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)
+- examination of gingivae (procedure)
+- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)
+- oral health education (procedure)
+
+
+  
