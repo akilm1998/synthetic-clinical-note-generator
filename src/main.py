@@ -4,7 +4,6 @@ from functions import (
     get_data,
     get_encounter_data,
     get_resource_summary,
-    normalize_patient_data,
 )
 
 file_paths = [
@@ -28,7 +27,7 @@ if __name__ == "__main__":
 
     data = get_data(patient_data_file)
 
-    normalized_data = normalize_patient_data(data)
+    # normalized_data = normalize_patient_data(data)
 
     resource_summary = get_resource_summary(data)
 
