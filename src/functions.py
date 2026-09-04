@@ -1,6 +1,6 @@
 import base64
 import json
-from datetime import date
+from datetime import date, datetime
 
 
 def get_data(patient_data: str):
@@ -255,3 +255,65 @@ def decode_note(note):
         return None
 
     return base64.b64decode(encoded_data).decode("utf-8")
+
+
+def build_coding_context(data, encounter_id):
+    """
+    Build the clinical context for the latest/current encounter.
+
+    Includes:
+        - patient demographics
+        - current encounter
+        - conditions linked to the current encounter
+        - active/unresolved conditions as of the current encounter
+        - current clinical note
+    """
+
+    normalized_data = normalize_patient_data(data)
+
+    encounter_data = get_encounter_data(data, encounter_id)
+
+    encounter_date = encounter_data["encounter"]["period"]["start"]
+
+    current_date = datetime.fromisoformat(encounter_date)
+
+    active_conditions = []
+
+    resources = [
+        entry["resource"] for entry in data.get("entry", []) if "resource" in entry
+    ]
+
+    for resource in resources:
+        if resource.get("resourceType") != "Condition":
+            continue
+
+        condition_status = (
+            resource.get("clinicalStatus", {}).get("coding", [{}])[0].get("code")
+        )
+
+        if condition_status != "active":
+            continue
+
+        onset = resource.get("onsetDateTime")
+
+        if onset:
+            onset_date = datetime.fromisoformat(onset)
+
+            if onset_date > current_date:
+                continue
+
+        active_conditions.append(resource)
+
+    clinical_notes = [
+        note["clinical_note"]
+        for note in encounter_data["notes"]
+        if note.get("clinical_note")
+    ]
+
+    return {
+        "patient": normalized_data["patient"],
+        "current_encounter": encounter_data["encounter"],
+        "current_issues": encounter_data["conditions"],
+        "historical_active_conditions": active_conditions,
+        "clinical_notes": clinical_notes,
+    }
