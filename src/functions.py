@@ -56,28 +56,28 @@ def _normalize_patient(patient):
     ).strip()
 
     birth_date = patient.get("birthDate")
-    age = None
-
-    if birth_date:
-        birth = date.fromisoformat(birth_date)
-        today = date.today()
-
-        age = (
-            today.year
-            - birth.year
-            - ((today.month, today.day) < (birth.month, birth.day))
-        )
+    alive = is_patient_alive(patient)
 
     return {
         "name": full_name,
         "gender": patient.get("gender"),
         "birth_date": birth_date,
-        "age": age,
-        "marital_status": (patient.get("maritalStatus", {}).get("text")),
+        "alive": alive,
+        "marital_status": patient.get("maritalStatus", {}).get("text"),
         "language": _get_language(patient),
         "race": _get_extension_value(patient, "us-core-race"),
         "ethnicity": _get_extension_value(patient, "us-core-ethnicity"),
     }
+
+
+def is_patient_alive(patient):
+    if patient.get("deceasedBoolean") is True:
+        return False
+
+    if patient.get("deceasedDateTime") is not None:
+        return False
+
+    return True
 
 
 def _normalize_encounter(encounter, resources):
@@ -111,6 +111,20 @@ def _normalize_encounter(encounter, resources):
             "DocumentReference", encounter_id, resources
         ),
     }
+
+
+def calculate_age_at_encounter(birth_date, encounter_date):
+    if not birth_date or not encounter_date:
+        return None
+
+    birth = date.fromisoformat(birth_date)
+    encounter = date.fromisoformat(encounter_date)
+
+    return (
+        encounter.year
+        - birth.year
+        - ((encounter.month, encounter.day) < (birth.month, birth.day))
+    )
 
 
 def _find_resources_for_encounter(resource_type, encounter_id, resources):
@@ -221,6 +235,7 @@ def get_encounter_data(data, encounter_id):
 
     for report in diagnostic_reports:
         clinical_note = decode_note(report)
+
         if clinical_note is not None:
             notes.append(
                 {
@@ -232,11 +247,28 @@ def get_encounter_data(data, encounter_id):
 
     return {
         "encounter": encounter,
+        "encounter_reason": _extract_codeable_concept(encounter.get("reasonCode", [])),
         "conditions": _find_resources_for_encounter(
             "Condition",
             encounter_id,
             resources,
         ),
+        "procedures": _find_resources_for_encounter(
+            "Procedure",
+            encounter_id,
+            resources,
+        ),
+        "observations": _find_resources_for_encounter(
+            "Observation",
+            encounter_id,
+            resources,
+        ),
+        "medications": _find_resources_for_encounter(
+            "MedicationRequest",
+            encounter_id,
+            resources,
+        ),
+        "diagnostic_reports": diagnostic_reports,
         "notes": notes,
     }
 
@@ -263,6 +295,7 @@ def build_coding_context(data, encounter_id):
 
     Includes:
         - patient demographics
+        - patient age at encounter
         - current encounter
         - conditions linked to the current encounter
         - active/unresolved conditions as of the current encounter
@@ -276,6 +309,11 @@ def build_coding_context(data, encounter_id):
     encounter_date = encounter_data["encounter"]["period"]["start"]
 
     current_date = datetime.fromisoformat(encounter_date)
+
+    age_at_encounter = calculate_age_at_encounter(
+        normalized_data["patient"]["birth_date"],
+        encounter_date[:10],
+    )
 
     active_conditions = []
 
@@ -311,8 +349,12 @@ def build_coding_context(data, encounter_id):
     ]
 
     return {
-        "patient": normalized_data["patient"],
+        "patient": {
+            **normalized_data["patient"],
+            "age": age_at_encounter,
+        },
         "current_encounter": encounter_data["encounter"],
+        "encounter_reason": (encounter_data["encounter_reason"]),
         "current_issues": encounter_data["conditions"],
         "historical_active_conditions": active_conditions,
         "clinical_notes": clinical_notes,
