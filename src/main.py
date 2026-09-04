@@ -1,65 +1,52 @@
 import os
 
+from dotenv import load_dotenv
+from openai import OpenAI
+
 from functions import (
+    build_coding_context,
     get_data,
-    get_encounter_data,
     get_resource_summary,
 )
+from prompt import generate_clinical_conditions
 
-file_paths = [
-    "encounter_data.txt",
-    "patient_encounter_notes.txt",
-]
+patient_data_file = (
+    r"C:\Users\akile\OneDrive\Desktop\medical-coding-project"
+    r"\synthetic-clinical-note-generator\src\patients"
+    r"\Earle679_Rohan584_b17949c8-25eb-0f29-f85a-11dcbf64eacd.json"
+)
 
 
 if __name__ == "__main__":
-    # Check if the file exists before deleting
-    for file_path in file_paths:
-        if os.path.exists(file_path):
-            os.remove(file_path)
-            print(f"Deleted: {file_path}")
+    # -----------------------------------
+    # Load environment variables
+    # -----------------------------------
 
-    patient_data_file = (
-        r"C:\Users\akile\OneDrive\Desktop\medical-coding-project"
-        r"\synthetic-clinical-note-generator\src\patients"
-        r"\Earle679_Rohan584_b17949c8-25eb-0f29-f85a-11dcbf64eacd.json"
-    )
+    load_dotenv()
+
+    api_key = os.getenv("OPENAI_API_KEY")
+
+    client = OpenAI(api_key=api_key)
 
     data = get_data(patient_data_file)
 
-    # normalized_data = normalize_patient_data(data)
-
     resource_summary = get_resource_summary(data)
 
-    print(type(resource_summary))
+    encounters = [
+        entry["resource"]
+        for entry in data.get("entry", [])
+        if entry.get("resource", {}).get("resourceType") == "Encounter"
+    ]
 
-    e_list = []
-    count = 0
+    latest_encounter = max(
+        encounters, key=lambda encounter: encounter["period"]["start"]
+    )
 
-    for each_resource in resource_summary.values():
-        if each_resource["resourceType"] == "Encounter":
-            count += 1
-            e_list.append(each_resource["id"])
+    latest_encounter_id = latest_encounter["id"]
 
-    print(f"Total encounters: {count}")
+    coding_context = build_coding_context(data, latest_encounter_id)
+    # print(coding_context)
 
-    with open("encounter_data.txt", "w") as outfile:
-        with open("patient_encounter_notes.txt", "w") as note_file:
-            for encounter_id in e_list:
-                encounter_data = get_encounter_data(data, encounter_id)
-                print(encounter_data)
+    clinical_conditions = generate_clinical_conditions(coding_context, client)
 
-                # Write clean clinical notes for inspection
-                for note in encounter_data["notes"]:
-                    clinical_note = note.get("clinical_note")
-
-                    if clinical_note is not None:
-                        note_file.write(f"Encounter ID: {encounter_id}\n")
-
-                        note_file.write(
-                            f"DiagnosticReport ID: {note.get('source_id')}\n"
-                        )
-
-                        note_file.write(f"Clinical Note:\n{clinical_note}\n\n")
-
-                outfile.write(f"{encounter_data}\n")
+    print(clinical_conditions)
