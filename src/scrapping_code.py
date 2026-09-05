@@ -1,3 +1,4 @@
+import re
 import time
 from collections import OrderedDict
 from typing import Optional
@@ -24,6 +25,10 @@ HEADERS = {
 # ============================================================
 # TEXT CLEANING
 # ============================================================
+
+
+def normalize_icd_code(code: str) -> str:
+    return re.sub(r"\s+", "", code).upper()
 
 
 def clean_text(value) -> str:
@@ -137,6 +142,8 @@ def request_with_retries(
 
             else:
                 print(f"Request failed after {MAX_RETRIES} retries.")
+                print(f"URL: {url}")
+                print(f"Reason: {exc}")
 
     if last_exception:
         raise last_exception
@@ -318,7 +325,7 @@ def get_icd10data_url(
             /ICD10CM/Codes/I00-I99/I10-I1A/I10-/I10
     """
 
-    code = code.strip().upper()
+    code = normalize_icd_code(code)
 
     response = request_with_retries(
         session,
@@ -345,7 +352,7 @@ def get_icd10data_url(
         if not identifier:
             continue
 
-        found_code = clean_text(identifier).upper()
+        found_code = normalize_icd_code(identifier.get_text(" ", strip=True))
 
         # Exact code match only.
         if found_code != code:
@@ -391,7 +398,7 @@ def get_main_heading_container(
     ICD-10 code.
     """
 
-    code = code.strip().upper()
+    code = normalize_icd_code(code)
 
     for container in soup.select("div.headingContainer"):
         identifier = container.select_one("span.identifierDetail")
@@ -399,7 +406,7 @@ def get_main_heading_container(
         if not identifier:
             continue
 
-        found_code = clean_text(identifier).upper()
+        found_code = normalize_icd_code(identifier.get_text(" ", strip=True))
 
         if found_code == code:
             return container
@@ -1014,7 +1021,7 @@ def get_icd10_info(
     Retrieve and extract ICD-10-CM information.
     """
 
-    code = code.strip().upper()
+    code = normalize_icd_code(code)
 
     print(f"Searching for ICD code: {code}")
 
