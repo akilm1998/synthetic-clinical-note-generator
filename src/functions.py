@@ -1,5 +1,6 @@
 import base64
 import json
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime
 
@@ -381,7 +382,7 @@ def scrape_codes(codes):
     return results
 
 
-def scrape_codes_until_complete(codes, max_retries=3):
+def scrape_codes_until_complete(codes, max_retries=3, retry_wait=5):
     remaining_codes = codes
     scraped_results = []
 
@@ -406,6 +407,104 @@ def scrape_codes_until_complete(codes, max_retries=3):
         remaining_codes = failed_codes
 
         if attempt < max_retries:
-            print(f"\n{len(failed_codes)} codes failed. Retrying: {failed_codes}")
+            print(
+                f"\n{len(failed_codes)} codes failed."
+                f"\nWaiting {retry_wait} seconds before retry..."
+                f"\nRetrying: {failed_codes}"
+            )
+
+            time.sleep(retry_wait)
 
     return scraped_results, remaining_codes
+
+
+if __name__ == "__main__":
+    req_list = [
+        "Z80.43",
+        "O99",
+        "O36.92",
+        "O09.291",
+        "O29.01",
+        "P92.9",
+        "F10.9",
+        "Z85.810",
+        "O99.21",
+        "O36.90",
+        "N96",
+        "Z62.812",
+        "O09.292",
+        "Z34.03",
+        "O9A.3",
+        "E66.9",
+        "F10.10",
+        "O09.2",
+        "O09.02",
+        "O32.2",
+        "O99.210",
+        "F10.95",
+        "Z68",
+        "O09.00",
+        "O32.1",
+        "E66.01",
+        "O99.310",
+        "Z34.00",
+        "F10.230",
+        "Z34.02",
+        "O29.193",
+        "F13.120",
+        "F13.90",
+        "O99.31",
+        "O36.91",
+        "O99.211",
+        "O24.9",
+        "E66.2",
+        "F10.94",
+        "O04.6",
+        "O24.3",
+        "O09.92",
+        "O29",
+        "O09.29",
+        "O32.4",
+        "O09.829",
+        "Z83.430",
+        "O09.12",
+        "O09.01",
+        "O09.42",
+        "Z34",
+        "O09.30",
+        "O10.92",
+        "O36.93",
+        "Z34.01",
+        "E66",
+        "O09.299",
+        "F10.1",
+        "O22.02",
+        "F13.130",
+        "Z62.81",
+        "F40.232",
+        "F13.230",
+        "Z3A. 30",
+        "F10.20",
+        "O29.191",
+        "O00.1",
+        "Z68.30",
+        "O26.21",
+        "O99.84",
+        "O10.019",
+        "F10.2",
+        "O09.A2",
+        "O09.03",
+        "O26.20",
+        "O10.02",
+        "O21.8",
+        "O00.0",
+        "O09.293",
+    ]
+
+    # req_list = [
+    #     "E11.9",
+    #     "O9A.2",
+    #     "Z3A.30",
+    #     "O09.A2",
+    # ]
+    results = scrape_codes_until_complete(req_list)

@@ -77,6 +77,8 @@ if __name__ == "__main__":
     icd10_candidates = text_to_icd10(data)
     # print(type(icd10_candidates))
     unique_candidate_codes = collect_unique_codes(icd10_candidates["results"])
+    with open("unique_candidate_codes.txt", "w") as outfile:
+        outfile.write(f"{unique_candidate_codes}\n")
     # print(f"Unique ICD-10 candidates: {unique_candidate_codes}")
 
     # Scrape ICD-10 codes from icd10data website
@@ -88,3 +90,5 @@ if __name__ == "__main__":
         for code in failed_codes:
             print(code)
         # print(f"Scraped ICD-10 codes: \n\n{scraped_results}")
+    with open("scraped_icd10_codes.json", "w") as outfile:
+        json.dump(scraped_results, outfile, indent=4)
