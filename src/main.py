@@ -1,3 +1,4 @@
+import json
 import os
 
 from dotenv import load_dotenv
@@ -5,10 +6,13 @@ from openai import OpenAI
 
 from functions import (
     build_coding_context,
+    collect_unique_codes,
     get_data,
     get_resource_summary,
+    scrape_codes_until_complete,
 )
 from prompt import generate_clinical_conditions
+from text_to_icd10 import text_to_icd10
 
 # patient_data_file = (
 #     r"C:\Users\akile\OneDrive\Desktop\medical-coding-project"
@@ -53,9 +57,34 @@ if __name__ == "__main__":
     if not coding_context["patient"]["alive"]:
         raise SystemExit("Patient is deceased. Skipping coding pipeline.")
 
-    print(f"{coding_context}\n\n\n")
+    # print(f"{coding_context}\n\n\n")
     # exit(0)
 
     clinical_conditions = generate_clinical_conditions(coding_context, client)
 
-    print(clinical_conditions)
+    # print(clinical_conditions)
+
+    # Convert string to dictionary (LLM #1 JSON) for processing in text_to_icd10.py
+
+    try:
+        data = json.loads(clinical_conditions)
+
+    except json.JSONDecodeError as error:
+        raise SystemExit(f"Invalid JSON: {error}")
+
+    # Retrieve ICD-10 candidates from LLM #1 JSON
+
+    icd10_candidates = text_to_icd10(data)
+    # print(type(icd10_candidates))
+    unique_candidate_codes = collect_unique_codes(icd10_candidates["results"])
+    # print(f"Unique ICD-10 candidates: {unique_candidate_codes}")
+
+    # Scrape ICD-10 codes from icd10data website
+
+    scraped_results, failed_codes = scrape_codes_until_complete(unique_candidate_codes)
+
+    if failed_codes:
+        print("\nCodes that could not be scraped:")
+        for code in failed_codes:
+            print(code)
+        # print(f"Scraped ICD-10 codes: \n\n{scraped_results}")
