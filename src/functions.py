@@ -1,6 +1,9 @@
 import base64
 import json
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime
+
+from scrapping_code import get_icd10_info
 
 
 def get_data(patient_data: str):
@@ -359,3 +362,50 @@ def build_coding_context(data, encounter_id):
         "historical_active_conditions": active_conditions,
         "clinical_notes": clinical_notes,
     }
+
+
+def collect_unique_codes(results: dict) -> list:
+    unique_codes = set()
+
+    for result in results:
+        for search_result in result["results"]:
+            for candidate in search_result["candidates"]:
+                unique_codes.add(candidate["code"])
+
+    return list(unique_codes)
+
+
+def scrape_codes(codes):
+    with ThreadPoolExecutor(max_workers=3) as executor:
+        results = list(executor.map(get_icd10_info, codes))
+    return results
+
+
+def scrape_codes_until_complete(codes, max_retries=3):
+    remaining_codes = codes
+    scraped_results = []
+
+    for attempt in range(max_retries + 1):
+        current_results = scrape_codes(remaining_codes)
+
+        failed_codes = [
+            code
+            for code, result in zip(remaining_codes, current_results)
+            if result is None
+        ]
+
+        successful_results = [
+            result for result in current_results if result is not None
+        ]
+
+        scraped_results.extend(successful_results)
+
+        if not failed_codes:
+            break
+
+        remaining_codes = failed_codes
+
+        if attempt < max_retries:
+            print(f"\n{len(failed_codes)} codes failed. Retrying: {failed_codes}")
+
+    return scraped_results, remaining_codes
