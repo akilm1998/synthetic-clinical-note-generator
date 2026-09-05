@@ -418,6 +418,63 @@ def scrape_codes_until_complete(codes, max_retries=3, retry_wait=5):
     return scraped_results, remaining_codes
 
 
+def analyze_scraped_results(scraped_results):
+    """
+    Analyze the size and structure of scraped ICD-10 data
+    before passing it to LLM #2.
+    """
+
+    total_codes = len(scraped_results)
+
+    total_sections = 0
+    total_section_entries = 0
+    total_characters = 0
+
+    largest_code = None
+    largest_code_characters = 0
+
+    for result in scraped_results:
+        code = result.get("code", "")
+        sections = result.get("sections", {})
+
+        code_characters = 0
+
+        for section_name, entries in sections.items():
+            total_sections += 1
+
+            if not isinstance(entries, list):
+                entries = [entries]
+
+            total_section_entries += len(entries)
+
+            for entry in entries:
+                text = str(entry)
+                code_characters += len(text)
+
+        total_characters += code_characters
+
+        if code_characters > largest_code_characters:
+            largest_code_characters = code_characters
+            largest_code = code
+
+    average_characters_per_code = total_characters / total_codes if total_codes else 0
+
+    # Rough estimate.
+    # A common approximation is ~4 characters per token for English text.
+    approximate_tokens = total_characters / 4
+
+    return {
+        "total_codes": total_codes,
+        "total_sections": total_sections,
+        "total_section_entries": total_section_entries,
+        "total_characters": total_characters,
+        "approximate_tokens": round(approximate_tokens),
+        "average_characters_per_code": round(average_characters_per_code),
+        "largest_code": largest_code,
+        "largest_code_characters": largest_code_characters,
+    }
+
+
 if __name__ == "__main__":
     req_list = [
         "Z80.43",

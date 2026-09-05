@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 from functions import (
+    analyze_scraped_results,
     build_coding_context,
     collect_unique_codes,
     get_data,
@@ -60,7 +61,9 @@ if __name__ == "__main__":
     # print(f"{coding_context}\n\n\n")
     # exit(0)
 
-    clinical_conditions = generate_clinical_conditions(coding_context, client)
+    clinical_conditions = generate_clinical_conditions(
+        coding_context, client
+    )  # LLM #1 JSON output from clinical condition extraction
 
     # print(clinical_conditions)
 
@@ -92,3 +95,19 @@ if __name__ == "__main__":
         # print(f"Scraped ICD-10 codes: \n\n{scraped_results}")
     with open("scraped_icd10_codes.json", "w") as outfile:
         json.dump(scraped_results, outfile, indent=4)
+
+    coding_decision_context = {
+        "clinical_context": coding_context,
+        "clinical_extraction": clinical_conditions,
+        "icd10_candidates": scraped_results,
+    }
+
+    analysis = analyze_scraped_results(scraped_results)
+
+    print()
+    print("=" * 60)
+    print("SCRAPED RESULTS ANALYSIS")
+    print("=" * 60)
+
+    for key, value in analysis.items():
+        print(f"{key}: {value}")
